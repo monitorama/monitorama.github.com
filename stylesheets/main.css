@@ -28,8 +28,20 @@
 
 header {
   height: 50px;
-  background-color: #eee;
+  background-color: #000;
   text-align: center;
+}
+
+header a {
+  color: #666;
+}
+
+header a.active {
+  color: #bbb;
+}
+
+header a:hover {
+  color: #bbb;
 }
 
 header ul {
@@ -97,7 +109,7 @@ section h4 {
   margin-bottom: 30px;
 }
 
-section p {
+section p, section span {
   font-family: "Arvo-Regular";
   text-align: left;
   font-size: 1.2em;
@@ -117,10 +129,11 @@ section.welcome {
 
 .speakers li {
   font-family: "Arvo-Regular";
+  font-size: 1.2em;
   line-height: 1.8em;
 }
 
-.sponsors img {
+.sponsors img, .venue img {
   margin: 20px 0;
 }
 
