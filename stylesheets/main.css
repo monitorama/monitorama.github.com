@@ -62,7 +62,11 @@ header ul li a {
 }
 
 .slider h1 {
-  visibility: hidden;
+  display: none;
+}
+
+.slider h2 {
+  padding-top: 32px;
 }
 
 .slider h2, .slider h3 {
@@ -76,7 +80,7 @@ header ul li a {
 }
 
 section {
-  visibility: hidden;
+  display: none;
   height: 0;
 }
 
@@ -95,7 +99,7 @@ section p {
 }
 
 section.welcome {
-  visibility: visible;
+  display: block;
   height: auto;
 }
 

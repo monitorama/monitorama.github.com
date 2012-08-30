@@ -1,8 +1,8 @@
 
 $('header ul li').on('click', 'a', function() {
   var sid = ($(this).attr('id'));
-  $('section').css('visibility', 'hidden').css('height', '0');
-  $('section.' + sid).css('visibility', 'visible').css('height', 'auto');
+  $('section').css('display', 'none').css('height', '0');
+  $('section.' + sid).css('display', 'block').css('height', 'auto');
   return false;
 });
 
