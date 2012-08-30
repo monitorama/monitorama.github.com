@@ -75,7 +75,7 @@ section h4 {
   margin-bottom: 30px;
 }
 
-section#welcome {
+section.welcome {
   visibility: visible;
   height: auto;
 }
@@ -86,7 +86,7 @@ section#welcome {
   text-align: center;
 }
 
-#speakers ul {
+.speakers ul {
   list-style-type: none;
   line-height: 1.3em;
 }
