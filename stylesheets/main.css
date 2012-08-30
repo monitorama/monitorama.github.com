@@ -11,6 +11,7 @@
 
 * {
   margin: 0;
+  padding: 0;
   font-family: "ChunkFive", "Bookman Old Style", "Serifa BT", "URW Bookman L", "itc bookman", times, serif;
   color: #535353;
 }
@@ -23,7 +24,6 @@ header {
 
 header ul {
   list-style: none;
-  padding: 0;
 }
 
 header ul li {
@@ -67,16 +67,23 @@ header ul li a {
 
 section {
   visibility: hidden;
+  height: 0;
 }
 
-.main {
+section h4 {
+  font-size: 2.4em;
+  margin-bottom: 30px;
+}
+
+section#welcome {
+  visibility: visible;
+  height: auto;
+}
+
+#main {
   margin: 0 20%;
   padding: 50px;
   text-align: center;
-}
-
-#speakers {
-  text-align: left;
 }
 
 #speakers ul {
@@ -88,6 +95,7 @@ footer {
   background-color: #333;
   padding: 50px;
   text-align: center;
+  height: 400px;
 }
 
 footer p {
