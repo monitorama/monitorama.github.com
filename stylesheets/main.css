@@ -106,6 +106,7 @@ section.welcome {
 #main {
   margin: 0 20%;
   padding: 50px;
+  min-height: 200px;
   text-align: center;
 }
 
