@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'ChunkFive';
+  src: url('../fonts/Chunkfive-webfont.eot');
+  src: url('../fonts/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Chunkfive-webfont.woff') format('woff'),
+       url('../fonts/Chunkfive-webfont.ttf') format('truetype'),
+       url('../fonts/Chunkfive-webfont.svg#ChunkFive') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  font-family: "ChunkFive", "Bookman Old Style", "Serifa BT", "URW Bookman L", "itc bookman", times, serif;
+  color: #535353;
+}
+
+header {
+  height: 50px;
+  background-color: #eee;
+  text-align: center;
+}
+
+header ul {
+  list-style: none;
+  padding: 0;
+}
+
+header ul li {
+  display: inline-block;
+  height: 50px;
+  padding: 0 20px;
+}
+
+header ul li a {
+  display: block;
+  margin-top: 17px;
+  text-decoration: none;
+}
+
+.slider {
+  height: 350px;
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat;
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, #cfe7fa; /* Old browsers */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, -moz-radial-gradient(center, ellipse cover,  #cfe7fa 0%, #122c4e 100%); /* FF3.6+ */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#cfe7fa), color-stop(100%,#122c4e)); /* Chrome,Safari4+ */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, -webkit-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Chrome10+,Safari5.1+ */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, -o-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Opera 12+ */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, -ms-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* IE10+ */
+  background: url(../images/monitorama-bgclear.png) center -230px no-repeat, radial-gradient(ellipse at center,  #cfe7fa 0%,#122c4e 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfe7fa', endColorstr='#122c4e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.slider h1 {
+  visibility: hidden;
+}
+
+.slider h2, .slider h3 {
+  text-align: center;
+  color: rgb(226, 226, 160);
+  text-shadow: 2px 2px #000;
+}
+
+.slider h3 {
+  margin-top: 250px;
+}
+
+section {
+  visibility: hidden;
+}
+
+.main {
+  margin: 0 20%;
+  padding: 50px;
+  text-align: center;
+}
+
+#speakers {
+  text-align: left;
+}
+
+#speakers ul {
+  list-style: none;
+  line-height: 1.3em;
+}
+
+footer {
+  background-color: #333;
+  padding: 50px;
+  text-align: center;
+}
+
+footer p {
+  color: #ccc;
+}
+
+footer p a {
+  color: rgb(226, 226, 160);
+}
+
