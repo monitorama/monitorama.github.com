@@ -129,7 +129,7 @@ footer {
   background: #333;
   padding: 50px;
   text-align: center;
-  height: 400px;
+  min-height: 200px;
 }
 
 footer p {
