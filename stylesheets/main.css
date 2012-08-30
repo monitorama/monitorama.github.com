@@ -79,6 +79,13 @@ header ul li a {
   margin-top: 285px;
 }
 
+#main {
+  margin: 0 20%;
+  padding: 50px;
+  min-height: 200px;
+  text-align: center;
+}
+
 section {
   display: none;
   height: 0;
@@ -103,13 +110,6 @@ section.welcome {
   height: auto;
 }
 
-#main {
-  margin: 0 20%;
-  padding: 50px;
-  min-height: 200px;
-  text-align: center;
-}
-
 .speakers ul {
   list-style-type: none;
   line-height: 1.3em;
@@ -120,9 +120,12 @@ section.welcome {
   line-height: 1.8em;
 }
 
+.sponsors img {
+  margin: 20px 0;
+}
+
 .venue img#mcs_nerd {
   width: 300px;
-  //margin-top: 30px;
 }
 
 footer {
