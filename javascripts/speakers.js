@@ -56,7 +56,7 @@ var speakers = [
   {
     "name": "Aaron Quint",
     "twitter": "aq",
-    "bio": "",
+    "bio": "Aaron Quint is a born and raised Brooklynite now living in the Bay Area. He is the CTO of Paperless Post, a Rubyist, a JS-er, an avid open-sourcer and an amateur charcutier.",
     "hash": "f04bfa14141dca6713f0d9caa763e26b"
   },
   {
