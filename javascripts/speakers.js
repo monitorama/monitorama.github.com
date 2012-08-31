@@ -21,7 +21,7 @@ var speakers = [
     "name": "Kyle Kingsbury",
     "twitter": "aphyr",
     "bio": "",
-    "hash": ""
+    "hash": "e145b50faf662e70c066b13c98921900"
   },
   {
     "name": "Michael Leinartas",
@@ -39,7 +39,7 @@ var speakers = [
     "name": "Cliff Moon",
     "twitter": "moonpolysoft",
     "bio": "",
-    "hash": ""
+    "hash": "c8a7750a333cfb27a1c72aa61b73b763"
   },
   {
     "name": "Jesse Newland",
