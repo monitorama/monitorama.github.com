@@ -9,6 +9,5 @@ $('header ul li').on('click', 'a', function() {
 });
 
 for (var i in speakers) {
-  //$('section.speakers ul').append('<li class="speaker"><img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />' + speakers[i].name + '</li>');
-  $('section.speakers ul').append('<li class="speaker">' + speakers[i].name + '</li>');
+  $('section.speakers ul').append('<li class="speaker"><img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" /><span class="name">' + speakers[i].name + '</span><span class="twitter"><a href="https://twitter.com/' + speakers[i].twitter + '" target="_new">&#64;' + speakers[i].twitter + '</a></span><p class="bio">' + speakers[i].bio + '</p></li>');
 }

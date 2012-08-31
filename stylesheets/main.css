@@ -18,6 +18,26 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Arvo-Italic';
+  src: url('../fonts/Arvo-Italic-webfont.eot');
+  src: url('../fonts/Arvo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Arvo-Italic-webfont.woff') format('woff'),
+       url('../fonts/Arvo-Italic-webfont.ttf') format('truetype'),
+       url('../fonts/Arvo-Italic-webfont.svg#Arvo-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Arvo-BoldItalic';
+  src: url('../fonts/Arvo-BoldItalic-webfont.eot');
+  src: url('../fonts/Arvo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Arvo-BoldItalic-webfont.woff') format('woff'),
+       url('../fonts/Arvo-BoldItalic-webfont.ttf') format('truetype'),
+       url('../fonts/Arvo-BoldItalic-webfont.svg#Arvo-BoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 * {
   margin: 0;
@@ -114,7 +134,13 @@ section p, section span {
   text-align: left;
   font-size: 1.2em;
   line-height: 1.8em;
+  color: #696969;
   margin-bottom: 30px;
+}
+
+section p em, section span em {
+  font-family: "Arvo-BoldItalic";
+  margin-right: 4px;
 }
 
 section.welcome {
@@ -128,9 +154,42 @@ section.welcome {
 }
 
 .speakers li {
-  font-family: "Arvo-Regular";
   font-size: 1.2em;
   line-height: 1.8em;
+  text-align: left;
+  padding-bottom: 30px;
+}
+
+.speakers li img {
+  float: left;
+  margin: 0 30px 10px 0;
+}
+
+.speakers li span.name {
+  font-weight: bold;
+  font-size: 1.0em;
+}
+
+.speakers li span.twitter {
+  float: right;
+}
+
+.speakers li span.twitter a {
+  font-family: "Arvo-Regular";
+  font-size: 0.7em;
+  text-decoration: none;
+  color: #919191;
+}
+
+.speakers li span.twitter a:hover {
+  color: rgb(67, 67, 247);
+}
+
+.speakers li p.bio {
+  border-top: 1px solid #e4e4d4;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 0.8em;
 }
 
 .sponsors img, .venue img {
