@@ -32,7 +32,7 @@ var speakers = [
   {
     "name": "Mathias Meyer",
     "twitter": "roidrage",
-    "bio": "",
+    "bio": "Mathias Meyer is the Infrastructure Head Honcho at Travis CI and the author of the Riak Handbook.",
     "hash": "4d9dd9bd8d3d4d0ba8af2acc41d14006"
   },
   {
