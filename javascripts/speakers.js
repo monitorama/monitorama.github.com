@@ -68,7 +68,7 @@ var speakers = [
   {
     "name": "Daniel Schauenberg",
     "twitter": "mrtazz",
-    "bio": "",
+    "bio": "Daniel is a Software Engineer at Etsy's infrastructure and development tools team. Automation, documentation and simplicity are his usual tools for improving the status quo. He previously worked in systems and network admninistration, on connecting chemical plants to IT systems and as an embedded systems networking engineer. Things he thoroughly enjoys when not writing code include coffee, breakfast, tv shows and basketball.",
     "hash": "89e0ad1229121f46047977ac547bd7b4"
   },
   {
