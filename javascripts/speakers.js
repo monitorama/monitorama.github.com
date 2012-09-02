@@ -74,7 +74,7 @@ var speakers = [
   {
     "name": "Jordan Sissel",
     "twitter": "jordansissel",
-    "bio": "",
+    "bio": "Jordan is a hacker who lives under a rock in San Jose. He practices hate-driven development and gives out hugs upon request. When not hacking, he loves doing awesome things as a dad and a husband.",
     "hash": "75fdd336ae5f818276f1cf79e0468b2d"
   },
   {
