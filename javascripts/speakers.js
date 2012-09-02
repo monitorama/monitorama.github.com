@@ -31,7 +31,7 @@ var speakers = [
     "name": "Michael Leinartas",
     "github": "mleinart",
     "twitter": "mleinart",
-    "bio": "",
+    "bio": "A tinkerer at heart, Michael Leinartas has spent most of his life taking things apart to see how they work. He currently works for Twitter as an SRE responsible for core internal services and spends his spare time contributing to the Graphite project.",
     "hash": "5cc574d2cc9fdc74747622f668f34ae1"
   },
   {
