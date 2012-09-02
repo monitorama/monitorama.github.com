@@ -178,18 +178,22 @@ section.welcome {
   font-size: 1.0em;
 }
 
-.speakers li span.twitter {
+.speakers li span.github, .speakers li span.twitter {
   float: right;
 }
 
-.speakers li span.twitter a {
-  font-size: 0.7em;
+.speakers li span.github a, .speakers li span.twitter a {
+  font-size: 0.6em;
   text-decoration: none;
   color: #919191;
 }
 
-.speakers li span.twitter a:hover {
-  color: rgb(67, 67, 247);
+.speakers li span.twitter {
+  margin-left: 15px;
+}
+
+.speakers li span.github a:hover, .speakers li span.twitter a:hover {
+  color: green;
 }
 
 .speakers li p.bio {

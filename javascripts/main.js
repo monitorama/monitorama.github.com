@@ -24,5 +24,13 @@ if (window.location.hash.length !== 0) {
 
 // populate speakers
 for (var i in speakers) {
-  $('section.speakers ul').append('<li class="speaker"><img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" /><span class="name">' + speakers[i].name + '</span><span class="twitter"><a href="https://twitter.com/' + speakers[i].twitter + '" target="_new">&#64;' + speakers[i].twitter + '</a></span><p class="bio">' + speakers[i].bio + '</p></li>');
+  var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
+  var name = '<span class="name">' + speakers[i].name + '</span>';
+  var github = '<span class="github"><a href="https://github.com/' +
+    speakers[i].github + '" target="_new">github</a></span>';
+  var twitter = '<span class="twitter"><a href="https://twitter.com/' +
+    speakers[i].twitter + '" target="_new">twitter</a></span>';
+  var bio = '<p class="bio">' + speakers[i].bio + '</p>';
+
+  $('section.speakers ul').append('<li class="speaker">' + image + name + twitter + github + bio + '</li>');
 }
