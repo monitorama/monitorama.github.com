@@ -29,6 +29,16 @@
   font-style: normal;
 }
 @font-face {
+  font-family: 'Arvo-Bold';
+  src: url('../fonts/Arvo-Bold-webfont.eot');
+  src: url('../fonts/Arvo-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Arvo-Bold-webfont.woff') format('woff'),
+       url('../fonts/Arvo-Bold-webfont.ttf') format('truetype'),
+       url('../fonts/Arvo-Bold-webfont.svg#Arvo-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: 'Arvo-BoldItalic';
   src: url('../fonts/Arvo-BoldItalic-webfont.eot');
   src: url('../fonts/Arvo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
@@ -42,7 +52,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "ChunkFive", "Arvo-Regular", "Bookman Old Style", "Serifa BT", "URW Bookman L", "itc bookman", times, serif;
+  font-family: "Arvo-Regular", "Bookman Old Style", "Serifa BT", "URW Bookman L", "itc bookman", times, serif;
   color: #535353;
 }
 
@@ -124,13 +134,11 @@ section {
 }
 
 section h4 {
-  font-family: "Arvo-Regular";
   font-size: 2.4em;
   margin-bottom: 30px;
 }
 
 section p, section span {
-  font-family: "Arvo-Regular";
   text-align: left;
   font-size: 1.2em;
   line-height: 1.8em;
@@ -175,7 +183,6 @@ section.welcome {
 }
 
 .speakers li span.twitter a {
-  font-family: "Arvo-Regular";
   font-size: 0.7em;
   text-decoration: none;
   color: #919191;
