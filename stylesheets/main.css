@@ -180,6 +180,7 @@ section.welcome {
 
 .speakers li span.github, .speakers li span.twitter {
   float: right;
+  margin: 0;
 }
 
 .speakers li span.github a, .speakers li span.twitter a {
