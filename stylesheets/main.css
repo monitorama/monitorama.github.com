@@ -207,6 +207,24 @@ section.welcome {
   width: 300px;
 }
 
+.travel ul {
+  list-style: none;
+}
+
+.travel li {
+  text-align: left;
+  line-height: 2.0em;
+}
+
+.travel li img {
+  margin-right: 15px;
+}
+
+.travel span.highlight {
+  font-size: 1.0em;
+  color: red;
+}
+
 footer {
   background: #333;
   padding: 50px;
