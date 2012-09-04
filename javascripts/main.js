@@ -7,7 +7,7 @@ var setSection = function(name) {
   $('section.' + name).css('display', 'block').css('height', 'auto')
   $('header ul li a#' + name).addClass('active');
   window.location.hash = name;
-  //window.scrollTo(0,0);
+  window.scrollTo(0,0);
 }
 
 // load view by click
