@@ -46,7 +46,7 @@ var speakers = [
     "github": "cliffmoon",
     "twitter": "moonpolysoft",
     "bio": "Cliff Moon is Founder and Chief Technical Officer at Boundary. Prior to Boundary, Cliff was a lead engineer for Powerset (natural language search engine acquired by Microsoft) where he was instrumental in the design, implementation, launch, and operation of many of the company’s production services. Cliff is an active contributor to open source projects, developing the first open-source implementation of Amazon Dynamo and originating the Dynamo Framework. Cliff is an active and well-regarded member of the NoSQL, Scala, and Erlang communities.",
-    "hash": "c8a7750a333cfb27a1c72aa61b73b763"
+    "hash": "8e5f3f79fcadc20e69058de6cea7f0f7"
   },
   {
     "name": "Jesse Newland",
