@@ -1,7 +1,6 @@
 
 // render view according to hash
 var setSection = function(name) {
-  console.log(name);
   $('section').css('display', 'none').css('height', '0')
   $('header ul li a').removeClass('active');
   $('section.' + name).css('display', 'block').css('height', 'auto')
