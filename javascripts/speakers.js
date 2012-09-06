@@ -7,6 +7,13 @@ var speakers = [
     "hash": "d203c4b40e3a19c1213a9b9994b11556"
   },
   {
+    "name": "Dr. Neil J. Gunther",
+    "github": "",
+    "twitter": "DrQz",
+    "bio": "Neil J. Gunther, M.Sc., Ph.D., SMACM, SMIEEE, is an internationally known IT researcher and computer performance analyst. Prior to starting his own research and consulting company in 1994, Dr. Gunther held teaching, research and management positions at San Jose State University, JPL/NASA, Xerox PARC and Pyramid/Siemens Technology. His 'Guerrilla Capacity Planning' training courses have been presented world wide at both corporate and academic institutions including: AOL.com, Boeing, FedEx, Motorola, Nokia, Sun.com, Stanford University and UCLA. He has written several books, as well as a multitude of papers, on performance analysis and capacity planning based on consulting work at large-scale web sites like eBay.com and EA.com. Dr. Gunther received the prestigious A.A. Michelson Award from the Computer Measurement Group in 2008, and was elected a senior member of both ACM and IEEE in 2009. He is also a member of American Mathematical Society and the American Physical Society.",
+    "hash": "67fdb198bf9c74851c23a7f96980c09c"
+  },
+  {
     "name": "Pete Fritchman",
     "github": "fetep",
     "twitter": "fetep",

@@ -25,8 +25,11 @@ if (window.location.hash.length !== 0) {
 for (var i in speakers) {
   var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
   var name = '<span class="name">' + speakers[i].name + '</span>';
-  var github = '<span class="github"><a href="https://github.com/' +
-    speakers[i].github + '" target="_new">github</a></span>';
+  var github = '';
+  if (speakers[i].github.length > 0) {
+    github = '<span class="github"><a href="https://github.com/' +
+      speakers[i].github + '" target="_new">github</a></span>';
+  }
   var twitter = '<span class="twitter"><a href="https://twitter.com/' +
     speakers[i].twitter + '" target="_new">twitter</a></span>';
   var bio = '<p class="bio">' + speakers[i].bio + '</p>';
