@@ -14,6 +14,13 @@ var speakers = [
     "hash": "67fdb198bf9c74851c23a7f96980c09c"
   },
   {
+    "name": "Mike Dewar",
+    "github": "mikedewar",
+    "twitter": "mikedewar",
+    "bio": "Mike Dewar is a data-scientist at Bitly, a New York tech company that makes long URLs shorter. He has a PhD in modelling dynamic systems from data from the University of Sheffield in the UK, and has worked as a Machine Learning post-doc in The University of Edinburgh and Columbia University. He has been drawing graphs regularly since he was in High School, and is starting to get the hang of it.",
+    "hash": "614f65ff1221a12c6e6b6a1b5496b2c8"
+  },
+  {
     "name": "Pete Fritchman",
     "github": "fetep",
     "twitter": "fetep",
