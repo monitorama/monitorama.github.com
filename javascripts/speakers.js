@@ -31,7 +31,7 @@ var speakers = [
     "name": "Mark Imbriaco",
     "github": "imbriaco",
     "twitter": "markimbriaco",
-    "bio": "Mark Imbriaco is the VP of Technical Operations at LivingSocial, where he obsesses compulsively about organizational and systems resilience of the infrastructure supporting their massively popular local commerce sites. He has been involved in web operations and development since the mid-nineties, working for companies like America Online, 37signals, and Heroku.",
+    "bio": "Mark Imbriaco hacks on ops at GitHub, where he obsesses compulsively about organizational and systems resilience of the infrastructure supporting millions of users and git repositories. He has been involved in web operations and development since the mid-nineties, working for companies like America Online, 37signals, Heroku, and LivingSocial.",
     "hash": "5cdc13ebb94012de13314f8e3bcfec8b"
   },
   {
