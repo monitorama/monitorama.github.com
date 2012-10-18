@@ -232,8 +232,22 @@ section.welcome {
   background-color: #d5d5d5;
 }
 
-.sponsors img, .venue img {
+div.sponsor {
+  margin-bottom: 50px;
+}
+
+.sponsor img, .venue img {
   margin: 20px 0;
+}
+
+.sponsor ul {
+  margin: 0 auto 30px;
+}
+
+.sponsor li {
+  text-align: left;
+  line-height: 1.8em;
+  margin-left: 15%;
 }
 
 div.prospectus {
