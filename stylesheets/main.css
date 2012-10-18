@@ -138,6 +138,11 @@ section h4 {
   margin-bottom: 30px;
 }
 
+section h5 {
+  font-size: 1.6em;
+  margin-bottom: 25px;
+}
+
 section p, section span {
   text-align: left;
   font-size: 1.2em;
@@ -204,8 +209,54 @@ section.welcome {
   font-size: 0.8em;
 }
 
+.schedule table {
+  margin: auto;
+}
+
+.schedule th {
+  padding: 40px 14px 14px 14px;
+}
+
+.schedule tr.tall {
+  height: 6em;
+}
+
+.schedule td {
+  padding: 12px 40px;
+  border: 1px solid #d5d5d5;
+  font-size: 0.9em;
+  line-height: 1.5em;
+}
+
+.schedule td.special {
+  background-color: #d5d5d5;
+}
+
 .sponsors img, .venue img {
   margin: 20px 0;
+}
+
+div.prospectus {
+  border-top: 1px solid #d5d5d5;
+  padding-top: 50px;
+}
+
+.prospectus h5 * {
+  vertical-align: middle;
+}
+
+.prospectus img {
+  margin: 0 0 5px 0;
+}
+
+.prospectus ul {
+  list-style-type: none;
+  margin-bottom: 30px;
+}
+
+.prospectus li {
+  font-size: 1.2em;
+  line-height: 1.8em;
 }
 
 .venue img#mcs_nerd {
@@ -239,6 +290,7 @@ footer {
 
 footer p {
   color: #ccc;
+  margin-bottom: 20px;
 }
 
 footer p a {
