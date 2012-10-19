@@ -1,7 +1,7 @@
 
 // alert older MSIE browsers
 if (($.browser.msie) && ($.browser.version <= 8.0)) {
-  alert('Your browser does not support HTML5, which is required for this site.')
+  alert('Your browser does not support HTML5, which is required for this site.\nRedirecting you to the official Registration site now.')
   window.location.href = 'http://monitorama.eventbrite.com/';
 }
 
