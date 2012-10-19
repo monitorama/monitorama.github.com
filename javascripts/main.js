@@ -1,4 +1,10 @@
 
+// alert older MSIE browsers
+if (($.browser.version === 'MSIE') && ($.browser.version <= 8.0)) {
+  alert('Your browser does not support HTML5, which is required for this site.')
+  window.location.href = 'http://monitorama.eventbrite.com/';
+}
+
 // render view according to hash
 var setSection = function(name) {
   $('section').css('display', 'none').css('height', '0')
