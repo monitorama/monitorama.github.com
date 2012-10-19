@@ -1,6 +1,6 @@
 
 // alert older MSIE browsers
-if (($.browser.version === 'MSIE') && ($.browser.version <= 8.0)) {
+if (($.browser.msie) && ($.browser.version <= 8.0)) {
   alert('Your browser does not support HTML5, which is required for this site.')
   window.location.href = 'http://monitorama.eventbrite.com/';
 }
