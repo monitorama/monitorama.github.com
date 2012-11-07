@@ -24,7 +24,7 @@ var speakers = [
     "name": "Pete Fritchman",
     "github": "fetep",
     "twitter": "fetep",
-    "bio": "Pete Fritchman is an Operations Engineer for Mozilla, where one of his primary focuses is working on open source monitoring tools and enhancing application monitoring.",
+    "bio": "Pete Fritchman is an Operations Engineer for Onlive, where one of his primary focuses is working on all things operations and monitoring. He has previously worked in Operations for Mozilla and is an active contributor to the open source monitoring ecosystem.",
     "hash": "fd23fa0562b26f4157a2d7f80095bb07"
   },
   {
