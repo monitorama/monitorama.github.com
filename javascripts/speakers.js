@@ -108,7 +108,7 @@ var speakers = [
     "name": "John E. Vincent",
     "github": "lusis",
     "twitter": "lusis",
-    "bio": "John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John live with his wife and two sons in Roswell, Georgia. His code lives on Github.",
+    "bio": "John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John live with his wife and two sons in Roswell, Georgia. His code lives on Github. ",
     "hash": "65110d602e44e6d15d917d499a70bda8"
   }
 ]
