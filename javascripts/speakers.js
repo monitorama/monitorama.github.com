@@ -38,7 +38,7 @@ var speakers = [
     "name": "Kyle Kingsbury",
     "github": "aphyr",
     "twitter": "aphyr",
-    "bio": "At Boundary, Kyle works on the streaming backend system for high-throughput network analytics. In his free time, he's hacking on Riemann, an event-oriented monitoring system in Clojure.",
+    "bio": "Kyle Kingsbury gets far too excited about distributed systems, commutative datatypes, and Lisp. He's working full-time on Riemann, an open-source event-oriented monitoring system, in Clojure.",
     "hash": "e145b50faf662e70c066b13c98921900"
   },
   {
