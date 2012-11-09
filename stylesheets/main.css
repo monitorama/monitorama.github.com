@@ -92,14 +92,18 @@ header ul li a {
 
 .slider {
   height: 400px;
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat;
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, #122c4e; /* Old browsers */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -moz-radial-gradient(center, ellipse cover,  #cfe7fa 0%, #122c4e 100%); /* FF3.6+ */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#cfe7fa), color-stop(100%,#122c4e)); /* Chrome,Safari4+ */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -webkit-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Chrome10+,Safari5.1+ */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -o-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Opera 12+ */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -ms-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* IE10+ */
-  background: url(../images/monitorama-bgclear.png) center -205px no-repeat, radial-gradient(ellipse at center,  #cfe7fa 0%,#122c4e 100%); /* W3C */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat;
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, #122c4e; /* Old browsers */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -moz-radial-gradient(center, ellipse cover,  #cfe7fa 0%, #122c4e 100%); /* FF3.6+ */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#cfe7fa), color-stop(100%,#122c4e)); /* Chrome,Safari4+ */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -webkit-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Chrome10+,Safari5.1+ */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -o-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* Opera 12+ */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, -ms-radial-gradient(center, ellipse cover,  #cfe7fa 0%,#122c4e 100%); /* IE10+ */
+  //background: url(../images/monitorama-bgclear.png) center -205px no-repeat, radial-gradient(ellipse at center,  #cfe7fa 0%,#122c4e 100%); /* W3C */
+  //background: url(../images/monitorama-bgboston.jpg) center -205px no-repeat;
+  background: url(../images/monitorama-bgclear2.png) center no-repeat,
+              url(../images/monitorama-bgboston2.jpg) center -175px no-repeat,
+              #000;
 }
 
 .slider h1 {
