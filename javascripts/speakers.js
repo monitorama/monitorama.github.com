@@ -87,7 +87,7 @@ var speakers = [
     "name": "Joseph Ruscio",
     "github": "josephruscio",
     "twitter": "josephruscio",
-    "bio": "Joseph Ruscio is a Co-Founder and CTO at Librato, Inc. He’s responsible for the company’s technical strategy, architecture, and generally hacks on all levels of the product. He’s a Ruby enthusiast and the author of the aggregate and rack-test-rest gems.",
+    "bio": "Joseph Ruscio is a Co-Founder and the Chief Technology Officer at Librato. He's responsible for the company's technical strategy, product architecture, and hacks on all levels of their vision for the future of monitoring. Joe has fifteen years of experience developing distributed systems in startups, academia, and the telecommunications industry and he holds a Masters in Computer Science from Virginia Tech. In his spare time he enjoys snowboarding and obsessing over the details of brewing both coffee and beer. He loves graphs.",
     "hash": "c098fac08c5445f01e2e5f00ddc5186d"
   },
   {
