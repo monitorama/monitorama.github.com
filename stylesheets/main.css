@@ -215,15 +215,23 @@ section.welcome {
   height: 6em;
 }
 
+.schedule .short td {
+  padding: 0;
+}
+
 .schedule td {
   padding: 12px 40px;
-  border: 1px solid #d5d5d5;
+  border: 1px solid rgb(213, 213, 213);
   font-size: 0.9em;
   line-height: 1.5em;
 }
 
-.schedule td.special {
-  background-color: #d5d5d5;
+.schedule td.break {
+  background-color: rgb(213, 213, 213);
+}
+
+.schedule td.sponsor-talk, .schedule td.special {
+  background-color: rgb(236, 236, 236);
 }
 
 div.sponsor {
@@ -245,7 +253,7 @@ div.sponsor {
 }
 
 div.prospectus {
-  border-top: 1px solid #d5d5d5;
+  border-top: 1px solid rgb(213, 213, 213);
   padding-top: 50px;
   margin-top: 75px;
 }
