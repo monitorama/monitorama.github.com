@@ -234,6 +234,20 @@ section.welcome {
   background-color: rgb(236, 236, 236);
 }
 
+div.hackathon {
+  padding-top: 20px;
+}
+
+.hackathon .heart {
+  color: rgba(255, 0, 0, 0.62);
+}
+
+.hackathon p strong {
+  font-size: 1.2em;
+  color: rgb(34, 141, 14);
+  margin-right: 10px;
+}
+
 div.sponsor {
   margin-bottom: 50px;
 }
