@@ -22,6 +22,13 @@ $('header ul li').on('click', 'a', function() {
   return false;
 });
 
+// also support view by click for ribbon
+$('.ribbon').on('click', 'a', function() {
+  var sid = ($(this).attr('id'));
+  setSection(sid);
+  return false;
+})
+
 // load view by anchor
 if (window.location.hash.length !== 0) {
   setSection(window.location.hash.replace('#', ''));
