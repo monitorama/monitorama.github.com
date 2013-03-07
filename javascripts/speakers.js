@@ -73,7 +73,7 @@ var speakers = [
     "name": "Sean Porter",
     "github": "portertech",
     "twitter": "portertech",
-    "bio": "Sean Porter is an Operations Engineer at Sonian. He spends most of his time hacking on open source automation and monitoring tools, putting them to use, and doing his best to help others do the same. Sean lives in beautiful Vancouver, Canada.",
+    "bio": "Sean is a toolsmith, with a love for composable systems. A practitioner of passion driven development with an appetite for a good post-mortem. Author of Sensu, a monitoring framework, and the caretaker of its community. A tea connoisseur and admirer of fine wine. Works at Heavy Water Operations, helping people automate and monitor their infrastructure.",
     "hash": "98f9dfc2e5e1318ac78b8c716582cd30"
   },
   {
