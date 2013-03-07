@@ -105,6 +105,13 @@ var speakers = [
     "hash": "75fdd336ae5f818276f1cf79e0468b2d"
   },
   {
+    "name": "Laura Thomson",
+    "github": "lauraxt",
+    "twitter": "lxt",
+    "bio": "Laura Thomson is a Senior Engineering Manager at Mozilla, where she leads the Webtools team, responsible for crash reporting, performance monitoring, l10n tools, and other developer tools. She is the co-author of PHP and MySQL Web Development and MySQL tutorial. She is Australian but lives on a tumbledown farm in Maryland with her husband, daughter, and various horses, cats, chickens and a dog.",
+    "hash": "fead61362ab9263d8cc3af52bd74168e"
+  },
+  {
     "name": "John E. Vincent",
     "github": "lusis",
     "twitter": "lusis",
