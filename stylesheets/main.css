@@ -352,3 +352,10 @@ footer p a {
   color: rgb(226, 226, 160);
 }
 
+form.bigform {
+  font-size: 1.3em;
+}
+
+form.bigform input {
+  font-size: 1em;
+}
