@@ -39,8 +39,11 @@
         <h3>Boston, MA - Microsoft New England Research &amp; Development Center</h3>
       </div>
 
-      <div id="main">
+      <div class="ribbon">
+        <a id="run" href="#">Join our 5K Run!</a>
+      </div>
 
+      <div id="main">
         <section class="welcome">
           <h4>Join us in Boston.</h4>
           <p>We'll be hearing talks from leading open source developers and web operations luminaries, and then taking what we've learned to apply it towards advancing the state of open source monitoring and trending software.</p>
@@ -398,7 +401,7 @@
           <h4>Looking for a Hotel?</h4>
           <p>We don't have a formal block of rooms reserved for the hotel, but we suggest either <a href="http://kendallhotel.com/" target="_new">The Kendall Hotel</a> or the <a href="http://www.marriott.com/hotels/travel/boscb-boston-marriott-cambridge/" target="_new">Marriott Cambridge</a> while there's space available. Both are walking distance from the NERD Center and have good reviews.</p>
 
-          <h4>From Logan International Airport</h4>
+          <h5>From Logan International Airport</h5>
           <p>
             <ul>
               <li><img src="./images/bus.png" /> Take the <span class="highlight">Silver Line SL1</span> Express Bus Service from Logan to <span class="highlight">South Station</span> (21 minutes)</li>
@@ -407,7 +410,7 @@
             </ul>
           </p>
 
-          <h4>From Boston South Station (Amtrak)</h4>
+          <h5>From Boston South Station (Amtrak)</h5>
           <p>
             <ul>
               <li><img src="./images/subway.png" /> Take the <span class="highlight">Red Line</span> Subway towards Alewife and get off at <span class="highlight">Kendall/MIT</span> (7 minutes)</li>
@@ -415,10 +418,41 @@
             </ul>
           </p>
 
-          <h4>Local Travelers</h4>
+          <h5>Local Travelers</h5>
           <p>Check out the <a href="http://microsoftcambridge.com/About/Directions/tabid/89/Default.aspx">directions</a> provided by the Microsoft NERD Center.</p>
         </section>
-      </div>
+
+         <section class="run">
+          <h4>FitOps 5K Run/Walk</h4>
+          <p>Want to join your actively-inclined Monitorama peers for an early morning run? You're in luck! We're hosting an easy 5k run along on the edge of the Charles River. Make sure to set your alarm, the event starts promptly at 7am.</p>
+
+          <h5>Count me in!</h5>
+          <div class="signup">
+            <form>
+              <label for="entry_0">Name:</label>
+              <input type="text" name="entry.0.single"></input>
+              <label for="entry_1">SMS:</label>
+              <input type="text" name="entry.1.single"></input>
+              <input type="hidden" name="pageNumber" value="0"></input>
+              <input type="hidden" name="backupCache" value=""></input>
+              <a class="btn" href="#">Signup</a>
+            </form>
+          </div>
+
+          <h5>Where do we Meet?</h5>
+          <p>The route starts at the Microsoft NERD Center along Memorial Drive, and continues along the river until you reach the <a href="https://maps.google.com/maps?q=DeWolfe+Boathouse,+Cambridge,+Middlesex,+Massachusetts+02139&hl=en&ll=42.353498,-71.107603&spn=0.001035,0.003549&sll=37.0625,-95.677068&sspn=36.042042,116.279297&geocode=FVRChgIdTvvC-w&hnear=DeWolfe+Boathouse,+Cambridge,+Middlesex,+Massachusetts+02139&t=m&z=19&layer=c&cbll=42.353512,-71.107747&panoid=8V4oaqccEgfsrzswffGoRQ&cbp=12,177.67,,0,-1.36" target="_blank">DeWolfe Boathouse</a>. Once there, double back and retrace your steps along the river back to the start.</p>
+
+          <p>Because the route sends you back the way you came, high-fives with fellow participants are encouraged.</p>
+
+          <a href="http://www.gmap-pedometer.com/?r=5843116" target="_blank">
+            <img id="route" src="images/monitorama-5k-route.png" style="max-width: 100%">
+          </a>
+
+          <h5>Can we track our progress?</h5>
+          <img id="strava" src="images/monitorama-5k-strava.png">
+          <p><span class="jordanisfunny">If it's not monitored, it's not in production!</a> If you have a smartphone, download the Strava Run app (<a href="https://itunes.apple.com/us/app/strava-run/id488914018?mt=8" target="_blank">iPhone</a> or <a href="https://play.google.com/store/apps/details?id=com.strava.run&hl=en" target="_blank">Android</a>).</p>
+        </section>
+     </div>
 
       <footer>
         <p>Projects by <a href="https://github.com/monitorama">Monitorama</a> can be found on <a href="https://github.com">GitHub</a></p>
@@ -437,7 +471,7 @@
         t.async = true;
         t.id    = 'gauges-tracker';
         t.setAttribute('data-site-id', '508019ae613f5d08ed000046');
-        t.src = '//secure.gaug.es/track.js';
+        t.src = 'https://secure.gaug.es/track.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(t, s);
       })();

@@ -22,10 +22,37 @@ $('header ul li').on('click', 'a', function() {
   return false;
 });
 
+// also support view by click for ribbon
+$('.ribbon').on('click', 'a', function() {
+  var sid = ($(this).attr('id'));
+  setSection(sid);
+  return false;
+})
+
 // load view by anchor
 if (window.location.hash.length !== 0) {
   setSection(window.location.hash.replace('#', ''));
 }
+
+// submit 5k form
+$('.run .signup form').on('click', 'a', function() {
+  var data = {}
+  var url = 'https://docs.google.com/a/semicomplete.com/spreadsheet/formResponse?formkey=dGRpaFlzRy13WkNQaWZJbHBNWUFPNFE6MQ&amp;embedded=true&amp;ifq';
+  var inputs = $(this).parent().find('input');
+  for (var i=0; i<inputs.length; i++) {
+    data[inputs[i].name] = inputs[i].value;
+  }
+  $.post(url, data, function(response) {
+    console.log(response);
+    console.log('success!');
+    $('.run div.signup form').css('display', 'none');
+    $('.run div.signup').append('<span class="success">See you there!&nbsp;&nbsp;&nbsp;&nbsp;:)))</span>');
+  }).fail(function() {
+    console.log('failure!');
+    alert('Hmm, something went wrong. Please try again?');
+  })
+  return false;
+})
 
 // populate speakers
 for (var i in speakers) {
