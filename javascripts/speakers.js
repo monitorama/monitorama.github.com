@@ -38,7 +38,7 @@ var speakers = [
     "name": "Kyle Kingsbury",
     "github": "aphyr",
     "twitter": "aphyr",
-    "bio": "Kyle Kingsbury gets far too excited about distributed systems, commutative datatypes, and Lisp. He's working full-time on Riemann, an open-source event-oriented monitoring system, in Clojure.",
+    "bio": "Kyle Kingsbury gets far too excited about distributed systems, commutative datatypes, and Lisp. He spent the last six months hacking full-time on Riemann, an open-source event-oriented monitoring system in Clojure, and is now starting a new position at Factual, Inc.",
     "hash": "e145b50faf662e70c066b13c98921900"
   },
   {
