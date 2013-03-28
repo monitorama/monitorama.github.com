@@ -409,3 +409,7 @@ footer p a {
   float: left;
   margin-right: 45px;
 }
+
+.live object {
+  margin-left: 60px;
+}
