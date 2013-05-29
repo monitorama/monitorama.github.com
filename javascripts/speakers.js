@@ -42,6 +42,7 @@ var speakers = [
     "github": "aphyr",
     "twitter": "aphyr",
     "bio": "Kyle Kingsbury gets far too excited about distributed systems, commutative datatypes, and Lisp. He spent the last six months hacking full-time on Riemann, an open-source event-oriented monitoring system in Clojure, and is now starting a new position at Factual, Inc.",
+    "video": "67181466",
     "hash": "e145b50faf662e70c066b13c98921900"
   },
   {
@@ -95,6 +96,7 @@ var speakers = [
     "github": "josephruscio",
     "twitter": "josephruscio",
     "bio": "Joseph Ruscio is a Co-Founder and the Chief Technology Officer at Librato. He's responsible for the company's technical strategy, product architecture, and hacks on all levels of their vision for the future of monitoring. Joe has fifteen years of experience developing distributed systems in startups, academia, and the telecommunications industry and he holds a Masters in Computer Science from Virginia Tech. In his spare time he enjoys snowboarding and obsessing over the details of brewing both coffee and beer. He loves graphs.",
+    "video": "67181654",
     "hash": "c098fac08c5445f01e2e5f00ddc5186d"
   },
   {
@@ -109,6 +111,7 @@ var speakers = [
     "github": "jordansissel",
     "twitter": "jordansissel",
     "bio": "Jordan is a hacker who lives under a rock in San Jose. He practices hate-driven development and gives out hugs upon request. When not hacking, he loves doing awesome things as a dad and a husband.",
+    "video": "67181587",
     "hash": "75fdd336ae5f818276f1cf79e0468b2d"
   },
   {
@@ -116,6 +119,7 @@ var speakers = [
     "github": "lauraxt",
     "twitter": "lxt",
     "bio": "Laura Thomson is a Senior Engineering Manager at Mozilla, where she leads the Webtools team, responsible for crash reporting, performance monitoring, l10n tools, and other developer tools. She is the co-author of <em>PHP and MySQL Web Development</em> and <em>MySQL tutorial</em>. She is Australian but lives on a tumbledown farm in Maryland with her husband, daughter, and various horses, cats, chickens and a dog.",
+    "video": "67181379",
     "hash": "fead61362ab9263d8cc3af52bd74168e"
   },
   {
