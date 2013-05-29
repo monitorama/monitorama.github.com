@@ -34,6 +34,7 @@ var speakers = [
     "github": "imbriaco",
     "twitter": "markimbriaco",
     "bio": "Mark Imbriaco hacks on ops at GitHub, where he obsesses compulsively about organizational and systems resilience of the infrastructure supporting millions of users and git repositories. He has been involved in web operations and development since the mid-nineties, working for companies like America Online, 37signals, Heroku, and LivingSocial.",
+    "video": "67178303",
     "hash": "5cdc13ebb94012de13314f8e3bcfec8b"
   },
   {
@@ -71,6 +72,7 @@ var speakers = [
     "github": "jnewland",
     "twitter": "jnewland",
     "bio": "Jesse Newland does Ops at GitHub, where he's determined to build the most pleasurable on-call experience any engineer has ever seen. He believes that monitoring, in fact, does NOT suck, but rather that incident response and the existing tools for facilitating such response do. Over the the course of his career, he's surfaced from scuba dives in Belize to find a Blackberry full of Nagios alerts, pulled his car over to the shoulder of 285 in Atlanta to kill leaking Mongrels, and just this morning responded to and resolved an incident from bed using custom iPhone applications built at GitHub.",
+    "video": "67178160",
     "hash": "f317439da90c3176adc8938bcf5181ff"
   },
   {
@@ -85,6 +87,7 @@ var speakers = [
     "github": "quirkey",
     "twitter": "aq",
     "bio": "Aaron Quint is a born and raised Brooklynite now living in the Bay Area. He is the CTO of Paperless Post, a Rubyist, a JS-er, an avid open-sourcer and an amateur charcutier.",
+    "video": "67178240",
     "hash": "f04bfa14141dca6713f0d9caa763e26b"
   },
   {
@@ -120,6 +123,7 @@ var speakers = [
     "github": "lusis",
     "twitter": "lusis",
     "bio": "John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John live with his wife and two sons in Roswell, Georgia. His code lives on Github. ",
+    "video": "67178061",
     "hash": "65110d602e44e6d15d917d499a70bda8"
   }
 ]
