@@ -4,6 +4,7 @@ var speakers = [
     "github": "jallspaw",
     "twitter": "allspaw",
     "bio": "John has worked in systems operations for over fourteen years in biotech, government and online media. He started out tuning parallel clusters running vehicle crash simulations for the U.S. government, and then moved on to the Internet in 1997. He built the backing infrastructures at Salon, InfoWorld, Friendster, and Flickr. He is now SVP of Tech Operations at Etsy, and is the author of <em>The Art of Capacity Planning</em> and <em>Web Operations</em> published by O'Reilly.",
+    "video": "67158676",
     "hash": "d203c4b40e3a19c1213a9b9994b11556"
   },
   {
@@ -11,6 +12,7 @@ var speakers = [
     "github": "",
     "twitter": "DrQz",
     "bio": "Neil Gunther, M.Sc., Ph.D. is an internationally recognized computer science researcher specializing in performance analysis and capacity planning. Prior to starting his own company in 1994, Neil worked on the NASA Voyager and Galileo missions, the Xerox PARC Dragon, and the Pyramid/Siemens RM1000. He is a consultant for Fortune 500 companies and their web sites. Neil has authored several books including: <em>Guerrilla Capacity Planning</em> and the 2nd edition of <em>Analyzing Computer System Performance with Perl::PDQ</em>. He also conducts training classes based on these books. In 2008, Dr. Gunther received the prestigious A.A. Michelson Award from the Computer Measurement Group.",
+    "video": "67159604",
     "hash": "67fdb198bf9c74851c23a7f96980c09c"
   },
   {
@@ -53,6 +55,7 @@ var speakers = [
     "github": "roidrage",
     "twitter": "roidrage",
     "bio": "Mathias Meyer is the Infrastructure Head Honcho at Travis CI and the author of the Riak Handbook.",
+    "video": "67160106",
     "hash": "4d9dd9bd8d3d4d0ba8af2acc41d14006"
   },
   {
@@ -60,6 +63,7 @@ var speakers = [
     "github": "cliffmoon",
     "twitter": "moonpolysoft",
     "bio": "Cliff Moon is Founder and Chief Technical Officer at Boundary. Prior to Boundary, Cliff was a lead engineer for Powerset (natural language search engine acquired by Microsoft) where he was instrumental in the design, implementation, launch, and operation of many of the company’s production services. Cliff is an active contributor to open source projects, developing the first open-source implementation of Amazon Dynamo and originating the Dynamo Framework. Cliff is an active and well-regarded member of the NoSQL, Scala, and Erlang communities.",
+    "video": "67163208",
     "hash": "8e5f3f79fcadc20e69058de6cea7f0f7"
   },
   {

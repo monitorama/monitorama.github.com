@@ -66,6 +66,11 @@ for (var i in speakers) {
   var twitter = '<span class="twitter"><a href="https://twitter.com/' +
     speakers[i].twitter + '" target="_new">twitter</a></span>';
   var bio = '<p class="bio">' + speakers[i].bio + '</p>';
+  var video = '';
 
-  $('section.speakers ul').append('<li class="speaker">' + image + name + twitter + github + bio + '</li>');
+  if (speakers[i].video) {
+    video = '<iframe src="http://player.vimeo.com/video/' + speakers[i].video + '" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
+  }
+
+  $('section.speakers ul').append('<li class="speaker">' + image + name + twitter + github + bio + video + '</li>');
 }
