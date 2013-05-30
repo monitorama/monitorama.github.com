@@ -13,6 +13,7 @@ var speakers = [
     "twitter": "DrQz",
     "bio": "Neil Gunther, M.Sc., Ph.D. is an internationally recognized computer science researcher specializing in performance analysis and capacity planning. Prior to starting his own company in 1994, Neil worked on the NASA Voyager and Galileo missions, the Xerox PARC Dragon, and the Pyramid/Siemens RM1000. He is a consultant for Fortune 500 companies and their web sites. Neil has authored several books including: <em>Guerrilla Capacity Planning</em> and the 2nd edition of <em>Analyzing Computer System Performance with Perl::PDQ</em>. He also conducts training classes based on these books. In 2008, Dr. Gunther received the prestigious A.A. Michelson Award from the Computer Measurement Group.",
     "videos": ["67159604","67184408"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-keynote-dr-neil-j-gunther", "https://speakerdeck.com/monitorama/boston-2013-r-workshop-dr-neil-j-gunther"],
     "hash": "67fdb198bf9c74851c23a7f96980c09c"
   },
   {
@@ -21,6 +22,7 @@ var speakers = [
     "twitter": "mikedewar",
     "bio": "Mike Dewar is a data-scientist at Bitly, a New York tech company that makes long URLs shorter. He has a PhD in modelling dynamic systems from data from the University of Sheffield in the UK, and has worked as a Machine Learning post-doc in The University of Edinburgh and Columbia University. He has been drawing graphs regularly since he was in High School, and is starting to get the hang of it.",
     "videos": ["67184212"],
+    "slides": ["https://github.com/mikedewar/monitorama_d3"],
     "hash": "614f65ff1221a12c6e6b6a1b5496b2c8"
   },
   {
@@ -37,6 +39,7 @@ var speakers = [
     "twitter": "markimbriaco",
     "bio": "Mark Imbriaco hacks on ops at GitHub, where he obsesses compulsively about organizational and systems resilience of the infrastructure supporting millions of users and git repositories. He has been involved in web operations and development since the mid-nineties, working for companies like America Online, 37signals, Heroku, and LivingSocial.",
     "videos": ["67178303"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-mark-imbriaco"],
     "hash": "5cdc13ebb94012de13314f8e3bcfec8b"
   },
   {
@@ -45,6 +48,7 @@ var speakers = [
     "twitter": "aphyr",
     "bio": "Kyle Kingsbury gets far too excited about distributed systems, commutative datatypes, and Lisp. He spent the last six months hacking full-time on Riemann, an open-source event-oriented monitoring system in Clojure, and is now starting a new position at Factual, Inc.",
     "videos": ["67181466"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-kyle-kingsbury"],
     "hash": "e145b50faf662e70c066b13c98921900"
   },
   {
@@ -61,6 +65,7 @@ var speakers = [
     "twitter": "roidrage",
     "bio": "Mathias Meyer is the Infrastructure Head Honcho at Travis CI and the author of the Riak Handbook.",
     "videos": ["67160106"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-mathias-meyer"],
     "hash": "4d9dd9bd8d3d4d0ba8af2acc41d14006"
   },
   {
@@ -69,6 +74,7 @@ var speakers = [
     "twitter": "moonpolysoft",
     "bio": "Cliff Moon is Founder and Chief Technical Officer at Boundary. Prior to Boundary, Cliff was a lead engineer for Powerset (natural language search engine acquired by Microsoft) where he was instrumental in the design, implementation, launch, and operation of many of the company’s production services. Cliff is an active contributor to open source projects, developing the first open-source implementation of Amazon Dynamo and originating the Dynamo Framework. Cliff is an active and well-regarded member of the NoSQL, Scala, and Erlang communities.",
     "videos": ["67163208"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-cliff-moon"],
     "hash": "8e5f3f79fcadc20e69058de6cea7f0f7"
   },
   {
@@ -77,6 +83,7 @@ var speakers = [
     "twitter": "jnewland",
     "bio": "Jesse Newland does Ops at GitHub, where he's determined to build the most pleasurable on-call experience any engineer has ever seen. He believes that monitoring, in fact, does NOT suck, but rather that incident response and the existing tools for facilitating such response do. Over the the course of his career, he's surfaced from scuba dives in Belize to find a Blackberry full of Nagios alerts, pulled his car over to the shoulder of 285 in Atlanta to kill leaking Mongrels, and just this morning responded to and resolved an incident from bed using custom iPhone applications built at GitHub.",
     "videos": ["67178160"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-jesse-newland"],
     "hash": "f317439da90c3176adc8938bcf5181ff"
   },
   {
@@ -93,6 +100,7 @@ var speakers = [
     "twitter": "aq",
     "bio": "Aaron Quint is a born and raised Brooklynite now living in the Bay Area. He is the CTO of Paperless Post, a Rubyist, a JS-er, an avid open-sourcer and an amateur charcutier.",
     "videos": ["67178240"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-aaron-quint"],
     "hash": "f04bfa14141dca6713f0d9caa763e26b"
   },
   {
@@ -101,6 +109,7 @@ var speakers = [
     "twitter": "josephruscio",
     "bio": "Joseph Ruscio is a Co-Founder and the Chief Technology Officer at Librato. He's responsible for the company's technical strategy, product architecture, and hacks on all levels of their vision for the future of monitoring. Joe has fifteen years of experience developing distributed systems in startups, academia, and the telecommunications industry and he holds a Masters in Computer Science from Virginia Tech. In his spare time he enjoys snowboarding and obsessing over the details of brewing both coffee and beer. He loves graphs.",
     "videos": ["67181654"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-joseph-ruscio"],
     "hash": "c098fac08c5445f01e2e5f00ddc5186d"
   },
   {
@@ -109,6 +118,7 @@ var speakers = [
     "twitter": "mrtazz",
     "bio": "Daniel is a Software Engineer at Etsy's infrastructure and development tools team. Automation, documentation and simplicity are his usual tools for improving the status quo. He previously worked in systems and network admninistration, on connecting chemical plants to IT systems and as an embedded systems networking engineer. Things he thoroughly enjoys when not writing code include coffee, breakfast, tv shows and basketball.",
     "videos": ["67183450"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-statsd-workshop-daniel-schauenberg"],
     "hash": "89e0ad1229121f46047977ac547bd7b4"
   },
   {
@@ -117,6 +127,7 @@ var speakers = [
     "twitter": "jordansissel",
     "bio": "Jordan is a hacker who lives under a rock in San Jose. He practices hate-driven development and gives out hugs upon request. When not hacking, he loves doing awesome things as a dad and a husband.",
     "videos": ["67181587"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-jordan-sissel"],
     "hash": "75fdd336ae5f818276f1cf79e0468b2d"
   },
   {
@@ -125,6 +136,7 @@ var speakers = [
     "twitter": "lxt",
     "bio": "Laura Thomson is a Senior Engineering Manager at Mozilla, where she leads the Webtools team, responsible for crash reporting, performance monitoring, l10n tools, and other developer tools. She is the co-author of <em>PHP and MySQL Web Development</em> and <em>MySQL tutorial</em>. She is Australian but lives on a tumbledown farm in Maryland with her husband, daughter, and various horses, cats, chickens and a dog.",
     "videos": ["67181379"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-laura-thomson"],
     "hash": "fead61362ab9263d8cc3af52bd74168e"
   },
   {
@@ -133,6 +145,7 @@ var speakers = [
     "twitter": "lusis",
     "bio": "John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He's done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John live with his wife and two sons in Roswell, Georgia. His code lives on Github. ",
     "videos": ["67178061"],
+    "slides": ["https://speakerdeck.com/monitorama/boston-2013-session-john-e-vincent"],
     "hash": "65110d602e44e6d15d917d499a70bda8"
   }
 ]

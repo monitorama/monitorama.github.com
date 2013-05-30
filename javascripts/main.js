@@ -67,6 +67,7 @@ for (var i in speakers) {
     speakers[i].twitter + '" target="_new">twitter</a></span>';
   var bio = '<p class="bio">' + speakers[i].bio + '</p>';
   var video = '';
+  var slides = '';
 
   if (speakers[i].videos) {
     for (var j in speakers[i].videos) {
@@ -74,5 +75,11 @@ for (var i in speakers) {
     }
   }
 
-  $('section.speakers ul').append('<li class="speaker">' + image + name + twitter + github + bio + video + '</li>');
+  if (speakers[i].slides) {
+    for (var j in speakers[i].slides) {
+      slides += '<span class="slides"><a href="' + speakers[i].slides[j] + '" target="_new">slides</a></span>';
+    }
+  }
+
+  $('section.speakers ul').append('<li class="speaker">' + image + name + slides + twitter + github + bio + video + '</li>');
 }

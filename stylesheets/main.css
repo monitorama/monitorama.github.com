@@ -189,7 +189,7 @@ section.welcome {
   font-size: 1.2em;
   line-height: 1.8em;
   text-align: left;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
 }
 
 .speakers li img {
@@ -202,22 +202,22 @@ section.welcome {
   font-size: 1.0em;
 }
 
-.speakers li span.github, .speakers li span.twitter {
+.speakers li span.github, .speakers li span.twitter, .speakers li span.slides {
   float: right;
   margin: 0;
 }
 
-.speakers li span.github a, .speakers li span.twitter a {
+.speakers li span.github a, .speakers li span.twitter a, .speakers li span.slides a {
   font-size: 0.6em;
   text-decoration: none;
   color: #919191;
 }
 
-.speakers li span.twitter {
+.speakers li span.twitter, .speakers li span.slides {
   margin-left: 15px;
 }
 
-.speakers li span.github a:hover, .speakers li span.twitter a:hover {
+.speakers li span.github a:hover, .speakers li span.twitter a:hover, .speakers li span.slides a:hover {
   color: green;
 }
 
