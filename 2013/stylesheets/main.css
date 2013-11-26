@@ -88,6 +88,9 @@ header ul li a {
   display: block;
   margin-top: 17px;
   text-decoration: none;
+}
+
+header ul li a:focus {
   outline: none;
 }
 
