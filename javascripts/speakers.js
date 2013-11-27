@@ -127,7 +127,7 @@ var speakers = [
     "abstract": "",
     "videos": [],
     "slides": [],
-    "hash": ""
+    "hash": "46611acdf8f0f98a572bfcd56367aacb"
   },
   {
     "name": "Lindsay Holmwood",
