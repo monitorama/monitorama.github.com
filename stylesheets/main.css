@@ -349,6 +349,10 @@ section.welcome {
   border-radius: 50%;
 }
 
+.speakers li span {
+  line-height: normal;
+}
+
 .speakers li span.name {
   font-weight: bold;
   font-size: 1.0em;
@@ -359,18 +363,18 @@ section.welcome {
   margin: 0;
 }
 
-.speakers li span.github a, .speakers li span.twitter a, .speakers li span.slides a {
+.speakers li span.github a i, .speakers li span.twitter a i, .speakers li span.slides a {
   font-size: 0.6em;
   text-decoration: none;
-  color: #919191;
+  color: #8F8F8F;
 }
 
 .speakers li span.twitter, .speakers li span.slides {
   margin-left: 15px;
 }
 
-.speakers li span.github a:hover, .speakers li span.twitter a:hover, .speakers li span.slides a:hover {
-  color: green;
+.speakers li span.github a:hover i, .speakers li span.twitter a:hover i, .speakers li span.slides a:hover i {
+  color: rgb(55, 113, 172);
 }
 
 .speakers li p.bio {
