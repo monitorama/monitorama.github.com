@@ -6,7 +6,7 @@
   color: #797979;
   font-size: 14px;
   margin: 0 auto;
-  min-height: 300px;
+  min-height: 250px;
   padding: 1em;
   position: relative;
   width: 50%;
@@ -185,6 +185,13 @@ input.tito-submit:hover {
   position: absolute;
   text-align: center;
   width: 100%;
+}
+
+#tito-footer p {
+  text-align: inherit;
+  margin-bottom: 1.5em;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 #tito-footer a {
