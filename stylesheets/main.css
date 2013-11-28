@@ -337,8 +337,6 @@ section.welcome {
 }
 
 .speakers li {
-  font-size: 1.2em;
-  line-height: 1.8em;
   text-align: left;
   margin-bottom: 0;
 }
@@ -355,7 +353,6 @@ section.welcome {
 
 .speakers li span.name {
   font-weight: bold;
-  font-size: 1.0em;
 }
 
 .speakers li span.github, .speakers li span.twitter, .speakers li span.slides {
@@ -363,25 +360,28 @@ section.welcome {
   margin: 0;
 }
 
-.speakers li span.github a i, .speakers li span.twitter a i, .speakers li span.slides a {
-  font-size: 0.6em;
+.speakers li span.github a i, .speakers li span.twitter a i, .speakers li span.slides a i {
   text-decoration: none;
-  color: #8F8F8F;
+  color: #C0BFBF;
 }
 
 .speakers li span.twitter, .speakers li span.slides {
   margin-left: 15px;
 }
 
-.speakers li span.github a:hover i, .speakers li span.twitter a:hover i, .speakers li span.slides a:hover i {
-  color: rgb(55, 113, 172);
+.speakers li span.github a:hover i {
+  color: #000;
+}
+
+.speakers li span.twitter a:hover i {
+  color: rgb(47, 138, 231);
 }
 
 .speakers li p.bio {
   border-top: 1px solid #e4e4d4;
   margin-top: 10px;
   padding-top: 10px;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .schedule table {
