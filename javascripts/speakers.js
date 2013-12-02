@@ -123,7 +123,7 @@ var speakers = [
     "name": "Rashid Khan",
     "github": "rashidkpc",
     "twitter": "rashidkpc",
-    "bio": "",
+    "bio": "Rashid Khan is an operations engineer turned software developer at Elasticsearch. After 10 years in operations, with a brief detour into the Peace Corps, he penned the first version of Kibana. Originally conceived as a performant web interface to Logstash data, Kibana now serves as an analysis and dash-boarding platform for Elasticsearch. Rashid has been known to hide his laptop from himself to make time for fine food, cheap wine and ill conceived automotive maintenance endeavors.",
     "abstract": "",
     "videos": [],
     "slides": [],
