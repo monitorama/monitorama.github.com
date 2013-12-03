@@ -72,8 +72,11 @@ for (var i in speakers) {
     github = '<span class="github"><a href="https://github.com/' +
       speakers[i].github + '" target="_new"><i class="fa fa-github-alt"></i></a></span>';
   }
-  var twitter = '<span class="twitter"><a href="https://twitter.com/' +
-    speakers[i].twitter + '" target="_new"><i class="fa fa-twitter"></i></a></span>';
+  var twitter = '';
+  if (speakers[i].twitter.length > 0) {
+    twitter = '<span class="twitter"><a href="https://twitter.com/' +
+      speakers[i].twitter + '" target="_new"><i class="fa fa-twitter"></i></a></span>';
+  }
   var bio = '<p class="bio">' + speakers[i].bio + '</p>';
   var video = '';
   var slides = '';
