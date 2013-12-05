@@ -161,6 +161,24 @@
   width: 35%;
 }
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  .navbar .logo img {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  .navbar .logo img {
+    width: 65%;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+  .navbar .logo img {
+    width: 75%;
+  }
+}
+
 .navbar .tagline {
   font-size: 1.4em;
   font-style: italic;
@@ -178,6 +196,34 @@ div.banner {
 @media only screen and (max-width: 1465px) {
   div.banner {
     background: rgb(239, 239, 239) url('../images/portland.png');
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  div.banner {
+    background-size: cover;
+    height: 150px;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  div.banner {
+    background-size: cover;
+    height: 200px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+  div.banner {
+    background-size: cover;
+    height: 100px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+  div.banner {
+    background-size: cover;
+    height: 150px;
   }
 }
 /* end Portland banner image */
