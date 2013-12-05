@@ -61,7 +61,7 @@ var formHandler = function (url) {
 }
 
 // submit CFP form
-$('.cfp .signup form').on('click', 'a', formHandler('https://docs.google.com/a/dixongroup.net/spreadsheet/gform?key=0Aj7rpHx-u6YfdGpieUNwaXM5b3lqRFBVdTI2cjVlcXc'));
+$('.cfp .signup form').on('click', 'a', formHandler('https://docs.google.com/a/dixongroup.net/spreadsheet/gform?key%3D0Aj7rpHx-u6YfdGpieUNwaXM5b3lqRFBVdTI2cjVlcXc'));
 
 // iterate through speakers
 for (var i in speakers) {
