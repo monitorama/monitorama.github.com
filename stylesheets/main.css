@@ -168,13 +168,19 @@
 }
 /* end Monitorama logo and mark */
 
-/* start Portland banner images */
-.banner img {
+/* start Portland banner image */
+div.banner {
+  height: 250px;
   width: 100%;
-  padding-bottom: 20px;
-  background-color: rgb(239, 239, 239);
+  background: rgb(239, 239, 239) url('../images/portland-lg.png');
 }
-/* end Portland banner images */
+
+@media only screen and (max-width: 1465px) {
+  div.banner {
+    background: rgb(239, 239, 239) url('../images/portland.png');
+  }
+}
+/* end Portland banner image */
 
 /* start Location info */
 .location.wrapper {
@@ -182,7 +188,7 @@
 }
 
 .location.wrapper .container  {
-  margin-top: -61px;
+  margin-top: -40px;
 }
 
 .location {
