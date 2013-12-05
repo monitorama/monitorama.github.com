@@ -197,6 +197,24 @@
   color: #fff;
 }
 
+@media only screen and (max-width: 990px) {
+  .location h2 {
+    font-size: large;
+  }
+}
+  
+@media only screen and (max-width: 750px) {
+  .location h2 {
+    font-size: medium;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .location h2 {
+    font-size: small;
+  }
+}
+
 .location span.circle {
   vertical-align: middle;
   font-family: "MotivaSans-ExtraBold";
@@ -231,6 +249,24 @@
   color: #838383;
   text-transform: uppercase;
   font-size: medium;
+}
+
+@media only screen and (max-width: 990px) {
+  .navbar-header-ttc a {
+    font-size: medium;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .navbar-header-ttc a {
+    font-size: small;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .navbar-header-ttc a {
+    font-size: x-small;
+  }
 }
 
 .navbar-header-ttc a.active {
