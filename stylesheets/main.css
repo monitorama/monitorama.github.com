@@ -193,7 +193,7 @@
 
 .location h2 {
   font-family: "MotivaSans-Regular";
-  font-size: 2.1em;
+  font-size: x-large;
   color: #fff;
 }
 
@@ -230,7 +230,7 @@
 .navbar-header-ttc a {
   color: #838383;
   text-transform: uppercase;
-  font-size: 1.3em;
+  font-size: medium;
 }
 
 .navbar-header-ttc a.active {
