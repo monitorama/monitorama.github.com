@@ -103,7 +103,7 @@ var speakers = [
     "name": "Scott Sanders",
     "github": "jssjr",
     "twitter": "scott_sanders",
-    "bio": "",
+    "bio": "Scott Sanders works on operations at GitHub. A self-proclaimed data geek, he wrote the initial release of Collectd's <a href=\"https://collectd.org/wiki/index.php/Plugin:Write_Graphite\">write_graphite</a> and most recently the <a href=\"https://github.com/jssjr/carbonate\">carbonate</a> graphite cluster management toolkit. While not working on scalable metrics infrastructure and developer friendly tooling, Scott can be found hanging out on the beach in Charleston, SC.",
     "abstract": "",
     "videos": [],
     "slides": [],
