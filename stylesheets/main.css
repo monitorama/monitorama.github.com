@@ -543,6 +543,7 @@ footer #copyright img:hover {
 }
 
 .signup span.required {
+  line-height: inherit;
   color: red;
   vertical-align: -webkit-baseline-middle;
 }
