@@ -331,6 +331,12 @@ section.welcome {
   height: auto;
 }
 
+.cfp span.special {
+  font-size: inherit;
+  font-style: italic;
+  color: rgb(0, 184, 137);
+}
+
 .speakers ul {
   list-style-type: none;
   line-height: 1.3em;
