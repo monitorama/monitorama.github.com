@@ -23,7 +23,7 @@ $('header ul li').on('click', 'a', function() {
 });
 
 // load view by click from footer
-$('footer ul li').on('click', 'a', function() {
+$('footer ul li.internal').on('click', 'a', function() {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
