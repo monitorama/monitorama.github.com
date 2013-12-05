@@ -203,14 +203,12 @@ input.tito-submit:hover {
 
 #tito-footer a {
   background-color: transparent;
-  background-image: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='232.375px' height='103.375px' viewBox='0 0 232.375 103.375' enable-background='new 0 0 232.375 103.375' xml:space='preserve'><g><polygon fill='#c7c7c7' points='67,0 0,0 0,19 23,19 23,101 44,101 44,19 67,19   '/><g><rect x='77' fill='#c7c7c7' width='19' height='18'/> <rect x='77' y='28' fill='#c7c7c7' width='19' height='73'/> </g> <path fill='#c7c7c7' d='M193.5,25.625c-21.47,0-38.875,17.405-38.875,38.875c0,21.471,17.405,38.875,38.875,38.875 S232.375,85.97,232.375,64.5C232.375,43.03,214.97,25.625,193.5,25.625z M172.5,64.5c0-12.15,9.85-22,22-22s22,9.849,22,22 c0,0.959-0.068,1.9-0.187,2.826c-1.812-13.967-14.785-15.513-18.938-15.513c-4.469,0-5.875,0.625-8.375,2.187v15 c0,0,2.188-1.5,5.125-1.5s9,1.688,9,8.938c0,7.232-4.906,10.037-9.602,10.037C182.375,86.474,172.5,76.322,172.5,64.5z'/><path fill='#c7c7c7' d='M147,43V27h-14V0h-18v27h-9v16h9v35c0,0,0,6.332,0,7s-0.002,16.646,31,16V85c0,0-13,0.906-13-7V43H147z'/></g></svg>");
   background-position: right center;
   background-repeat: no-repeat;
   background-size: 29px 13px;
   color: #c7c7c7;
   font-size: .85em;
   font-weight: bold;
-  padding-right: 35px;
   text-decoration: none;
 }
 
