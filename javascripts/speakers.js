@@ -153,7 +153,7 @@ var speakers = [
     "name": "Jesse Reynolds",
     "github": "jessereynolds",
     "twitter": "jessereynolds",
-    "bio": "Jesse is an infrastructure and web operations system administrator and developer. Jesse co-founded Virtual Artists in 1993, one of Australia's first web development and hosting agencies. Jesse currently works Bulletproof as an R&D engineer.<br /><br />Jesse is a core developer on the <a href=\"https://github.com/flpjck/flapjack\">Flapjack project</a>.",
+    "bio": "Jesse is an infrastructure and web operations engineer, co-founding one of Australia's first web development and hosting agencies, Virtual Artists, in 1993. He has since worked with Fujitsu Australia, the University of New South Wales, and Carbon Planet.<br /><<br />Marketing is not one of Jesse's strong suits. He co-authored an awesome web-based CMS before CMSs were a thing, and failed entirely to capitalise on it. Jesse also created the VA <a href=\"http://www.robocam.net/history.html\">RoboCam</a>, an all-weather, democratic online surveillance camera that failed to bring about a backlash against public video surveillance, but did allow radio presenters in Canada to buy beers for punters in Adelaide, Australia.<br /><br />One of Jesse's shorter contracts ended not long after his wife found him lying on the couch, after an 18 hour day, moaning \"No process! No rigour!\" These days Jesse works from his home in the Adelaide Hills, hacking on <a href=\"https://github.com/flpjck/flapjack\">Flapjack</a> for <a href=\"http://bulletproof.net.au/\">Bulletproof</a>, that has both process and rigour.",
     "abstract": "",
     "videos": [],
     "slides": [],
