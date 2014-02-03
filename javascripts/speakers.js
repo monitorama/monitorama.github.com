@@ -90,16 +90,6 @@ var speakers = [
     "hash": "29a11348c0ae787882c8e8314c537752"
   },
   {
-    "name": "Matt Aimonetti",
-    "github": "mattetti",
-    "twitter": "mattetti",
-    "bio": "Matt Aimonetti is an experienced technologist, entrepreneur, technical writer and active open-source contributor. Based in San Diego California, he currently works on his startup: Splice. Prior to Splice, Matt worked as a Tech manager/developer at LivingSocial, on video game development at Sony PlayStation and on many other things.",
-    "abstract": "",
-    "videos": [],
-    "slides": [],
-    "hash": "c69521d6e22fc0bbd69337ec8b1698df"
-  },
-  {
     "name": "Scott Sanders",
     "github": "jssjr",
     "twitter": "scott_sanders",
