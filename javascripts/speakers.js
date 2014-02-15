@@ -130,6 +130,66 @@ var speakers = [
     "hash": "46611acdf8f0f98a572bfcd56367aacb"
   },
   {
+    "name": "Toufic Boubez",
+    "github": "toufic",
+    "twitter": "tboubez",
+    "bio": "By day Toufic is our congenial CTO but by night he secretly plots to take over the world, with neural algorithms. Toufic has made multiple attempts at world domination. First as SOA Chief Architect at IBM where he helped to define SOA and Web Services, then as CTO of Saffron Technology and most recently as co-founder/CTO of Layer 7 Technologies, which was acquired by CA Technologies.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "d3fac933ebb4e2baa8e60403f4cb68aa"
+  },
+  {
+    "name": "Jen Andre",
+    "github": "jandre",
+    "twitter": "fun_cuddles",
+    "bio": "Before co-founding Threat Stack, Jen began her career as a security analyst, working in Symantec's Managed Security Services division helping protect the Fortune 500 against threats.  She then moved to their development team, where she helped architect a backend that processes tens of terabytes of security data every day.  She later moved to Mandiant's Research and Development team, where she worked under Jamie Butler, developing innovative tools to analyze malware.<br /><br />Jen is passionate about bringing incident response and security monitoring techniques to ordinary developers and operations personnel through better UI, automation and analytics,   and likes to blog about her thoughts around software development and the state of security in the cloud.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "96245b31898ba441a053d1a6c0422738"
+  },
+  {
+    "name": "Paul Dix",
+    "github": "pauldix",
+    "twitter": "pauldix",
+    "bio": "",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "39b7a68b6cbc43ec7683ad0bcc4c9570"
+  },
+  {
+    "name": "Noah Kantrowitz",
+    "github": "coderanger",
+    "twitter": "kantrn",
+    "bio": "Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he builds tools and services for Balanced, and by night he leads the Python Software Foundation infrastructure team. He is an active member of the Chef community, and enjoys merge commits, cat pictures, and beards.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "50c763b8dad10d1ef67f9882f2b98380"
+  },
+  {
+    "name": "Eric Buth",
+    "github": "buth",
+    "twitter": "ericbuth",
+    "bio": "",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "5c69879b4b49ffc6631227b0e3c9924a"
+  },
+  {
+    "name": "Bridget Kromhout",
+    "github": "bridgetkromhout",
+    "twitter": "bridgetkromhout",
+    "bio": "Bridget Kromhout does operations at a Minneapolis social commerce startup called 8thBridge, after years as a sysadmin at ISPs and in academia. Software engineering was optional when she studied Computer Science at the University of Minnesota, so she took more math instead; this ensured that she'd end up in software. She likes HBase, Graphite, FreeBSD, bicycle-powered camping, and butchering pumpkins for home canning.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "10ece5ca354c7cf98a810ef4f457489a"
+  },
+  {
     "name": "Lindsay Holmwood",
     "github": "auxesis",
     "twitter": "auxesis",
