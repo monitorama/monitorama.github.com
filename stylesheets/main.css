@@ -380,7 +380,7 @@ div.banner {
 section {
   display: none;
   height: 0;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 
 section h4 {
@@ -589,6 +589,17 @@ div.prospectus {
 .travel span.highlight {
   font-size: 1.0em;
   color: red;
+}
+
+div.marquee {
+  text-align: center;
+  padding-top: 25px;
+  border-top: 1px solid #ddd;
+}
+
+.marquee img {
+  height: 25px;
+  margin: 0 15px 25px;
 }
 
 footer {
