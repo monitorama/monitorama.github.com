@@ -531,6 +531,10 @@ div.sponsor {
   margin: 20px 0;
 }
 
+.sponsor p {
+  margin-bottom: 20px;
+}
+
 .sponsor ul {
   margin: 0 auto 30px;
 }
