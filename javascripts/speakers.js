@@ -153,7 +153,7 @@ var speakers = [
     "name": "Paul Dix",
     "github": "pauldix",
     "twitter": "pauldix",
-    "bio": "",
+    "bio": "Paul Dix is the co-founder and CEO of InfluxDB, a Y Combinator backed company that builds an open source, distributed time series, metrics, and events database. He is the author of "Service Oriented Design with Ruby and Rails" and the series editor for Addison Wesley's "Data & Analytics" book and video series. Paul founded and runs the NYC Machine Learning meetup, which has over 4,500 members. In the past he has worked at companies big and small including Microsoft, McAfee, and Google. Paul holds a degree in Computer Science from Columbia University and lives in New York City.",
     "abstract": "",
     "videos": [],
     "slides": [],
