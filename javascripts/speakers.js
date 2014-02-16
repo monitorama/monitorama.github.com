@@ -173,7 +173,7 @@ var speakers = [
     "name": "Eric Buth",
     "github": "buth",
     "twitter": "ericbuth",
-    "bio": "",
+    "bio": "Eric Buth works on building infrastructure and developer tools for the interactive news department at the New York Times. He previously directed a small team of developers in the TPM newsroom and has otherwise spent a good amount of time putting together publishing systems for a range of media-driven organizations.",
     "abstract": "",
     "videos": [],
     "slides": [],
