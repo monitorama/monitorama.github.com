@@ -109,3 +109,17 @@ for (var i in speakers) {
     $(this).children('span').addClass('hidden');
   });
 }
+
+// iterate through sponsors
+for (var i in sponsors) {
+  if (sponsors[i].name.length && sponsors[i].url.length && sponsors[i].bio.length) {
+    $('section.sponsors div.sponsors').append(
+      '<div class="sponsor">' +
+        '<a href="' + sponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + sponsors[i].name + '.png" width="200" /></a>' +
+        sponsors[i].bio +
+      '</div>'
+    );
+
+    $('div.marquee').append('<a href="' + sponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + sponsors[i].name + '.png" /></a>');
+  }
+}
