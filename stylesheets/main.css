@@ -520,7 +520,7 @@ div.sponsor {
 }
 
 .sponsor img, .venue img {
-  margin: 20px 0;
+  margin: 20px 0 40px;
 }
 
 .sponsor p {
@@ -532,9 +532,13 @@ div.sponsor {
 }
 
 .sponsor li {
-  text-align: left;
+  list-style-type: square;
   line-height: 1.8em;
-  margin-left: 15%;
+  font-size: initial;
+  text-align: left;
+  color: #818181;
+  margin: 0 10%;
+  padding: 6px 0;
 }
 
 div.prospectus {
