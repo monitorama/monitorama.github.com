@@ -27,12 +27,12 @@ var sponsors = [
   {
     "name": "pingdom",
     "url": "https://www.pingdom.com/",
-    "bio": "<p> Pingdom is a website and performance monitoring company dedicated to making the web faster and more reliable. We do this by creating easy to use tools and services for website owners, regardless of who they are and what size their websites are.</p><p>With Pingdom, customers will instantly be notified of any issues with their website, DNS, email server, or any other infrastructure. All that is needed is a URL – Pingdom will take care of the rest.</p><p>Pingdom has earned the trust of more than 400,000 customers in over 200 countries including Spotify, Instagram, Twitter, Dropbox, Ebay, MailChimp, and more.</p><p>Follow Pingdom on twitter #pingdom or visit <a href=\"https://www.pingdom.com/\" target=\"_blank\">www.pingdom.com</a>.</p>"
+    "bio": "<p>Pingdom is a website and performance monitoring company dedicated to making the web faster and more reliable. We do this by creating easy to use tools and services for website owners, regardless of who they are and what size their websites are.</p><p>With Pingdom, customers will instantly be notified of any issues with their website, DNS, email server, or any other infrastructure. All that is needed is a URL – Pingdom will take care of the rest.</p><p>Pingdom has earned the trust of more than 400,000 customers in over 200 countries including Spotify, Instagram, Twitter, Dropbox, Ebay, MailChimp, and more.</p><p>Follow Pingdom on twitter #pingdom or visit <a href=\"https://www.pingdom.com/\" target=\"_blank\">www.pingdom.com</a>.</p>"
   },
   {
     "name": "stackdriver",
     "url": "http://www.stackdriver.com/",
-    "bio": ""
+    "bio": "<p>Stackdriver provides powerfully simple monitoring-as-a-service that helps DevOps spend more time on dev and less on ops. Since its inception, Stackdriver has focused on helping cloud-powered companies address performance bottlenecks before they impact customers while reducing the burden associated with patchwork monitoring solutions. Stackdriver Intelligent Monitoring includes several breakthrough features, such as:</p><ul><li>Stack Scanner, an analytics engine that detects transient performance issues, identifies cluster outliers, pinpoints metric anomalies, and predicts capacity constraints.</li><li>Elastic Monitoring, which enables customers to monitor dynamic and ephemeral resources (such as those that scale automatically) without manually updating alerting policies and dashboards.</li><li>AWS Insights, which correlates AWS events, code deploys, and incidents, identifying performance optimization opportunities.</li></ul><p>Hundreds of innovative companies, including Smugmug, 99designs, Vocalocity, Extreme Reach, 8k Miles, and Chopra Center, have standardized on Stackdriver for system and infrastructure monitoring</p>"
   },
   {
     "name": "pagerduty",
