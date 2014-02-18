@@ -133,7 +133,7 @@ var speakers = [
     "name": "Toufic Boubez",
     "github": "toufic",
     "twitter": "tboubez",
-    "bio": "By day Toufic is our congenial CTO but by night he secretly plots to take over the world, with neural algorithms. Toufic has made multiple attempts at world domination. First as SOA Chief Architect at IBM where he helped to define SOA and Web Services, then as CTO of Saffron Technology and most recently as co-founder/CTO of Layer 7 Technologies, which was acquired by CA Technologies.",
+    "bio": "Toufic has been passionate about machine learning for over 20 years. He's the founder/CTO of Metafor Software. Prior to Metafor, he was the founder/CTO of Layer 7 Technologies, a leader in API management and recently acquired by CA. Prior to Layer 7, Toufic was the founding CTO of Saffron Technology, a big data analytics company specialising in associative memory technology. Toufic is also a well-known Service Oriented Architecture pioneer and was Chief Architect for Web Services at IBM’s Software Group, where he founded the first SOA team and drove IBM’s early XML and Web Services strategies. Toufic holds a Ph.D. in Biomedical Engineering – Neural Networks from Rutgers University.",
     "abstract": "",
     "videos": [],
     "slides": [],
