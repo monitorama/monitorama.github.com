@@ -547,6 +547,11 @@ div.prospectus {
   margin-top: 75px;
 }
 
+.prospectus h5.gold, .prospectus ul.gold {
+  opacity: 0.3;
+  text-decoration: line-through;
+}
+
 .prospectus h5 * {
   vertical-align: middle;
 }
