@@ -110,16 +110,6 @@ var speakers = [
     "hash": "dd0081cd62e25c796f50e1401132b19c"
   },
   {
-    "name": "Vicent Martí",
-    "github": "vmg",
-    "twitter": "vmg",
-    "bio": "Vicent Martí used to make videogames, but he sold out because he likes to wear expensive clothes. Or any clothes at all. He now works full time as a systems engineer at GitHub, focusing on security and performance issues on the backend. He’s also the maintainer of libgit2, the Git library that powers GitHub’s backend and native clients. He takes long showers because he enjoys smelling nice.",
-    "abstract": "",
-    "videos": [],
-    "slides": [],
-    "hash": "2bb2258c02ee8f25f1a41a6223f9ac1f"
-  },
-  {
     "name": "Rashid Khan",
     "github": "rashidkpc",
     "twitter": "rashidkpc",
@@ -188,6 +178,16 @@ var speakers = [
     "videos": [],
     "slides": [],
     "hash": "10ece5ca354c7cf98a810ef4f457489a"
+  },
+  {
+    "name": "Chris Baker",
+    "github": "datumrich",
+    "twitter": "datumrich",
+    "bio": "At Dyn, Chris is responsible for effectively tracking key metrics, establishing growth projections for each system component, and communicating potential risks and thresholds to all stakeholders. Previously, Chris worked at Fidelity Investments as a Senior Data Analyst. He graduated from Worcester Polytechnic Institute with a Masters in System Dynamics and a Bachelor’s in Management of Information Systems and Philosophy.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "4c8dbc9ae64647f409a9438be9f20758"
   },
   {
     "name": "Lindsay Holmwood",
