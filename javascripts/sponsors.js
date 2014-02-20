@@ -22,7 +22,7 @@ var sponsors = [
   {
     "name": "puppetlabs",
     "url": "http://puppetlabs.com/",
-    "bio": ""
+    "bio": "<p>Puppet Enterprise is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet Enterprise, system administrators can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from tens of servers to thousands, whether on-premise or in the cloud. Contact us: <a href=\"mailto:sales@puppetlabs.com\">sales@puppetlabs.com</a> or <a href=\"tel://1-877-575-9775\">1-877-575-9775</a>.</p>"
   },
   {
     "name": "pingdom",
@@ -52,6 +52,11 @@ var sponsors = [
   {
     "name": "grok",
     "url": "http://groksolutions.com/",
+    "bio": "<p>Grok enables superior insights into your critical IT systems so you can stay ahead of problems. Grok learns complex patterns in your Amazon Web Services (AWS) environment and then identifies unusual behavior in those systems - unlike other tools that rely on static thresholds or simple statistics. As software topology and usage patterns change, Grok continuously learns and adapts, eliminating the need for frequent maintenance. Visualization of Grok's analysis is displayed on a constantly updated mobile device, enabling IT professionals to assess the health of their systems anytime, anywhere.</p><p>The algorithms that power Grok are based on principles discovered in studying how the brain processes information. This biologically inspired machine intelligence technology was first described in Jeff Hawkins' book &quot;On Intelligence&quot;.  This technology is ideal for large-scale analysis of continuously streaming datasets and excels at modeling and predicting patterns in data.  Grok and the machine intelligence algorithms that Grok leverages were developed by Numenta, Inc.</p>"
+  },
+  {
+    "name": "bigpanda",
+    "url": "http://bigpanda.io/",
     "bio": ""
   },
   {
