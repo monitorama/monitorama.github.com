@@ -47,7 +47,7 @@ var sponsors = [
   {
     "name": "dataloopio",
     "url": "https://www.dataloop.io/",
-    "bio": ""
+    "bio": "<p>Dataloop.IO is a SaaS monitoring application designed for DevOps & Operations teams running online services at scale. We take away the burden of building and maintaining custom monitoring solutions in house, with a modern solution designed specifically for the needs of monitoring cloud services, so our customers can concentrate on deploying, scaling and supporting their products.</p><p>If you're a DevOps team running a Cloud Service at scale, starting to move to micro-services and are pushing monitoring tools out to your development teams, Dataloop.IO has been designed specifically for you so sign up today at <a href=\"http://www.dataloop.io/\">www.dataloop.io</a>.</p>"
   },
   {
     "name": "grok",
