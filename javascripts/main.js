@@ -113,9 +113,10 @@ for (var i in speakers) {
 // iterate through sponsors
 for (var i in sponsors) {
   if (sponsors[i].name.length && sponsors[i].url.length && sponsors[i].bio.length) {
+    var width = sponsors[i].width || 200;
     $('section.sponsors div.sponsors').append(
       '<div class="sponsor">' +
-        '<a href="' + sponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + sponsors[i].name + '.png" width="200" /></a>' +
+        '<a href="' + sponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + sponsors[i].name + '.png" width="' + width + '" /></a>' +
         sponsors[i].bio +
       '</div>'
     );
