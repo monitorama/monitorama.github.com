@@ -63,7 +63,6 @@ var sponsors = [
   {
     "name": "basho",
     "url": "http://basho.com/",
-    "width": 125,
     "bio": "<p>Basho Technologies is the leader in distributed systems.</p><p>Basho's flagship software is Riak, an open source, distributed database used in production by companies like Comcast, enStratus, GitHub, and BestBuy. Riak is made to scale out (and in) with applications, be highly-available, and simplify operations at scale for developers and ops professionals.</p>"
   },
   {
