@@ -7,6 +7,7 @@ var sponsors = [
   {
     "name": "github",
     "url": "https://github.com/",
+    "width": 175,
     "bio": "<p>GitHub provides tools to collaboratively develop and host source code. Code review, issue tracking, wikis with ReST, AsciiDoc, and Markdown support -- our goal is to make it easier for you and your team to build great software, whether your team is your co-workers sitting next to you or strangers across the globe. Open source can use GitHub completely for free, making it a great place to discover interesting projects, while businesses can feel safe with our secure private offerings.</p>"
   },
   {
