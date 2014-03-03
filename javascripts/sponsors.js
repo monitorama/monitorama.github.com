@@ -57,12 +57,13 @@ var sponsors = [
   {
     "name": "bigpanda",
     "url": "http://bigpanda.io/",
-    "bio": ""
+    "width": 250,
+    "bio": "<p>BigPanda is an incident response platform that helps you manage and resolve Ops incidents faster.  We reduce alert fatigue by cleaning up noisy alerts from across your monitoring stack, so you can focus on critical high-level incidents.  We make dumb alerts smarter by enriching them with unique & actionable insights.  We enable Ops-aware collaboration, so you and your team can make better decisions faster.  Learn more at <a href=\"http://www.bigpanda.io\">www.bigpanda.io</a>.</p>"
   },
   {
     "name": "basho",
     "url": "http://basho.com/",
-    "width": 150,
+    "width": 125,
     "bio": "<p>Basho Technologies is the leader in distributed systems.</p><p>Basho's flagship software is Riak, an open source, distributed database used in production by companies like Comcast, enStratus, GitHub, and BestBuy. Riak is made to scale out (and in) with applications, be highly-available, and simplify operations at scale for developers and ops professionals.</p>"
   },
   {
