@@ -16,6 +16,11 @@ var sponsors = [
     "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 70,000 active accounts use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"http://newrelic.com/\" target=\"_blank\">newrelic.com</a>.</p>"
   },
   {
+    "name": "elasticsearch",
+    "url": "http://www.elasticsearch.com/",
+    "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
+  },
+  {
     "name": "salesforce",
     "url": "http://www.salesforce.com/",
     "bio": ""
@@ -39,11 +44,6 @@ var sponsors = [
     "name": "pagerduty",
     "url": "http://www.pagerduty.com/",
     "bio": "<p>PagerDuty is &quot;9-1-1 dispatch&quot; for IT, helping operations engineers and devops resolve problems with their IT systems as quickly as possible. PagerDuty aggregates errors from all of your IT monitoring tools and handles the people part of the equation: alerting (via phone, SMS or email), on-call scheduling and automatic escalation of critical incidents.</p>"
-  },
-  {
-    "name": "elasticsearch",
-    "url": "http://www.elasticsearch.com/",
-    "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
   },
   {
     "name": "dataloopio",
