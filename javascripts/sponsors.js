@@ -43,7 +43,7 @@ var sponsors = [
   {
     "name": "elasticsearch",
     "url": "http://www.elasticsearch.com/",
-    "bio": ""
+    "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
   },
   {
     "name": "dataloopio",
