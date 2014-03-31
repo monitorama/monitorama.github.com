@@ -23,7 +23,7 @@ var sponsors = [
   {
     "name": "salesforce",
     "url": "http://www.salesforce.com/",
-    "bio": ""
+    "bio": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
   },
   {
     "name": "puppetlabs",
