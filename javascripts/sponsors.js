@@ -62,6 +62,12 @@ var sponsors = [
     "bio": "<p>BigPanda is an incident response platform that helps you manage and resolve Ops incidents faster.  We reduce alert fatigue by cleaning up noisy alerts from across your monitoring stack, so you can focus on critical high-level incidents.  We make dumb alerts smarter by enriching them with unique & actionable insights.  We enable Ops-aware collaboration, so you and your team can make better decisions faster.  Learn more at <a href=\"http://www.bigpanda.io\">www.bigpanda.io</a>.</p>"
   },
   {
+    "name": "datadog",
+    "url": "http://www.datadoghq.com/",
+    "width": 150,
+    "bio": "<p>Datadog is a monitoring and analytics platform that covers the full monitoring cycle: from code changes to deployments to alerts. Thanks to its 5-minutes setup, wide application support, pretty charts and open API, Datadog is immediately useful to both development and operations teams.</p>"
+  },
+  {
     "name": "basho",
     "url": "http://basho.com/",
     "bio": "<p>Basho Technologies is the leader in distributed systems.</p><p>Basho's flagship software is Riak, an open source, distributed database used in production by companies like Comcast, enStratus, GitHub, and BestBuy. Riak is made to scale out (and in) with applications, be highly-available, and simplify operations at scale for developers and ops professionals.</p>"
