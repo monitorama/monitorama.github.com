@@ -87,5 +87,10 @@ var sponsors = [
     "name": "influxdb",
     "url": "http://influxdb.org/",
     "bio": "<p>InfluxDB is an open source, distributed time series, metrics, and events database. It's designed for analytics workloads for operations, application, user, and business analytics. Written in Go, InfluxDB has no external dependencies. That means you can get running without managing a Zookeeper, HBase, or Cassandra deployment. With a SQL-like query language and an HTTP API, InfluxDB is useful even if you're running only a single box. However, it's built to scale out to hundreds of machines as your data expands. With a growing community, libraries in many languages, plugins for StatsD, CollectD, Fluent, Sensu and others, InfluxDB is the central data store for all your metrics, events, and analytics. We offer support, professional services, and managed hosting to get you up and running either in your own environment or in the cloud.</p>"
+  },
+  {
+    "name": "dyn",
+    "url": "http://dyn.com/",
+    "bio": "<p>Dyn solutions are at the core of internet performance. Through <strong>traffic management</strong>, <strong>message management</strong> and <strong>performance assurance</strong>, Dyn connects people through the Internet assuring information gets to where it needs to go faster and more reliably than ever before.</p>"
   }
 ]
