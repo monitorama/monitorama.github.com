@@ -28,7 +28,7 @@ var sponsors = [
   {
     "name": "puppetlabs",
     "url": "http://puppetlabs.com/",
-    "bio": "<p>Puppet Enterprise is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet Enterprise, system administrators can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from tens of servers to thousands, whether on-premise or in the cloud. Contact us: <a href=\"mailto:sales@puppetlabs.com\">sales@puppetlabs.com</a> or <a href=\"tel://1-877-575-9775\">1-877-575-9775</a>.</p>"
+    "bio": "<p>Puppet Enterprise is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet Enterprise, system administrators can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from tens of servers to thousands, whether on-premise or in the cloud. Find out more at <a href=\"http://puppetlabs.com/\">puppetlabs.com</a>.</p>"
   },
   {
     "name": "pingdom",
