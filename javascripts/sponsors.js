@@ -75,7 +75,7 @@ var sponsors = [
   {
     "name": "threatstack",
     "url": "https://www.threatstack.com/",
-    "bio": ""
+    "bio": "<p>Threat Stack, Inc. is the maker of Cloud Sight™, which provides protection, intelligent detection, and forensics data that enables you to rapidly respond to malicious threats. It's designed to work in modern, cloud-based infrastructure. Our lightweight agent deploys in minutes so you can quickly begin securing your cloud infrastructure.</p>"
   },
   {
     "name": "victorops",
