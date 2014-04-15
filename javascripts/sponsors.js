@@ -21,6 +21,12 @@ var sponsors = [
     "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
   },
   {
+    "name": "fastly",
+    "url": "http://www.fastly.com/",
+    "width": 175,
+    "bio": "<p>Fastly is a developer-friendly, Varnish-based CDN that speeds up your site by delivering static, dynamic, and streaming content with the lowest recorded latency. We've built our network for the future with 10Gb Ethernet, multi-core CPUs, and all Solid State Drives (SSDs), and our transparent real-time and historical analytics dashboard provides performance insights.</p><p>Fastly allows you to:</p><ul><li>Cache anything (static & dynamic content, whole pages, APIs & more)</li><li>Control and manage configuration via our API</li><li>Deploy and roll back changes instantly</li><li>Monitor your performance with real-time analytics and logging</li></ul><p>Sign up for a free trial account at <a href=\"http://www.fastly.com/\">http://www.fastly.com</a> and start improving your site performance today!</p>"
+  },
+  {
     "name": "salesforce",
     "url": "http://www.salesforce.com/",
     "bio": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
