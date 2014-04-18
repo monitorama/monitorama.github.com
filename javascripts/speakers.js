@@ -147,14 +147,14 @@ var speakers = [
     "abstract": "StatsG at New York Times",
     "videos": [],
     "slides": [],
-    "hash": "5c69879b4b49ffc6631227b0e3c9924a"
+    "hash": "d697d901c13ffdfa3871fb9ba21b954c"
   },
   {
     "name": "Bridget Kromhout",
     "github": "bridgetkromhout",
     "twitter": "bridgetkromhout",
     "bio": "Bridget Kromhout does operations at a Minneapolis social commerce startup called 8thBridge, after years as a sysadmin at ISPs and in academia. Software engineering was optional when she studied Computer Science at the University of Minnesota, so she took more math instead; this ensured that she'd end up in software. She likes HBase, Graphite, FreeBSD, bicycle-powered camping, and butchering pumpkins for home canning.",
-    "abstract": "",
+    "abstract": "From Zero To Visibility",
     "videos": [],
     "slides": [],
     "hash": "10ece5ca354c7cf98a810ef4f457489a"
