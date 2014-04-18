@@ -94,7 +94,7 @@ var speakers = [
     "github": "jssjr",
     "twitter": "scott_sanders",
     "bio": "Scott Sanders works on operations at GitHub. A self-proclaimed data geek, he wrote the initial release of Collectd's <a href=\"https://collectd.org/wiki/index.php/Plugin:Write_Graphite\">write_graphite</a> and most recently the <a href=\"https://github.com/jssjr/carbonate\">carbonate</a> graphite cluster management toolkit. While not working on scalable metrics infrastructure and developer friendly tooling, Scott can be found hanging out on the beach in Charleston, SC.",
-    "abstract": "",
+    "abstract": "The Lifecycle of an Outage",
     "videos": [],
     "slides": [],
     "hash": "70bd372389add5e121b7a9a929b2d887"
@@ -104,27 +104,17 @@ var speakers = [
     "github": "kdaniels",
     "twitter": "beerops",
     "bio": "Katherine is an operations engineer at GameChanger.io, where she focuses on automation and monitoring while occasionally dabbling in beer-driven development. Before escaping to the world of operations at NYC-based startups, she spent a few years doing QA and systems engineering in the corporate world. She lives in Brooklyn with a perfectly reasonable number of cats, and in her spare time can often be found rock climbing or making hot sauce.",
-    "abstract": "",
+    "abstract": "The Care and Feeding of Monitoring",
     "videos": [],
     "slides": [],
     "hash": "dd0081cd62e25c796f50e1401132b19c"
-  },
-  {
-    "name": "Rashid Khan",
-    "github": "rashidkpc",
-    "twitter": "rashidkpc",
-    "bio": "Rashid Khan is an operations engineer turned software developer at Elasticsearch. After 10 years in operations, with a brief detour into the Peace Corps, he penned the first version of Kibana. Originally conceived as a performant web interface to Logstash data, Kibana now serves as an analysis and dash-boarding platform for Elasticsearch. Rashid has been known to hide his laptop from himself to make time for fine food, cheap wine and ill conceived automotive maintenance endeavors.",
-    "abstract": "",
-    "videos": [],
-    "slides": [],
-    "hash": "46611acdf8f0f98a572bfcd56367aacb"
   },
   {
     "name": "Toufic Boubez",
     "github": "toufic",
     "twitter": "tboubez",
     "bio": "Toufic has been passionate about machine learning for over 20 years. He's the founder/CTO of Metafor Software. Prior to Metafor, he was the founder/CTO of Layer 7 Technologies, a leader in API management and recently acquired by CA. Prior to Layer 7, Toufic was the founding CTO of Saffron Technology, a big data analytics company specialising in associative memory technology. Toufic is also a well-known Service Oriented Architecture pioneer and was Chief Architect for Web Services at IBM’s Software Group, where he founded the first SOA team and drove IBM’s early XML and Web Services strategies. Toufic holds a Ph.D. in Biomedical Engineering – Neural Networks from Rutgers University.",
-    "abstract": "",
+    "abstract": "Simple math to get some signal out of your noisy sea of data",
     "videos": [],
     "slides": [],
     "hash": "d3fac933ebb4e2baa8e60403f4cb68aa"
@@ -134,27 +124,17 @@ var speakers = [
     "github": "jandre",
     "twitter": "fun_cuddles",
     "bio": "Before co-founding Threat Stack, Jen began her career as a security analyst, working in Symantec's Managed Security Services division helping protect the Fortune 500 against threats.  She then moved to their development team, where she helped architect a backend that processes tens of terabytes of security data every day.  She later moved to Mandiant's Research and Development team, where she worked under Jamie Butler, developing innovative tools to analyze malware.<br /><br />Jen is passionate about bringing incident response and security monitoring techniques to ordinary developers and operations personnel through better UI, automation and analytics,   and likes to blog about her thoughts around software development and the state of security in the cloud.",
-    "abstract": "",
+    "abstract": "&quot;Auditing all the things&quot;: The future of smarter monitoring and detection",
     "videos": [],
     "slides": [],
     "hash": "96245b31898ba441a053d1a6c0422738"
-  },
-  {
-    "name": "Paul Dix",
-    "github": "pauldix",
-    "twitter": "pauldix",
-    "bio": "Paul Dix is the co-founder and CEO of InfluxDB, a Y Combinator backed company that builds an open source, distributed time series, metrics, and events database. He is the author of &quot;Service Oriented Design with Ruby and Rails&quot; and the series editor for Addison Wesley's &quot;Data & Analytics&quot; book and video series. Paul founded and runs the NYC Machine Learning meetup, which has over 4,500 members. In the past he has worked at companies big and small including Microsoft, McAfee, and Google. Paul holds a degree in Computer Science from Columbia University and lives in New York City.",
-    "abstract": "",
-    "videos": [],
-    "slides": [],
-    "hash": "39b7a68b6cbc43ec7683ad0bcc4c9570"
   },
   {
     "name": "Noah Kantrowitz",
     "github": "coderanger",
     "twitter": "kantrn",
     "bio": "Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he builds tools and services for Balanced, and by night he leads the Python Software Foundation infrastructure team. He is an active member of the Chef community, and enjoys merge commits, cat pictures, and beards.",
-    "abstract": "",
+    "abstract": "Applying Audio DSP algorithms to monitoring",
     "videos": [],
     "slides": [],
     "hash": "50c763b8dad10d1ef67f9882f2b98380"
@@ -164,7 +144,7 @@ var speakers = [
     "github": "buth",
     "twitter": "ericbuth",
     "bio": "Eric Buth works on building infrastructure and developer tools for the interactive news department at the New York Times. He previously directed a small team of developers in the TPM newsroom and has otherwise spent a good amount of time putting together publishing systems for a range of media-driven organizations.",
-    "abstract": "",
+    "abstract": "StatsG at New York Times",
     "videos": [],
     "slides": [],
     "hash": "5c69879b4b49ffc6631227b0e3c9924a"
@@ -184,10 +164,70 @@ var speakers = [
     "github": "datumrich",
     "twitter": "datumrich",
     "bio": "At Dyn, Chris is responsible for effectively tracking key metrics, establishing growth projections for each system component, and communicating potential risks and thresholds to all stakeholders. Previously, Chris worked at Fidelity Investments as a Senior Data Analyst. He graduated from Worcester Polytechnic Institute with a Masters in System Dynamics and a Bachelor’s in Management of Information Systems and Philosophy.",
-    "abstract": "",
+    "abstract": "The cost and complexity of reactive monitoring",
     "videos": [],
     "slides": [],
     "hash": "4c8dbc9ae64647f409a9438be9f20758"
+  },
+  {
+    "name": "Daniel Schauenberg",
+    "github": "mrtazz",
+    "twitter": "mrtazz",
+    "bio": "Daniel is a Software Engineer at Etsy's infrastructure and development tools team. Automation, documentation and simplicity are his usual tools for improving the status quo. He previously worked in systems and network admninistration, on connecting chemical plants to IT systems and as an embedded systems networking engineer. Things he thoroughly enjoys when not writing code include coffee, breakfast, tv shows and basketball.",
+    "abstract": "A whirlwind tour of Etsy's monitoring stack",
+    "videos": [],
+    "slides": [],
+    "hash": "89e0ad1229121f46047977ac547bd7b4"
+  },
+  {
+    "name": "Mike McLane",
+    "github": "xyntrix",
+    "twitter": "xyntrix",
+    "bio": "",
+    "abstract": "Web performance observability",
+    "videos": [],
+    "slides": [],
+    "hash": "424c63a9f5b421a70dd34f60bc87387c"
+  },
+  {
+    "name": "Joseph Crim",
+    "github": "josephcrim",
+    "twitter": "josephcrim",
+    "bio": "",
+    "abstract": "Web performance observability",
+    "videos": [],
+    "slides": [],
+    "hash": "7779bf74e06dbe1d80f3b74619e69616"
+  },
+  {
+    "name": "Dan Slimmon",
+    "github": "danslimmon",
+    "twitter": "danslimmon",
+    "bio": "Dan is in charge of ops for the Minneapolis-based machine-to-machine engineering firm Exosite. He’s responsible for developing the infrastructure that drives Exosite’s data platform toward ever-greater performance and reliability.<br /><br />Before moving to the Midwest, Dan managed the operations team at Blue State Digital, whose SaaS online marketing platform is leveraged by hundreds of political campaigns and nonprofits.<br /><br />Making frequent use of statistical methods and data visualization, Dan evangelizes for ubiquitous measurement in software development, infrastructure design, and really everything a business does.",
+    "abstract": "Sensitivity vs Specificity",
+    "videos": [],
+    "slides": [],
+    "hash": "6337579636c883107364020f6d399b0f"
+  },
+  {
+    "name": "Paul Dix",
+    "github": "pauldix",
+    "twitter": "pauldix",
+    "bio": "Paul Dix is the co-founder and CEO of InfluxDB, a Y Combinator backed company that builds an open source, distributed time series, metrics, and events database. He is the author of &quot;Service Oriented Design with Ruby and Rails&quot; and the series editor for Addison Wesley's &quot;Data & Analytics&quot; book and video series. Paul founded and runs the NYC Machine Learning meetup, which has over 4,500 members. In the past he has worked at companies big and small including Microsoft, McAfee, and Google. Paul holds a degree in Computer Science from Columbia University and lives in New York City.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "39b7a68b6cbc43ec7683ad0bcc4c9570"
+  },
+  {
+    "name": "Rashid Khan",
+    "github": "rashidkpc",
+    "twitter": "rashidkpc",
+    "bio": "Rashid Khan is an operations engineer turned software developer at Elasticsearch. After 10 years in operations, with a brief detour into the Peace Corps, he penned the first version of Kibana. Originally conceived as a performant web interface to Logstash data, Kibana now serves as an analysis and dash-boarding platform for Elasticsearch. Rashid has been known to hide his laptop from himself to make time for fine food, cheap wine and ill conceived automotive maintenance endeavors.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "46611acdf8f0f98a572bfcd56367aacb"
   },
   {
     "name": "Lindsay Holmwood",
@@ -208,5 +248,25 @@ var speakers = [
     "videos": [],
     "slides": [],
     "hash": "35b765fe746fc35a8e005a75f24bd391"
+  },
+  {
+    "name": "Daniel Beauchamp",
+    "github": "pushmatrix",
+    "twitter": "pushmatrix",
+    "bio": "Daniel Beauchamp is part of the Product Analysis and Data team at Shopify, and is the creator of <a href=\"http://dashing.io/\">Dashing</a>: the open-source dashboard framework. He's also one of the core members of Open Data Ottawa: a movement to push governments to make public data freely accessible, and to make awesome mashups based on the data.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "d10d6911ca34d18255241715ccc3881b"
+  },
+  {
+    "name": "Torkel Ödegaard",
+    "github": "torkelo",
+    "twitter": "torkelo",
+    "bio": "Developer consultant and founder of Coding Instinct AB. Torkel was a hobby C/C++ developer in his early teens and university years which later turned into a carrier as a .NET developer with strong focus on maintainability, TDD and agile. Last couple of years has been a love affair with nodejs, messaging architectures, writing deploy automation and other DevOps related tools. Besides being a professional developer Torkel is a frequent speaker at conferences, meetups and companies on everything from NHibernate, ASP.NET MVC, deploy automation & nodejs.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "c8656e8972626f01e1703681d5e55f92"
   }
 ]
