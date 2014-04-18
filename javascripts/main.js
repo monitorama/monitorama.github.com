@@ -97,9 +97,7 @@ for (var i in speakers) {
 
   // populate abstracts for schedule
   if (speakers[i].abstract.length > 0) {
-    $('section.schedule td.session:contains(' + speakers[i].name + ')').append(
-      '<span class="hidden abstract"><span class="name">' + speakers[i].name + '</span><hr />' + speakers[i].abstract + '</span>'
-    );
+    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
   }
 
   // display abstracts on hover
