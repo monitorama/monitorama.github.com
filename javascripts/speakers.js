@@ -84,7 +84,7 @@ var speakers = [
     "github": "",
     "twitter": "",
     "bio": "Excellence. Quality. Science. These are just a few of the words that have been applied to the illustrious research career of James Mickens. In the span of a few years, James Mickens has made deep, fundamental, and amazing contributions to various areas of computer science and life. Widely acknowledged as one of the greatest scholars of his generation, James Mickens ran out of storage space for his awards in 1992, and he subsequently purchased a large cave to act as a warehouse/fortress from which he can defend himself during the inevitable robot war that was prophesied by the documentary movie “The Matrix.” In his spare time, James Mickens enjoys life, liberty, and the pursuit of happiness, often (but not always) in that order, and usually (almost always) while listening to Black Sabbath.",
-    "abstract": "",
+    "abstract": "Computers are a Sadness, I am the Cure",
     "videos": [],
     "slides": [],
     "hash": "29a11348c0ae787882c8e8314c537752"
