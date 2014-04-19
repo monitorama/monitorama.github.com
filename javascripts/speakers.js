@@ -134,7 +134,7 @@ var speakers = [
     "github": "coderanger",
     "twitter": "kantrn",
     "bio": "Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he builds tools and services for Balanced, and by night he leads the Python Software Foundation infrastructure team. He is an active member of the Chef community, and enjoys merge commits, cat pictures, and beards.",
-    "abstract": "Is There An Echo In Here?",
+    "abstract": "Is There An Echo In Here?: Applying Audio DSP algorithms to monitoring",
     "videos": [],
     "slides": [],
     "hash": "50c763b8dad10d1ef67f9882f2b98380"
