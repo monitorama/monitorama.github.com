@@ -34,7 +34,7 @@ var speakers = [
     "github": "xaprb",
     "twitter": "xaprb",
     "bio": "Baron is co-founder and CTO of VividCortex, a provider of SaaS database administration tools. He is the lead author of High Performance MySQL and continues to research and publish under the O’Reilly imprint. He has created several open-source software tools, including Maatkit, and has authored features for MySQL and InnoDB. He is an Oracle ACE, and the founder of the worldwide OpenSQL Camp conference series. He holds a degree in Computer Science from the University of Virginia. Baron lives in Charlottesville, Virginia with his family.",
-    "abstract": "",
+    "abstract": "This One Weird Time-Series Math Trick",
     "videos": [],
     "slides": [],
     "hash": "977a4ffac5032d87447dac02b9b40620"
