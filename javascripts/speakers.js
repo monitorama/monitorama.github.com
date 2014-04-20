@@ -44,7 +44,7 @@ var speakers = [
     "github": "selenamarie",
     "twitter": "selenamarie",
     "bio": "Selena Deckelmann is a major contributor to PostgreSQL and a data architect at Mozilla. She’s been involved with free and open source software since 1995 and began running conferences for PostgreSQL in 2007. In 2012, she founded PyLadiesPDX, a portland chapter of PyLadies. She founded Open Source Bridge, Postgres Open and speaks internationally about open source, databases and community. You can find her on twitter (@selenamarie) and on her blog. She also keeps chickens and gives a lot of technical talks.<br /><br />She was an advisor for two years to the Ada Initiative, an organization dedicated to increasing the participation of women in open source and technology communities.",
-    "abstract": "",
+    "abstract": "The Final Crontab",
     "videos": [],
     "slides": [],
     "hash": "4535e53ad45275fa955c5b05684342c5"
