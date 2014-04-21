@@ -10,16 +10,6 @@ var speakers = [
     "hash": "e896a34f14b98f376519b5ed85d1359c"
   },
   {
-    "name": "Hilary Mason - Keynote",
-    "github": "hmason",
-    "twitter": "hmason",
-    "bio": "Hilary Mason is Data Scientist in Residence at Accel Partners, a leading Silicon Valley venture capital firm. She was Chief Scientist at bitly from 2009-2013. bitly is the company whose link-shortening service facilitates sharing across Twitter, Facebook, and many other social media platforms. bitly links are shared tens of millions of times a day, with hundreds of millions of clicks per day; they've shortened tens of billions of URLs in the company's lifetime.<br /><br />That's a lot of data.<br /><br />As Chief Scientist, Hilary sifted through the records of these clicks to find patterns. She can show you what time of day people use their desktops versus their tablets; she can explain how social media usage was shaped by the Arab Spring. She can tell you, if people visit your website, what other pages they're probably looking at. Hilary is also a member of NYCResistor and Mayor Bloomberg's Technology and Innovation Advisory Council. She is on Fast Company's 100 Most Creative People in Business 2013.<br /><br />Hilary's experience working in depth with this unique data set allows her to speak about the challenges and the rewards of working with big data, with a special focus on machine learning. She is a charming speaker with who resonates with tech and nonspecialist audiences.",
-    "abstract": "",
-    "videos": [],
-    "slides": [],
-    "hash": "7864ff98e7542780386dd17bc440607c"
-  },
-  {
     "name": "Dr Neil J. Gunther",
     "github": "DrQz",
     "twitter": "DrQz",
