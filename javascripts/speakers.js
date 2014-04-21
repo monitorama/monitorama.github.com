@@ -14,7 +14,7 @@ var speakers = [
     "github": "DrQz",
     "twitter": "DrQz",
     "bio": "Neil Gunther, M.Sc., Ph.D. is an internationally recognized computer science researcher specializing in performance analysis and capacity planning. Prior to starting his own company in 1994, Neil worked on the NASA Voyager and Galileo missions, the Xerox PARC Dragon, and the Pyramid/Siemens RM1000. He is a consultant for Fortune 500 companies and their web sites. Neil has authored several books including: Guerrilla Capacity Planning and the 2nd edition of Analyzing Computer System Performance with Perl::PDQ. He also conducts training classes based on these books. In 2008, Dr. Gunther received the prestigious A.A. Michelson Award from the Computer Measurement Group.",
-    "abstract": "",
+    "abstract": "A Melange of Methods for Manipulating Monitored Data",
     "videos": [],
     "slides": [],
     "hash": "67fdb198bf9c74851c23a7f96980c09c"
