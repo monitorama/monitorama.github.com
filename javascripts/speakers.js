@@ -194,7 +194,7 @@ var speakers = [
     "github": "danslimmon",
     "twitter": "danslimmon",
     "bio": "Dan is in charge of ops for the Minneapolis-based machine-to-machine engineering firm Exosite. He’s responsible for developing the infrastructure that drives Exosite’s data platform toward ever-greater performance and reliability.<br /><br />Before moving to the Midwest, Dan managed the operations team at Blue State Digital, whose SaaS online marketing platform is leveraged by hundreds of political campaigns and nonprofits.<br /><br />Making frequent use of statistical methods and data visualization, Dan evangelizes for ubiquitous measurement in software development, infrastructure design, and really everything a business does.",
-    "abstract": "Sensitivity vs Specificity",
+    "abstract": "Car Alarms and Smoke Alarms",
     "videos": [],
     "slides": [],
     "hash": "6337579636c883107364020f6d399b0f"
