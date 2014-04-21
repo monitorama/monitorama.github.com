@@ -64,7 +64,7 @@ var speakers = [
     "github": "ashedryden",
     "twitter": "ashedryden",
     "bio": "Ashe Dryden is an indie ruby developer living in Madison, WI. She's been involved with the web in some form or another over the course of the past 12 years. Ashe is an outspoken educator for diversity, inclusiveness, and empathy. She's currently writing a book on increasing diversity within companies. When she isn't discussing technology or it’s intersection with culture, she's cycling, tweeting, playing board games, debating the social implications of Star Trek episodes, being that awkward girl at the party, and waiting for her next burrito fix.",
-    "abstract": "",
+    "abstract": "Our Most Wicked Problem",
     "videos": [],
     "slides": [],
     "hash": "29ff20a2ac375ff989f3bff70b71b23d"
