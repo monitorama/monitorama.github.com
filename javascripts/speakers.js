@@ -54,7 +54,7 @@ var speakers = [
     "github": "cscotta",
     "twitter": "cscotta",
     "bio": "Scott Andreas is an distributed systems engineer, hell-bent on quality, efficiency, and performance in highly-concurrent network programming and asynchronous distributed systems.<br /><br />With a background in Java, Scala, and Ruby and new production deployments in Erlang, his previous work at Boundary involved designing, implementing, and deploying event processing systems with a team of engineers to create a real-time distributed network analytics platform. Previously at Urban Airship, Andreas worked with a team to design and implement a scalable mobile messaging platform backed by a clustered service designed to serve millions of concurrent clients on a handful of commodity servers.<br /><br />Red-lining services under development, measuring results, and quantifying improvements in terms of infrastructure cost and business value is a favorite past-time.",
-    "abstract": "",
+    "abstract": "Your First Petabyte",
     "videos": [],
     "slides": [],
     "hash": "8e9fb7a6332bd3f013786261c171b7d5"
