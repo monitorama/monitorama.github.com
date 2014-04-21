@@ -54,7 +54,7 @@ var speakers = [
     "github": "draco2003",
     "twitter": "draco2002",
     "bio": "Dan Rowe runs the DevTools and IntTools engineering teams at Wayfair. Prior to that he was an engineer on the DevTools team at Etsy. When he isn't working in his reptile room, he is building the tools and infrastructure for a large engineering team to deploy safely and quickly. An active contributor to open source projects like statsd and winner of the Monitorama Boston Hackathon with the statsd proxy.",
-    "abstract": "",
+    "abstract": "Wiff:  The Wayfair Network Sniffer",
     "videos": [],
     "slides": [],
     "hash": "b5cc90c7a3545123656605fc87e35723"
