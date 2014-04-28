@@ -253,7 +253,7 @@ var speakers = [
     "name": "Torkel Ödegaard",
     "github": "torkelo",
     "twitter": "torkelo",
-    "bio": "Developer consultant and founder of Coding Instinct AB. Torkel was a hobby C/C++ developer in his early teens and university years which later turned into a carrier as a .NET developer with strong focus on maintainability, TDD and agile. Last couple of years has been a love affair with nodejs, messaging architectures, writing deploy automation and other DevOps related tools. Besides being a professional developer Torkel is a frequent speaker at conferences, meetups and companies on everything from NHibernate, ASP.NET MVC, deploy automation & nodejs.",
+    "bio": "Developer consultant and founder of Coding Instinct AB. Torkel was a hobby C/C++ developer in his early teens and university years which later turned into a career as a .NET developer with strong focus on maintainability, TDD and agile. Last couple of years has been a love affair with nodejs, messaging architectures, writing deploy automation and other DevOps related tools. Besides being a professional developer Torkel is a frequent speaker at conferences, meetups and companies on everything from NHibernate, ASP.NET MVC, deploy automation & nodejs.",
     "abstract": "",
     "videos": [],
     "slides": [],
