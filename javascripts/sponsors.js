@@ -98,5 +98,10 @@ var sponsors = [
     "name": "dyn",
     "url": "http://dyn.com/",
     "bio": "<p>Dyn solutions are at the core of internet performance. Through <strong>traffic management</strong>, <strong>message management</strong> and <strong>performance assurance</strong>, Dyn connects people through the Internet assuring information gets to where it needs to go faster and more reliably than ever before.</p>"
+  },
+  {
+    "name": "oreilly",
+    "url": "http://www.oreilly.com/",
+    "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
   }
 ]
