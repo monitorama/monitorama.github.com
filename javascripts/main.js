@@ -66,7 +66,11 @@ $('.cfp .signup form').on('click', 'a', formHandler('https://docs.google.com/a/d
 // iterate through speakers
 for (var i in speakers) {
   var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
-  var name = '<span class="name">' + speakers[i].name + '</span>';
+  var name = '<span class="name">' + speakers[i].name;
+  if (speakers[i].keynote == true) {
+    name += ' - Keynote';
+  }
+  name += '</span>';
   var github = '';
   if (speakers[i].github.length > 0) {
     github = '<span class="github"><a href="https://github.com/' +
