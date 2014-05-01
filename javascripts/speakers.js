@@ -50,16 +50,6 @@ var speakers = [
     "hash": "b5cc90c7a3545123656605fc87e35723"
   },
   {
-    "name": "C. Scott Andreas",
-    "github": "cscotta",
-    "twitter": "cscotta",
-    "bio": "Scott Andreas is an distributed systems engineer, hell-bent on quality, efficiency, and performance in highly-concurrent network programming and asynchronous distributed systems.<br /><br />With a background in Java, Scala, and Ruby and new production deployments in Erlang, his previous work at Boundary involved designing, implementing, and deploying event processing systems with a team of engineers to create a real-time distributed network analytics platform. Previously at Urban Airship, Andreas worked with a team to design and implement a scalable mobile messaging platform backed by a clustered service designed to serve millions of concurrent clients on a handful of commodity servers.<br /><br />Red-lining services under development, measuring results, and quantifying improvements in terms of infrastructure cost and business value is a favorite past-time.",
-    "abstract": "Your First Petabyte",
-    "videos": [],
-    "slides": [],
-    "hash": "8e9fb7a6332bd3f013786261c171b7d5"
-  },
-  {
     "name": "Ashe Dryden",
     "github": "ashedryden",
     "twitter": "ashedryden",
@@ -198,6 +188,16 @@ var speakers = [
     "videos": [],
     "slides": [],
     "hash": "6337579636c883107364020f6d399b0f"
+  },
+  {
+    "name": "Dieter Plaetinck",
+    "github": "Dieterbe",
+    "twitter": "dieter_be",
+    "bio": "Dieter is an industrial engineer with a keen interest in performance, data and large scale systems. He started out in Belgium at Netlog, the European social networking platform that grew crazy fast but lost the battle with Facebook. Then he did some big data algorithms research at the university of Ghent, but more recently found his way to the Vimeo offices in NYC where he's worked on transcode and storage clusters, datacenter-loadbalancing, various backend services in python and Go - though after recently reading \"coders at work\" he became interested in functional programming and started learning clojure and scala - and ops tools like Graph-Explorer, statsdaemon and anthracite. He thinks open source metrics systems can use an overhaul and hopes to work on this the next few years.<br /><br />He has a knack for structure and consistency, as can be evidenced by his website dedicated to protecting SI units and prefixes, his practice towards becoming a rock-solid metal drummer, and his more recent effort dubbed \"metrics 2.0\", an attempt to empower humans and machines by bringing more sanity to metrics data and metadata.",
+    "abstract": "Metrics 2.0",
+    "videos": [],
+    "slides": [],
+    "hash": "52d6d1f510025c43edb1b9d19f40b055"
   },
   {
     "name": "Paul Dix",
