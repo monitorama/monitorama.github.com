@@ -479,6 +479,14 @@ section.welcome {
 }
 
 /* START SCHEDULE */
+.schedule div.video-stream {
+  margin-bottom: 40px;
+}
+
+.schedule .video-stream p {
+  margin: 0;
+}
+
 .schedule div.day {
   padding: 0;
   border-left: 3px solid #919191;
