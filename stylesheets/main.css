@@ -238,7 +238,7 @@ div.banner {
 }
 
 .location {
-  background-color: rgb(0, 184, 137);
+  background-color: rgb(234, 124, 57);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -271,7 +271,7 @@ div.banner {
   vertical-align: middle;
   font-family: "MotivaSans-ExtraBold";
   font-size: 0.7em;
-  color: rgb(0, 133, 98);
+  color: rgb(255, 255, 255);
   margin: 0 15px;
 }
 
@@ -386,7 +386,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(0, 184, 137);
+  color: rgb(234, 124, 57);
   margin: 50px 0;
 }
 
@@ -406,7 +406,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(0, 184, 137);
+  color: rgb(234, 124, 57);
 }
 
 section p em, section span em {
@@ -419,10 +419,16 @@ section.welcome {
   height: auto;
 }
 
+.welcome span.special {
+  font-size: inherit;
+  font-style: italic;
+  color: #000;
+}
+
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
-  color: rgb(0, 184, 137);
+  color: rgb(234, 124, 57);
 }
 
 .speakers ul {
@@ -512,7 +518,7 @@ section.welcome {
 
 .schedule ul li div.wrap.header {
   color: #fff;
-  background-color: rgb(0, 184, 137);
+  background-color: rgb(234, 124, 57);
 }
 
 .schedule ul li div.wrap.header span {
@@ -664,7 +670,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(0, 184, 137);
+  color: rgb(234, 124, 57);
 }
 
 footer ul {
