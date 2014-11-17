@@ -569,6 +569,12 @@ section.welcome {
 /* START TITO HACKS */
 .tito-tickets-unavailable p {
   text-align: center;
+  font-size: initial;
+  margin-bottom: auto;
+}
+
+.tito-tickets-unavailable p strong {
+  font-weight: initial;
 }
 
 li.tito-ticket {
