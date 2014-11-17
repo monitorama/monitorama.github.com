@@ -566,6 +566,26 @@ section.welcome {
 }
 /* END SCHEDULE */
 
+/* START TITO HACKS */
+.tito-tickets-unavailable p {
+  text-align: center;
+}
+
+li.tito-ticket {
+  text-align: initial;
+}
+
+.tito-ticket label {
+  font-size: initial;
+  font-weight: inherit;
+}
+
+.tito-ticket-price span {
+  font-size: initial;
+  margin-bottom: auto;
+}
+/* END TITO HACKS */
+
 .hackday p strong {
   font-size: 1.2em;
   color: rgb(34, 141, 14);
