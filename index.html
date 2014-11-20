@@ -77,11 +77,51 @@
           </section>
 
           <section class="cfp">
-            <h4>CFP is Almost Here!</h4>
+            <h4>Call for Participation</h4>
 
             <p>Share your work at Monitorama. Tell us about your open source project, the <span class="special">interesting failures and successes you've encountered in production</span>, or how we're doing it all wrong. We're looking for 30 minute talks for our single-track sessions and 45 minute workshops on monitoring tools and techniques.</p>
 
-            <p>The CFP opens on Dec 1, 2014. We'll continue to accept submissions until 00:00 UTC Feb 1, 2015. We'll select proposals by Feb 15, 2015 and notify the submitters. Speakers of accepted talks will receive free registration to the event. You may submit as many proposals as you'd like.</p>
+            <p>We'll continue to accept submissions until 00:00 UTC Feb 1, 2015. We'll select proposals by Feb 15, 2015 and notify the submitters. Speakers of accepted talks will receive free registration to the event. You may submit as many proposals as you'd like.</p>
+
+            <div class="text-left signup">
+              <p>All fields with an (<span class="required">&#42;</span>) asterisk are required. We don't require your <strong>Twitter</strong> or <strong>GitHub</strong> handles, but we'd love to include them on your badges.</p>
+
+              <form role="form">
+                <div class="form-group">
+                  <label for="full_name"><span class="required">&#42;</span> Name:</label>
+                  <input type="text" class="form-control form-input" name="full_name"></input>
+                </div>
+                <div class="form-group">
+                  <label for="email"><span class="required">&#42;</span> Email:</label>
+                  <input type="email" class="form-control form-input" name="email"></input>
+                </div>
+                <div class="form-group">
+                  <label for="twitter">Twitter (&#64;handle):</label>
+                  <input type="text" class="form-control form-input" name="twitter"></input>
+                </div>
+                <div class="form-group">
+                  <label for="github">GitHub (username):</label>
+                  <input type="text" class="form-control form-input" name="github"></input>
+                </div>
+                <div class="form-group">
+                  <label for="type"><span class="required">&#42;</span> Type:</label>
+                  <select class="form-control form-input" name="type">
+                    <option value="session">Session (30 minutes)</option>
+                    <option value="workshop">Workshop (45 minutes)</option>
+                    <option value="lightning">Lightning Talk</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="title"><span class="required">&#42;</span> Title:</label>
+                  <input type="text" class="form-control form-input" name="title"></input>
+                </div>
+                <div class="form-group">
+                  <label for="body"><span class="required">&#42;</span> Abstract:</label>
+                  <textarea class="form-control form-input" name="body" rows="10"></textarea>
+                </div>
+                <a class="btn btn-primary" href="#">Submit</a>
+              </form>
+            </div>
           </section>
 
           <section class="speakers">
