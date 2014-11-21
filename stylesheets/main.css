@@ -431,6 +431,18 @@ section.welcome {
   color: rgb(234, 124, 57);
 }
 
+.cfp ::-webkit-input-placeholder {
+  color: rgba(184, 184, 184, 0.67);
+}
+
+.cfp ::-moz-placeholder {
+  color: rgb(184, 184, 184);
+}
+
+.cfp :-ms-input-placeholder {
+  color: rgba(184, 184, 184, 0.67);
+}
+
 .speakers ul {
   list-style-type: none;
   line-height: 1.3em;
