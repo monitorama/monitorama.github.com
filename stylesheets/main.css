@@ -602,6 +602,10 @@ li.tito-ticket {
   font-size: initial;
   margin-bottom: auto;
 }
+
+div.tito-wrapper {
+  margin-bottom: 50px;
+}
 /* END TITO HACKS */
 
 .hackday p strong {
