@@ -238,7 +238,7 @@ div.banner {
 }
 
 .location {
-  background-color: rgb(234, 124, 57);
+  background-color: rgb(0, 184, 137);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -271,7 +271,7 @@ div.banner {
   vertical-align: middle;
   font-family: "MotivaSans-ExtraBold";
   font-size: 0.7em;
-  color: rgb(236, 188, 159);
+  color: rgb(0, 133, 98);
   margin: 0 15px;
 }
 
@@ -386,7 +386,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(234, 124, 57);
+  color: rgb(0, 184, 137);
   margin: 50px 0;
 }
 
@@ -406,7 +406,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(234, 124, 57);
+  color: rgb(0, 184, 137);
 }
 
 section p em, section span em {
@@ -419,28 +419,10 @@ section.welcome {
   height: auto;
 }
 
-.welcome span.special {
-  font-size: inherit;
-  font-style: italic;
-  color: #000;
-}
-
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
-  color: rgb(234, 124, 57);
-}
-
-.cfp ::-webkit-input-placeholder {
-  color: rgba(184, 184, 184, 0.67);
-}
-
-.cfp ::-moz-placeholder {
-  color: rgb(184, 184, 184);
-}
-
-.cfp :-ms-input-placeholder {
-  color: rgba(184, 184, 184, 0.67);
+  color: rgb(0, 184, 137);
 }
 
 .speakers ul {
@@ -530,7 +512,7 @@ section.welcome {
 
 .schedule ul li div.wrap.header {
   color: #fff;
-  background-color: rgb(234, 124, 57);
+  background-color: rgb(0, 184, 137);
 }
 
 .schedule ul li div.wrap.header span {
@@ -578,36 +560,6 @@ section.welcome {
 }
 /* END SCHEDULE */
 
-/* START TITO HACKS */
-.tito-tickets-unavailable p {
-  text-align: center;
-  font-size: initial;
-  margin-bottom: auto;
-}
-
-.tito-tickets-unavailable p strong {
-  font-weight: initial;
-}
-
-li.tito-ticket {
-  text-align: initial;
-}
-
-.tito-ticket label {
-  font-size: initial;
-  font-weight: inherit;
-}
-
-.tito-ticket-price span {
-  font-size: initial;
-  margin-bottom: auto;
-}
-
-div.tito-wrapper {
-  margin-bottom: 50px;
-}
-/* END TITO HACKS */
-
 .hackday p strong {
   font-size: 1.2em;
   color: rgb(34, 141, 14);
@@ -646,7 +598,7 @@ div.prospectus {
   margin-top: 75px;
 }
 
-.prospectus h5.soldout, .prospectus ul.soldout {
+.prospectus h5.gold, .prospectus ul.gold {
   opacity: 0.3;
   text-decoration: line-through;
 }
@@ -712,7 +664,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(234, 124, 57);
+  color: rgb(0, 184, 137);
 }
 
 footer ul {

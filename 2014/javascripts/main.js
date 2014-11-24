@@ -46,7 +46,7 @@ var formHandler = function (url) {
   return function () {
     var data = {};
     var parent = $(this).parent();
-    var inputs = parent.find('.form-input');
+    var inputs = parent.find('input, textarea');
     for (var i=0; i<inputs.length; i++) {
       data[inputs[i].name] = inputs[i].value;
     }
@@ -61,7 +61,7 @@ var formHandler = function (url) {
 }
 
 // submit CFP form
-$('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2015.herokuapp.com/abstracts/new'));
+$('.cfp .signup form').on('click', 'a', formHandler('https://docs.google.com/a/dixongroup.net/spreadsheet/formResponse?formkey=dGpieUNwaXM5b3lqRFBVdTI2cjVlcXc6MA&amp;embedded=true&amp;ifq'));
 
 // iterate through speakers
 for (var i in speakers) {
