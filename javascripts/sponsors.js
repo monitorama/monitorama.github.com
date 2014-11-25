@@ -18,7 +18,7 @@ var sponsors = [
     "name": "victorops",
     "url": "http://victorops.com/",
     "width": 350,
-    "bio": "<p>VictorOps makes being on-call suck less.</p><ul><li>On-call schedule management</li><li>Incident push, SMS, email, phone notifications</li><li>One touch on-call handoffs</li><li>Mobile incident ack-ing</li><li>Live infrastructure timeline</li><li>Android and iOS native apps</li><li>Integrations with your existing monitoring tools</li></ul><p><a href=\"http://victorops.com/?signup=1\">Try us free for 30 days</a> - no credit card (or firstborn) required.</p>"
+    "bio": "<p>VictorOps is the world's first collaborative platform designed especially for DevOps teams that combines the power of people and data to solve IT problems as they arise. By seamlessly orchestrating team situational awareness, incident creation, escalation, notification and remediation, the VictorOps platform increases group communication and decreases problem-solving time.</p>"
   },
   {
     "name": "datadog",
