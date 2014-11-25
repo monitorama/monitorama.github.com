@@ -17,7 +17,7 @@ var sponsors = [
   {
     "name": "victorops",
     "url": "http://victorops.com/",
-    "width": 350,
+    "width": 250,
     "bio": "<p>VictorOps is the world's first collaborative platform designed especially for DevOps teams that combines the power of people and data to solve IT problems as they arise. By seamlessly orchestrating team situational awareness, incident creation, escalation, notification and remediation, the VictorOps platform increases group communication and decreases problem-solving time.</p>"
   },
   {
