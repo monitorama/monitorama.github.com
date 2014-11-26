@@ -3,7 +3,7 @@ var sponsors = [
     "name": "fastly",
     "url": "http://www.fastly.com/",
     "width": 175,
-    "bio": "<p>Fastly is a developer-friendly, Varnish-based CDN that speeds up your site by delivering static, dynamic, and streaming content with the lowest recorded latency. We've built our network for the future with 10Gb Ethernet, multi-core CPUs, and all Solid State Drives (SSDs), and our transparent real-time and historical analytics dashboard provides performance insights.</p><p>Fastly allows you to:</p><ul><li>Cache anything (static & dynamic content, whole pages, APIs & more)</li><li>Control and manage configuration via our API</li><li>Deploy and roll back changes instantly</li><li>Monitor your performance with real-time analytics and logging</li></ul><p>Sign up for a free trial account at <a href=\"http://www.fastly.com/\">http://www.fastly.com</a> and start improving your site performance today!</p>"
+    "bio": "<p>Fastly is the next generation in content delivery, designed to seamlessly integrate with your development stack. Fastly's secure, global network is optimized to cache frequently changing content at the edge. Our real-time performance analytics and API-based tools give businesses unprecedented control over their content. Fastly powers popular online destinations including Twitter, Imgur, Yelp, the Guardian, New Relic, and GitHub. Learn more at <a href=\"http://www.fastly.com/\">Fastly.com</a> and follow us <a href=\"https://twitter.com/fastly\">@Fastly</a>.</p>"
   },
   {
     "name": "librato",
