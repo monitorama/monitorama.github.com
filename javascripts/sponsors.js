@@ -10,11 +10,11 @@ var sponsors = [
     "url": "https://www.librato.com/",
     "bio": "<p>Librato is the creator of Metrics, a cloud-based service that helps businesses monitor all aspects of their operation, be it their cloud or datacenter infrastructure, their applications, their business metrics, or even their sensor network. It is a platform for storing, visualizing, correlating and acting on any and all of the time series data they want to monitor. Whether data is collected with open source collection agents, via language bindings, or via simple scripts, with Metrics all monitoring data is brought together in a unified hosted environment, helping users to see trends, detect signs of problems early, minimize their impact through automated actions, and quickly find and fix their root cause. Its ease of use, and stunning graphs and dashboards make it both easier and more fun to safeguard the availability and performance of any applications.</p>"
   },
-  /* {
+  {
     "name": "raintank",
-    "url": "http://www.raintank.io/",
-    "bio": "<p></p>"
-  }, */
+    "url": "https://twitter.com/raintanksaas",
+    "bio": "<p>raintank is a new OpenSaaS infrastructure analytics company, currently in stealth. Instead of feeding you metrics and measurements, we educate you with context and clarity on your entire Internet infrastructure stack. The raintank platform is completely open-source and composable, with fully supported deployments available both on-premise and in the cloud.</p><p>Our first product, currently in closed beta, helps you understand your global network and infrastructure performance in new ways. Please follow us on twitter at <a href=\"https://twitter.com/raintanksaas\">@raintanksaas</a> for further updates.</p>"
+  },
   {
     "name": "dataloopio",
     "url": "https://www.dataloop.io/",
