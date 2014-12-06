@@ -6,6 +6,12 @@ var sponsors = [
     "bio": "<p>Fastly is the next generation in content delivery, designed to seamlessly integrate with your development stack. Fastly's secure, global network is optimized to cache frequently changing content at the edge. Our real-time performance analytics and API-based tools give businesses unprecedented control over their content. Fastly powers popular online destinations including Twitter, Imgur, Yelp, the Guardian, New Relic, and GitHub. Learn more at <a href=\"http://www.fastly.com/\">Fastly.com</a> and follow us <a href=\"https://twitter.com/fastly\">@Fastly</a>.</p>"
   },
   {
+    "name": "github",
+    "url": "https://github.com/",
+    "width": 175,
+    "bio": "<p>GitHub provides tools to collaboratively develop and host source code. Code review, issue tracking, wikis with ReST, AsciiDoc, and Markdown support -- our goal is to make it easier for you and your team to build great software, whether your team is your co-workers sitting next to you or strangers across the globe. Open source can use GitHub completely for free, making it a great place to discover interesting projects, while businesses can feel safe with our secure private offerings.</p>"
+  },
+  {
     "name": "librato",
     "url": "https://www.librato.com/",
     "bio": "<p>Librato is the creator of Metrics, a cloud-based service that helps businesses monitor all aspects of their operation, be it their cloud or datacenter infrastructure, their applications, their business metrics, or even their sensor network. It is a platform for storing, visualizing, correlating and acting on any and all of the time series data they want to monitor. Whether data is collected with open source collection agents, via language bindings, or via simple scripts, with Metrics all monitoring data is brought together in a unified hosted environment, helping users to see trends, detect signs of problems early, minimize their impact through automated actions, and quickly find and fix their root cause. Its ease of use, and stunning graphs and dashboards make it both easier and more fun to safeguard the availability and performance of any applications.</p>"
