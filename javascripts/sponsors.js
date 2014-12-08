@@ -9,7 +9,7 @@ var sponsors = [
     "name": "github",
     "url": "https://github.com/",
     "width": 175,
-    "bio": "<p>GitHub provides tools to collaboratively develop and host source code. Code review, issue tracking, wikis with ReST, AsciiDoc, and Markdown support -- our goal is to make it easier for you and your team to build great software, whether your team is your co-workers sitting next to you or strangers across the globe. Open source can use GitHub completely for free, making it a great place to discover interesting projects, while businesses can feel safe with our secure private offerings.</p>"
+    "bio": "<p>GitHub is the best place to build software together. Over 7 million people use GitHub to share code and build amazing things with friends, co-workers, classmates, and complete strangers. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster. Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.</p>",
   },
   {
     "name": "librato",
