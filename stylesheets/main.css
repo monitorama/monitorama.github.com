@@ -606,6 +606,15 @@ li.tito-ticket {
 div.tito-wrapper {
   margin-bottom: 50px;
 }
+
+.tito-button button {
+  width: 100%;
+  background-color: #1e5c7f;
+  border: 1px solid black;
+  padding: 15px;
+  margin: 15px 0 50px;
+  color: #fff;
+}
 /* END TITO HACKS */
 
 .hackday p strong {
