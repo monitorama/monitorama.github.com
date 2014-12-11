@@ -44,6 +44,11 @@ var sponsors = [
     "bio": "<p>We specialize in helping you convert your operations from a cost center to a competitive advantage. We help move operations obstacles out of the way so your development team can build things. The long answer is, well, long.</p>"
   } */
   {
+    "name": "opsmatic",
+    "url": "https://opsmatic.com/",
+    "bio": "<p>Opsmatic is a configuration monitoring SaaS-based solution that enables technical teams to move faster with greater confidence. Our company provides configuration monitoring across the entire infrastructure with automated drift detection, search, and a historical timeline to stay on top of all changes. Opsmatic catalogs every host and group in the infrastructure and then notifies when any group variation occurs. Opsmatic also tracks configuration change over time and integrates with popular automation, monitoring, and operations tools to provide an infrastructure &quot;time machine&quot; that can be queried or correlated to quickly resolve issues.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
