@@ -678,6 +678,10 @@ div.prospectus {
   line-height: 1.8em;
 }
 
+.prospectus strike {
+  color: #cacaca;
+}
+
 .venue img#mcs_nerd {
   width: 300px;
 }
