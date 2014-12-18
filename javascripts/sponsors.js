@@ -59,11 +59,12 @@ var sponsors = [
     "url": "https://opsmatic.com/",
     "bio": "<p>Opsmatic is a configuration monitoring SaaS-based solution that enables technical teams to move faster with greater confidence. Our company provides configuration monitoring across the entire infrastructure with automated drift detection, search, and a historical timeline to stay on top of all changes. Opsmatic catalogs every host and group in the infrastructure and then notifies when any group variation occurs. Opsmatic also tracks configuration change over time and integrates with popular automation, monitoring, and operations tools to provide an infrastructure &quot;time machine&quot; that can be queried or correlated to quickly resolve issues.</p>"
   },
-  /* {
+  {
     "name": "moogsoft",
     "url": "http://moogsoft.com/",
-    "bio": ""
-  }, */
+    "width": "175",
+    "bio": "<p>Moogsoft provides cloud-based and on-premise software that automates incident early warning and collaborative remediation, used by IT Ops, DevOps and Dev/QA teams. An agile approach to operational analytics and management, we help businesses achieve continuous availability of applications and services at scale.</p><p>Providing visibility across the entire stack – from applications down to the underlying infrastructure – Moogsoft automates the detection and prediction of complex service failures as they happen, helping support teams to move faster. Using breakthrough machine learning and social collaboration technologies across silo-ed domains, we turn the volumes of event and alert data produced by applications, tools and infrastructures into actionable insight. Moogsoft is used by leading SaaS providers, global enterprises, and cloud service providers to reduce alert fatigue, finding and resolving incidents well before customers call to complain. Learn more at <a href=\"http://www.moogsoft.com/\">www.moogsoft.com</a>.</p>"
+  },
   {
     "name": "pagerduty",
     "url": "http://www.pagerduty.com/",
