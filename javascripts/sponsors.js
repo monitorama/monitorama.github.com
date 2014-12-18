@@ -1,5 +1,11 @@
 var sponsors = [
   {
+    "name": "runscope",
+    "url": "https://www.runscope.com/",
+    "width": 275,
+    "bio": "<p>API debugging, testing and monitoring tools for app developers. Everything is going to be 200 OK&#8482;.</p>",
+  },
+  {
     "name": "fastly",
     "url": "http://www.fastly.com/",
     "width": 175,
