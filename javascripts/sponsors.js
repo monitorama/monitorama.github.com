@@ -42,12 +42,32 @@ var sponsors = [
     "name": "hwops",
     "url": "http://hw-ops.com/",
     "bio": "<p>We specialize in helping you convert your operations from a cost center to a competitive advantage. We help move operations obstacles out of the way so your development team can build things. The long answer is, well, long.</p>"
-  } */
+  }, */
+  /* {
+    "name": "stealthcompany",
+    "url": "",
+    "bio": ""
+  }, */
   {
     "name": "opsmatic",
     "url": "https://opsmatic.com/",
     "bio": "<p>Opsmatic is a configuration monitoring SaaS-based solution that enables technical teams to move faster with greater confidence. Our company provides configuration monitoring across the entire infrastructure with automated drift detection, search, and a historical timeline to stay on top of all changes. Opsmatic catalogs every host and group in the infrastructure and then notifies when any group variation occurs. Opsmatic also tracks configuration change over time and integrates with popular automation, monitoring, and operations tools to provide an infrastructure &quot;time machine&quot; that can be queried or correlated to quickly resolve issues.</p>"
   },
+  /* {
+    "name": "moogsoft",
+    "url": "http://moogsoft.com/",
+    "bio": ""
+  }, */
+  {
+    "name": "pagerduty",
+    "url": "http://www.pagerduty.com/",
+    "bio": "<p>PagerDuty’s operations performance platform helps companies increase reliability. By connecting people, systems and data in a single view, PagerDuty delivers visibility and actionable intelligence across global operations for effective incident resolution management. PagerDuty has over 100 platform partners, and is trusted by Fortune 500 companies and startups alike, including Microsoft, National Instruments, Electronic Arts, Adobe, Rackspace, Etsy, Square and Github. The company is headquartered in San Francisco and backed by leading venture capital firms Andreessen Horowitz, Bessemer Venture Partners, Baseline Ventures, Ignition Partners and others. Try PagerDuty for free, or to get more information, visit <a href=\"http://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
+  },
+  /* {
+    "name": "zanthos",
+    "url": "http://www.zanthos.com/",
+    "bio": ""
+  }, */
   {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
