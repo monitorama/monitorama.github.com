@@ -70,6 +70,11 @@ var sponsors = [
     "url": "http://www.pagerduty.com/",
     "bio": "<p>PagerDuty’s operations performance platform helps companies increase reliability. By connecting people, systems and data in a single view, PagerDuty delivers visibility and actionable intelligence across global operations for effective incident resolution management. PagerDuty has over 100 platform partners, and is trusted by Fortune 500 companies and startups alike, including Microsoft, National Instruments, Electronic Arts, Adobe, Rackspace, Etsy, Square and Github. The company is headquartered in San Francisco and backed by leading venture capital firms Andreessen Horowitz, Bessemer Venture Partners, Baseline Ventures, Ignition Partners and others. Try PagerDuty for free, or to get more information, visit <a href=\"http://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
   },
+  {
+    "name": "elasticsearch",
+    "url": "http://www.elasticsearch.com/",
+    "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
+  },
   /* {
     "name": "zanthos",
     "url": "http://www.zanthos.com/",
