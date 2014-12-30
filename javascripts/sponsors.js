@@ -75,6 +75,11 @@ var sponsors = [
     "url": "http://www.elasticsearch.com/",
     "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
   },
+  {
+    "name": "threatstack",
+    "url": "https://www.threatstack.com/",
+    "bio": "<p>Threat Stack, Inc. is the maker of Cloud Sight™, which provides protection, intelligent detection, and forensics data that enables you to rapidly respond to malicious threats. It's designed to work in modern, cloud-based infrastructure. Our lightweight agent deploys in minutes so you can quickly begin securing your cloud infrastructure.</p>"
+  },
   /* {
     "name": "zanthos",
     "url": "http://www.zanthos.com/",
