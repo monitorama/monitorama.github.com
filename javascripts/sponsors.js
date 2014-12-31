@@ -78,7 +78,7 @@ var sponsors = [
   {
     "name": "threatstack",
     "url": "https://www.threatstack.com/",
-    "bio": "<p>Threat Stack, Inc. is the maker of Cloud Sight™, which provides protection, intelligent detection, and forensics data that enables you to rapidly respond to malicious threats. It's designed to work in modern, cloud-based infrastructure. Our lightweight agent deploys in minutes so you can quickly begin securing your cloud infrastructure.</p>"
+    "bio": "<p>Securing your cloud shouldn't prevent your business from running fast. Stay protected from intrusions & data loss with Threat Stack’s continuous security monitoring. Gain insights into system activity and keep ahead of new threats with behavior-based intrusion detection.  Our lightweight, cloud-native design is simple to use and takes the hassle out of staying protected. Whether you’re looking to meet compliance regulations, protect customer data, or improve your security posture, Threat Stack has you covered.</p>"
   },
   /* {
     "name": "zanthos",
