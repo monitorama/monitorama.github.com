@@ -19,8 +19,8 @@ var sponsors = [
   },
   {
     "name": "librato",
-    "url": "https://www.librato.com/",
-    "bio": "<p>Librato is the creator of Metrics, a cloud-based service that helps businesses monitor all aspects of their operation, be it their cloud or datacenter infrastructure, their applications, their business metrics, or even their sensor network. It is a platform for storing, visualizing, correlating and acting on any and all of the time series data they want to monitor. Whether data is collected with open source collection agents, via language bindings, or via simple scripts, with Metrics all monitoring data is brought together in a unified hosted environment, helping users to see trends, detect signs of problems early, minimize their impact through automated actions, and quickly find and fix their root cause. Its ease of use, and stunning graphs and dashboards make it both easier and more fun to safeguard the availability and performance of any applications.</p>"
+    "url": "https://www.librato.com/?utm_campaign=2015-monitorama&utm_content=logo&utm_medium=sponsor-page&utm_source=monitorama",
+    "bio": "<p>Librato is a complete platform for real-time operations analytics that accepts metrics from any source for real-time aggregation and transformation, anomaly detection, alerting, visual analysis and storage. Librato is dedicated to delivering high performance, beautiful and easy to use tools that make managing your operations more fun and efficient. Librato offers turnkey monitoring solutions for a number of IaaS and PaaS platforms, including AWS, Heroku, and AppHarbor. <a href=\"https://www.librato.com/?utm_campaign=2015-monitorama&utm_content=free-trial&utm_medium=sponsor-page&utm_source=monitorama\">Start your free trial</a> and we’ll hand you back beautiful, interactive dashboards within minutes.</p>",
   },
   {
     "name": "raintank",
