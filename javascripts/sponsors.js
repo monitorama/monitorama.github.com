@@ -24,7 +24,7 @@ var sponsors = [
   },
   {
     "name": "raintank",
-    "url": "https://twitter.com/raintanksaas",
+    "url": "http://www.raintank.io/",
     "bio": "<p>raintank is a new OpenSaaS infrastructure analytics company, currently in stealth. Instead of feeding you metrics and measurements, we educate you with context and clarity on your entire Internet infrastructure stack. The raintank platform is completely open-source and composable, with fully supported deployments available both on-premise and in the cloud.</p><p>Our first product, currently in closed beta, helps you understand your global network and infrastructure performance in new ways. Please follow us on twitter at <a href=\"https://twitter.com/raintanksaas\">@raintanksaas</a> for further updates.</p>"
   },
   {
