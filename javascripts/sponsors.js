@@ -44,11 +44,12 @@ var sponsors = [
     "width": 150,
     "bio": "<p>Datadog is a monitoring and analytics platform that covers the full monitoring cycle: from code changes to deployments to alerts. Thanks to its 5-minutes setup, wide application support, pretty charts and open API, Datadog is immediately useful to both development and operations teams.</p>"
   },
-  /* {
+  {
     "name": "hwops",
-    "url": "http://hw-ops.com/",
-    "bio": "<p>We specialize in helping you convert your operations from a cost center to a competitive advantage. We help move operations obstacles out of the way so your development team can build things. The long answer is, well, long.</p>"
-  }, */
+    "url": "http://sensuapp.org/enterprise",
+    "width": 175,
+    "bio": "<p><b>Sensu Enterprise: On-site monitoring for mission-critical applications.</b></p><p>Finally, a deployable monitoring solution designed for cloud-based applications, capable of operating at web-scale. Monitor servers, services and application health, collect and analyze custom metrics, and get notified about system failures faster. Give your IT operations team the competitive advantage they deserve.</p><p>Learn more about Sensu Enterprise and Sensu Core (<em>the</em> open source monitoring framework) at <a href=\"http://sensuapp.org/\">http://sensuapp.org/</a>.</p>",
+  },
   /* {
     "name": "stealthcompany",
     "url": "",
