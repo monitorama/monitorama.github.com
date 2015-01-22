@@ -711,7 +711,8 @@ div.marquee {
 }
 
 .marquee img {
-  height: 25px;
+  max-height: 30px;
+  max-width: 125px;
   margin: 0 15px 25px;
 }
 
