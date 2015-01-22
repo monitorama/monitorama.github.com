@@ -81,6 +81,12 @@ var sponsors = [
     "url": "https://www.threatstack.com/",
     "bio": "<p>Securing your cloud shouldn't prevent your business from running fast. Stay protected from intrusions & data loss with Threat Stack’s continuous security monitoring. Gain insights into system activity and keep ahead of new threats with behavior-based intrusion detection.  Our lightweight, cloud-native design is simple to use and takes the hassle out of staying protected. Whether you’re looking to meet compliance regulations, protect customer data, or improve your security posture, Threat Stack has you covered.</p>"
   },
+  {
+    "name": "VividCortex",
+    "url": "https://vividcortex.com/",
+    "width": "250",
+    "bio": "<p>VividCortex is the best way to see what your database servers are doing in production. Unlike traditional monitoring tools, we measure and analyze queries. We use advanced statistics and high-resolution data to stitch together queries, metrics, processes, and events, revealing the work your databases are doing in unprecedented detail. VividCortex is SaaS, so there's no infrastructure for you to host, and supports PostgreSQL and MySQL, with more on the way. Installation takes less than a minute. <a href=\"https://vividcortex.com/\">Start your free trial</a> today!</p>",
+  },
   /* {
     "name": "zanthos",
     "url": "http://www.zanthos.com/",
