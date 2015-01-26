@@ -83,7 +83,7 @@ var sponsors = [
   },
   {
     "name": "vividcortex",
-    "url": "https://vividcortex.com/",
+    "url": "https://vividcortex.com/?utm_source=conf&utm_medium=mon",
     "width": "225",
     "bio": "<p>VividCortex is the best way to see what your database servers are doing in production. Unlike traditional monitoring tools, we measure and analyze queries. We use advanced statistics and high-resolution data to stitch together queries, metrics, processes, and events, revealing the work your databases are doing in unprecedented detail. VividCortex is SaaS, so there's no infrastructure for you to host, and supports PostgreSQL and MySQL, with more on the way. Installation takes less than a minute. <a href=\"https://vividcortex.com/\">Start your free trial</a> today!</p>",
   },
