@@ -80,6 +80,16 @@ var speakers = [
     "hash": "c861b4498e2702c3546c9e4251b26c38",
   },
   {
+    "name": "Kyle Kingsbury",
+    "github": "aphyr",
+    "twitter": "aphyr",
+    "bio": "Kyle Kingsbury is a software engineer at Stripe, the lead author of the Riemann monitoring system, and principal instigator behind Jepsen: an exploration of distributed systems safety. He's obsessed with Clojure, databases, and networks.",
+    "abstract": "",
+    "videos": [],
+    "slides": [],
+    "hash": "e145b50faf662e70c066b13c98921900"
+  },
+  {
     "name": "Danielle Sucher",
     "github": "DanielleSucher",
     "twitter": "DanielleSucher",
