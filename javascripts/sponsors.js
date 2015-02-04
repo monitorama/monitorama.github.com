@@ -93,6 +93,11 @@ var sponsors = [
     "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 70,000 active accounts use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"http://newrelic.com/\" target=\"_blank\">newrelic.com</a>.</p>"
   },
   {
+    "name": "sumologic",
+    "url": "http://www.sumologic.com/",
+    "bio": "<p>Sumo Logic is the next-generation machine data analytics company that leverages Big Data for real-time IT insights.  The company's cloud-based service provides customers with real-time interactive analytics at unprecedented petabyte scale. The Sumo Logic service is powered by patent-pending Elastic Log Processing™ and LogReduce™ technologies, and transforms log data into actionable insights for IT operations, application management, and security and compliance teams. Unlike expensive and complex premise-based solutions, the Sumo Logic service has a low TCO, can be deployed instantly, scales elastically and requires zero maintenance. For more information, visit <a href=\"http://www.sumologic.com/\">www.sumologic.com</a>.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
