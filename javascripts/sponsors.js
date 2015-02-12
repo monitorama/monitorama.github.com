@@ -104,6 +104,11 @@ var sponsors = [
     "bio": "<p>StatusPage.io was created to help companies be more transparent with their customers during unplanned outages and scheduled maintenance, and to communicate critical system performance metrics. Our product lets any company go from zero to hi-there-sexy-status-page in just a few minutes. Happier customers, honest employees, can't lose. Come see why more than half of the companies sponsoring this conference threw away their homegrown system to settle down with us - on the web at <a href=\"https://www.statuspage.io/\">statuspage.io</a> or on twitter at <a href=\"https://twitter.com/StatusPageIO\">@StatusPageIO</a>.</p>"
   },
   {
+    "name": "appdynamics",
+    "url": "http://www.appdynamics.com/",
+    "bio": "<p>At AppDynamics, our Application Intelligence Platform empowers today’s software-defined businesses with the ability to proactively monitor, manage, and optimize the most complex software environments. Because we start with user interactions, our platform is able to dynamically collect millions of performance data points across your applications and infrastructure. We then apply intelligence to instantly identify performance anomalies, enable automatic fixes and continuously measure business impact. And all this happens in real time, in production, with cloud or on-premise deployment flexibility. So even in the most dynamic production environments, you can know more and know it faster. It’s more than monitoring—it’s true Application Intelligence.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
