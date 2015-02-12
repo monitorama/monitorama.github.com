@@ -98,6 +98,12 @@ var sponsors = [
     "bio": "<p>Sumo Logic is the next-generation machine data analytics company that leverages Big Data for real-time IT insights.  The company's cloud-based service provides customers with real-time interactive analytics at unprecedented petabyte scale. The Sumo Logic service is powered by patent-pending Elastic Log Processing™ and LogReduce™ technologies, and transforms log data into actionable insights for IT operations, application management, and security and compliance teams. Unlike expensive and complex premise-based solutions, the Sumo Logic service has a low TCO, can be deployed instantly, scales elastically and requires zero maintenance. For more information, visit <a href=\"http://www.sumologic.com/\">www.sumologic.com</a>.</p>"
   },
   {
+    "name": "statuspageio",
+    "url": "https://www.statuspage.io/",
+    "width": "225",
+    "bio": "<p>StatusPage.io was created to help companies be more transparent with their customers during unplanned outages and scheduled maintenance, and to communicate critical system performance metrics. Our product lets any company go from zero to hi-there-sexy-status-page in just a few minutes. Happier customers, honest employees, can't lose. Come see why more than half of the companies sponsoring this conference threw away their homegrown system to settle down with us - on the web at <a href=\"https://www.statuspage.io/\">statuspage.io</a> or on twitter at <a href=\"https://twitter.com/StatusPageIO\">@StatusPageIO</a>.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
