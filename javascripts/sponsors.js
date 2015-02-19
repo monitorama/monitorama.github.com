@@ -109,6 +109,12 @@ var sponsors = [
     "bio": "<p>At AppDynamics, our Application Intelligence Platform empowers today’s software-defined businesses with the ability to proactively monitor, manage, and optimize the most complex software environments. Because we start with user interactions, our platform is able to dynamically collect millions of performance data points across your applications and infrastructure. We then apply intelligence to instantly identify performance anomalies, enable automatic fixes and continuously measure business impact. And all this happens in real time, in production, with cloud or on-premise deployment flexibility. So even in the most dynamic production environments, you can know more and know it faster. It’s more than monitoring—it’s true Application Intelligence.</p>"
   },
   {
+    "name": "alertops",
+    "url": "http://alertops.com/",
+    "width": "225",
+    "bio": "<p>AlertOps is an Incident Management System that helps IT Operations manage and optimize their alerts from various monitoring systems so as to greatly reduce Alert Fatigue and Mean Time To Resolution (MTTR). AlertOps uses key features like:</p><ul><li>smart routing</li><li>multi-modal communication</li><li>inbound/outbound integration to 3rd party monitoring tools (like Nagios, New Relic, AWS, ZenDesk,JIRA, Pingdom, etc.)</li><li>intelligent workflows to manage and escalate alerts</li><li>reporting/analytics for “retrospective analysis and learning”</li></ul><p>AlertOps can help MSPs reduce their MTTR by an average of 30 minutes or longer. To find out more, please visit <a href=\"http://www.alertops.com/\">www.alertops.com</a> or follow us <a href=\"https://twitter.com/AlertOps\">@AlertOps</a>.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
