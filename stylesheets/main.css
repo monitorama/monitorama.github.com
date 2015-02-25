@@ -455,6 +455,7 @@ section.welcome {
 
 .speakers li img {
   float: left;
+  background-color: #fff;
   margin: 0 30px 10px 0;
   border-radius: 50%;
 }
