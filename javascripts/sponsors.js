@@ -85,7 +85,7 @@ var sponsors = [
     "name": "bigpanda",
     "url": "http://bigpanda.io/",
     "width": 250,
-    "bio": "<p>BigPanda is an incident response platform that helps you manage and resolve Ops incidents faster.  We reduce alert fatigue by cleaning up noisy alerts from across your monitoring stack, so you can focus on critical high-level incidents.  We make dumb alerts smarter by enriching them with unique & actionable insights.  We enable Ops-aware collaboration, so you and your team can make better decisions faster.  Learn more at <a href=\"http://www.bigpanda.io\">www.bigpanda.io</a>.</p>"
+    "bio": "<p>BigPanda is the next generation in Intelligent Incident Management for IT, NOC and DevOps teams. BigPanda's data science platform brings order to the alert chaos that plagues IT Operations in complex cloud and on-premise operating environments.  BigPanda aggregates, consolidates, and correlates massive amounts of IT alerts, deployments and communications, thus turning them into actionable insights. For more information, visit: <a href=\"http://www.bigpanda.io\">http://www.bigpanda.io</a>.</p>"
   },
   {
     "name": "dreamhost",
