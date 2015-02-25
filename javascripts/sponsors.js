@@ -82,7 +82,7 @@ var sponsors = [
     "bio": "<p>Securing your cloud shouldn't prevent your business from running fast. Stay protected from intrusions & data loss with Threat Stack’s continuous security monitoring. Gain insights into system activity and keep ahead of new threats with behavior-based intrusion detection.  Our lightweight, cloud-native design is simple to use and takes the hassle out of staying protected. Whether you’re looking to meet compliance regulations, protect customer data, or improve your security posture, Threat Stack has you covered.</p>"
   },
   {
-    "name": "Dreamhost",
+    "name": "dreamhost",
     "url": "http://www.dreamhost.com/",
     "bio": "<p>Since 1997 DreamHost has helped entrepreneurs and developers the world over bring their dreams to life on the Internet. From domain registrations to web hosting and even powerful cloud storage and computing services, more than 400,000 customers trust DreamHost to be their online home. Packed with unbelievable value, DreamHost is the best place to launch a blog, website, or web application into the stratosphere. Learn more at <a href=\"http://www.dreamhost.com/\">www.DreamHost.com</a>.</p>"
   },
