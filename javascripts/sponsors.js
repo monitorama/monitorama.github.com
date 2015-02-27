@@ -115,6 +115,12 @@ var sponsors = [
     "bio": "<p>StatusPage.io was created to help companies be more transparent with their customers during unplanned outages and scheduled maintenance, and to communicate critical system performance metrics. Our product lets any company go from zero to hi-there-sexy-status-page in just a few minutes. Happier customers, honest employees, can't lose. Come see why more than half of the companies sponsoring this conference threw away their homegrown system to settle down with us - on the web at <a href=\"https://www.statuspage.io/\">statuspage.io</a> or on twitter at <a href=\"https://twitter.com/StatusPageIO\">@StatusPageIO</a>.</p>"
   },
   {
+    "name": "centreon",
+    "url": "http://www.centreon.com/",
+    "width": "225",
+    "bio": "<p>Centreon’s software suite makes network performance and IT systems monitoring easy, scalable and highly affordable. Trusted by small to medium size businesses and Fortune 500 companies alike, Centreon counts Airbus, Atos, Bolore, BT, Kuehne Nagel, LMVH, Orange and Thales among its customers. The success of its open source software evolution into a robust commercial solution has created a following of more than 100,000 professional IT users. They choose Centreon for its Nagios-inspired standards and powerful adaptability, combined with user-friendly interface for ensuring business-centric service levels. The company also delivers industry-grade professional services, support and training, backed by top-notch engineering expertise and continued investments into software R&D.</p>"
+  },
+  {
     "name": "appdynamics",
     "url": "http://www.appdynamics.com/",
     "bio": "<p>At AppDynamics, our Application Intelligence Platform empowers today’s software-defined businesses with the ability to proactively monitor, manage, and optimize the most complex software environments. Because we start with user interactions, our platform is able to dynamically collect millions of performance data points across your applications and infrastructure. We then apply intelligence to instantly identify performance anomalies, enable automatic fixes and continuously measure business impact. And all this happens in real time, in production, with cloud or on-premise deployment flexibility. So even in the most dynamic production environments, you can know more and know it faster. It’s more than monitoring—it’s true Application Intelligence.</p>"
