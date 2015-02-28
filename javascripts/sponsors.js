@@ -3,7 +3,7 @@ var sponsors = [
     "name": "runscope",
     "url": "https://www.runscope.com/",
     "width": 275,
-    "bio": "<p>Runscope helps you solve API problems fast. From your local machine, to your staging environment, to your production servers, Runscope can keep an eye on your mission-critical APIs wherever they live with automated API monitoring and testing. Runscope works with popular services you already use, like Slack, PagerDuty, HipChat and Keen IO, so you know when things break before your customers do. Track down troublesome API calls and see everything just as it happened with Runscope’s API traffic logging and inspection. Everything is going to be 200 OK&#8482;.</p>",
+    "bio": "<p>Runscope helps you solve API problems fast. From your local machine, to your staging environment, to your production servers, Runscope can keep an eye on your mission-critical APIs wherever they live with automated API monitoring and testing. Runscope works with popular services you already use, like Slack, PagerDuty, HipChat and Keen IO, so you know when things break before your customers do. Track down troublesome API calls and see everything just as it happened with Runscope’s API traffic logging and inspection. Learn more at <a href=\"https://www.runscope.com/\">https://www.runscope.com</a>. Everything is going to be 200 OK&#8482;.</p>",
   },
   {
     "name": "fastly",
