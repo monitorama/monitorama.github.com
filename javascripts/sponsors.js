@@ -93,6 +93,12 @@ var sponsors = [
     "bio": "<p>Since 1997 DreamHost has helped entrepreneurs and developers the world over bring their dreams to life on the Internet. From domain registrations to web hosting and even powerful cloud storage and computing services, more than 400,000 customers trust DreamHost to be their online home. Packed with unbelievable value, DreamHost is the best place to launch a blog, website, or web application into the stratosphere. Learn more at <a href=\"http://www.dreamhost.com/\">www.DreamHost.com</a>.</p>"
   },
   {
+    "name": "zabbix",
+    "url": "http://www.zabbix.com/",
+    "width": 175,
+    "bio": "<p>An uncompromising mature enterprise-level platform designed for real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices, effortlessly scaling to even larger environments. Gather and analyze accurate statistics and performance metrics, visualize it, get notified about current and potential issues without delay, and take advantage of our time-tested professional development and support.</p><p>Give yourself the edge by improving the quality of your services without sacrificing operating costs.</p><p>Did we mention Zabbix is Open Source? Learn more about Zabbix at <a href=\"http://www.zabbix.com\">http://www.zabbix.com/</a>.</p>"
+  },
+  {
     "name": "vividcortex",
     "url": "https://vividcortex.com/?utm_source=conf&utm_medium=mon",
     "width": "225",
