@@ -50,11 +50,11 @@ var sponsors = [
     "width": 175,
     "bio": "<p><b>Sensu Enterprise: On-site monitoring for mission-critical applications.</b></p><p>Finally, a deployable monitoring solution designed for cloud-based applications, capable of operating at web-scale. Monitor servers, services and application health, collect and analyze custom metrics, and get notified about system failures faster. Give your IT operations team the competitive advantage they deserve.</p><p>Learn more about Sensu Enterprise and Sensu Core (<em>the</em> open source monitoring framework) at <a href=\"http://sensuapp.org/\">http://sensuapp.org/</a>.</p>",
   },
-  /* {
-    "name": "stealthcompany",
-    "url": "",
-    "bio": ""
-  }, */
+  {
+    "name": "signalfx",
+    "url": "https://signalfx.com/",
+    "bio": "<p>SignalFx is an advanced monitoring platform for modern applications that lets you create custom analytics pipelines on metrics data collected from thousands or more sources to create meaningful aggregations--such as percentiles, moving averages and growth rates -- within seconds of receiving data.</p>"
+  },
   {
     "name": "opsmatic",
     "url": "https://opsmatic.com/",
