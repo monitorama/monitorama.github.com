@@ -53,7 +53,7 @@ var sponsors = [
   {
     "name": "signalfx",
     "url": "https://signalfx.com/",
-    "bio": "<p>SignalFx is an advanced monitoring platform for modern applications that lets you create custom analytics pipelines on metrics data collected from thousands or more sources to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- within seconds of receiving data.</p>"
+    "bio": "<p>SignalFx is an advanced monitoring platform for modern applications that lets you create custom analytics pipelines on metrics data collected from thousands or more sources to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- within seconds of receiving data.</p><p>Built on real world experience running web apps at &gt;100k systems. SignalFx can handle multidimensional metrics at any resolution or scale. Use collectd, StatsD, Dropwizard Metrics, our open source client libraries, our open source proxy or any other instrumentation and collection methods you like.</p>"
   },
   {
     "name": "opsmatic",
