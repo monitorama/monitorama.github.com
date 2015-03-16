@@ -74,7 +74,7 @@ var sponsors = [
   {
     "name": "elastic",
     "url": "https://www.elastic.co/",
-    "bio": "<p>Elasticsearch is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world’s most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elasticsearch ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"http://elasticsearch.com/\">elasticsearch.com</a>.</p>"
+    "bio": "<p>Elastic is on a mission to make massive amounts of data usable for businesses everywhere by delivering the world's most advanced search and analytics engine available. With a laser focus on achieving the best user experience imaginable, the Elastic ELK stack - comprised of Elasticsearch, Logstash, and Kibana - has become one of the most popular and rapidly growing open source solutions in the market. To learn more, visit <a href=\"https://www.elastic.co/\">elastic.co</a>.</p>",
   },
   {
     "name": "threatstack",
