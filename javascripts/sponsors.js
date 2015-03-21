@@ -138,6 +138,11 @@ var sponsors = [
     "bio": "<p>AlertOps is an Incident Management System that helps IT Operations manage and optimize their alerts from various monitoring systems so as to greatly reduce Alert Fatigue and Mean Time To Resolution (MTTR). AlertOps uses key features like:</p><ul><li>smart routing</li><li>multi-modal communication</li><li>inbound/outbound integration to 3rd party monitoring tools (like Nagios, New Relic, AWS, ZenDesk,JIRA, Pingdom, etc.)</li><li>intelligent workflows to manage and escalate alerts</li><li>reporting/analytics for “retrospective analysis and learning”</li></ul><p>AlertOps can help MSPs reduce their MTTR by an average of 30 minutes or longer. To find out more, please visit <a href=\"http://www.alertops.com/\">www.alertops.com</a> or follow us <a href=\"https://twitter.com/AlertOps\">@AlertOps</a>.</p>"
   },
   {
+    "name": "thenewstack",
+    "url": "http://thenewstack.io/",
+    "bio": "<p>The New Stack explores application development and management in scaled out data architectures. The site has news and analysis; feature stories about the new stacks people are building; data research; interviews and a podcast that explore the issues and topics that relate to the way new stacks are getting built and managed.</p>"
+  },
+  {
     "name": "oreilly",
     "url": "http://www.oreilly.com/",
     "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
