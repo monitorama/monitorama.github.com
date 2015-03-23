@@ -63,7 +63,7 @@ var speakers = [
     "name": "Laura Thomson",
     "github": "lauraxt",
     "twitter": "lxt",
-    "bio": "Laura Thomson is Director of Engineering Operations at Mozilla. Her team is responsible for engineering tools, support and telemetry infrastructures, and the build and release pipelines. Nagios sends her more email than her friends do, and she spends more time looking at graphs than pictures of her family. She has been in various engineering roles at Mozilla for the last seven years, and previously was a Principal at OmniTI, a consultant, and a computer science academic. She has written several books on various Open Source technologies, and is trying to speak at fewer conferences. Laura lives with her family on a rustic horse farm in Maryland, where she relaxes by indulging in manual labor and other rural pursuits.",
+    "bio": "Laura Thomson is the Director of Engineering, Cloud Services Engineering and Operations at Mozilla, where she leads engineering teams responsible for the development, operations, quality assurance, and security of Mozilla web applications and cloud services. She has been in various engineering roles at Mozilla for the last seven years, and previously worked in jobs including Principal/VP at OmniTI, web developer, consultant, and computer science academic.<br /><br />Nagios sends her more email than her friends do, and she spends more time looking at graphs than pictures of her family. She has written several books on various Open Source technologies, and is trying to speak at fewer conferences. Laura lives with her family on a rustic horse farm in Maryland, where she relaxes by indulging in manual labor and other rural pursuits.",
     "abstract": "",
     "videos": [],
     "slides": [],
