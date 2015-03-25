@@ -99,6 +99,11 @@ var sponsors = [
     "bio": "<p>An uncompromising mature enterprise-level platform designed for real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices, effortlessly scaling to even larger environments. Gather and analyze accurate statistics and performance metrics, visualize it, get notified about current and potential issues without delay, and take advantage of our time-tested professional development and support.</p><p>Give yourself the edge by improving the quality of your services without sacrificing operating costs.</p><p>Did we mention Zabbix is Open Source? Learn more about Zabbix at <a href=\"http://www.zabbix.com\">http://www.zabbix.com/</a>.</p>"
   },
   {
+    "name": "jut",
+    "url": "http://www.jut.io/",
+    "bio": ""
+  },
+  {
     "name": "vividcortex",
     "url": "https://vividcortex.com/?utm_source=conf&utm_medium=mon",
     "width": "225",
@@ -134,8 +139,29 @@ var sponsors = [
   {
     "name": "alertops",
     "url": "http://alertops.com/",
-    "width": "225",
+    "width": "250",
     "bio": "<p>AlertOps is an Incident Management System that helps IT Operations manage and optimize their alerts from various monitoring systems so as to greatly reduce Alert Fatigue and Mean Time To Resolution (MTTR). AlertOps uses key features like:</p><ul><li>smart routing</li><li>multi-modal communication</li><li>inbound/outbound integration to 3rd party monitoring tools (like Nagios, New Relic, AWS, ZenDesk,JIRA, Pingdom, etc.)</li><li>intelligent workflows to manage and escalate alerts</li><li>reporting/analytics for “retrospective analysis and learning”</li></ul><p>AlertOps can help MSPs reduce their MTTR by an average of 30 minutes or longer. To find out more, please visit <a href=\"http://www.alertops.com/\">www.alertops.com</a> or follow us <a href=\"https://twitter.com/AlertOps\">@AlertOps</a>.</p>"
+  },
+  {
+    "name": "chef",
+    "url": "",
+    "bio": ""
+  },
+  {
+    "name": "coscale",
+    "url": "",
+    "bio": ""
+  },
+  {
+    "name": "covermymeds",
+    "url": "http://scriptscribe.org/",
+    "width": "225",
+    "bio": "<p>CoverMyMeds provides physician offices and pharmacies a one-stop, all-drug, all-payer Software as a Service solution to efficiently manage the more than 170 million medication prescriptions annually rejected by payers due to Prior Authorization (PA) requirements. Their products help make it easier for patients to get their medication faster. CoverMyMeds supports the technology community through publishing code, articles, and presenting about how they’re innovating with technology. Learn more about their technology team and platform on their tech blog – Scriptscribe!</p>"
+  },
+  {
+    "name": "akana",
+    "url": "",
+    "bio": ""
   },
   {
     "name": "thenewstack",
