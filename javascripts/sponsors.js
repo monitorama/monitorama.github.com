@@ -160,8 +160,8 @@ var sponsors = [
   },
   {
     "name": "akana",
-    "url": "",
-    "bio": ""
+    "url": "http://www.akana.com/",
+    "bio": "<p>Akana's comprehensive suite of API Management, API Security, SOA Governance, Cloud Integration, and Microservices solutions helps businesses accelerate digital transformation by securely extending their reach across multiple channels - mobile, cloud and Internet of Things. Akana enables enterprises to quickly deliver scalable applications, share data as APIs, connect and integrate applications, drive partner adoption, monetize their assets and provide intelligent insights into their business and operations. The world's largest companies including Bank of America, Pfizer, and Verizon use Akana to harness the power of their technology and transform their businesses. Akana is also recognized as a \"Leader\" by Forrester in the API Management Solution Wave, Q3 2014. For more information on Akana's API Platform, please see <a href=\"http://www.akana.com/\">http://www.akana.com</a>.</p>"
   },
   {
     "name": "thenewstack",
