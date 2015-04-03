@@ -149,7 +149,7 @@ var sponsors = [
   },
   {
     "name": "coscale",
-    "url": "",
+    "url": "http://www.coscale.com/",
     "bio": ""
   },
   {
