@@ -101,7 +101,7 @@ var sponsors = [
   {
     "name": "jut",
     "url": "http://www.jut.io/",
-    "bio": "<p>No more dead ends! Jut is a dataflow analytics platform for devops. It allows you to take an analytics approach to monitoring, troubleshooting, understanding, and improving your software. Jut's special sauce is bringing a lego-like, building-block approach to analytics across all your logs, metrics, and events within one consistent experience. Because all operational data is centralized in real-time users can uncover correlations, construct composite metrics, apply anomaly detection formulas, or simply share data visualizations for the rest of the organization making for much smarter and efficient operations. With Jut you can slice, dice, stream, visualize, and alert on your system data like never before.</p>"
+    "bio": "<p>No more dead ends! Jut is a dataflow analytics platform for devops. It allows you to take an analytics approach to monitoring, troubleshooting, understanding, and improving your software. Jut's special sauce is bringing a lego-like, building-block approach to analytics across all your logs, metrics, and events within one consistent experience.</p><p>Because all operational data is centralized in real-time users can uncover correlations, construct composite metrics, apply anomaly detection formulas, or simply share data visualizations for the rest of the organization making for much smarter and efficient operations. With Jut you can slice, dice, stream, visualize, and alert on your system data like never before.</p><p>Learn more about our <a href=\"http://www.jut.io/\">dataflow analytics platform</a> or kick the tires in our <a href=\"http://www.jut.io/play\">analytics playground</a>.</p>"
   },
   {
     "name": "vividcortex",
