@@ -170,8 +170,9 @@ var sponsors = [
   },
   {
     "name": "netuitive",
-    "url": "",
-    "bio": ""
+    "url": "http://www.netuitive.com/",
+    "width": "225",
+    "bio": "<p>Netuitive provides a SaaS-based, adaptive monitoring and analytics solution for cloud infrastructure, applications, and services. By ingesting data from multiple sources, Netuitive learns systems behaviors and applies dynamic policies that reduce the manual effort and human-guesswork other monitoring tools typically require. Netuitive’s patented technology enables development and operations teams to visualize the entire stack, automate performance analysis, detect relevant anomalies, and determine efficient capacity utilization. Sign up for your free trial at <a href=\"http://www.netuitive.com/\">www.netuitive.com</a>.</p>"
   },
   {
     "name": "scout",
