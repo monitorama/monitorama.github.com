@@ -150,8 +150,8 @@ var sponsors = [
   },
   {
     "name": "coscale",
-    "url": "",
-    "bio": ""
+    "url": "http://www.coscale.com/",
+    "bio": "<p>CoScale's monitoring and analytics tool gives devops answers to why their application isn't performing, and how to make better use of the server infrastructure. It provides actionable intelligence by doing smart stuff with any application, infrastructure or business metric. CoScale is a technology spin-off of the University of Ghent, Belgium.</p>"
   },
   {
     "name": "covermymeds",
