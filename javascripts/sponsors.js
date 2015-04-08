@@ -144,8 +144,9 @@ var sponsors = [
   },
   {
     "name": "chef",
-    "url": "",
-    "bio": ""
+    "url": "https://www.chef.io/",
+    "width": "150",
+    "bio": "<p>We are Chef – the leader in high-velocity IT automation. We give you a model for automating IT infrastructure and applications that drive self-reliance across your development and operations teams. We are the Chef community. We are tens of thousands strong. We are helping your businesses become faster, safer and more flexible, so you win in today's 24x7 digital economy. Join our movement today.</p>"
   },
   {
     "name": "coscale",
