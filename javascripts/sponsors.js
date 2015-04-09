@@ -79,12 +79,13 @@ var sponsors = [
   {
     "name": "threatstack",
     "url": "https://www.threatstack.com/",
+    "width": 225,
     "bio": "<p>Securing your cloud shouldn't prevent your business from running fast. Stay protected from intrusions & data loss with Threat Stack’s continuous security monitoring. Gain insights into system activity and keep ahead of new threats with behavior-based intrusion detection.  Our lightweight, cloud-native design is simple to use and takes the hassle out of staying protected. Whether you’re looking to meet compliance regulations, protect customer data, or improve your security posture, Threat Stack has you covered.</p>"
   },
   {
     "name": "bigpanda",
     "url": "http://bigpanda.io/",
-    "width": 250,
+    "width": 225,
     "bio": "<p>BigPanda is the next generation in Intelligent Incident Management for IT, NOC and DevOps teams. BigPanda's data science platform brings order to the alert chaos that plagues IT Operations in complex cloud and on-premise operating environments.  BigPanda aggregates, consolidates, and correlates massive amounts of IT alerts, deployments and communications, thus turning them into actionable insights. For more information, visit: <a href=\"http://www.bigpanda.io\">http://www.bigpanda.io</a>.</p>"
   },
   {
