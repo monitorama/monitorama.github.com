@@ -183,6 +183,12 @@ var sponsors = [
     "bio": "<p>Scout is the #1 choice for monitoring webscale infrastructure. Reach 100% visibility across all your moving parts: nodes, apps, networking gear, and more. Built by a team of DevOps experts and loved by our customers, Scout offers an exceptional UI, realtime resolution, statsd support, and insightful alerting on your critical metrics. Learn more at <a href=\"https://scoutapp.com/\">Scout</a>.</p>"
   },
   {
+    "name": "etsy",
+    "url": "https://www.etsy.com/",
+    "width": "175",
+    "bio": "<p>Etsy is an online marketplace where people around the world connect to buy and sell unique goods. Our mission is to reimagine commerce in ways that build a more lasting and fulfilling world. We are committed to creating an economy that’s fair, sustainable, and powered by people.</p>"
+  },
+  {
     "name": "thenewstack",
     "url": "http://thenewstack.io/",
     "bio": "<p>The New Stack explores application development and management in scaled out data architectures. The site has news and analysis; feature stories about the new stacks people are building; data research; interviews and a podcast that explore the issues and topics that relate to the way new stacks are getting built and managed.</p>"
