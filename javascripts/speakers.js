@@ -44,7 +44,7 @@ var speakers = [
     "github": "chrissiebrodigan",
     "twitter": "tenaciouscb",
     "bio": "Chrissie leads user experience research for GitHub. She previously worked at Mozilla and with startups designing experiences to help onboard new users. Long before she was a user researcher, she was a historian who studied and wrote about gender and labor with an emphasis on women’s careers in aviation.",
-    "abstract": "Small Data, Big Insights",
+    "abstract": "Measuring Hard to Measure Things",
     "videos": [],
     "slides": [],
     "hash": "f091db85bc34be872c938ba9b0901e60"
