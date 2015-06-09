@@ -34,7 +34,7 @@ var speakers = [
     "github": "phobos182",
     "twitter": "jeremy_carroll",
     "bio": "Jeremy is one of the foundational members of the Site Reliability Engineering team at Pinterest. He helps design, build and monitor Pinterest's applications and systems infrastructure that currently handles billions of monthly page views with tremendous growth and scalability challenges. Jeremy has touched nearly every part of the Pinterest production engineering infrastructure. He currently focuses on reliability engineering for back end data and serving infrastructure.",
-    "abstract": "",
+    "abstract": "Service Discovery &#64; Pinterest",
     "videos": [],
     "slides": [],
     "hash": "b36d267cfc5245650585eb82b8b29bdb"
