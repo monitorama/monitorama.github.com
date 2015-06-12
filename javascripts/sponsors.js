@@ -105,6 +105,11 @@ var sponsors = [
     "bio": "<p>No more dead ends! Jut is a dataflow analytics platform for devops. It allows you to take an analytics approach to monitoring, troubleshooting, understanding, and improving your software. Jut's special sauce is bringing a lego-like, building-block approach to analytics across all your logs, metrics, and events within one consistent experience.</p><p>Because all operational data is centralized in real-time users can uncover correlations, construct composite metrics, apply anomaly detection formulas, or simply share data visualizations for the rest of the organization making for much smarter and efficient operations. With Jut you can slice, dice, stream, visualize, and alert on your system data like never before.</p><p>Learn more about our <a href=\"http://www.jut.io/\">dataflow analytics platform</a> or kick the tires in our <a href=\"http://www.jut.io/play\">analytics playground</a>.</p>"
   },
   {
+    "name": "puppetlabs",
+    "url": "https://puppetlabs.com/",
+    "bio": "<p>Puppet Labs helps tens of thousands of the world's leading organizations manage millions of machines and devices. When you work with Puppet Labs, you'll be in good company: Bank of America, Cisco, Citrix, eBay, NYSE, PayPal, salesforce.com and others rely on our software to deploy faster, be more productive, and gain insight into infrastructure configurations and operation.</p>"
+  },
+  {
     "name": "vividcortex",
     "url": "https://vividcortex.com/?utm_source=conf&utm_medium=mon",
     "width": "225",
