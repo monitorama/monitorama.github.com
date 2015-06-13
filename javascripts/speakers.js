@@ -203,7 +203,7 @@ var speakers = [
     "name": "Benjamin Anderson",
     "github": "banjiewen",
     "twitter": "banjiewen",
-    "bio": "Benjamin Anderson is a founder and engineer at Multiset, where he works on everything from sales to Chef. Prior to founding Multiset he led the Service Reliability team at Cloudant, where he built systems and processes to monitor and operate Cloudant’s database-as-a-service offering. He lives in Seattle with his wife, his dog, and his books.",
+    "bio": "Benjamin Anderson is an engineer at Ivy Softworks, where he works infrastructure and operations. Previously he led the Service Reliability team at Cloudant, where he built systems and processes to monitor and operate Cloudant’s database-as-a-service offering. He lives in Seattle with his wife, his dog, and his books.",
     "abstract": "Observability, Interactivity and Mental Models in Web Operations",
     "videos": [],
     "slides": [],
