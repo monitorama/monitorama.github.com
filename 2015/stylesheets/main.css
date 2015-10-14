@@ -238,7 +238,7 @@ div.banner {
 }
 
 .location {
-  background-color: rgb(157, 113, 194);
+  background-color: rgb(234, 124, 57);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -271,7 +271,7 @@ div.banner {
   vertical-align: middle;
   font-family: "MotivaSans-ExtraBold";
   font-size: 0.7em;
-  color: rgb(229, 198, 255);
+  color: rgb(236, 188, 159);
   margin: 0 15px;
 }
 
@@ -386,7 +386,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(157, 113, 194);
+  color: rgb(234, 124, 57);
   margin: 50px 0;
 }
 
@@ -406,7 +406,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(157, 113, 194);
+  color: rgb(234, 124, 57);
 }
 
 section p em, section span em {
@@ -425,33 +425,10 @@ section.welcome {
   color: #000;
 }
 
-.info .mc-field-group label {
-  font-family: "MotivaSans-Light";
-  font-size: initial;
-  color: #818181;
-}
-
-.info .mc-field-group input {
-  line-height: 1.5em;
-  margin: 10px 15px;
-  padding: 5px 10px;
-  width: 250px;
-}
-
-.info input#mc-embedded-subscribe.button {
-  margin-top: 20px;
-  padding: 10px 75px;
-  border: 0px;
-  border-radius: 8px;
-  background-color: #48BA48;
-  color: #fff;
-  font-size: 1.3em;
-}
-
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
-  color: rgb(157, 113, 194);
+  color: rgb(234, 124, 57);
 }
 
 .cfp ::-webkit-input-placeholder {
@@ -554,7 +531,7 @@ section.welcome {
 
 .schedule ul li div.wrap.header {
   color: #fff;
-  background-color: rgb(157, 113, 194);
+  background-color: rgb(234, 124, 57);
 }
 
 .schedule ul li div.wrap.header span {
@@ -674,9 +651,9 @@ div.sponsor {
 }
 
 div.prospectus {
-  /* border-top: 1px solid rgb(213, 213, 213);
+  border-top: 1px solid rgb(213, 213, 213);
   padding-top: 50px;
-  margin-top: 75px; */
+  margin-top: 75px;
 }
 
 .prospectus h5.soldout, .prospectus ul.soldout {
@@ -731,7 +708,7 @@ div.prospectus {
 div.marquee {
   text-align: center;
   padding-top: 25px;
-  //border-top: 1px solid #ddd;
+  border-top: 1px solid #ddd;
 }
 
 .marquee img {
@@ -750,7 +727,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(157, 113, 194);
+  color: rgb(234, 124, 57);
 }
 
 footer ul {
