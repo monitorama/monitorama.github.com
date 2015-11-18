@@ -679,6 +679,10 @@ div.prospectus {
   margin-top: 75px; */
 }
 
+.prospectus p {
+  margin-bottom: 40px;
+}
+
 .prospectus h5.soldout, .prospectus ul.soldout {
   opacity: 0.3;
   text-decoration: line-through;
