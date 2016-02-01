@@ -60,9 +60,6 @@ var formHandler = function (url) {
   }
 }
 
-// submit CFP form
-$('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2016.herokuapp.com/abstracts/new'));
-
 // iterate through speakers
 for (var i in speakers) {
   var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
