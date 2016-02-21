@@ -60,6 +60,23 @@ var formHandler = function (url) {
   }
 }
 
+// function to sort speakers by surname
+function compare(a,b) {
+  nameA = a.name.split(' ')
+  lastNameA = a.simple_last_name || nameA[nameA.length - 1]
+  nameB = b.name.split(' ')
+  lastNameB = b.simple_last_name || nameB[nameB.length - 1]
+  if (lastNameA < lastNameB)
+    return -1;
+  else if (lastNameA > lastNameB)
+    return 1;
+  else
+    return 0;
+}
+
+// sort speakers
+speakers = rawSpeakers.sort(compare)
+
 // iterate through speakers
 for (var i in speakers) {
   var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
