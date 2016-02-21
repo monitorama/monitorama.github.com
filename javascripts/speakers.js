@@ -213,7 +213,7 @@ var rawSpeakers = [
     "name": "Joey Parsons",
     "github": "joeyparsons",
     "twitter": "joeyparsons",
-    "bio": "",
+    "bio": "Joey is a Site Reliability Engineer at Airbnb where he focuses on the availability and performance of Airbnb and its infrastructure, monitoring, alerting and on-call systems.  Previously, Joey led engineering teams at Flipboard and Klout and currently advises engineering leadership at Shyp and Riffsy on scalability, reliability and engineering best practices.",
     "abstract": "",
     "videos": [],
     "slides": [],
