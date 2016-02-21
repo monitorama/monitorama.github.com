@@ -647,6 +647,10 @@ div.tito-wrapper {
   margin-right: 10px;
 }
 
+div.sponsors {
+  border-bottom: 1px solid #ebebeb;
+}
+
 div.sponsor {
   margin-bottom: 50px;
 }
