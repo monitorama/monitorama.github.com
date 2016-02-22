@@ -135,7 +135,7 @@ var rawSpeakers = [
     "name": "Cory Watson",
     "github": "gphat",
     "twitter": "gphat",
-    "bio": "",
+    "bio": "Cory G Watson is an Observability Engineer at Stripe. He's been an OSS contributor for 20 years and observability has been a common thread in all his work from collection, monitoring and even charting libraries. Previously he was Principal Infrastructure Engineer at Keen IO and managed the Observability team at Twitter.",
     "title": "",
     "abstract": "",
     "videos": [],
