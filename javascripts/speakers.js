@@ -25,7 +25,7 @@ var rawSpeakers = [
     "name": "Mark Imbriaco",
     "github": "imbriaco",
     "twitter": "markimbriaco",
-    "bio": "",
+    "bio": "Mark Imbriaco is the Founder and CEO of Operable, where he's focused on helping make DevOps work more collaborative and adaptable. His 20 years of building and operating Internet infrastructure has taught him the value of automation, and how team adaptability is even more important. Over the last decade, Mark has held TechOps leadership roles at companies like DigitalOcean, GitHub, LivingSocial, Heroku, and 37signals. He is frequently opinionated about topics relating to incident response, outage communication, team performance, and organizational learning.",
     "title": "",
     "abstract": "",
     "videos": [],
