@@ -188,8 +188,8 @@ var rawSpeakers = [
   },
   {
     "name": "Brian Overstreet",
-    "github": "",
-    "twitter": "",
+    "github": "overstre",
+    "twitter": "bciocc",
     "bio": "Brian Overstreet is the founding software engineer of the Visibility Team at Pinterest.  He is passionate about making it easy for users to send, visualize, and alert on metrics data.  Brian is currently working on making it foolproof for engineers to get accurate performance data from their services.",
     "title": "",
     "abstract": "",
