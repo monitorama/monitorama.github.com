@@ -339,7 +339,7 @@ var rawSpeakers = [
     "abstract": "",
     "videos": [],
     "slides": [],
-    "hash": "",
+    "hash": "7785507ef757e5f6cbacec52a606971e",
   },
   {
     "name": "Brian Brazil",
