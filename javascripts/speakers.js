@@ -96,7 +96,7 @@ var rawSpeakers = [
     "abstract": "",
     "videos": [],
     "slides": [],
-    "hash": "dd0081cd62e25c796f50e1401132b19c",
+    "hash": "5784325926329b42c17fa78fa1937f66",
   },
   {
     "name": "Nicole Forsgren",
