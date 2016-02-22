@@ -3,7 +3,7 @@ var sponsors = [
     "name": "signalfx",
     "enabled": true,
     "url": "https://signalfx.com/",
-    "bio": "<p>SignalFx is the most advanced monitoring solution for modern applications. Our mission is to help cloud-ready organizations drive high levels of availability in today’s elastic, agile, distributed environments. With SignalFx, development and operations teams gain a real-time view of, interact with, and take action on the infrastructure and application metrics that matter. We have enterprise customers including Yelp, Zenefits, Zuora, and Hubspot and thousands of users analyzing billions of metrics every day. SignalFx was founded in 2013 by former Facebook and VMware executives, launched in 2015, and is backed by Andreessen Horowitz and Charles River Ventures.</p>"
+    "bio": "<p>SignalFx is the most advanced monitoring solution for modern infrastructure. Our mission is to help teams building and operating services on platforms like AWS, Kafka, Elasticsearch, Zookeeper, Cassandra and more drive high levels of availability.</p><p>SignalFx provides development and operations self-service access to creating, exploring, monitoring, and alerting on real-time infrastructure and application metrics. Using SignalFlow, anyone can easily create analytics pipelines on to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- to reduce the noise, at any scale.</p>"
   },
   {
     "name": "datadog",
