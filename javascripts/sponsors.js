@@ -3,7 +3,7 @@ var sponsors = [
     "name": "signalfx",
     "enabled": true,
     "url": "https://signalfx.com/",
-    "bio": "<p>SignalFx is an advanced monitoring platform for modern applications that lets you create custom analytics pipelines on metrics data collected from thousands or more sources to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- within seconds of receiving data.</p><p>Built on real world experience running web apps at &gt;100k systems. SignalFx can handle multidimensional metrics at any resolution or scale. Use collectd, StatsD, Dropwizard Metrics, our open source client libraries, our open source proxy or any other instrumentation and collection methods you like.</p>"
+    "bio": "<p>SignalFx is the most advanced monitoring solution for modern applications. Our mission is to help cloud-ready organizations drive high levels of availability in today’s elastic, agile, distributed environments. With SignalFx, development and operations teams gain a real-time view of, interact with, and take action on the infrastructure and application metrics that matter. We have enterprise customers including Yelp, Zenefits, Zuora, and Hubspot and thousands of users analyzing billions of metrics every day. SignalFx was founded in 2013 by former Facebook and VMware executives, launched in 2015, and is backed by Andreessen Horowitz and Charles River Ventures.</p>"
   },
   {
     "name": "datadog",
