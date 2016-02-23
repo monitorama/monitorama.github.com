@@ -30,8 +30,8 @@ var sponsors = [
     "name": "operable",
     "enabled": true,
     "url": "http://operable.io/",
-    "width": 225,
-    "bio": ""
+    "width": 250,
+    "bio": "<p>Operable helps your teams work together, learn, and improve every day. Cog, our open source ChatOps platform, gives you all of the power of the command line in the place you already collaborate with your team: your chat window. WIth powerful access control features, you can confidently automate even the most sensitive tasks in chat. Unparalleled adaptability unlocks your creativity so you can combine commands in new ways to rapidly deal with unexpected problems, with your team there backing you up. And when you do want to build a new workflow, Cog lets you use your favorite language while it takes care of the details like access control and logging.</p>"
   },
   {
     "name": "librato",
