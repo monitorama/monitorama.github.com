@@ -67,7 +67,7 @@ var sponsors = [
   },
   {
     "name": "salesforce",
-    "enabled": false,
+    "enabled": true,
     "url": "http://www.salesforce.com/",
     "bio": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
   },
@@ -127,8 +127,20 @@ var sponsors = [
   {
     "name": "opsclarity",
     "enabled": false,
-    "url": "",
+    "url": "http://www.opsclarity.com/",
+    "bio": "<p>OpsClarity is a purpose-built monitoring solution for data-first applications that provides end-to-end performance monitoring for complex data processing pipelines along with deep visibility into the individual data frameworks like Kafka, Spark, Elasticsearch, Storm, Solr, Cassandra etc. OpsClarity completely automates metric and metadata collection, and leverages its deep domain expertise about the individual data frameworks to apply data science constructs such as anomaly detection and event correlation to rapidly troubleshoot issues. The system provides a visual topology of the entire data-pipeline, overlaid with synthesized health of each service and cluster, enabling early identification and quick resolution of common concerns such as throughput, latency, error rate, back pressure etc.</p>"
+  },
+  {
+    "name": "statuspage",
+    "enabled": false,
+    "url": "https://www.statuspage.io/",
     "bio": ""
+  },
+  {
+    "name": "bugsnag",
+    "enabled": false,
+    "url": "https://bugsnag.com/?utm_source=conference_website&utm_medium=logo&utm_campaign=monitorama2016",
+    "bio": "<p>Bugsnag gives engineering teams the tools and workflow they need to spend more time shipping and less time fixing. We help you take a proactive approach to software quality, translating errors into action. With Bugsnag, developers are free to innovate and build applications that can evolve with the pace of modern business.</p>"
   },
   /* {
     "name": "",
