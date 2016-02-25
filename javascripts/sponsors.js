@@ -120,9 +120,9 @@ var sponsors = [
   },
   {
     "name": "sentry",
-    "enabled": false,
-    "url": "",
-    "bio": ""
+    "enabled": true,
+    "url": "https://getsentry.com/",
+    "bio": "<p>Sentry is modern error logging. Get the full stacktrace, request info, and user context of every error. Sentry is completely open source (client and server), supports over two dozen languages and frameworks, has hundreds of contributors, and is deployed in tens of thousands of organizations. Don’t just log errors, resolve them.</p>"
   },
   {
     "name": "opsclarity",
