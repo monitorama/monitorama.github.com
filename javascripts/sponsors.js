@@ -100,7 +100,7 @@ var sponsors = [
   },
   {
     "name": "google",
-    "enabled": false,
+    "enabled": true,
     "url": "https://cloud.google.com/",
     "width": 275,
     "bio": "<p>Google Cloud Platform enables developers to build, test and deploy applications on Google's highly-scalable and reliable infrastructure. Computing, storage and application services for your web, mobile and backend solutions.</p><p>Build on the same infrastructure that allows Google to return search results in milliseconds, serve 6 billion hours of YouTube video per month and provide storage for Gmail users. Visit <a href=\"https://cloud.google.com/\">https://cloud.google.com</a> and get started today.</p>"
