@@ -132,9 +132,10 @@ var sponsors = [
   },
   {
     "name": "statuspage",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.statuspage.io/",
-    "bio": ""
+    "width": 250,
+    "bio": "<p>StatusPage.io was created to help companies be more transparent with their customers and employees during unplanned outages and scheduled maintenance, and to communicate critical system performance metrics. Our product lets any company go from zero to hi-there-sexy-status-page in just a few minutes. Customers like Dyn, New Relic, and Atlassian are already using StatusPage to build trust and cut inbound support costs. Come see why over 2,000 others have settled down with us - on the web at <a href=\"http://statuspage.io/\">statuspage.io</a> or on Twitter at <a href=\"https://twitter.com/StatusPageIO\">@StatusPageIO</a>.</p>"
   },
   {
     "name": "bugsnag",
