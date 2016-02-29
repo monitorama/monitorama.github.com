@@ -110,7 +110,7 @@ var sponsors = [
     "enabled": false,
     "url": "https://www.chef.io/",
     "width": 150,
-    "bio": "<p>We are Chef – the leader in high-velocity IT automation. We give you a model for automating IT infrastructure and applications that drive self-reliance across your development and operations teams. We are the Chef community. We are tens of thousands strong. We are helping your businesses become faster, safer and more flexible, so you win in today's 24x7 digital economy. Join our movement today.</p>"
+    "bio": "<p><b>We are Chef.</b> Chef is the platform for the DevOps workflow. Use Chef to automate and manage it all--infrastructure, run-time environments and applications. The Chef community is tens of thousands strong. The most enduring and transformative companies use Chef to become fast, efficient, and innovative software-driven organizations. Join us today. <a href=\"https://www.chef.io/\">www.chef.io</a></p>"
   },
   {
     "name": "anodot",
