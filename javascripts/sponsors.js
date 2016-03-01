@@ -133,7 +133,7 @@ var sponsors = [
   },
   {
     "name": "bugsnag",
-    "enabled": false,
+    "enabled": true,
     "url": "https://bugsnag.com/?utm_source=conference_website&utm_medium=logo&utm_campaign=monitorama2016",
     "bio": "<p>Bugsnag gives engineering teams the tools and workflow they need to spend more time shipping and less time fixing. We help you take a proactive approach to software quality, translating errors into action. With Bugsnag, developers are free to innovate and build applications that can evolve with the pace of modern business.</p>"
   },
