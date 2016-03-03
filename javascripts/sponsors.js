@@ -80,7 +80,7 @@ var sponsors = [
   },
   {
     "name": "dyn",
-    "enabled": false,
+    "enabled": true,
     "url": "http://dyn.com/",
     "width": 175,
     "bio": "<p>Dyn solutions are at the core of internet performance. Through <strong>traffic management</strong>, <strong>message management</strong> and <strong>performance assurance</strong>, Dyn connects people through the Internet assuring information gets to where it needs to go faster and more reliably than ever before.</p>"
