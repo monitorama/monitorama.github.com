@@ -83,7 +83,7 @@ var sponsors = [
     "enabled": true,
     "url": "http://dyn.com/",
     "width": 175,
-    "bio": "<p>Dyn solutions are at the core of internet performance. Through <strong>traffic management</strong>, <strong>message management</strong> and <strong>performance assurance</strong>, Dyn connects people through the Internet assuring information gets to where it needs to go faster and more reliably than ever before.</p>"
+    "bio": "<p>Dyn is a cloud-based Internet Performance Management company. Dyn helps companies monitor, control, and optimize online infrastructure for an exceptional end-user experience. Through a world-class network and unrivaled, objective intelligence into Internet conditions, Dyn ensures traffic gets delivered faster, safer, and more reliably than ever.</p><p>Dyn is the leading Internet Performance Management provider to the most visited web properties in the world, as measured by the Alexa 500. Dyn delivers more brand loyalty, customer satisfaction, and increased sales from startups to Global 2000 companies and businesses in between. Dyn is Internet Performance. Delivered. Visit <a href=\"http://dyn.com/\">dyn.com</a> for more info on how Dyn delivers.</p>"
   },
   {
     "name": "nsone",
