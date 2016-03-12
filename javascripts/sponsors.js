@@ -120,7 +120,7 @@ var sponsors = [
   },
   {
     "name": "opsclarity",
-    "enabled": false,
+    "enabled": true,
     "url": "http://www.opsclarity.com/",
     "bio": "<p>OpsClarity is a purpose-built monitoring solution for data-first applications that provides end-to-end performance monitoring for complex data processing pipelines along with deep visibility into the individual data frameworks like Kafka, Spark, Elasticsearch, Storm, Solr, Cassandra etc. OpsClarity completely automates metric and metadata collection, and leverages its deep domain expertise about the individual data frameworks to apply data science constructs such as anomaly detection and event correlation to rapidly troubleshoot issues. The system provides a visual topology of the entire data-pipeline, overlaid with synthesized health of each service and cluster, enabling early identification and quick resolution of common concerns such as throughput, latency, error rate, back pressure etc.</p>"
   },
