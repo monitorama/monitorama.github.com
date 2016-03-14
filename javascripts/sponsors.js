@@ -35,7 +35,7 @@ var sponsors = [
   },
   {
     "name": "librato",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.librato.com/?utm_campaign=2016-monitorama&utm_content=logo&utm_medium=sponsor-page&utm_source=monitorama",
     "bio": "<p>Librato is a scalable cloud monitoring platform that provides visibility into the metrics that matter to your applications and infrastructure. From the container and operating system, through the data tier, components and services, Librato gives you out-of-the-box integrations for popular technologies such as AWS, Heroku, Docker, Redis, Nginx, Ruby on Rails, and more. Librato accepts time-series data from any source for real-time aggregation and transformation, easy dashboard creation, visual analysis and correlation, alerting, and storage. Loved by thousands of engineering teams at companies including Heroku, Nextdoor, Moz, Instacart, Slack, and Stitchfix. For more information visit our <a href=\"https://www.librato.com/\">website</a>, read our <a href=\"http://blog.librato.com/\">blog</a>, or follow <a href=\"https://twitter.com/Librato\">@Librato</a> on Twitter.</p>",
   },
