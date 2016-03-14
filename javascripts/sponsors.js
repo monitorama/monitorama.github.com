@@ -113,6 +113,12 @@ var sponsors = [
     "bio": "<p><b>We are Chef.</b> Chef is the platform for the DevOps workflow. Use Chef to automate and manage it all--infrastructure, run-time environments and applications. The Chef community is tens of thousands strong. The most enduring and transformative companies use Chef to become fast, efficient, and innovative software-driven organizations. Join us today. <a href=\"https://www.chef.io/\">www.chef.io</a></p>"
   },
   {
+    "name": "packet",
+    "enabled": false,
+    "url": "https://www.packet.net/",
+    "bio": "<p></p>"
+  },
+  {
     "name": "sentry",
     "enabled": true,
     "url": "https://getsentry.com/",
@@ -137,10 +143,31 @@ var sponsors = [
     "url": "https://bugsnag.com/?utm_source=conference_website&utm_medium=logo&utm_campaign=monitorama2016",
     "bio": "<p>Bugsnag gives engineering teams the tools and workflow they need to spend more time shipping and less time fixing. We help you take a proactive approach to software quality, translating errors into action. With Bugsnag, developers are free to innovate and build applications that can evolve with the pace of modern business.</p>"
   },
+  {
+    "name": "victorops",
+    "enabled": false,
+    "url": "https://victorops.com/",
+    "width": 250,
+    "bio": "<p>VictorOps is the real-time incident management platform focusing on incident lifecycle management and collaboration for IT and DevOps teams. The solution combines the power of people and data to solve IT problems in real-time. The VictorOps platform seamlessly orchestrates team situational awareness, incident creation, escalation, notification, and remediation with team members regardless of physical location or time of day.</p>"
+  },
+  {
+    "name": "threatstack",
+    "enabled": false,
+    "url": "https://www.threatstack.com/",
+    "width": 225,
+    "bio": "<p>Building a complete security solution doesn’t have to be an expensive, complex and time-consuming endeavor. At Threat Stack we set out to create the world’s ﬁrst cloud-native, platform independent, comprehensive security service that is cost-eﬀective and easy-to-use.</p><p>Threat Stack enables growth-driven companies to scale with confidence by identifying and verifying insider threats, external attacks and data loss in real-time. The only cloud-native continuous monitoring solution that gives customers instant visibility and automatically responds to changes in their environment, Threat Stack provides the coverage needed to run secure and compliant, in all environments, without sacrificing speed and efficiency.</p><p>For more information, or to start a free trial, visit <a href=\"https://www.threatstack.com/\">threatstack.com</a>.</p>"
+  },
+  {
+    "name": "elastic",
+    "enabled": false,
+    "url": "https://www.elastic.co/",
+    "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
+  },
   /* {
     "name": "",
+    "enabled": false,
     "url": "",
     "width": 275,
-    "bio": ""
+    "bio": "<p></p>"
   } */
 ]
