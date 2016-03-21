@@ -147,7 +147,7 @@ var sponsors = [
   },
   {
     "name": "victorops",
-    "enabled": false,
+    "enabled": true,
     "url": "https://victorops.com/",
     "width": 250,
     "bio": "<p>VictorOps is the real-time incident management platform focusing on incident lifecycle management and collaboration for IT and DevOps teams. The solution combines the power of people and data to solve IT problems in real-time. The VictorOps platform seamlessly orchestrates team situational awareness, incident creation, escalation, notification, and remediation with team members regardless of physical location or time of day.</p>"
