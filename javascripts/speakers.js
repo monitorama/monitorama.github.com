@@ -69,7 +69,7 @@ var rawSpeakers = [
     "name": "Jessie Frazelle",
     "github": "jfrazelle",
     "twitter": "frazelledazzell",
-    "bio": "Jessie Frazelle works on the Core Team at Docker. That entails fixing bugs, reviewing code, and deciding which features should be added. After graduating from college as a math major, Jessie decided to go into computer science. Most recently Jessie enjoys hacking everything possible into containers. She is a devout Linux user and always awaits trying out the new features.",
+    "bio": "Jessie Frazelle is on the security team at Mesosphere working on multi-tenancy for DCOS. She also recently worked on adding seccomp in Docker. She is typecast as the person who runs everything in containers including desktop apps. Nerd by day, rap battle champion by night.",
     "title": "",
     "abstract": "",
     "videos": [],
