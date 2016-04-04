@@ -33,10 +33,10 @@ var rawSpeakers = [
     "hash": "5cdc13ebb94012de13314f8e3bcfec8b",
   },
   {
-    "name": "Sarah (Lake) Hagan",
+    "name": "Sarah Hagan",
     "github": "thesarahhagan",
     "twitter": "thesarahhagan",
-    "bio": "Sarah Lake Hagan, Ph.D. is a Sr. Data Scientist in the Nordstrom Technology People Lab, a group dedicated to creating an inspiring workplace by focusing on culture. Prior to entering the corporate world, Sarah spent a decade in academia researching human behavior and personality. In addition to her formal role focusing on people analytics and data science, Sarah also helps design the curriculum for our leadership development and change catalyst programs.",
+    "bio": "Sarah Hagan is a Sr. Data Scientist at Redfin using analytics and behavioral psychology to hire the best real estate agents and foster Redfin’s amazing culture. Before that, she worked in a small group within Nordstrom’s Technology division called the People Lab to bring science to people practices. Sarah spent a decade in academia researching human behavior and personality, and has a bunch of publications that she’s pretty sure have only been read by her mom.",
     "title": "",
     "abstract": "",
     "videos": [],
