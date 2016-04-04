@@ -97,7 +97,7 @@ var sponsors = [
     "name": "sumologic",
     "enabled": true,
     "url": "http://www.sumologic.com/",
-    "bio": "<p>Sumo Logic is the next-generation machine data analytics company that leverages Big Data for real-time IT insights.  The company's cloud-based service provides customers with real-time interactive analytics at unprecedented petabyte scale. The Sumo Logic service is powered by patent-pending Elastic Log Processing™ and LogReduce™ technologies, and transforms log data into actionable insights for IT operations, application management, and security and compliance teams. Unlike expensive and complex premise-based solutions, the Sumo Logic service has a low TCO, can be deployed instantly, scales elastically and requires zero maintenance. For more information, visit <a href=\"http://www.sumologic.com/\">www.sumologic.com</a>.</p>"
+    "bio": "<p>Sumo Logic is a secure, cloud-native, machine data analytics service, delivering real-time, continuous intelligence across the entire application lifecycle and stack. More than 1,000 customers around the globe rely on Sumo Logic for the analytics and insights to build, run and secure their modern applications and cloud infrastructures.</p>"
   },
   {
     "name": "google",
