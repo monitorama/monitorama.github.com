@@ -108,7 +108,7 @@ var sponsors = [
   },
   {
     "name": "chef",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.chef.io/",
     "width": 150,
     "bio": "<p><b>We are Chef.</b> Chef is the platform for the DevOps workflow. Use Chef to automate and manage it all--infrastructure, run-time environments and applications. The Chef community is tens of thousands strong. The most enduring and transformative companies use Chef to become fast, efficient, and innovative software-driven organizations. Join us today. <a href=\"https://www.chef.io/\">www.chef.io</a></p>"
