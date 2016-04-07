@@ -27,6 +27,12 @@ var sponsors = [
     "bio": "<p>Netuitive provides a SaaS-based, adaptive monitoring and analytics solution for cloud infrastructure, applications, and services. By ingesting data from multiple sources, Netuitive learns systems behaviors and applies dynamic policies that reduce the manual effort and human-guesswork other monitoring tools typically require. Netuitive’s patented technology enables development and operations teams to visualize the entire stack, automate performance analysis, detect relevant anomalies, and determine efficient capacity utilization. Sign up for your free trial at <a href=\"http://www.netuitive.com/\">www.netuitive.com</a>.</p>"
   },
   {
+    "name": "dataloopio",
+    "enabled": false,
+    "url": "https://www.dataloop.io/",
+    "bio": "<p>Dataloop.IO is a monitoring service for DevOps & Operations teams running Cloud, SaaS, Microservices and IoT services. It is designed to be totally self-service, so teams outside Operations can setup their own monitoring, with custom checks and metrics, using our unique delegated remote setup technology, while still providing your Operations team the visibility and control they need across the entire service.</p><p>Delegate setup to teams running your different products & Micro-Services using our unique account model, let them install the monitoring they need in just a few clicks using our unique Open-Source monitoring packs, create internal packs for all your teams to install with your specific plugins, dashboards and alerts, and finally let developers stream in their Graphite/StatsD metrics alongside their service checks for easily correlation.</p><p>If you're running at scale, and want to offload the burden of setting up monitoring to all your teams, then Dataloop.IO is for you! You can <a href=\"https://www.dataloop.io/\">signup now</a> for a free trial today!</p>"
+  },
+  {
     "name": "operable",
     "enabled": true,
     "url": "http://operable.io/",
