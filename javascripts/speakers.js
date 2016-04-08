@@ -124,7 +124,7 @@ var rawSpeakers = [
     "name": "Kelsey Hightower",
     "github": "kelseyhightower",
     "twitter": "kelseyhightower",
-    "bio": "Kelsey Hightower has worn every hat possible throughout his career in tech, and enjoys leadership roles focused on making things happen and shipping software. Kelsey is a strong open source advocate focused on building simple tools that make people smile. When he is not slinging Go code, you can catch him giving technical workshops covering everything from programming to system administration, and his favorite Linux distro (CoreOS).",
+    "bio": "Kelsey has worn every hat possible throughout his career in tech and enjoys leadership roles focused on making things happen and shipping software. Kelsey is a strong open source advocate focused on building simple tools that make people smile. When he is not slinging Go code, you can catch him giving technical workshops covering everything from Programming to System Administration.",
     "title": "",
     "abstract": "",
     "videos": [],
