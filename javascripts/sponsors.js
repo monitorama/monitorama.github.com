@@ -171,6 +171,12 @@ var sponsors = [
     "url": "https://www.elastic.co/",
     "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
   },
+  {
+    "name": "pivotal",
+    "enabled": true,
+    "url": "http://pivotal.io/",
+    "bio": "<p>Pivotal transforms how the world builds software. Pivotal combines the Silicon Valley state of mind, modern approach, and infrastructure with organizations’ core expertise and values.</p><p>We enable the leading companies in the world to innovate by employing an approach focused on building—not buying—software.</p><p>Our methodology is about evolving, in both development and innovation, and our culture is empowering. Our team uses agile and lean approaches to teach next-generation developers to create and build new solutions. We optimize for change so enterprises can move at start-up speeds and with greater business agility.</p>"
+  },
   /* {
     "name": "",
     "enabled": false,
