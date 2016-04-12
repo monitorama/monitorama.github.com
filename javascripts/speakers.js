@@ -301,7 +301,7 @@ var rawSpeakers = [
     "simple_last_name": "Odegaard",
     "github": "torkelo",
     "twitter": "torkelo",
-    "bio": "Developer consultant and founder of Coding Instinct AB. Torkel was a hobby C/C++ developer in his early teens and university years which later turned into a career as a .NET developer with strong focus on maintainability, TDD and agile. Last couple of years has been a love affair with nodejs, messaging architectures, writing deploy automation and other DevOps related tools. Besides being a professional developer Torkel is a frequent speaker at conferences, meetups and companies on everything from NHibernate, ASP.NET MVC, deploy automation & nodejs.",
+    "bio": "Torkel Ödegaard is the creator of Grafana, the leading open-source solution for visualizing metrics. He is also the co-founder of raintank, a company that is building and proving a metrics and monitoring platform based on open source software. Torkel has a strong focus on maintainability, TDD and agile. The last couple of years has been 100% focused on developing Grafana and leading the project.",
     "title": "",
     "abstract": "",
     "videos": [],
