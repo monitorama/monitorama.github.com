@@ -177,6 +177,12 @@ var sponsors = [
     "url": "http://pivotal.io/",
     "bio": "<p>Pivotal transforms how the world builds software. Pivotal combines the Silicon Valley state of mind, modern approach, and infrastructure with organizations’ core expertise and values.</p><p>We enable the leading companies in the world to innovate by employing an approach focused on building—not buying—software.</p><p>Our methodology is about evolving, in both development and innovation, and our culture is empowering. Our team uses agile and lean approaches to teach next-generation developers to create and build new solutions. We optimize for change so enterprises can move at start-up speeds and with greater business agility.</p>"
   },
+  {
+    "name": "walmartlabs",
+    "enabled": true,
+    "url": "http://www.walmartlabs.com/",
+    "bio": "<p>Walmart’s Global eCommerce division combines the mobile and online innovations of Walmart.com, SamsClub.com and VUDU, as well as physical stores. Our technology experiences are powered by @WalmartLabs. Here, innovators incubate next gen e-commerce solutions in real time for billions of customers around the globe. Our engineering, big data, web, mobile and business teams collaborate to build technology that creates billions of connected omni-channel shopping experiences for the world’s largest global retailer. With more than 3,000 associates in Silicon Valley, San Francisco Bay Area, San Diego, Portland, Bangalore, Canada and Brazil, we’re bringing together the best entrepreneurs, engineers, technologists, data scientists, and Internet professionals.</p>"
+  },
   /* {
     "name": "",
     "enabled": false,
