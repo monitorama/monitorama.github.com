@@ -103,7 +103,7 @@ var rawSpeakers = [
     "github": "",
     "twitter": "nicolefv",
     "bio": "Nicole Forsgren Nicole is an expert in IT use, DevOps impacts, and communication and knowledge management practices, particularly among technical professionals. Her background spans analytics, enterprise storage (specializing in RAID performance), cost allocation, user experience, and systems design and development. She is a featured speaker at industry and academic events and is involved in women in technology initiatives.",
-    "title": "",
+    "title": "How Metrics Shape Your Culture",
     "abstract": "",
     "videos": [],
     "slides": [],
