@@ -15,7 +15,7 @@ var rawSpeakers = [
     "github": "grepory",
     "twitter": "grepory",
     "bio": "Greg Poirier is the engineering lead at Opsee where they are trying to do the Lord's work spreading monitoring to the unwatched masses of AWS. Prior to Opsee, Greg spent fifteen years cobbling (hobbling?) systems at weird places like EarthLink, Oracle, and Los Alamos National Laboratory. Greg is also an opera singer.",
-    "title": "",
+    "title": "Monitoring is Dead. Long Live Monitoring",
     "abstract": "",
     "videos": [],
     "slides": [],
