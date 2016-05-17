@@ -113,10 +113,15 @@ for (var i in speakers) {
 
   $('section.speakers ul').append('<li class="speaker">' + image + name + slides + twitter + github + bio + video + '</li>');
 
-  // populate abstracts for schedule
-  if (speakers[i].abstract.length > 0) {
-    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
+  // populate titles for schedule
+  if (speakers[i].title.length > 0) {
+    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].title);
   }
+
+  // populate abstracts for schedule
+  //if (speakers[i].abstract.length > 0) {
+  //  $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
+  //}
 
   // display abstracts on hover
   $('section.schedule').on('mouseenter', 'td.session', function() {
