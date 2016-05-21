@@ -178,10 +178,23 @@ var sponsors = [
     "bio": "<p>Pivotal transforms how the world builds software. Pivotal combines the Silicon Valley state of mind, modern approach, and infrastructure with organizations’ core expertise and values.</p><p>We enable the leading companies in the world to innovate by employing an approach focused on building—not buying—software.</p><p>Our methodology is about evolving, in both development and innovation, and our culture is empowering. Our team uses agile and lean approaches to teach next-generation developers to create and build new solutions. We optimize for change so enterprises can move at start-up speeds and with greater business agility.</p>"
   },
   {
+    "name": "bloomberg",
+    "enabled": false,
+    "url": "http://www.techatbloomberg.com/",
+    "bio": "<p></p>"
+  },
+  {
     "name": "walmartlabs",
     "enabled": true,
     "url": "http://www.walmartlabs.com/",
     "bio": "<p>Walmart’s Global eCommerce division combines the mobile and online innovations of Walmart.com, SamsClub.com and VUDU, as well as physical stores. Our technology experiences are powered by @WalmartLabs. Here, innovators incubate next gen e-commerce solutions in real time for billions of customers around the globe. Our engineering, big data, web, mobile and business teams collaborate to build technology that creates billions of connected omni-channel shopping experiences for the world’s largest global retailer. With more than 3,000 associates in Silicon Valley, San Francisco Bay Area, San Diego, Portland, Bangalore, Canada and Brazil, we’re bringing together the best entrepreneurs, engineers, technologists, data scientists, and Internet professionals.</p>"
+  },
+  {
+    "name": "squarespace",
+    "enabled": true,
+    "url": "https://www.squarespace.com/",
+    "width": 225,
+    "bio": "<p>Squarespace provides creative tools and services to help anyone build and manage their brand online. For more than a decade, we’ve empowered millions of people — from individuals and local artists to entrepreneurs building the world’s most iconic businesses — to take control of their online presence like never before. By blending elegant design and sophisticated engineering, Squarespace sets the new standard for modern publishing.</p><p>Since 2004, Squarespace has offered a fully-hosted environment for creating and maintaining a website. Known for its sophisticated yet easy-to-use interfaces, Squarespace's do-it-yourself tools allow its increasingly diverse user base to quickly and easily create and maintain professional, high-quality websites and e-commerce stores.</p><p>Squarespace’s team of more than 500+ is headquartered in downtown New York City, with offices in Dublin and Portland.</p>"
   },
   /* {
     "name": "",
