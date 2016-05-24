@@ -33,6 +33,12 @@ var sponsors = [
     "bio": "<p>Dataloop.IO is a monitoring service for DevOps & Operations teams running Cloud, SaaS, Microservices and IoT services. It is designed to be totally self-service, so teams outside Operations can setup their own monitoring, with custom checks and metrics, using our unique delegated remote setup technology, while still providing your Operations team the visibility and control they need across the entire service.</p><p>Delegate setup to teams running your different products & Micro-Services using our unique account model, let them install the monitoring they need in just a few clicks using our unique Open-Source monitoring packs, create internal packs for all your teams to install with your specific plugins, dashboards and alerts, and finally let developers stream in their Graphite/StatsD metrics alongside their service checks for easily correlation.</p><p>If you're running at scale, and want to offload the burden of setting up monitoring to all your teams, then Dataloop.IO is for you! You can <a href=\"https://www.dataloop.io/\">signup now</a> for a free trial today!</p>"
   },
   {
+    "name": "logzio",
+    "enabled": true,
+    "url": "http://logz.io/",
+    "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
+  },
+  {
     "name": "operable",
     "enabled": true,
     "url": "http://operable.io/",
