@@ -276,14 +276,14 @@ var rawSpeakers = [
   },
   {
     "name": "John Banning",
-    "github": "sjcarriere",
-    "twitter": "sjcarriere",
-    "bio": "",
+    "github": "",
+    "twitter": "",
+    "bio": "John Banning has been working on monitoring systems at Google for 9 years and is tech lead for the Monarch query engine.  Prior to Google he was at Transmeta (dynamic code translation), SGI (dynamic code generation), and various startups (compiler and computer architecture things).",
     "title": "Monarch, Google’s Planet-Scale Monitoring Infrastructure",
     "abstract": "",
     "videos": [],
     "slides": [],
-    "hash": "199359688276fbed5dbb871cf85c73f4",
+    "hash": "a894f2bd9976645e90301dd50c6f2f02",
   },
   {
     "name": "Joe Damato",
