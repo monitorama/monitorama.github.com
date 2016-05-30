@@ -178,6 +178,12 @@ var sponsors = [
     "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
   },
   {
+    "name": "splunk",
+    "enabled": true,
+    "url": "http://www.splunk.com/",
+    "bio": "<p>Splunk Inc. (NASDAQ: SPLK) provides the leading software platform for real-time Operational Intelligence. Splunk® software and cloud services enable organizations to search, monitor, analyze and visualize machine-generated big data coming from websites, applications, servers, networks, sensors and mobile devices. More than 10,000 enterprises, government agencies, universities and service providers in over 100 countries use Splunk software to deepen business and customer understanding, mitigate cybersecurity risk, prevent fraud, improve service performance and reduce costs. Splunk products include Splunk® Enterprise, Splunk Cloud™, Hunk®, Splunk Light and premium Splunk Apps. To learn more, please visit <a href=\"http://www.splunk.com/company\">http://www.splunk.com/company</a>.</p>"
+  },
+  {
     "name": "pivotal",
     "enabled": true,
     "url": "http://pivotal.io/",
