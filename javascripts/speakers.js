@@ -202,7 +202,7 @@ var rawSpeakers = [
     "github": "",
     "twitter": "",
     "bio": "Brian has been a Production Engineer at Facebook for 3.91 years working with the performance monitoring (ODS, Scuba) and alerting systems there, as well as the distributed message bus, Scribe.",
-    "title": "The Tao of Monitoring",
+    "title": "The Art of Performance Monitoring",
     "abstract": "",
     "videos": [],
     "slides": [],
