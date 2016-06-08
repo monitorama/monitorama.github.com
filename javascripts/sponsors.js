@@ -213,7 +213,7 @@ var sponsors = [
     "enabled": true,
     "url": "https://www.codewithtarget.com/",
     "width": 225,
-    "bio": "<p>With a digital career at Target, you’ll help transform one of the nation’s most-loved brands. Develop innovative solutions, leverage cutting-edge technologies to make our platforms even better, or drive this critical work forward through marketing or project management. Check out all of our jobs here. If you are a developer, check out <a href=\"https://www.codewithtarget.com/\">CodewithTarget.com</a>.</p>"
+    "bio": "<p>With a digital career at Target, you’ll help transform one of the nation’s most-loved brands. Develop innovative solutions, leverage cutting-edge technologies to make our platforms even better, or drive this critical work forward through marketing or project management. If you are a developer, check out <a href=\"https://www.codewithtarget.com/\">CodewithTarget.com</a>.</p>"
   },
   {
     "name": "oreilly",
