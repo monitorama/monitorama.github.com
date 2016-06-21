@@ -69,7 +69,7 @@ var rawSpeakers = [
     "name": "Jessie Frazelle",
     "github": "jfrazelle",
     "twitter": "frazelledazzell",
-    "bio": "Jessie Frazelle is on the security team at Mesosphere working on multi-tenancy for DCOS. She also recently worked on adding seccomp in Docker. She is typecast as the person who runs everything in containers including desktop apps. Nerd by day, rap battle champion by night.",
+    "bio": "Jessie Frazelle loves all things containers, Linux, and golang. She is a previous docker maintainer, added features such as seccomp and created tooling around runc. She is typecast as the person who runs everything in containers including desktop apps. Nerd by day, rap battle champion by night.",
     "title": "Everything is Broken",
     "abstract": "",
     "videos": [],
