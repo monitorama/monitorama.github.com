@@ -525,7 +525,7 @@ section.welcome {
   margin-bottom: 40px;
 }
 
-.schedule .video-stream p {
+.schedule .video-stream p, .watch .video-stream p {
   margin: 0;
 }
 
