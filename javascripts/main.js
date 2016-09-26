@@ -95,23 +95,20 @@ for (var i in speakers) {
     twitter = '<span class="twitter"><a href="https://twitter.com/' +
       speakers[i].twitter + '" target="_new"><i class="fa fa-twitter"></i></a></span>';
   }
-  var bio = '<p class="bio">' + speakers[i].bio + '</p>';
   var video = '';
+  if (speakers[i].video.length > 0) {
+    video = '<span class="video"><a href="https://vimeo.com/' +
+      speakers[i].video + '" target="_new"><i class="fa fa-video-camera"></i></a></span>';
+  }
   var slides = '';
-
-  if (speakers[i].videos) {
-    for (var j in speakers[i].videos) {
-      video += '<iframe src="http://player.vimeo.com/video/' + speakers[i].videos[j] + '" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
-    }
+  if (speakers[i].slides.length > 0) {
+    slides = '<span class="slides"><a href="' +
+      speakers[i].slides + '" target="_new"><i class="fa fa-slideshare"></i></a></span>';
   }
 
-  if (speakers[i].slides) {
-    for (var j in speakers[i].slides) {
-      slides += '<span class="slides"><a href="' + speakers[i].slides[j] + '" target="_new">slides</a></span>';
-    }
-  }
+  var bio = '<p class="bio">' + speakers[i].bio + '</p>';
 
-  $('section.speakers ul').append('<li class="speaker">' + image + name + slides + twitter + github + bio + video + '</li>');
+  $('section.speakers ul').append('<li class="speaker">' + image + name + slides + video + twitter + github + bio + '</li>');
 
   // populate titles for schedule
   if (speakers[i].title.length > 0) {

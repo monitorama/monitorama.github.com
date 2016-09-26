@@ -491,17 +491,25 @@ section.welcome {
   font-weight: bold;
 }
 
-.speakers li span.github, .speakers li span.twitter, .speakers li span.slides {
+.speakers li span.github,
+.speakers li span.twitter,
+.speakers li span.video,
+.speakers li span.slides {
   float: right;
   margin: 0;
 }
 
-.speakers li span.github a i, .speakers li span.twitter a i, .speakers li span.slides a i {
+.speakers li span.github a i,
+.speakers li span.twitter a i,
+.speakers li span.video a i,
+.speakers li span.slides a i {
   text-decoration: none;
   color: #C0BFBF;
 }
 
-.speakers li span.twitter, .speakers li span.slides {
+.speakers li span.twitter,
+.speakers li span.video,
+.speakers li span.slides {
   margin-left: 15px;
 }
 
@@ -511,6 +519,14 @@ section.welcome {
 
 .speakers li span.twitter a:hover i {
   color: rgb(47, 138, 231);
+}
+
+.speakers li span.video a:hover i {
+  color: rgb(0, 173, 239);
+}
+
+.speakers li span.slides a:hover i {
+  color: orange;
 }
 
 .speakers li p.bio {
