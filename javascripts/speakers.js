@@ -7,7 +7,7 @@ var rawSpeakers = [
     "title": "Monitoring Challenges",
     "abstract": "Every few years the applications and infrastructure landscape changes significantly enough that existing tools become uneconomic and struggle to keep up. This has been happening for decades. Which dinosaurs will be disrupted by what, and who gets to survive and thrive?",
     "video": "173609948",
-    "slides": "",
+    "slides": "http://www.slideshare.net/adriancockcroft/monitoring-challenges-monitorama-2016-monitoringless",
     "hash": "e896a34f14b98f376519b5ed85d1359c",
   },
   {
@@ -40,7 +40,7 @@ var rawSpeakers = [
     "title": "Going for Brokerage: People Analytics at Redfin",
     "abstract": "How do you scale a start-up and redefine an industry at the same time? Through making bets on our employees and measuring our people decisions, we've been able to grow while simultaneously serving our customers, making our people happy, and staying connected to our culture. This talk will explain how we've done this: by using people data!",
     "video": "173610283",
-    "slides": "",
+    "slides": "http://www.slideshare.net/SarahLakeHagan/monitorama-2016",
     "hash": "8664c9ba66460f17a38b5bf4c9fad99f",
   },
   {
@@ -51,7 +51,7 @@ var rawSpeakers = [
     "title": "Tackling Alert Fatigue",
     "abstract": "Systems that generating numerous critical alerts result in alert fatigue which can result in service outages and developer burnout.  My team at Twitter found themselves in this situation.  The services had scaled by an order of magnitude in two years and were generating hundreds of alerts per quarter. Over the course of a quarter I led an initiative to decrease the number of alerts, improve the experience of being on call, and increase the reliability of the services.  These efforts were incredibly successful reducing the number of critical alerts by 50%.  In this talk I’ll discuss the process and alerting best practices we’ve put in places to successfully combat alert fatigue and avoid over alerting in the future.",
     "video": "173704290",
-    "slides": "",
+    "slides": "https://speakerdeck.com/caitiem20/tackling-alert-fatigue",
     "hash": "9128d500301ae51524e887bb680f471d",
   },
   {
@@ -84,7 +84,7 @@ var rawSpeakers = [
     "title": "Everything @obfuscurity taught me about Monitoring",
     "abstract": "",
     "video": "173607648",
-    "slides": "",
+    "slides": "http://www.slideshare.net/petecheslock/everything-obfuscurity-taught-me-about-monitoring",
     "hash": "6f8b01a43eb907d6b473b37724bfc492",
   },
   {
@@ -95,7 +95,7 @@ var rawSpeakers = [
     "title": "How to Teach an Old Monitoring System New Tricks",
     "abstract": "Nagios is old, but you don't have to keep using it the same way you did when it came out of the box in 1999. At Etsy, we've been using Nagios for the better part of a decade to monitor our growing infrastructure, and over that time have found quite a few ways to help it grow beyond what it could do originally. In this talk, I'll share improvements that we've made to our Nagios instances in terms of scaling, deployment, and alerting, and talk about lessons we learned along the way that will be useful (or at least entertaining) to anyone else who hasn't yet switched over to the most bleeding-edge monitoring.",
     "video": "173607641",
-    "slides": "",
+    "slides": "https://speakerdeck.com/kdaniels/teaching-an-old-monitoring-system-new-tricks",
     "hash": "5784325926329b42c17fa78fa1937f66",
   },
   {
@@ -106,7 +106,7 @@ var rawSpeakers = [
     "title": "How Metrics Shape Your Culture",
     "abstract": "",
     "video": "173607646",
-    "slides": "",
+    "slides": "http://www.slideshare.net/nicolefv/2016-metricsasculture",
     "hash": "db9efd6cff3682fe3b296d93cec1ee10",
   },
   {
@@ -161,7 +161,7 @@ var rawSpeakers = [
     "title": "Building Twitter’s Next-Gen Alerting System",
     "abstract": "",
     "video": "173607647",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1K4e7uB0wBzrlq5EctCvWEyok0gTOz-1Sh9Ya-o6NeRw",
     "hash": "bd7faa0afa74f65533784141394adb89",
   },
   {
@@ -172,7 +172,7 @@ var rawSpeakers = [
     "title": "Building Twitter’s Next-Gen Alerting System",
     "abstract": "",
     "video": "173607647",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1K4e7uB0wBzrlq5EctCvWEyok0gTOz-1Sh9Ya-o6NeRw",
     "hash": "c8a4f7608944fb509436efa5d105d025",
   },
   {
@@ -183,7 +183,7 @@ var rawSpeakers = [
     "title": "Building Twitter’s Next-Gen Alerting System",
     "abstract": "",
     "video": "173607647",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1K4e7uB0wBzrlq5EctCvWEyok0gTOz-1Sh9Ya-o6NeRw",
     "hash": "1e5cc2083ec647f38793b31cac9483b1",
   },
   {
@@ -194,7 +194,7 @@ var rawSpeakers = [
     "title": "Scaling Pinterest’s Monitoring System",
     "abstract": "",
     "video": "173704315",
-    "slides": "",
+    "slides": "http://www.slideshare.net/BrianOverstreet1/scaling-pinterests-monitoring",
     "hash": "ef13def97d9817342385937a0fe6c86d",
   },
   {
@@ -227,7 +227,7 @@ var rawSpeakers = [
     "title": "Database Monitoring at Dropbox",
     "abstract": "",
     "video": "173607649",
-    "slides": "",
+    "slides": "https://paper.dropbox.com/doc/Database-Monitoring-at-Dropbox--0JUfRc532EeRDAc1aPYCv",
     "hash": "a0e575168fead313daa6eff1d7e07862",
   },
   {
@@ -260,7 +260,7 @@ var rawSpeakers = [
     "title": "CHICKEN and WAFFLES: Identifying and Handling Malice",
     "abstract": "",
     "video": "173704281",
-    "slides": "",
+    "slides": "https://github.com/sohonet/monitorama2016/raw/master/Chicken%20and%20Waffles%20-%20Monitorama%202016.pdf",
     "hash": "fb3d82495deb6b606047ddddd7b4e53d",
   },
   {
@@ -271,7 +271,7 @@ var rawSpeakers = [
     "title": "CHICKEN and WAFFLES: Identifying and Handling Malice",
     "abstract": "",
     "video": "173704281",
-    "slides": "",
+    "slides": "https://github.com/sohonet/monitorama2016/raw/master/Chicken%20and%20Waffles%20-%20Monitorama%202016.pdf",
     "hash": "232d0e53d22ef62bc97f16c969304ee9",
   },
   {
@@ -293,7 +293,7 @@ var rawSpeakers = [
     "title": "All of Your Network Monitoring is (probably) Wrong",
     "abstract": "",
     "video": "173610178",
-    "slides": "",
+    "slides": "http://www.slideshare.net/ice799/all-of-your-network-monitoring-is-probably-wrong",
     "hash": "c04065668da428ba1395912d28094977",
   },
   {
@@ -316,7 +316,7 @@ var rawSpeakers = [
     "title": "Statistics for Engineers",
     "abstract": "",
     "video": "173610069",
-    "slides": "",
+    "slides": "http://www.slideshare.net/HeinrichHartmann/statistics-for-engineers-63589022",
     "hash": "7785507ef757e5f6cbacec52a606971e",
   },
   {
