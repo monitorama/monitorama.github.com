@@ -18,7 +18,7 @@ var rawSpeakers = [
     "title": "Monitoring is Dead. Long Live Monitoring",
     "abstract": "",
     "video": "173610062",
-    "slides": "",
+    "slides": "https://speakerdeck.com/grepory/monitoring-is-dead",
     "hash": "259beac7ff47be27617cd1b6911da99a",
   },
   {
@@ -29,7 +29,7 @@ var rawSpeakers = [
     "title": "Humanscale Systems",
     "abstract": "",
     "video": "173607645",
-    "slides": "",
+    "slides": "https://speakerdeck.com/imbriaco/human-scale-systems-monitorama-2016",
     "hash": "5cdc13ebb94012de13314f8e3bcfec8b",
   },
   {
@@ -139,7 +139,7 @@ var rawSpeakers = [
     "title": "Creating A Culture of Observability at Stripe",
     "abstract": "",
     "video": "173610034",
-    "slides": "",
+    "slides": "http://www.slideshare.net/CoryWatson8/building-a-culture-of-observability-at-stripe",
     "hash": "71cf2895e28fd3a575e0b9cdfd4346ea",
   },
   {
