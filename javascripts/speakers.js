@@ -249,7 +249,7 @@ var rawSpeakers = [
     "title": "What Your Javascript Does When You're Not Around",
     "abstract": "",
     "video": "173610415",
-    "slides": "",
+    "slides": "https://speakerdeck.com/eanakashima/what-your-javascript-does-when-youre-not-around",
     "hash": "187b1d0ce8cbf89fe3391f6be6fa9799",
   },
   {
