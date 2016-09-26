@@ -73,7 +73,7 @@ var rawSpeakers = [
     "title": "Everything is Broken",
     "abstract": "",
     "video": "173704265",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1fX9fRY2sO_VKAyTWimCBUo9UO1tmhZjRfaYYcAaPE8g",
     "hash": "405662bb91cbeea8ffc407f14fbcb2d9",
   },
   {
