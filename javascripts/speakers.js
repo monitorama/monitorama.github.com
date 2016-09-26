@@ -327,7 +327,7 @@ var rawSpeakers = [
     "title": "Prometheus",
     "abstract": "",
     "video": "173704322",
-    "slides": "",
+    "slides": "http://www.slideshare.net/brianbrazil/prometheus-monitorama-2016",
     "hash": "9d44a6dc5c04873b46a955ba1a476938",
   }
   /* {
