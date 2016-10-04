@@ -128,7 +128,7 @@ var rawSpeakers = [
     "title": "healthz: Stop reverse engineering applications and start monitoring from the inside",
     "abstract": "",
     "video": "173610242",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/11qlgvg1YDXWg6rlpXzrMx98PggD6Z6TGLC2K3cUDBc0/edit#slide=id.p",
     "hash": "b982a7cca32ca53868fe9d284d69096d",
   },
   {
