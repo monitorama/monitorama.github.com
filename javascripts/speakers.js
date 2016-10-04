@@ -150,7 +150,7 @@ var rawSpeakers = [
     "title": "Intuition Engineering at Netflix",
     "abstract": "",
     "video": "173607639",
-    "slides": "",
+    "slides": "http://www.slideshare.net/JustinReynolds10/monitorama-pdx-2016-vizceral-traffic-intuition",
     "hash": "773ffca8dbcca536aec55795501dca65",
   },
   {
@@ -216,7 +216,7 @@ var rawSpeakers = [
     "title": "Monitoring and Health at Airbnb",
     "abstract": "",
     "video": "173704175",
-    "slides": "",
+    "slides": "https://speakerdeck.com/joeyparsons/monitoring-and-health-at-airbnb",
     "hash": "cde3b49119745b53390941ddf0af037b",
   },
   {
