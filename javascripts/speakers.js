@@ -238,7 +238,7 @@ var rawSpeakers = [
     "title": "Fake it Til You Make It",
     "abstract": "",
     "video": "173610212",
-    "slides": "",
+    "slides": "http://www.slideshare.net/jxstanford/fake-it-til-you-make-it-66767690",
     "hash": "703ff61d5eda14aafcadd39ecc00d3b3",
   },
   {
