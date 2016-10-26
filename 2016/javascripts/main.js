@@ -16,7 +16,7 @@ var setSection = function(name) {
 }
 
 // load view by click from navbar
-$('header ul li.internal').on('click', 'a', function() {
+$('header ul li').on('click', 'a', function() {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
@@ -126,15 +126,6 @@ for (var i in speakers) {
   }).on('mouseleave', 'td.session', function() {
     $(this).children('span').addClass('hidden');
   });
-}
-
-// hide sponsors title and list if empty
-if (sponsors.length === 0) {
-  $($('.sponsors h4')[0]).addClass('hidden');
-  $('.sponsors div.sponsors').addClass('hidden');
-} else {
-  $($('.sponsors h4')[0]).removeClass('hidden');
-  $('.sponsors div.sponsors').removeClass('hidden');
 }
 
 // iterate through sponsors

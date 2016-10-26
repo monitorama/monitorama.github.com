@@ -238,7 +238,7 @@ div.banner {
 }
 
 .location {
-  background-color: rgb(14, 100, 169);
+  background-color: rgb(157, 113, 194);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -348,10 +348,6 @@ div.banner {
 .navbar-header-ttc ul li a:focus {
   outline: none;
 }
-
-.navbar-header-ttc ul li a.eu {
-  color: rgb(244, 67, 54);
-}
 /* end Navigation bar */
 
 /* start Corner Ribbon */
@@ -390,7 +386,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(14, 100, 169);
+  color: rgb(157, 113, 194);
   margin: 50px 0;
 }
 
@@ -410,7 +406,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(14, 100, 169);
+  color: rgb(157, 113, 194);
 }
 
 section p em, section span em {
@@ -455,7 +451,7 @@ section.welcome {
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
-  color: rgb(14, 100, 169);
+  color: rgb(157, 113, 194);
 }
 
 .cfp ::-webkit-input-placeholder {
@@ -574,7 +570,7 @@ section.welcome {
 
 .schedule ul li div.wrap.header {
   color: #fff;
-  background-color: rgb(14, 100, 169);
+  background-color: rgb(157, 113, 194);
 }
 
 .schedule ul li div.wrap.header span {
@@ -759,6 +755,7 @@ div.prospectus {
 div.marquee {
   text-align: center;
   padding-top: 25px;
+  //border-top: 1px solid #ddd;
 }
 
 .marquee img {
@@ -777,7 +774,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(14, 100, 169);
+  color: rgb(157, 113, 194);
 }
 
 footer ul {
