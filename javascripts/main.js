@@ -16,7 +16,7 @@ var setSection = function(name) {
 }
 
 // load view by click from navbar
-$('header ul li').on('click', 'a', function() {
+$('header ul li.internal').on('click', 'a', function() {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
