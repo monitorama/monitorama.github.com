@@ -128,6 +128,15 @@ for (var i in speakers) {
   });
 }
 
+// hide sponsors title and list if empty
+if (sponsors.length === 0) {
+  $($('.sponsors h4')[0]).addClass('hidden');
+  $('.sponsors div.sponsors').addClass('hidden');
+} else {
+  $($('.sponsors h4')[0]).removeClass('hidden');
+  $('.sponsors div.sponsors').removeClass('hidden');
+}
+
 // iterate through sponsors
 for (var i in sponsors) {
   if (sponsors[i].name.length && sponsors[i].enabled && sponsors[i].url.length && sponsors[i].bio.length) {
