@@ -68,7 +68,7 @@ var sponsors = [
   },
   {
     "name": "bigpanda",
-    "enabled": false,
+    "enabled": true,
     "url": "http://bigpanda.io/",
     "width": 225,
     "bio": "<p>BigPanda is the next generation in Intelligent Incident Management for IT, NOC and DevOps teams. BigPanda's data science platform brings order to the alert chaos that plagues IT Operations in complex cloud and on-premise operating environments.  BigPanda aggregates, consolidates, and correlates massive amounts of IT alerts, deployments and communications, thus turning them into actionable insights. For more information, visit: <a href=\"http://www.bigpanda.io\">http://www.bigpanda.io</a>.</p>"
