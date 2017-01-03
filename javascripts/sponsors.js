@@ -75,7 +75,7 @@ var sponsors = [
   },
   {
     "name": "elastic",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.elastic.co/",
     "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
   },
