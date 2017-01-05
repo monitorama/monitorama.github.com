@@ -99,4 +99,11 @@ var sponsors = [
     "url": "https://www.dataloop.io/",
     "bio": "<p>Dataloop.IO is a monitoring service for DevOps & Operations teams running Cloud, SaaS, Microservices and IoT services. It is designed to be totally self-service, so teams outside Operations can setup their own monitoring, with custom checks and metrics, using our unique delegated remote setup technology, while still providing your Operations team the visibility and control they need across the entire service.</p><p>Delegate setup to teams running your different products & Micro-Services using our unique account model, let them install the monitoring they need in just a few clicks using our unique Open-Source monitoring packs, create internal packs for all your teams to install with your specific plugins, dashboards and alerts, and finally let developers stream in their Graphite/StatsD metrics alongside their service checks for easily correlation.</p><p>If you're running at scale, and want to offload the burden of setting up monitoring to all your teams, then Dataloop.IO is for you! You can <a href=\"https://www.dataloop.io/\">signup now</a> for a free trial today!</p>"
   },
+  {
+    "name": "threatstack",
+    "enabled": false,
+    "url": "https://www.threatstack.com/",
+    "width": 225,
+    "bio": "<p>Building a complete security solution doesn’t have to be an expensive, complex and time-consuming endeavor. At Threat Stack we set out to create the world’s ﬁrst cloud-native, platform independent, comprehensive security service that is cost-eﬀective and easy-to-use.</p><p>Threat Stack enables growth-driven companies to scale with confidence by identifying and verifying insider threats, external attacks and data loss in real-time. The only cloud-native continuous monitoring solution that gives customers instant visibility and automatically responds to changes in their environment, Threat Stack provides the coverage needed to run secure and compliant, in all environments, without sacrificing speed and efficiency.</p><p>For more information, or to start a free trial, visit <a href=\"https://www.threatstack.com/\">threatstack.com</a>.</p>"
+  },
 ]
