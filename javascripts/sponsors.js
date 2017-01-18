@@ -44,7 +44,7 @@ var sponsors = [
     "enabled": true,
     "url": "http://moogsoft.com/",
     "width": "175",
-    "bio": "<p>Moogsoft provides cloud-based and on-premise software that automates incident early warning and collaborative remediation, used by IT Ops, DevOps and Dev/QA teams. An agile approach to operational analytics and management, we help businesses achieve continuous availability of applications and services at scale.</p><p>Providing visibility across the entire stack – from applications down to the underlying infrastructure – Moogsoft automates the detection and prediction of complex service failures as they happen, helping support teams to move faster. Using breakthrough machine learning and social collaboration technologies across silo-ed domains, we turn the volumes of event and alert data produced by applications, tools and infrastructures into actionable insight. Moogsoft is used by leading SaaS providers, global enterprises, and cloud service providers to reduce alert fatigue, finding and resolving incidents well before customers call to complain. Learn more at <a href=\"http://www.moogsoft.com/\">www.moogsoft.com</a>.</p>"
+    "bio": "<p>Moogsoft is a leading provider of Algorithmic IT Operations (AIOps) software for modern private, public cloud and hybrid IT environments. The company delivers machine learning-based incident management solutions for large, dynamic and heterogeneous environments, helping companies such as Cisco, Royal Bank of Canada, Yahoo, and GoDaddy to detect, triage and resolve incidents inside their production environments and improve service quality. To learn more visit: <a href=\"http://www.moogsoft.com/\">www.moogsoft.com</a></p>"
   },
   {
     "name": "signifai",
