@@ -88,7 +88,7 @@ var sponsors = [
   },
   {
     "name": "nsone",
-    "enabled": false,
+    "enabled": true,
     "url": "https://ns1.com/",
     "width": 125,
     "bio": "<p>NS1's intelligent DNS and traffic management platform, with its data driven architecture and unique Filter Chain routing engine, is purpose-built for the most demanding, mission-critical applications on the Internet. NS1's comprehensive platform technology leverages infrastructure, application, and network data to make intelligent routing decisions in real time, ensuring optimal application performance and reliability. NS1's platform is delivered through its world class Managed DNS Network for customers including Imgur, MaxCDN, Collective Media, OpenX and many more.</p>"
