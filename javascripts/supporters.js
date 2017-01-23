@@ -113,4 +113,11 @@ var sponsors = [
     "width": 240,
     "bio": "<p>Catchpoint is a leading Digital Performance Analytics company that provides unparalleled insight into your customer-critical services to help you consistently deliver an amazing customer experience. Designed for digital business, Catchpoint is the only end-user experience monitoring (EUM) platform that can simultaneously capture, index and analyze object level performance data inline across the most extensive monitor types and node coverage, enabling a smarter and faster way to preempt issues and optimize service delivery. More that 350 customers in over 30 countries trust Catchpoint to strengthen their brand and grow their business.</p>"
   },
+  {
+    "name": "packet",
+    "enabled": false,
+    "url": "https://www.packet.net/",
+    "width": 175,
+    "bio": "<p>At Packet, our mission is to bring the automation experience of virtual public clouds to bare metal servers and physical networks.</p><p>What does this mean?  It means you can program against dedicated servers (and a zippy dual stack network) using the modern developer's toolset.  In addition to an elegant API, we offer full meta data support and integrate with tools like Terraform, Docker Cloud, Rancher, and more.</p><p>A single machine for your API builds?  A cluster for your Grafana stack? 150 nodes for crunching that big data backlog at 2am?  No sweat!  Since 99.9% of our installs deploy in under 10 minutes, you can tap into powerful bare metal servers just like you would the public cloud.</p><p>We have three locations (NYC, San Jose, Amsterdam); support CoreOs, Debian, Ubuntu, Windows, ESXi, FreeBSD and Rancher; and have hourly pricing from $.05 - $1.75 / hr.</p><p>Learn more at <a href=\"http://www.packet.net/\">www.packet.net</a>.</p>"
+  },
 ]
