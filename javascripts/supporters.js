@@ -101,7 +101,7 @@ var sponsors = [
   },
   {
     "name": "threatstack",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.threatstack.com/",
     "width": 225,
     "bio": "<p>Building a complete security solution doesn’t have to be an expensive, complex and time-consuming endeavor. At Threat Stack we set out to create the world’s ﬁrst cloud-native, platform independent, comprehensive security service that is cost-eﬀective and easy-to-use.</p><p>Threat Stack enables growth-driven companies to scale with confidence by identifying and verifying insider threats, external attacks and data loss in real-time. The only cloud-native continuous monitoring solution that gives customers instant visibility and automatically responds to changes in their environment, Threat Stack provides the coverage needed to run secure and compliant, in all environments, without sacrificing speed and efficiency.</p><p>For more information, or to start a free trial, visit <a href=\"https://www.threatstack.com/\">threatstack.com</a>.</p>"
