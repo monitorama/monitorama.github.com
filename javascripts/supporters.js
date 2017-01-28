@@ -115,7 +115,7 @@ var sponsors = [
   },
   {
     "name": "packet",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.packet.net/",
     "width": 175,
     "bio": "<p>At Packet, our mission is to bring the experience of the public cloud to bare metal servers.</p><p>What does this mean? It means you can program against dedicated servers using the modern developer's toolset. In addition to an elegant API, we offer full meta data support and integrate with tools like Terraform, Ansible, and Docker Cloud.</p><p>A single machine for your API builds? Some NVMe drives to juice Graphite? 150 nodes for crunching that big data backlog at 2am? No sweat! Since 99.9% of our installs deploy in under 10 minutes, you get the convenience of VM's but the power of single tenant bare metal.</p><p>We have four low latency locations (NYC, Silicon Valley, Amsterdam, Tokyo); support OS's from Debian/Ubuntu/FreeBSD to Windows/ESXi/RHEL to ContainerLinux/RancherOS; and have hourly pricing from $.05 - $1.75 / hr. Learn more at <a href=\"http://www.packet.net/\">www.packet.net</a>.</p>"
