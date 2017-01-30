@@ -48,7 +48,7 @@ var sponsors = [
   },
   {
     "name": "signifai",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.signifai.io/",
     "width": "225",
     "bio": "<p>We believe in people first and foremost. Our technology harnesses machine intelligence to help your team solve problems faster, more effectively, and more accurately than ever before, resulting in more uptime for your infrastructure and more happy-time for your team.</p>"
