@@ -67,7 +67,7 @@ var sponsors = [
   },
   {
     "name": "sensu",
-    "enabled": false,
+    "enabled": true,
     "url": "https://sensuapp.org/enterprise",
     "width": 150,
     "bio": "<p><b>Sensu Enterprise: On-site monitoring for mission-critical applications.</b></p><p>Finally, a deployable monitoring solution designed for cloud-based applications, capable of operating at web-scale. Monitor servers, services and application health, collect and analyze custom metrics, and get notified about system failures faster. Give your IT operations team the competitive advantage they deserve.</p><p>Learn more about Sensu Enterprise and Sensu Core (<em>the</em> open source monitoring framework) at <a href=\"http://sensuapp.org/\">http://sensuapp.org/</a>.</p>",
