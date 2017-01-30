@@ -126,4 +126,16 @@ var sponsors = [
     "width": 175,
     "bio": "<p>At Packet, our mission is to bring the experience of the public cloud to bare metal servers.</p><p>What does this mean? It means you can program against dedicated servers using the modern developer's toolset. In addition to an elegant API, we offer full meta data support and integrate with tools like Terraform, Ansible, and Docker Cloud.</p><p>A single machine for your API builds? Some NVMe drives to juice Graphite? 150 nodes for crunching that big data backlog at 2am? No sweat! Since 99.9% of our installs deploy in under 10 minutes, you get the convenience of VM's but the power of single tenant bare metal.</p><p>We have four low latency locations (NYC, Silicon Valley, Amsterdam, Tokyo); support OS's from Debian/Ubuntu/FreeBSD to Windows/ESXi/RHEL to ContainerLinux/RancherOS; and have hourly pricing from $.05 - $1.75 / hr. Learn more at <a href=\"http://www.packet.net/\">www.packet.net</a>.</p>"
   },
+  {
+    "name": "braintree",
+    "enabled": false,
+    "url": "https://www.braintreepayments.com/",
+    "bio": "<p>Braintree provides the easiest way to pay and get paid across any device. With one integration, merchants can start accepting credit and debit cards, PayPal, Apple Pay, Android Pay, Venmo, and whatever comes next. Thousands of online and mobile companies including Uber, Airbnb, and GithHub use Braintree in more than 45 countries. To learn more, visit <a href=\"https://www.braintreepayments.com/\">https://www.braintreepayments.com</a> or <a href=\"https://twitter.com/braintree\">@braintree</a>.</p>"
+  },
+  {
+    "name": "selectstar",
+    "enabled": false,
+    "url": "https://selectstar.io/",
+    "bio": "<p>In the past, the database landscape was far simpler with a limited number of solutions and configurations. The typical IT organization often supported no more than one or two database types.</p><p>Over the last five years, however, this has changed dramatically. The emergence of Big Data, NoSQL, Open Source, and Cloud hosted databases means today’s IT teams are tasked with architecting and managing a more complex environment. All of this while their databases are moving to private, hybrid, and public clouds. The technology used to support databases hasn’t kept up with with this shift, leaving IT teams in a challenging spot.</p><p>SelectStar, powered by Blue Medora, provides unified monitoring of databases for organizations struggling to manage their increasingly diverse database estates. SelectStar, a SaaS-based database performance monitoring platform, is the best way to monitor, manage, and optimize database performance for every database type, wherever it resides.</p>"
+  },
 ]
