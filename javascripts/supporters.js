@@ -136,6 +136,6 @@ var sponsors = [
     "name": "selectstar",
     "enabled": false,
     "url": "https://selectstar.io/",
-    "bio": "<p>In the past, the database landscape was far simpler with a limited number of solutions and configurations. The typical IT organization often supported no more than one or two database types.</p><p>Over the last five years, however, this has changed dramatically. The emergence of Big Data, NoSQL, Open Source, and Cloud hosted databases means today’s IT teams are tasked with architecting and managing a more complex environment. All of this while their databases are moving to private, hybrid, and public clouds. The technology used to support databases hasn’t kept up with with this shift, leaving IT teams in a challenging spot.</p><p>SelectStar, powered by Blue Medora, provides unified monitoring of databases for organizations struggling to manage their increasingly diverse database estates. SelectStar, a SaaS-based database performance monitoring platform, is the best way to monitor, manage, and optimize database performance for every database type, wherever it resides.</p>"
+    "bio": "<p>SelectStar, powered by Blue Medora, provides unified monitoring of databases for organizations struggling to manage their increasingly diverse database estates. SelectStar, a SaaS-based database performance monitoring platform, is the best way to monitor, manage, and optimize database performance for every database type, wherever it resides.</p>"
   },
 ]
