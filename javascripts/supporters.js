@@ -87,7 +87,7 @@ var sponsors = [
   },
   {
     "name": "grafanalabs",
-    "enabled": false,
+    "enabled": true,
     "url": "http://www.raintank.io/",
     "width": 250,
     "bio": "<p>Grafana Labs is the company behind Grafana, the defacto standard for visualizing time series data. We also run <a href=\"http://grafana.net/\">GRAFANA.NET</a>: an OpenSaaS platform that helps you get the most out of your Grafana, and get the most out of your open source monitoring stack.</p>"
