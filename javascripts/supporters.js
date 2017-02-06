@@ -14,10 +14,10 @@ var sponsors = [
     "bio": "<p>Datadog is a monitoring and analytics platform for large-scale application infrastructure. Combining metrics from servers, databases, and applications, Datadog delivers sophisticated, actionable alerts, and provides real-time visibility of your entire infrastructure. Datadog includes 120+ vendor-supported, prebuilt integrations and monitors hundreds of thousands of hosts.</p>"
   },
   {
-    "name": "librato",
+    "name": "solarwinds",
     "enabled": true,
-    "url": "https://www.librato.com/?utm_campaign=2016-monitorama&utm_content=logo&utm_medium=sponsor-page&utm_source=monitorama",
-    "bio": "<p>Librato is a scalable cloud monitoring platform that provides visibility into the metrics that matter to your applications and infrastructure. From the container and operating system, through the data tier, components and services, Librato gives you out-of-the-box integrations for popular technologies such as AWS, Heroku, Docker, Redis, Nginx, Ruby on Rails, and more. Librato accepts time-series data from any source for real-time aggregation and transformation, easy dashboard creation, visual analysis and correlation, alerting, and storage. Loved by thousands of engineering teams at companies including Heroku, Nextdoor, Moz, Instacart, Slack, and Stitchfix. For more information visit our <a href=\"https://www.librato.com/\">website</a>, read our <a href=\"http://blog.librato.com/\">blog</a>, or follow <a href=\"https://twitter.com/Librato\">@Librato</a> on Twitter.</p>",
+    "url": "https://www.librato.com/?utm_campaign=2017-monitorama&utm_content=logo&utm_medium=sponsor-page&utm_source=monitorama",
+    "bio": "<p>SolarWinds is a leading provider of powerful and affordable IT management software to customers worldwide. SolarWinds® Monitoring Cloud is the next evolution of the company’s Software as a Service (SaaS) portfolio for monitoring cloud infrastructure and applications. Combined, Pingdom®, Librato™, Papertrail™, TraceView™ offer a full stack performance monitoring solution to manage, optimize, and troubleshoot at every layer, from the infrastructure to the end user experience. Nearly 1 million users now rely on SolarWinds Monitoring Cloud solutions for intuitive and affordable tools.</p>"
   },
   {
     "name": "netsil",
