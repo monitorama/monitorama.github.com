@@ -140,7 +140,7 @@ var sponsors = [
   },
   {
     "name": "sysdig",
-    "enabled": false,
+    "enabled": true,
     "url": "https://sysdig.com/",
     "bio": "<p>Sysdig (Twitter: <a href=\"https://twitter.com/sysdig\">@sysdig</a>), the container-native visibility company, is creating a new generation of performance management solutions to deliver monitoring, alerting, and troubleshooting in a microservices-friendly architecture. The company’s open source sysdig technology has attracted a community of hundreds of thousands of developers, administrators and other IT professionals looking for deep visibility into systems and containers. Sysdig is the first and only comprehensive, container-native monitoring solution for applications and infrastructures.</p>"
   },
