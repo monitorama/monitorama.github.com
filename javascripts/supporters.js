@@ -16,7 +16,7 @@ var sponsors = [
   {
     "name": "solarwinds",
     "enabled": true,
-    "url": "https://www.librato.com/?utm_campaign=2017-monitorama&utm_content=logo&utm_medium=sponsor-page&utm_source=monitorama",
+    "url": "http://www.solarwinds.com/cloud-monitoring?cmp=lec-x-monitorama-2017_monitorama-x-x-logo",
     "bio": "<p>SolarWinds is a leading provider of powerful and affordable IT management software to customers worldwide. SolarWinds® Monitoring Cloud is the next evolution of the company’s Software as a Service (SaaS) portfolio for monitoring cloud infrastructure and applications. Combined, Pingdom®, Librato™, Papertrail™, TraceView™ offer a full stack performance monitoring solution to manage, optimize, and troubleshoot at every layer, from the infrastructure to the end user experience. Nearly 1 million users now rely on SolarWinds Monitoring Cloud solutions for intuitive and affordable tools.</p>"
   },
   {
@@ -64,6 +64,12 @@ var sponsors = [
     "enabled": false,
     "url": "http://logz.io/",
     "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
+  },
+  {
+    "name": "newrelic",
+    "enabled": false,
+    "url": "http://newrelic.com/",
+    "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 70,000 active accounts use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"http://newrelic.com/\" target=\"_blank\">newrelic.com</a>.</p>"
   },
   {
     "name": "sensu",
@@ -143,5 +149,23 @@ var sponsors = [
     "enabled": true,
     "url": "https://sysdig.com/",
     "bio": "<p>Sysdig (Twitter: <a href=\"https://twitter.com/sysdig\">@sysdig</a>), the container-native visibility company, is creating a new generation of performance management solutions to deliver monitoring, alerting, and troubleshooting in a microservices-friendly architecture. The company’s open source sysdig technology has attracted a community of hundreds of thousands of developers, administrators and other IT professionals looking for deep visibility into systems and containers. Sysdig is the first and only comprehensive, container-native monitoring solution for applications and infrastructures.</p>"
+  },
+  {
+    "name": "influxdata",
+    "enabled": false,
+    "url": "https://www.influxdata.com/",
+    "bio": "<p>Under Construction</p>"
+  },
+  {
+    "name": "perspica",
+    "enabled": false,
+    "url": "https://perspica.io/",
+    "bio": "<p>Under Construction</p>"
+  },
+  {
+    "name": "tesm",
+    "enabled": false,
+    "url": "http://www.tesm.com/",
+    "bio": "<p>Under Construction</p>"
   },
 ]
