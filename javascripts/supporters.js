@@ -160,7 +160,7 @@ var sponsors = [
     "name": "perspica",
     "enabled": false,
     "url": "https://perspica.io/",
-    "bio": "<p>Under Construction</p>"
+    "bio": "<p>Many of today’s businesses are supported by &quot;hyper-scale&quot; architectures that generate millions of data points per second across millions of metrics. With this volume of data, production ops teams are no longer able to keep up with what alarms are valid, much less how to fix them. Perspica utilizes artificial intelligence to analyze high volumes of application and infrastructure data in real time, using behavior profiling to understand what is normal behavior while leveraging anomaly detection to reduce alarm storms.</p><p>Perspica consumes a company’s entire time series data stream and applies machine learning algorithms to automatically baseline system performance to identify what is normal. Using these baselines, customers have visibility into their anomalous data in real-time using Perspica’s unique heuristic anomaly detection. By using AI to implement an advanced alarming strategy, Perspica generates only actionable alarms for the metrics which actually represent a problem, dramatically reducing alert fatigue.</p><p>Try Perspica for free at <a href=\"https://www.perspica.io\">www.perspica.io</a>.</p>"
   },
   {
     "name": "tesm",
