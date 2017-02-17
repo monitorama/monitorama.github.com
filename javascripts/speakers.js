@@ -80,7 +80,7 @@ var rawSpeakers = [
     "name": "François Conil",
     "github": "frconil",
     "twitter": "frconil",
-    "bio": "",
+    "bio": "François Conil has worked in Tech Support, Systems Administration, Operations and everything in between. He now helps other Systems Administrators get the most out of Git and GitHub as a Support Engineer for GitHub.",
     "title": "",
     "abstract": "",
     "video": "",
