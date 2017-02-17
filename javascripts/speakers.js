@@ -121,7 +121,7 @@ var rawSpeakers = [
     "hash": "d9de3ed3e23650056a8f2e57e74008f3",
   },
   {
-    "name": "Susan Fowler Rigetti",
+    "name": "Susan Fowler-Rigetti",
     "github": "susanfowler",
     "twitter": "susanthesquark",
     "bio": "Susan Fowler Rigetti works on the infrastructure team at Stripe. She is the author of Production-Ready Microservices and Microservices in Production.",
