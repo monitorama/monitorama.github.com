@@ -121,10 +121,10 @@ var rawSpeakers = [
     "hash": "d9de3ed3e23650056a8f2e57e74008f3",
   },
   {
-    "name": "Susan Fowler",
+    "name": "Susan Fowler Rigetti",
     "github": "susanfowler",
     "twitter": "susanthesquark",
-    "bio": "Susan Fowler is a site reliability engineer at Uber, where she splits her time between embedding within business-critical microservice teams and running a production-readiness initiative across Uber’s diverse set of microservices.",
+    "bio": "Susan Fowler Rigetti works on the infrastructure team at Stripe. She is the author of Production-Ready Microservices and Microservices in Production.",
     "title": "",
     "abstract": "",
     "video": "",
