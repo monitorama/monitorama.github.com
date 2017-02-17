@@ -21,17 +21,17 @@ var rawSpeakers = [
     "slides": "",
     "hash": "b4ef8f3fe48476a6c37a93f17dd66dfd",
   },
-  /* {
+  {
     "name": "Pedro Andrade",
     "github": "",
-    "twitter": "",
-    "bio": "",
+    "twitter": "PedroManuel",
+    "bio": "Pedro Andrade is a software engineer at CERN. He works in the monitoring team of CERN IT department. Is role is to make sure CERN computing infrastructure is ready to serve CERN experiments. He manages the monitoring infrastructure used by CERN two data centres and WLCG the worldwide distributed computing infrastructure.",
     "title": "",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
-  }, */
+    "hash": "a1d20ed4266196b7c8ec6c761b075123",
+  },
   {
     "name": "Gianluca Borello",
     "github": "gianlucaborello",
@@ -289,12 +289,12 @@ var rawSpeakers = [
     "name": "Ben Sigelman",
     "github": "bensigelman",
     "twitter": "el_bhs",
-    "bio": "Ben Sigelman is the cofounder and CEO of <a href=\"http://lightstep.com/\">LightStep</a>, where he’s building reliability management for modern systems. An expert in distributed tracing, Ben is the coauthor of the <a href=\"http://opentracing.io/\">OpenTracing</a> standard, a project within the Linux Foundation’s Cloud Native Computing Foundation (<a href=\"http://cncf.io/\">CNCF</a>). Previously, he built Dapper, Google’s production distributed systems tracing infrastructure, and Monarch, Google’s fleet-wide time series collection, storage, analysis, and alerting system. Ben holds a BSc in mathematics and computer science from Brown University.",
+    "bio": "Ben is a cofounder at LightStep, a company that makes complex microservice applications more transparent and reliable. Previously, Ben spent nine years at Google where he ate lots of snacks and designed several large (~1M-process) distributed systems. The most significant of these were Dapper, an always-on distributed tracing system; and Monarch, a high-availability timeseries collection, storage, and query system.",
     "title": "",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "44451b64e332010e9e3842c5ae0d1129",
+    "hash": "cf6b702398b48a2a75100ad3ea40c810",
   },
   {
     "name": "Laura Thomson",
