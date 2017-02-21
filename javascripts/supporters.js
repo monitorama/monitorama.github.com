@@ -152,9 +152,9 @@ var sponsors = [
   },
   {
     "name": "influxdata",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.influxdata.com/",
-    "bio": "<p>Under Construction</p>"
+    "bio": "<p>InfluxData is the premier real-time monitoring and analytics platform provider. Customers trust InfluxData’s products to deliver the visibility and insight into log, metric, IoT, and sensor data to provide an always-on single consolidated view of their information. InfluxData provides a comprehensive set of products that supports the collection, storage, visualization and alerting of time-series data. InfluxData is an active contributor to the open source Telegraf, InfluxDB, Chronograf and Kapacitor (TICK) projects. For more information visit: <a href=\"http://influxdata.com/\">influxdata.com</a> or follow InfluxData on Twitter <a href=\"https://twitter.com/influxdb\">@influxdb</a>.</p>"
   },
   {
     "name": "perspica",
