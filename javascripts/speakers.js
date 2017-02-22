@@ -140,7 +140,7 @@ var rawSpeakers = [
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "c7b0422e97da85aabf114cc8591a10a2",
+    "hash": "856cede076549a6b684aa3d00bb9cfa8",
   },
   {
     "name": "Coda Hale",
