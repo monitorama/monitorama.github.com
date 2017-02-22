@@ -170,7 +170,7 @@ var sponsors = [
   },
   {
     "name": "stripe",
-    "enabled": true,
+    "enabled": false,
     "url": "https://stripe.com/",
     "width": 150,
     "bio": "<p>Stripe builds the most powerful and flexible tools for internet commerce. Whether you’re creating a subscription service, an on-demand marketplace, an e-commerce store, or a crowdfunding platform, Stripe’s meticulously-designed APIs and unmatched functionality help you create the best possible product for your users. Hundreds of thousands of the world’s most innovative technology companies are scaling faster and more efficiently by building their businesses on Stripe.</p>"
