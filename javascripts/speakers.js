@@ -135,7 +135,7 @@ var rawSpeakers = [
     "name": "Alice Goldfuss",
     "github": "alicegoldfuss",
     "twitter": "alicegoldfuss",
-    "bio": "Alice Goldfuss is a site reliability engineer at New Relic, where she spends her days wading through containers, comforting servers, and performing dark sacrifices to the network tier. You can find her on Twitter ranting about feminism or trying to kidnap every cat she meets.",
+    "bio": "Alice Goldfuss is a systems sorceress and general hellion. She’s consulted on some books (<i>Docker: Up & Running</i>, <i>Effective DevOps</i>), presented at some conferences (SREcon, Velocity, Container Summit), and runs some others (LISA17, DevOps Days Portland). You can follow her on Twitter (<a href=\"http://twitter.com/alicegoldfuss\">@alicegoldfuss</a>), but you’ll probably regret it.",
     "title": "",
     "abstract": "",
     "video": "",
