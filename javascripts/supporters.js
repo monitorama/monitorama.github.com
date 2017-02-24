@@ -56,8 +56,8 @@ var sponsors = [
   {
     "name": "bugsnag",
     "enabled": true,
-    "url": "https://bugsnag.com/?utm_source=conference_website&utm_medium=logo&utm_campaign=monitorama2017",
-    "bio": "<p>Bugsnag gives engineering teams the tools and workflow they need to spend more time shipping and less time fixing. We help you take a proactive approach to software quality, translating errors into action. With Bugsnag, developers are free to innovate and build applications that can evolve with the pace of modern business.</p>"
+    "url": "https://www.bugsnag.com/?utm_source=monitorama&utm_medium=referral&utm_content=blurb&utm_campaign=monitorama-2017",
+    "bio": "<p>Monitor application errors and improve customer experiences and code quality with Bugsnag. Quickly filter errors by occurrences or users impacted so you can decide if an error needs to be fixed now or snoozed for later. Troubleshooting and reproducing errors become easier as Bugsnag automatically collects all the related diagnostic data to save you time in scouring log files. Over 3,500 of the world best engineering teams from organizations such as Yelp, Comcast, Pandora and others use Bugsnag to build better software. Get started for free at <a href=\"https://www.bugsnag.com/\">www.bugsnag.com</a>.</p>"
   },
   {
     "name": "logzio",
