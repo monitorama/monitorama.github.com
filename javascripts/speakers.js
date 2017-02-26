@@ -168,7 +168,7 @@ var rawSpeakers = [
     "name": "Bryan Liles",
     "github": "bryanl",
     "twitter": "bryanl",
-    "bio": "Bryan Liles works on cloud engineering for DigitalOcean. In layman’s terms, this means he writes OSS for DigitalOcean and others. He helps companies move their software to the public cloud and gets to speak at conferences on topics ranging from machine learning to building the next generation of developers. When not thinking about code, Bryan races cars in straight lines and around turns and builds robots and devices.",
+    "bio": "Bryan Liles is a Director in Public Cloud Engineering at Capital One. When not thinking about code and people growth, Bryan races cars in straight lines and around turns and builds robots and devices.",
     "title": "",
     "abstract": "",
     "video": "",
