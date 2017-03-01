@@ -106,10 +106,11 @@ var sponsors = [
     "bio": "<p>NS1's intelligent DNS and traffic management platform, with its data driven architecture and unique Filter Chain routing engine, is purpose-built for the most demanding, mission-critical applications on the Internet. NS1's comprehensive platform technology leverages infrastructure, application, and network data to make intelligent routing decisions in real time, ensuring optimal application performance and reliability. NS1's platform is delivered through its world class Managed DNS Network for customers including Imgur, LinkedIn, Wayfair, Collective Media and other top-tier organizations.</p>"
   },
   {
-    "name": "dataloopio",
+    "name": "outlyer",
     "enabled": true,
-    "url": "https://www.dataloop.io/",
-    "bio": "<p>Dataloop.IO is a monitoring service for DevOps & Operations teams running Cloud, SaaS, Microservices and IoT services. It is designed to be totally self-service, so teams outside Operations can setup their own monitoring, with custom checks and metrics, using our unique delegated remote setup technology, while still providing your Operations team the visibility and control they need across the entire service.</p><p>Delegate setup to teams running your different products & Micro-Services using our unique account model, let them install the monitoring they need in just a few clicks using our unique Open-Source monitoring packs, create internal packs for all your teams to install with your specific plugins, dashboards and alerts, and finally let developers stream in their Graphite/StatsD metrics alongside their service checks for easily correlation.</p><p>If you're running at scale, and want to offload the burden of setting up monitoring to all your teams, then Dataloop.IO is for you! You can <a href=\"https://www.dataloop.io/\">signup now</a> for a free trial today!</p>"
+    "url": "https://www.outlyer.com/",
+    "width": 175,
+    "bio": "<p>Outlyer is an infrastructure monitoring platform made for DevOps and microservices.</p><p>We monitor your full stack—from servers and cloud providers to databases, containers and custom metrics. We give you dashboards, analytics and alerts that are easy to set up and customize for both developer and operations teams.</p><p>Outlyer means monitoring, done differently. Whether you’re monitoring one or a thousand servers, our GitHub-style account model provides a self-service monitoring platform that gives all your teams quick setup with integration packs, open source compatibility, and more customization than any other monitoring tool.</p>"
   },
   {
     "name": "threatstack",
