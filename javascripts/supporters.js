@@ -66,10 +66,10 @@ var sponsors = [
     "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
   },
   {
-    "name": "newrelic",
+    "name": "circonus",
     "enabled": false,
-    "url": "http://newrelic.com/",
-    "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 70,000 active accounts use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"http://newrelic.com/\" target=\"_blank\">newrelic.com</a>.</p>"
+    "url": "https://www.circonus.com/",
+    "bio": ""
   },
   {
     "name": "sensu",
@@ -164,10 +164,10 @@ var sponsors = [
     "bio": "<p>Many of today’s businesses are supported by &quot;hyper-scale&quot; architectures that generate millions of data points per second across millions of metrics. With this volume of data, production ops teams are no longer able to keep up with what alarms are valid, much less how to fix them. Perspica utilizes artificial intelligence to analyze high volumes of application and infrastructure data in real time, using behavior profiling to understand what is normal behavior while leveraging anomaly detection to reduce alarm storms.</p><p>Perspica consumes a company’s entire time series data stream and applies machine learning algorithms to automatically baseline system performance to identify what is normal. Using these baselines, customers have visibility into their anomalous data in real-time using Perspica’s unique heuristic anomaly detection. By using AI to implement an advanced alarming strategy, Perspica generates only actionable alarms for the metrics which actually represent a problem, dramatically reducing alert fatigue.</p><p>Try Perspica for free at <a href=\"https://www.perspica.io\">www.perspica.io</a>.</p>"
   },
   {
-    "name": "tesm",
+    "name": "squarespace",
     "enabled": false,
-    "url": "http://www.tesm.com/",
-    "bio": "<p>Under Construction</p>"
+    "url": "https://www.squarespace.com/",
+    "bio": ""
   },
   {
     "name": "stripe",
@@ -175,5 +175,23 @@ var sponsors = [
     "url": "https://stripe.com/",
     "width": 150,
     "bio": "<p>Stripe builds the most powerful and flexible tools for internet commerce. Whether you’re creating a subscription service, an on-demand marketplace, an e-commerce store, or a crowdfunding platform, Stripe’s meticulously-designed APIs and unmatched functionality help you create the best possible product for your users. Hundreds of thousands of the world’s most innovative technology companies are scaling faster and more efficiently by building their businesses on Stripe.</p>"
+  },
+  {
+    "name": "tesm",
+    "enabled": false,
+    "url": "http://www.tesm.com/",
+    "bio": "<p>Under Construction</p>"
+  },
+  {
+    "name": "vividcortex",
+    "enabled": false,
+    "url": "https://www.vividcortex.com/",
+    "bio": "<p>VividCortex is the best way to improve your database performance, efficiency, and uptime. It's a secure, cloud-hosted platform that eliminates your most critical APM visibility gap, providing deep insights into production database workload and query performance. Unlike traditional monitoring that focuses on vanity metrics or only captures a superficial app-centric view, VividCortex measures the performance and resource consumption of every statement and transaction, then uses patented algorithms to analyze and surface relevant insights, so you can proactively fix future performance problems before they impact customers. VividCortex shows intuitive visualizations of database performance to your entire engineering and development teams, with deep drilldown into fine detail. This enables you to delight your customers with a consistent, high-performance experience, while shipping better code to production faster and more safely.</p>"
+  },
+  {
+    "name": "anodot",
+    "enabled": false,
+    "url": "https://www.anodot.com/",
+    "bio": ""
   },
 ]
