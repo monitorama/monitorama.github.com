@@ -165,9 +165,10 @@ var sponsors = [
   },
   {
     "name": "squarespace",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.squarespace.com/",
-    "bio": ""
+    "width": 225,
+    "bio": "<p>Squarespace provides creative tools and services to help anyone build and manage their brand online. For more than a decade, we’ve empowered millions of people — from individuals and local artists to entrepreneurs building the world’s most iconic businesses — to take control of their online presence like never before. By blending elegant design and sophisticated engineering, Squarespace sets the new standard for modern publishing.</p><p>Since 2004, Squarespace has offered a fully-hosted environment for creating and maintaining a website. Known for its sophisticated yet easy-to-use interfaces, Squarespace's do-it-yourself tools allow its increasingly diverse user base to quickly and easily create and maintain professional, high-quality websites and e-commerce stores.</p><p>Squarespace’s team of more than 500+ is headquartered in downtown New York City, with offices in Dublin and Portland.</p>"
   },
   {
     "name": "stripe",
