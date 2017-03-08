@@ -195,4 +195,24 @@ var sponsors = [
     "url": "https://www.anodot.com/",
     "bio": ""
   },
+  {
+    "name": "opsgenie",
+    "enabled": false,
+    "url": "https://www.opsgenie.com/",
+    "bio": ""
+  },
+  {
+    "name": "salesforce",
+    "enabled": false,
+    "url": "https://www.salesforce.com/",
+    "width": 150,
+    "bio": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
+  },
+  {
+    "name": "signalsciences",
+    "enabled": false,
+    "url": "https://www.signalsciences.com/",
+    "width": 150,
+    "bio": "<p>Signal Sciences is a protection platform for the modern web. It’s designed with collaboration at its core, so your operations, development and security teams can work toward a common goal. It’s also accurate and efficient. Unlike other security solutions, Signal Sciences Web Protection Platform is up and running in minutes--there’s no hardware to deal with. It offers a flexibility that allows you to ship new web features, or push new code into development at the rate you want to, without breaking your app.</p><p>Signal Sciences is the industry’s first Web Protection Platform that works in any cloud, any container, any PaaS, and any modern application architecture. The Signal Sciences Web Protection Platform can be deployed in Next Generation Web Application Firewall (WAF), RASP, or Reverse Proxy modes giving customers the ultimate flexibility and coverage.</p>"
+  },
 ]
