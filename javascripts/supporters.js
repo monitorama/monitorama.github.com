@@ -141,7 +141,7 @@ var sponsors = [
   },
   {
     "name": "selectstar",
-    "enabled": false,
+    "enabled": true,
     "url": "https://selectstar.io/",
     "bio": "<p>SelectStar, powered by Blue Medora, provides unified monitoring of databases for organizations struggling to manage their increasingly diverse database estates. SelectStar, a SaaS-based database performance monitoring platform, is the best way to monitor, manage, and optimize database performance for every database type, wherever it resides. Learn more at <a href=\"https://selectstar.io/\">SelectStar.io</a></p>"
   },
