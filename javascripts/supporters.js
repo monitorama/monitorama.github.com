@@ -198,7 +198,7 @@ var sponsors = [
   {
     "name": "opsgenie",
     "enabled": false,
-    "url": "https://www.opsgenie.com/",
+    "url": "https://www.opsgenie.com/?utm_source=Events&utm_campaign=Monitorama_Portland_%20May&utm_medium=banner",
     "width": 150,
     "bio": "<p>OpsGenie is an alerting and on-call management solution for dev & ops teams. We provide the tools needed to design actionable alerts, manage on-call schedules & escalations, and ensure that the right people are notified at the right time, using multiple notification methods.</p>"
   },
