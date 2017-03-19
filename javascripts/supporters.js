@@ -121,7 +121,7 @@ var sponsors = [
   },
   {
     "name": "catchpoint",
-    "enabled": false,
+    "enabled": true,
     "url": "http://catchpoint.com/",
     "width": 240,
     "bio": "<p>Catchpoint is a leading Digital Performance Analytics company that provides unparalleled insight into your customer-critical services to help you consistently deliver an amazing customer experience. Designed for digital business, Catchpoint is the only end-user experience monitoring (EUM) platform that can simultaneously capture, index and analyze object level performance data inline across the most extensive monitor types and node coverage, enabling a smarter and faster way to preempt issues and optimize service delivery. More that 350 customers in over 30 countries trust Catchpoint to strengthen their brand and grow their business.</p>"
