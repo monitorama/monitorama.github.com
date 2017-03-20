@@ -185,7 +185,7 @@ var sponsors = [
   },
   {
     "name": "vividcortex",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.vividcortex.com/",
     "bio": "<p>VividCortex is the best way to improve your database performance, efficiency, and uptime. It's a secure, cloud-hosted platform that eliminates your most critical APM visibility gap, providing deep insights into production database workload and query performance. Unlike traditional monitoring that focuses on vanity metrics or only captures a superficial app-centric view, VividCortex measures the performance and resource consumption of every statement and transaction, then uses patented algorithms to analyze and surface relevant insights, so you can proactively fix future performance problems before they impact customers. VividCortex shows intuitive visualizations of database performance to your entire engineering and development teams, with deep drilldown into fine detail. This enables you to delight your customers with a consistent, high-performance experience, while shipping better code to production faster and more safely.</p>"
   },
