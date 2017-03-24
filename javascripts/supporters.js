@@ -191,9 +191,9 @@ var sponsors = [
   },
   {
     "name": "anodot",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.anodot.com/",
-    "bio": ""
+    "bio": "<p>Anodot is disrupting the static nature of Business Intelligence (BI) with unique real-time business incident detection, anomaly detection and analytics for big data. Using patented machine learning algorithms, Anodot automates the discovery of outliers in vast amounts of data, isolates issues and correlates them across multiple parameters. Operating in real time, Anodot delivers business insights immediately, predicts events before they happen and supports rapid business decisions that help maximize revenues and production for Web-based, e-commerce, ad tech, IoT and manufacturing businesses. The company is based in Sunnyvale, CA and Ra’anana, Israel. Contact us for a free trial.</p>"
   },
   {
     "name": "opsgenie",
