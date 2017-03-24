@@ -37,7 +37,7 @@ var sponsors = [
     "name": "wavefront",
     "enabled": true,
     "url": "https://www.wavefront.com/",
-    "bio": "<p>Metrics are rapidly overtaking log-based approaches as the most powerful way to manage and understand the overall health and functioning of a service platform. One of the key use cases in the world of metrics is anomaly detection -- understanding what systems, applications, and services are acting in an unusual manner across (potentially) millions of independent data streams, all within an operationally useful time window. Wavefront is the platform that enables true unified real-time analytics and anomaly detection at scale.</p>"
+    "bio": "<p>Wavefront is metrics monitoring-as-a-service for cloud application environments. It gathers telemetry across the entire stack into a unified metrics store with the industry’s most advanced query analytics, rendering visualizations for anomaly detection, trend analysis, and intelligent alerting. Used by DevOps teams at SaaS leaders, it scales to thousands of users. Our customers include companies like Box, Workday, Intuit, Groupon, Lyft, DoorDash, and Postmates.</p>"
   },
   {
     "name": "moogsoft",
