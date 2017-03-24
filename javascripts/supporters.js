@@ -172,7 +172,7 @@ var sponsors = [
   },
   {
     "name": "stripe",
-    "enabled": false,
+    "enabled": true,
     "url": "https://stripe.com/",
     "width": 150,
     "bio": "<p>Stripe is a software platform for starting and running internet businesses. Hundreds of thousands of businesses -- from startups to Fortune 500 companies -- rely on Stripe’s software tools to accept payments, expand globally, and create new revenue streams. Stripe has been at the forefront of expanding internet commerce, powering new business models, and supporting the latest platforms, from marketplaces to mobile commerce sites. Stripe users include Lyft, Kickstarter, Salesforce, Shopify, Facebook, Slack, UNICEF and <a href=\"https://stripe.com/us/customers\">many more</a>.</p><p>At Stripe, we believe that growing the GDP of the internet is a problem rooted in code and design, not finance. Stripe is built for developers, makers, and creators. We work on solving the hard technical problems necessary to build global economic infrastructure -- from designing highly reliable global systems to developing advanced machine learning algorithms to prevent fraud. <a href=\"http://www.stripe.com/jobs\">Join us!</a></p>"
