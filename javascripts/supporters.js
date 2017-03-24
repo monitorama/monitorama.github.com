@@ -37,7 +37,7 @@ var sponsors = [
     "name": "wavefront",
     "enabled": true,
     "url": "https://www.wavefront.com/",
-    "bio": "<p>Wavefront is metrics monitoring-as-a-service for cloud application environments. It gathers telemetry across the entire stack into a unified metrics store with the industry’s most advanced query analytics, rendering visualizations for anomaly detection, trend analysis, and intelligent alerting. Used by DevOps teams at SaaS leaders, it scales to thousands of users. Our customers include companies like Box, Workday, Intuit, Groupon, Lyft, DoorDash, and Postmates.</p>"
+    "bio": "<p>Wavefront is analytics-driven, metrics monitoring, alerting and anomaly detection platform for cloud-native, microservices environments. Metrics go far beyond log-based approaches as the most powerful way to understand and manage an overall system’s function. At massive scale and reliability, Wavefront processes metrics from all corners of your cloud estate and enables every engineer and developer in your organization to self-service alerts, dashboards and drill-down visualizations &#8212; also with a complete API. This includes sub-second metrics and aggregated percentiles. SaaS leaders like Workday, Box, Lyft, Okta, Intuit, Groupon, and Yammer depend on Wavefront every day.</p> "
   },
   {
     "name": "moogsoft",
