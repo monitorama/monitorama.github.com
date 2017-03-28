@@ -67,9 +67,10 @@ var sponsors = [
   },
   {
     "name": "circonus",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.circonus.com/",
-    "bio": ""
+    "width": 225,
+    "bio": "<p>Circonus provides Big Data analytics and monitoring for Web-Scale IT. Developed specifically for the requirements of DevOps, the Circonus platform combines alerts, graphs, dashboards and machine-learning intelligence. Proprietary IT Operations Analytics tools enable customers to produce forensic, predictive, and automated analyses that help optimize operations and the business.</p>"
   },
   {
     "name": "sensu",
