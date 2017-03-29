@@ -180,9 +180,9 @@ var sponsors = [
   },
   {
     "name": "tesm",
-    "enabled": false,
-    "url": "http://www.tesm.com/",
-    "bio": "<p>Under Construction</p>"
+    "enabled": true,
+    "url": "http://www.tesm.com/opsdirector/",
+    "bio": "<p>OpsDirector is an intelligent solution for IT Operations and Event Management that has Big Data analytics and machine learning at its core.</p><p>Combining and analysing event data from monitoring systems with data from ITSM platforms and DevOps tooling, OpsDirector provides real-time and intelligent insights into how to effectively manage business services in today’s complex and distributed IT environments.</p>"
   },
   {
     "name": "vividcortex",
