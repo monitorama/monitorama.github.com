@@ -217,4 +217,10 @@ var sponsors = [
     "width": 225,
     "bio": "<p>Signal Sciences is a protection platform for the modern web. It’s designed with collaboration at its core, so your operations, development and security teams can work toward a common goal. It’s also accurate and efficient. Unlike other security solutions, Signal Sciences Web Protection Platform is up and running in minutes--there’s no hardware to deal with. It offers a flexibility that allows you to ship new web features, or push new code into development at the rate you want to, without breaking your app.</p><p>Signal Sciences is the industry’s first Web Protection Platform that works in any cloud, any container, any PaaS, and any modern application architecture. The Signal Sciences Web Protection Platform can be deployed in Next Generation Web Application Firewall (WAF), RASP, or Reverse Proxy modes giving customers the ultimate flexibility and coverage.</p>"
   },
+  {
+    "name": "brocade",
+    "enabled": false,
+    "url": "https://stackstorm.com/",
+    "bio": "<p>StackStorm is a powerful open-source automation platform that wires together all of your apps, services and workflows. It’s extendable, flexible, and built with love for DevOps and ChatOps.</p>"
+  },
 ]
