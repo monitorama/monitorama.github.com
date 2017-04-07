@@ -219,7 +219,7 @@ var sponsors = [
   },
   {
     "name": "brocade",
-    "enabled": false,
+    "enabled": true,
     "url": "https://stackstorm.com/",
     "bio": "<p>StackStorm is a powerful open-source automation platform that wires together all of your apps, services and workflows. It’s extendable, flexible, and built with love for DevOps and ChatOps.</p>"
   },
