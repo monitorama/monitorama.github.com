@@ -44,7 +44,7 @@ var sponsors = [
     "enabled": true,
     "url": "http://moogsoft.com/",
     "width": "175",
-    "bio": "<p>Moogsoft is a leading provider of Algorithmic IT Operations (AIOps) software for modern private, public cloud and hybrid IT environments. The company delivers machine learning-based incident management solutions for large, dynamic and heterogeneous environments, helping companies such as Cisco, Royal Bank of Canada, Yahoo, and GoDaddy to detect, triage and resolve incidents inside their production environments and improve service quality. To learn more visit: <a href=\"http://www.moogsoft.com/\">www.moogsoft.com</a></p>"
+    "bio": "<p>Moogsoft develops AIOps technology that helps enterprise ITOps and DevOps teams become faster, smarter and more effective. Moogsoft AIOps’ real-time machine learning algorithms reduce operational noise and allow operators to proactively detect and remediate issues that impact their customers’ experience.</p>"
   },
   {
     "name": "signifai",
