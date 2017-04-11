@@ -223,4 +223,11 @@ var sponsors = [
     "url": "https://stackstorm.com/",
     "bio": "<p>StackStorm is a powerful open-source automation platform that wires together all of your apps, services and workflows. It’s extendable, flexible, and built with love for DevOps and ChatOps.</p>"
   },
+  {
+    "name": "oreilly",
+    "enabled": true,
+    "url": "http://www.oreilly.com/",
+    "width": 175,
+    "bio": "<p>O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences. Since 1978, O'Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends that really matter and galvanizing their adoption by amplifying \"faint signals\" from the alpha geeks who are creating the future. An active participant in the technology community, the company has a long history of advocacy, meme-making, and evangelism.</p>"
+  },
 ]
