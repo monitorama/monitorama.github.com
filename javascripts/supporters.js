@@ -73,6 +73,12 @@ var sponsors = [
     "bio": "<p>Circonus provides Big Data analytics and monitoring for Web-Scale IT. Developed specifically for the requirements of DevOps, the Circonus platform combines alerts, graphs, dashboards and machine-learning intelligence. Proprietary IT Operations Analytics tools enable customers to produce forensic, predictive, and automated analyses that help optimize operations and the business.</p>"
   },
   {
+    "name": "newrelic",
+    "enabled": false,
+    "url": "https://newrelic.com/",
+    "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 90,000 customers use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>"
+  },
+  {
     "name": "sensu",
     "enabled": true,
     "url": "https://sensuapp.org/enterprise",
