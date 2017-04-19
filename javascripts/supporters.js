@@ -74,9 +74,9 @@ var sponsors = [
   },
   {
     "name": "newrelic",
-    "enabled": false,
+    "enabled": true,
     "url": "https://newrelic.com/",
-    "bio": "<p>New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. Our comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in your environment. Our 90,000 customers use our cloud solution every day to optimize more than 200 billion metrics for 3 million applications. When your brand and customer experience depend on the performance of modern software, New Relic provides insight into your overall environment. Learn more at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>"
+    "bio": "<p>New Relic is a leading digital intelligence company, delivering full-stack visibility and analytics with more than 14,000 paid business accounts. The New Relic Digital Intelligence Platform provides actionable insights to drive digital business results. Companies of all sizes trust New Relic to monitor application and infrastructure performance so they can quickly resolve issues, and improve digital customer experiences.</p>"
   },
   {
     "name": "sensu",
