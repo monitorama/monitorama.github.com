@@ -224,7 +224,7 @@ var rawSpeakers = [
     "github": "royrapoport",
     "twitter": "royrapoport",
     "bio": "Roy Rapoport manages the Insight Engineering group at Netflix, responsible for building Netflix's Operational Insight platforms, including cloud telemetry, alerting, and real-time analytics. He originally joined Netflix as part of its datacenter-based IT/Ops group, and prior to transferring over to Product Engineering, was managing Service Delivery for IT/Ops.",
-    "title": "",
+    "title": "Yo Dawg: Monitoring Monitoring Systems at Netflix",
     "abstract": "",
     "video": "",
     "slides": "",
