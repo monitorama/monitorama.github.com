@@ -230,6 +230,13 @@ var sponsors = [
     "bio": "<p>StackStorm is a powerful open-source automation platform that wires together all of your apps, services and workflows. It’s extendable, flexible, and built with love for DevOps and ChatOps.</p>"
   },
   {
+    "name": "pagerduty",
+    "enabled": false,
+    "url": "http://www.pagerduty.com/",
+    "width": 175,
+    "bio": "<p>PagerDuty is an agile incident management solution that integrates with IT Ops and DevOps monitoring stacks to improve operational reliability and agility. From enriching and aggregating events to correlating them into actionable alerts, PagerDuty streamlines the incident management lifecycle by reducing noise and resolution times. With hundreds of native integrations with operations tools, automated scheduling, advance reporting and guaranteed reliability, PagerDuty is trusted by over 7,000 organizations globally to increase business and employee efficiency. The company is headquartered in San Francisco and backed by leading venture capital firms Andreessen Horowitz, Bessemer Venture Partners, Baseline Ventures, and Ignition Partners. Try PagerDuty for free at <a href=\"https://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
+  },
+  {
     "name": "oreilly",
     "enabled": true,
     "url": "http://www.oreilly.com/",
