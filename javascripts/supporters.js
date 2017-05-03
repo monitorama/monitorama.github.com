@@ -237,6 +237,13 @@ var sponsors = [
     "bio": "<p>PagerDuty is an agile incident management solution that integrates with IT Ops and DevOps monitoring stacks to improve operational reliability and agility. From enriching and aggregating events to correlating them into actionable alerts, PagerDuty streamlines the incident management lifecycle by reducing noise and resolution times. With hundreds of native integrations with operations tools, automated scheduling, advance reporting and guaranteed reliability, PagerDuty is trusted by over 7,000 organizations globally to increase business and employee efficiency. The company is headquartered in San Francisco and backed by leading venture capital firms Andreessen Horowitz, Bessemer Venture Partners, Baseline Ventures, and Ignition Partners. Try PagerDuty for free at <a href=\"https://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
   },
   {
+    "name": "extrahop",
+    "enabled": true,
+    "url": "https://www.extrahop.com/",
+    "width": 225,
+    "bio": "<p>ExtraHop makes data-driven IT a reality with real-time analytics and cloud-based machine learning. We analyze every single digital interaction occurring in the IT environment and turn that data into the most accurate and timely source of intelligence for everyone from IT Operations to Security to the CIO.</p>"
+  },
+  {
     "name": "oreilly",
     "enabled": true,
     "url": "http://www.oreilly.com/",
