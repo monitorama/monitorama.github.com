@@ -187,8 +187,8 @@ var sponsors = [
   {
     "name": "tesm",
     "enabled": true,
-    "url": "http://www.tesm.com/opsdirector/",
-    "bio": "<p>OpsDirector is an intelligent solution for IT Operations and Event Management that has Big Data analytics and machine learning at its core.</p><p>Combining and analysing event data from monitoring systems with data from ITSM platforms and DevOps tooling, OpsDirector provides real-time and intelligent insights into how to effectively manage business services in today’s complex and distributed IT environments.</p>"
+    "url": "http://dexda.io/",
+    "bio": "<p>applied awareness <span style=\"font-size: 1.0em; font-style: italic;\">for event management</span></p><p>Dexda thinks differently. Dexda is an intelligent platform that uses machine learning to solve real business problems by applying awareness to your connected world. Taking a data-centric approach to event management, Dexda treats IT events as valuable data rather than troublesome noise. Continually searching for problems, it finds meaning – uncovering anomalies, turning data into actionable insights and assigning an importance value you can see at a glance.</p><p>Dexda joins the dots so you don’t have to. Simple.</p>"
   },
   {
     "name": "vividcortex",
