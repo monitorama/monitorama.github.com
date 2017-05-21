@@ -169,7 +169,7 @@ var rawSpeakers = [
     "github": "charity",
     "twitter": "mipsytipsy",
     "bio": "Charity Majors is the cofounder and CTO of Honeycomb, a new startup focused on mining machine data. Previously, Charity ran infrastructure at Parse and was an engineering manager at Facebook. She also worked with the RocksDB team to build and deploy the world’s first Mongo + Rocks in production. Charity likes single malt scotch.",
-    "title": "How to think in distributed systems in a post dot delimited world",
+    "title": "Monitoring: A Post Mortem",
     "abstract": "",
     "video": "",
     "slides": "",
