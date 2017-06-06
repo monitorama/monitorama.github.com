@@ -95,7 +95,7 @@ var rawSpeakers = [
     "title": "Monitoring That Cares (The End of User Based Monitoring)",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/frconil/monitoring-that-cares",
     "hash": "3fdf3abc74325bb979252099a146d3ac",
   },
   {
