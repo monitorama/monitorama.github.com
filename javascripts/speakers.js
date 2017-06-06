@@ -194,7 +194,7 @@ var rawSpeakers = [
     "title": "UX Design and Education for Effective Monitoring Tools",
     "abstract": "",
     "video": "",
-    "slides": "https://speakerdeck.com/amyngyn/ux-design-and-education-for-effective-monitoring-tools",
+    "slides": "https://speakerdeck.com/amyngyn/ux-design-and-education-for-effective-monitoring-tools-monitorama-pdx-2017",
     "hash": "780e86312035da00762813aa2e443ae8",
   },
   {
