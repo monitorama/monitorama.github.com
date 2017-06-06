@@ -271,7 +271,7 @@ var rawSpeakers = [
     "title": "Distributed Tracing at Uber Scale: Creating a Treasure Map for your Monitoring Data",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/YuriShkuro/distributed-tracing-at-uber-scale-creating-a-treasure-map-for-your-monitoring-data",
     "hash": "18e04c2113110ad143092b250c48704c",
   },
   {
@@ -282,7 +282,7 @@ var rawSpeakers = [
     "title": "Distributed Tracing: How We Got Here and Where We're Going",
     "abstract": "",
     "video": "",
-    "slides": "https://docs.google.com/presentation/d/16lxfe0QJlnHQPyntLVfG4OeFV5Kcjs1W44cZZB5s6yU/edit#slide=id.g35f391192_00",
+    "slides": "https://drive.google.com/open?id=16lxfe0QJlnHQPyntLVfG4OeFV5Kcjs1W44cZZB5s6yU",
     "hash": "cf6b702398b48a2a75100ad3ea40c810",
   },
   {
@@ -304,7 +304,7 @@ var rawSpeakers = [
     "title": "Science! Science Harder: How we reinvented ourselves to be data literate, experiment-driven, and ship faster",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/lauraxt/science-science-harder",
     "hash": "fead61362ab9263d8cc3af52bd74168e",
   },
   {
@@ -315,7 +315,7 @@ var rawSpeakers = [
     "title": "Science! Science Harder: How we reinvented ourselves to be data literate, experiment-driven, and ship faster",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/lauraxt/science-science-harder",
     "hash": "195a9c13d28f6d949f05960eb42f58cf",
   }
 ]
