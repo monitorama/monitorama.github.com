@@ -117,7 +117,7 @@ var rawSpeakers = [
     "title": "Linux debugging tools you'll love",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/monitorama/pdx-2017-julia-evans",
     "hash": "51f831d74fbce448cfafc35289c231ec",
   },
   {
