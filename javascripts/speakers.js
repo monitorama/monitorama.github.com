@@ -260,7 +260,7 @@ var rawSpeakers = [
     "title": "Automating Dashboard Displays with ASAP",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap",
     "hash": "5ec711b7d86b7eed5f95755659eb1703",
   },
   {
