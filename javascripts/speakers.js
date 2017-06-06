@@ -29,7 +29,7 @@ var rawSpeakers = [
     "title": "Monitoring @ CERN",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/monitorama/pdx-2017-pedro-andrade",
     "hash": "a1d20ed4266196b7c8ec6c761b075123",
   },
   {
@@ -73,7 +73,7 @@ var rawSpeakers = [
     "title": "The Vasa: Redux",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/petecheslock/the-vasa-redux",
     "hash": "6f8b01a43eb907d6b473b37724bfc492",
   },
   {
@@ -139,7 +139,7 @@ var rawSpeakers = [
     "title": "Martyrs on Film: Learning to hate the #oncallselfie",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/alicegoldfuss/martyrs-on-film-learning-to-hate-the-number-oncallselfie",
     "hash": "856cede076549a6b684aa3d00bb9cfa8",
   },
   {
@@ -183,7 +183,7 @@ var rawSpeakers = [
     "title": "Tracing Production Services at Stripe",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/chimeracoder/tracing-production-services-at-stripe",
     "hash": "cf710d8f33271730d805cde8064686fa",
   },
   {
@@ -194,7 +194,7 @@ var rawSpeakers = [
     "title": "UX Design and Education for Effective Monitoring Tools",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/amyngyn/ux-design-and-education-for-effective-monitoring-tools",
     "hash": "780e86312035da00762813aa2e443ae8",
   },
   {
@@ -205,7 +205,7 @@ var rawSpeakers = [
     "title": "Anomalies != Alerts",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/eanichols/elizabeth-betsy-nichols",
     "hash": "d76b2db32a6e4902c0925fb224412f18",
   },
   {
@@ -227,7 +227,7 @@ var rawSpeakers = [
     "title": "Yo Dawg: Monitoring Monitoring Systems at Netflix",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/monitorama/pdx-2017-roy-rapoport",
     "hash": "419952b0d99c3397799e4dc6a123204f",
   },
   {
@@ -238,7 +238,7 @@ var rawSpeakers = [
     "title": "The Tidyverse and the Future of the Monitoring Toolchain",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/JohnRauser/the-tidyverse-and-the-future-of-the-monitoring-toolchain",
     "hash": "e463a25037c69e6ff016418f81aa0712",
   },
   {
@@ -282,7 +282,7 @@ var rawSpeakers = [
     "title": "Distributed Tracing: How We Got Here and Where We're Going",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/16lxfe0QJlnHQPyntLVfG4OeFV5Kcjs1W44cZZB5s6yU/edit#slide=id.g35f391192_00",
     "hash": "cf6b702398b48a2a75100ad3ea40c810",
   },
   {
