@@ -84,7 +84,7 @@ var rawSpeakers = [
     "title": "Instrumenting SmartTVs and Smartphones in the Netflix app for modeling the Internet",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/gcirino42/instrumenting-devices-global-data",
     "hash": "20fb251a9a83c4363b5ab7be259dc59d",
   },
   {
