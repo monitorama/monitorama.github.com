@@ -216,7 +216,7 @@ var rawSpeakers = [
     "title": "Consistency in Monitoring with Microservices at Lyft",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/theatrus/consistency-in-observability-of-microservices-at-lyft-monitorama-2017-pdx",
     "hash": "b22118baa41d19b7412d6705bab88104",
   },
   {
@@ -293,7 +293,7 @@ var rawSpeakers = [
     "title": "Instrumenting The Rest Of The Company: Hunting For Useful Metrics",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/esigler/instrumenting-the-rest-of-the-company-hunting-for-metrics",
     "hash": "da5ccba4608ffe85b4f139ae94e4972a",
   },
   {
