@@ -97,7 +97,7 @@ for (var i in speakers) {
   }
   var video = '';
   if (speakers[i].video.length > 0) {
-    video = '<span class="video"><a href="https://vimeo.com/' +
+    video = '<span class="video"><a href="' +
       speakers[i].video + '" target="_new"><i class="fa fa-video-camera"></i></a></span>';
   }
   var slides = '';
