@@ -106,7 +106,7 @@ var rawSpeakers = [
     "title": "Real-time packet analysis at scale",
     "abstract": "",
     "video": "https://vimeo.com/221056132",
-    "slides": "",
+    "slides": "https://speakerdeck.com/dcreager/real-time-packet-analysis-at-scale-monitorama-pdx-2017",
     "hash": "04ee3ca11f1ae11c63faa7995dbf1ed7",
   },
   {
