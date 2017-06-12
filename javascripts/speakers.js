@@ -40,7 +40,7 @@ var rawSpeakers = [
     "title": "Critical to Calm: Debugging Distributed Systems",
     "abstract": "",
     "video": "https://vimeo.com/221060067",
-    "slides": "",
+    "slides": "https://speakerdeck.com/monitorama/monitorama-pdx-2017-ian-bennett",
     "hash": "b54979a5a0ffb12a86a18679522e1db6",
   },
   {
