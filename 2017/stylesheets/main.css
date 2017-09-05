@@ -8,6 +8,16 @@
   font-weight: normal;
   font-style: normal;
 }
+/* @font-face {
+  font-family: 'MotivaSans-ExtraBoldItalic';
+  src: url('../fonts/291F73_1_0.eot');
+  src: url('../fonts/291F73_1_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_1_0.woff') format('woff'),
+       url('../fonts/291F73_1_0.ttf') format('truetype'),
+       url('../fonts/291F73_1_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
 @font-face {
   font-family: 'MotivaSans-LightItalic';
   src: url('../fonts/291F73_2_0.eot');
@@ -48,6 +58,16 @@
   font-weight: normal;
   font-style: normal;
 }
+/* @font-face {
+  font-family: 'MotivaSans-MediumItalic';
+  src: url('../fonts/291F73_6_0.eot');
+  src: url('../fonts/291F73_6_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_6_0.woff') format('woff'),
+       url('../fonts/291F73_6_0.ttf') format('truetype'),
+       url('../fonts/291F73_6_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
 @font-face {
   font-family: 'MotivaSans-Regular';
   src: url('../fonts/291F73_7_0.eot');
@@ -58,7 +78,56 @@
   font-weight: normal;
   font-style: normal;
 }
-
+/* @font-face {
+  font-family: 'MotivaSans-RegularItalic';
+  src: url('../fonts/291F73_8_0.eot');
+  src: url('../fonts/291F73_8_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_8_0.woff') format('woff'),
+       url('../fonts/291F73_8_0.ttf') format('truetype'),
+       url('../fonts/291F73_8_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-Thin';
+  src: url('../fonts/291F73_9_0.eot');
+  src: url('../fonts/291F73_9_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_9_0.woff') format('woff'),
+       url('../fonts/291F73_9_0.ttf') format('truetype'),
+       url('../fonts/291F73_9_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-ThinItalic';
+  src: url('../fonts/291F73_A_0.eot');
+  src: url('../fonts/291F73_A_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_A_0.woff') format('woff'),
+       url('../fonts/291F73_A_0.ttf') format('truetype'),
+       url('../fonts/291F73_A_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-Black';
+  src: url('../fonts/291F73_B_0.eot');
+  src: url('../fonts/291F73_B_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_B_0.woff') format('woff'),
+       url('../fonts/291F73_B_0.ttf') format('truetype'),
+       url('../fonts/291F73_B_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-BlackItalic';
+  src: url('../fonts/291F73_C_0.eot');
+  src: url('../fonts/291F73_C_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_C_0.woff') format('woff'),
+       url('../fonts/291F73_C_0.ttf') format('truetype'),
+       url('../fonts/291F73_C_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
 @font-face {
   font-family: 'MotivaSans-Bold';
   src: url('../fonts/291F73_D_0.eot');
@@ -122,7 +191,6 @@ div.banner {
   height: 250px;
   width: 100%;
   background: rgb(239, 239, 239) url('../images/portland-lg.png');
-  background-size: cover;
 }
 
 @media only screen and (max-width: 1465px) {
@@ -133,24 +201,28 @@ div.banner {
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
   div.banner {
+    background-size: cover;
     height: 150px;
   }
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
   div.banner {
+    background-size: cover;
     height: 200px;
   }
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
   div.banner {
+    background-size: cover;
     height: 100px;
   }
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
   div.banner {
+    background-size: cover;
     height: 150px;
   }
 }
@@ -166,9 +238,7 @@ div.banner {
 }
 
 .location {
-  //background-color: rgb(14, 100, 169);
-  ///background-color: rgb(123, 169, 0);
-  background-color: rgb(0, 136, 158);
+  background-color: rgb(14, 100, 169);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -284,6 +354,33 @@ div.banner {
 }
 /* end Navigation bar */
 
+/* start Corner Ribbon */
+/* .ribbon {
+  background-color: rgb(223, 116, 0);
+  overflow: hidden;
+  position: absolute;
+  left: -3.2em;
+  top: 2.5em;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+  -moz-box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+  -webkit-box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+}
+
+.ribbon a {
+  overflow: hidden;
+  border: 5px solid rgb(255, 133, 0);
+  color: #fff;
+  display: block;
+  font: bold 81.25% 'Helvetiva Neue', Helvetica, Arial, sans-serif;
+  margin: 0.05em 0;
+  padding: 0.1em 3.5em;
+  text-align: center;
+  text-decoration: none;
+} */
+/* end Corner Ribbon */
+
 section {
   display: none;
   height: 0;
@@ -293,7 +390,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(0, 136, 158);
+  color: rgb(14, 100, 169);
   margin: 50px 0;
 }
 
@@ -313,7 +410,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(0, 136, 158);
+  color: rgb(14, 100, 169);
 }
 
 section p em, section span em {
@@ -358,7 +455,7 @@ section.welcome {
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
-  color: rgb(0, 136, 158);
+  color: rgb(14, 100, 169);
 }
 
 .cfp ::-webkit-input-placeholder {
@@ -477,7 +574,7 @@ section.welcome {
 
 .schedule ul li div.wrap.header {
   color: #fff;
-  background-color: rgb(0, 136, 158);
+  background-color: rgb(14, 100, 169);
 }
 
 .schedule ul li div.wrap.header span {
@@ -682,7 +779,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(0, 136, 158);
+  color: rgb(14, 100, 169);
 }
 
 footer ul {
