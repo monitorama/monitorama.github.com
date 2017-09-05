@@ -1,0 +1,825 @@
+@font-face {
+  font-family: 'MotivaSans-BoldItalic';
+  src: url('../fonts/291F73_0_0.eot');
+  src: url('../fonts/291F73_0_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_0_0.woff') format('woff'),
+       url('../fonts/291F73_0_0.ttf') format('truetype'),
+       url('../fonts/291F73_0_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'MotivaSans-ExtraBoldItalic';
+  src: url('../fonts/291F73_1_0.eot');
+  src: url('../fonts/291F73_1_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_1_0.woff') format('woff'),
+       url('../fonts/291F73_1_0.ttf') format('truetype'),
+       url('../fonts/291F73_1_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+@font-face {
+  font-family: 'MotivaSans-LightItalic';
+  src: url('../fonts/291F73_2_0.eot');
+  src: url('../fonts/291F73_2_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_2_0.woff') format('woff'),
+       url('../fonts/291F73_2_0.ttf') format('truetype'),
+       url('../fonts/291F73_2_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MotivaSans-ExtraBold';
+  src: url('../fonts/291F73_3_0.eot');
+  src: url('../fonts/291F73_3_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_3_0.woff') format('woff'),
+       url('../fonts/291F73_3_0.ttf') format('truetype'),
+       url('../fonts/291F73_3_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MotivaSans-Medium';
+  src: url('../fonts/291F73_4_0.eot');
+  src: url('../fonts/291F73_4_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_4_0.woff') format('woff'),
+       url('../fonts/291F73_4_0.ttf') format('truetype'),
+       url('../fonts/291F73_4_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MotivaSans-Light';
+  src: url('../fonts/291F73_5_0.eot');
+  src: url('../fonts/291F73_5_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_5_0.woff') format('woff'),
+       url('../fonts/291F73_5_0.ttf') format('truetype'),
+       url('../fonts/291F73_5_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'MotivaSans-MediumItalic';
+  src: url('../fonts/291F73_6_0.eot');
+  src: url('../fonts/291F73_6_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_6_0.woff') format('woff'),
+       url('../fonts/291F73_6_0.ttf') format('truetype'),
+       url('../fonts/291F73_6_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+@font-face {
+  font-family: 'MotivaSans-Regular';
+  src: url('../fonts/291F73_7_0.eot');
+  src: url('../fonts/291F73_7_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_7_0.woff') format('woff'),
+       url('../fonts/291F73_7_0.ttf') format('truetype'),
+       url('../fonts/291F73_7_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'MotivaSans-RegularItalic';
+  src: url('../fonts/291F73_8_0.eot');
+  src: url('../fonts/291F73_8_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_8_0.woff') format('woff'),
+       url('../fonts/291F73_8_0.ttf') format('truetype'),
+       url('../fonts/291F73_8_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-Thin';
+  src: url('../fonts/291F73_9_0.eot');
+  src: url('../fonts/291F73_9_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_9_0.woff') format('woff'),
+       url('../fonts/291F73_9_0.ttf') format('truetype'),
+       url('../fonts/291F73_9_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-ThinItalic';
+  src: url('../fonts/291F73_A_0.eot');
+  src: url('../fonts/291F73_A_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_A_0.woff') format('woff'),
+       url('../fonts/291F73_A_0.ttf') format('truetype'),
+       url('../fonts/291F73_A_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-Black';
+  src: url('../fonts/291F73_B_0.eot');
+  src: url('../fonts/291F73_B_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_B_0.woff') format('woff'),
+       url('../fonts/291F73_B_0.ttf') format('truetype'),
+       url('../fonts/291F73_B_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+/* @font-face {
+  font-family: 'MotivaSans-BlackItalic';
+  src: url('../fonts/291F73_C_0.eot');
+  src: url('../fonts/291F73_C_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_C_0.woff') format('woff'),
+       url('../fonts/291F73_C_0.ttf') format('truetype'),
+       url('../fonts/291F73_C_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+@font-face {
+  font-family: 'MotivaSans-Bold';
+  src: url('../fonts/291F73_D_0.eot');
+  src: url('../fonts/291F73_D_0.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/291F73_D_0.woff') format('woff'),
+       url('../fonts/291F73_D_0.ttf') format('truetype'),
+       url('../fonts/291F73_D_0.svg#MotivaSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "MotivaSans-Regular", "Bookman Old Style", "Serifa BT", "URW Bookman L", "itc bookman", times, serif;
+  color: #535353;
+}
+
+/* start Monitorama logo and mark */
+.navbar-ttc {
+  background-color: #000;
+  margin-bottom: 0;
+}
+
+.navbar div.wrapper {
+  margin: 28px 0;
+}
+
+.navbar .logo img {
+  padding-bottom: 8px;
+  width: 35%;
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  .navbar .logo img {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  .navbar .logo img {
+    width: 65%;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+  .navbar .logo img {
+    width: 75%;
+  }
+}
+
+.navbar .tagline {
+  font-size: 1.4em;
+  font-style: italic;
+  color: #999;
+}
+/* end Monitorama logo and mark */
+
+/* start Portland banner image */
+div.banner {
+  height: 250px;
+  width: 100%;
+  background: rgb(239, 239, 239) url('../images/portland-lg.png');
+}
+
+@media only screen and (max-width: 1465px) {
+  div.banner {
+    background: rgb(239, 239, 239) url('../images/portland.png');
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  div.banner {
+    background-size: cover;
+    height: 150px;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  div.banner {
+    background-size: cover;
+    height: 200px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+  div.banner {
+    background-size: cover;
+    height: 100px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+  div.banner {
+    background-size: cover;
+    height: 150px;
+  }
+}
+/* end Portland banner image */
+
+/* start Location info */
+.location.wrapper {
+  background-color: rgb(239, 239, 239);
+}
+
+.location.wrapper .container  {
+  margin-top: -40px;
+}
+
+.location {
+  background-color: rgb(14, 100, 169);
+  border-radius: 8px;
+  padding: 2px 0 10px 0;
+}
+
+.location h2 {
+  font-family: "MotivaSans-Regular";
+  font-size: x-large;
+  color: #fff;
+}
+
+@media only screen and (max-width: 990px) {
+  .location h2 {
+    font-size: large;
+  }
+}
+  
+@media only screen and (max-width: 750px) {
+  .location h2 {
+    font-size: medium;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .location h2 {
+    font-size: small;
+  }
+}
+
+.location span.circle {
+  vertical-align: middle;
+  font-family: "MotivaSans-ExtraBold";
+  font-size: 0.7em;
+  color: rgb(229, 198, 255);
+  margin: 0 15px;
+}
+
+.location span.mini {
+  vertical-align: middle;
+  font-family: "MotivaSans-LightItalic";
+  font-size: 0.6em;
+  color: #fff;
+}
+/* end Location info */
+
+/* start Navigation bar */
+.navbar-default-ttc {
+  border: none;
+  background-color: rgb(239, 239, 239);
+}
+
+.navbar-header-ttc {
+  width: 100%;
+}
+
+.navbar-header-ttc ul {
+  margin: 7px 0;
+}
+
+.navbar-header-ttc a {
+  color: #838383;
+  text-transform: uppercase;
+  font-size: medium;
+}
+
+@media only screen and (max-width: 990px) {
+  .navbar-header-ttc a {
+    font-size: medium;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .navbar-header-ttc a {
+    font-size: small;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .navbar-header-ttc a {
+    font-size: x-small;
+  }
+}
+
+.navbar-header-ttc a.active {
+  color: #333;
+}
+
+.navbar-header-ttc a:hover {
+  color: #bbb;
+}
+
+.navbar-header-ttc.navbar ul {
+  list-style-type: none;
+}
+
+.navbar-header-ttc ul li {
+  display: inline-block;
+  height: 50px;
+  padding: 0 16px;
+}
+
+.navbar-header-ttc ul li a {
+  display: block;
+  margin-top: 8px;
+  text-decoration: none;
+}
+
+.navbar-header-ttc ul li a:focus {
+  outline: none;
+}
+
+.navbar-header-ttc ul li a.eu {
+  color: rgb(244, 67, 54);
+}
+/* end Navigation bar */
+
+/* start Corner Ribbon */
+/* .ribbon {
+  background-color: rgb(223, 116, 0);
+  overflow: hidden;
+  position: absolute;
+  left: -3.2em;
+  top: 2.5em;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+  -moz-box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+  -webkit-box-shadow: 0 0 2em rgba(255, 255, 255, 0.65);
+}
+
+.ribbon a {
+  overflow: hidden;
+  border: 5px solid rgb(255, 133, 0);
+  color: #fff;
+  display: block;
+  font: bold 81.25% 'Helvetiva Neue', Helvetica, Arial, sans-serif;
+  margin: 0.05em 0;
+  padding: 0.1em 3.5em;
+  text-align: center;
+  text-decoration: none;
+} */
+/* end Corner Ribbon */
+
+section {
+  display: none;
+  height: 0;
+  padding-bottom: 60px;
+}
+
+section h4 {
+  font-family: "MotivaSans-Medium";
+  font-size: 2.4em;
+  color: rgb(14, 100, 169);
+  margin: 50px 0;
+}
+
+section h5 {
+  font-family: "MotivaSans-Medium";
+  font-size: 1.6em;
+  margin-bottom: 25px;
+}
+
+section p, section span {
+  text-align: left;
+  font-family: "MotivaSans-Light";
+  font-size: 1.4em;
+  line-height: 1.8em;
+  color: #818181;
+  margin-bottom: 70px;
+}
+
+section p a, section p a:hover {
+  color: rgb(14, 100, 169);
+}
+
+section p em, section span em {
+  font-family: "MotivaSans-BoldItalic";
+  margin-right: 4px;
+}
+
+section.welcome {
+  display: block;
+  height: auto;
+}
+
+.welcome span.special {
+  font-size: inherit;
+  font-style: italic;
+  color: #000;
+}
+
+.info .mc-field-group label {
+  font-family: "MotivaSans-Light";
+  font-size: initial;
+  color: #818181;
+}
+
+.info .mc-field-group input {
+  line-height: 1.5em;
+  margin: 10px 15px;
+  padding: 5px 10px;
+  width: 250px;
+}
+
+.info input#mc-embedded-subscribe.button {
+  margin-top: 20px;
+  padding: 10px 75px;
+  border: 0px;
+  border-radius: 8px;
+  background-color: #48BA48;
+  color: #fff;
+  font-size: 1.3em;
+}
+
+.cfp span.special {
+  font-size: inherit;
+  font-style: italic;
+  color: rgb(14, 100, 169);
+}
+
+.cfp ::-webkit-input-placeholder {
+  color: rgba(184, 184, 184, 0.67);
+}
+
+.cfp ::-moz-placeholder {
+  color: rgb(184, 184, 184);
+}
+
+.cfp :-ms-input-placeholder {
+  color: rgba(184, 184, 184, 0.67);
+}
+
+.speakers ul {
+  list-style-type: none;
+  line-height: 1.3em;
+}
+
+.speakers li {
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.speakers li img {
+  float: left;
+  background-color: #fff;
+  margin: 0 30px 10px 0;
+  border-radius: 50%;
+}
+
+.speakers li span {
+  line-height: normal;
+}
+
+.speakers li span.name {
+  font-weight: bold;
+}
+
+.speakers li span.github,
+.speakers li span.twitter,
+.speakers li span.video,
+.speakers li span.slides {
+  float: right;
+  margin: 0;
+}
+
+.speakers li span.github a i,
+.speakers li span.twitter a i,
+.speakers li span.video a i,
+.speakers li span.slides a i {
+  text-decoration: none;
+  color: #C0BFBF;
+}
+
+.speakers li span.twitter,
+.speakers li span.video,
+.speakers li span.slides {
+  margin-left: 15px;
+}
+
+.speakers li span.github a:hover i {
+  color: #000;
+}
+
+.speakers li span.twitter a:hover i {
+  color: rgb(47, 138, 231);
+}
+
+.speakers li span.video a:hover i {
+  color: rgb(0, 173, 239);
+}
+
+.speakers li span.slides a:hover i {
+  color: orange;
+}
+
+.speakers li p.bio {
+  border-top: 1px solid #e4e4d4;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 0.9em;
+}
+
+/* START SCHEDULE */
+.schedule div.video-stream {
+  margin-bottom: 40px;
+}
+
+.schedule .video-stream p, .watch .video-stream p {
+  margin: 0;
+}
+
+.schedule div.day {
+  padding: 0;
+  border-left: 3px solid #919191;
+}
+
+.schedule ul {
+  list-style: none;
+}
+
+.schedule ul * {
+  text-align: left;
+}
+
+.schedule ul li {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.schedule ul li div.wrap {
+  margin-right: 20px;
+  padding: 5px 10px;
+}
+
+.schedule ul li div.wrap.header {
+  color: #fff;
+  background-color: rgb(14, 100, 169);
+}
+
+.schedule ul li div.wrap.header span {
+  color: #fff;
+}
+
+.schedule ul li div.wrap.special {
+  color: #fff;
+  background-color: #919191;
+}
+
+.schedule ul li div.wrap.special.party {
+  background-color: #570068;
+}
+
+.schedule ul li div.wrap.talk {
+  padding: 10px;
+}
+
+.schedule ul li div.wrap.workshop {
+  padding: 30px 10px;
+}
+
+.schedule ul li .wrap.special.party a {
+  color: #fff;
+  font-size: 0.9em;
+}
+
+.schedule ul li div.wrap.special span {
+  color: #fff;
+}
+
+.schedule ul li span.date, .schedule ul li span.time {
+  font-size: 0.7em;
+  margin-left: 5px;
+}
+
+.schedule ul li h5 {
+  margin: 0;
+  font-size: 1.0em;
+}
+
+.schedule ul li span.speaker {
+  font-size: 0.7em;
+}
+/* END SCHEDULE */
+
+/* START TITO HACKS */
+.tito-tickets-unavailable p {
+  text-align: center;
+  font-size: initial;
+  margin-bottom: auto;
+}
+
+.tito-tickets-unavailable p strong {
+  font-weight: initial;
+}
+
+li.tito-ticket {
+  text-align: initial;
+}
+
+.tito-ticket label {
+  font-size: initial;
+  font-weight: inherit;
+}
+
+.tito-ticket-price span {
+  font-size: initial;
+  margin-bottom: auto;
+}
+
+div.tito-wrapper {
+  margin-bottom: 50px;
+}
+
+.tito-button button {
+  width: 100%;
+  background-color: #1e5c7f;
+  border: 1px solid black;
+  padding: 15px;
+  margin: 15px 0 50px;
+  color: #fff;
+}
+/* END TITO HACKS */
+
+.hackday p strong {
+  font-size: 1.2em;
+  color: rgb(34, 141, 14);
+  margin-right: 10px;
+}
+
+div.sponsors {
+  border-bottom: 1px solid #ebebeb;
+}
+
+div.sponsor {
+  margin-bottom: 50px;
+}
+
+.sponsor img, .venue img, .run img {
+  margin: 20px 0 40px;
+}
+
+.sponsor p {
+  margin-bottom: 20px;
+  //text-align: justify;
+}
+
+.sponsor ul {
+  margin: 0 auto 30px;
+}
+
+.sponsor li {
+  list-style-type: square;
+  line-height: 1.8em;
+  font-size: initial;
+  text-align: left;
+  color: #818181;
+  margin: 0 8%;
+  padding: 6px 0;
+}
+
+div.prospectus {
+  /* border-top: 1px solid rgb(213, 213, 213);
+  padding-top: 50px;
+  margin-top: 75px; */
+}
+
+.prospectus p {
+  margin-bottom: 40px;
+}
+
+.prospectus h5.soldout, .prospectus ul.soldout {
+  opacity: 0.3;
+  text-decoration: line-through;
+}
+
+.prospectus h5 * {
+  vertical-align: middle;
+}
+
+.prospectus img {
+  margin: 0 0 5px 0;
+}
+
+.prospectus ul {
+  list-style-type: none;
+  margin-bottom: 30px;
+}
+
+.prospectus li {
+  font-size: 1.2em;
+  line-height: 1.8em;
+}
+
+.prospectus strike {
+  color: #cacaca;
+}
+
+.venue img#mcs_nerd {
+  width: 300px;
+}
+
+.travel ul {
+  list-style: none;
+}
+
+.travel li {
+  text-align: left;
+  line-height: 2.0em;
+}
+
+.travel li img {
+  margin-right: 15px;
+}
+
+.travel span.highlight {
+  font-size: 1.0em;
+  color: red;
+}
+
+div.marquee {
+  text-align: center;
+  margin: 0 10%;
+  padding-top: 25px;
+}
+
+.marquee img {
+  max-height: 30px;
+  max-width: 125px;
+  margin: 0 15px 25px;
+}
+
+footer {
+  background: #333;
+  padding: 50px;
+}
+
+footer * {
+  color: #ccc;
+}
+
+footer h5 {
+  color: rgb(14, 100, 169);
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul li * {
+  font-family: "MotivaSans-Light";
+}
+
+footer ul li a:hover {
+  color: #fff;
+}
+
+footer #copyright {
+  margin-top: 40px;
+}
+
+footer #copyright img {
+  -webkit-filter: grayscale(1);
+  -moz-filter: grayscale(1);
+  -ms-filter: grayscale(1);
+  -o-filter: grayscale(1);
+  filter: grayscale(1);
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+footer #copyright img:hover {
+  -webkit-filter: grayscale(0);
+  -moz-filter: grayscale(0);
+  -ms-filter: grayscale(0);
+  -o-filter: grayscale(0);
+  filter: grayscale(0);
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+}
+
+.signup span.required {
+  line-height: inherit;
+  color: red;
+  vertical-align: -webkit-baseline-middle;
+}
