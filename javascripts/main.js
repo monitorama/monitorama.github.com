@@ -51,7 +51,7 @@ var formHandler = function (url) {
       data[inputs[i].name] = inputs[i].value;
     }
     var thanks = function (response) {
-      parent.parent().parent().find('p, form').css('display', 'none')
+      parent.parent().parent().find('p, form, ul').css('display', 'none')
       parent.parent().removeClass('text-left').addClass('text-center');
       parent.parent().append('<span class="success">Thanks for your submission! Please check your inbox for a confirmation email.</span>');
     }
@@ -59,6 +59,9 @@ var formHandler = function (url) {
     return false;
   }
 }
+
+// submit CFP form
+$('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2018.herokuapp.com/abstracts/new'));
 
 // function to sort speakers by surname
 function compare(a,b) {
