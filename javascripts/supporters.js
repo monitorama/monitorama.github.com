@@ -75,7 +75,8 @@ var sponsors = [
     "name": "humio",
     "enabled": false,
     "url": "http://humio.com/",
-    "bio": "Coming Soon"
+    "width": 150,
+    "bio": "<p>Humio is a log aggregation and analysis tool for developers and DevOps teams. Supporting fast, ad-hoc, and real-time queries, Humio handles 1TB/day of raw logs ingest per day on a single node. With on demand dashboards, users can easily visualize and monitor the right metrics when it is most relevant. Available as an on-premise and hosted solution.</p>"
   },
   {
     "name": "elastic",
@@ -86,7 +87,7 @@ var sponsors = [
   {
     "name": "grafanalabs",
     "enabled": false,
-    "url": "http://www.raintank.io/",
+    "url": "https://grafana.com/",
     "width": 250,
     "bio": "<p>Grafana Labs is the company behind Grafana, the defacto standard for visualizing time series data. We also run <a href=\"http://grafana.net/\">GRAFANA.NET</a>: an OpenSaaS platform that helps you get the most out of your Grafana, and get the most out of your open source monitoring stack.</p>"
   },
