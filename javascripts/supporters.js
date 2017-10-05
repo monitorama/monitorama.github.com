@@ -67,9 +67,9 @@ var sponsors = [
   },
   {
     "name": "sematext",
-    "enabled": false,
+    "enabled": true,
     "url": "https://sematext.com/",
-    "bio": "<p>Sematext is a globally distributed organization that builds innovative Cloud and On Premise solutions for performance monitoring, alerting and anomaly detection (SPM), log management and analytics (Logsene), search analytics (SSA). We also provide Search and Big Data consulting services and offer 24/7 production support and training for Solr and Elasticsearch to clients worldwide.</p><p>Unlike other vendors who typically offer only performance monitoring tools, or only logging tools, or only Big Data consulting services, etc., Sematext pulls together all of these related core competencies that organizations need to make informed decisions from their data into one solution suite of products and services.</p>"
+    "bio": "<p>Sematext Group, a global products and services company, offers infrastructure and application performance monitoring and log management solutions - Sematext Cloud and Sematext Enterprise. Sematext enables businesses to easily collect application and server logs, metrics, traces, and events, thus delivering full-stack visibility through a single access point. The Sematext platform helps businesses extract value from logs and metrics and turn it into real-time actionable insights.</p><p>Sematext also provides professional services for Elasticsearch, the ELK / Elastic Stack, and Apache Solr – consulting, training, and production support.</p>",
   },
   {
     "name": "humio",
