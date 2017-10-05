@@ -93,7 +93,7 @@ var sponsors = [
   },
   {
     "name": "covermymeds",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.covermymeds.com/",
     "width": "225",
     "bio": "<p>CoverMyMeds is one of the fastest growing healthcare technology companies in the US.  We help prescribers and pharmacies submit Prior Authorization requests for any drug and nearly all health plans - 100% free - to get millions of patients on their medications every single year.  Our team of highly-productive healthcare enthusiasts, startup junkies and everything in between is the best thing about working here.  On-site chef, flexible hours and paid benefits? Yeah, we have those too.  But don’t take our word for it.  We’ve been named to Glassdoor's top 50 places to work in the nation, Inc. 500’s list three times, were awarded one of the top places to work by Modern Healthcare and three times won best places to work in Columbus, Ohio.</p>"
