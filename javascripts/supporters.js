@@ -67,7 +67,7 @@ var sponsors = [
   },
   {
     "name": "sematext",
-    "enabled": true,
+    "enabled": false,
     "url": "https://sematext.com/",
     "bio": "<p>Sematext Group, a global products and services company, offers infrastructure and application performance monitoring and log management solutions - Sematext Cloud and Sematext Enterprise. Sematext enables businesses to easily collect application and server logs, metrics, traces, and events, thus delivering full-stack visibility through a single access point. The Sematext platform helps businesses extract value from logs and metrics and turn it into real-time actionable insights.</p><p>Sematext also provides professional services for Elasticsearch, the ELK / Elastic Stack, and Apache Solr – consulting, training, and production support.</p>",
   },
