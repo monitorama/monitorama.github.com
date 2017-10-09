@@ -69,7 +69,7 @@ var sponsors = [
     "name": "sematext",
     "enabled": true,
     "url": "https://sematext.com/",
-    "bio": "<p>Sematext Group, a global products and services company, offers infrastructure and application performance monitoring and log management solutions - Sematext Cloud and Sematext Enterprise. Sematext enables businesses to easily collect application and server logs, metrics, traces, and events, thus delivering full-stack visibility through a single access point. The Sematext platform helps businesses extract value from logs and metrics and turn it into real-time actionable insights.</p><p>Sematext also provides professional services for Elasticsearch, the ELK / Elastic Stack, and Apache Solr – consulting, training, and production support.</p>",
+    "bio": "<p><a href=\"https://sematext.com/\">Sematext Group</a>, a global products and services company, offers <a href=\"https://sematext.com/infrastructure-monitoring/\">infrastructure monitoring</a>, <a href=\"https://sematext.com/application-monitoring/\">application performance monitoring</a>, and <a href=\"https://sematext.com/log-management/\">log management</a> solutions - <a href=\"https://sematext.com/cloud\">Sematext Cloud</a> and Sematext Enterprise. Sematext enables businesses to easily collect application and server logs, metrics, traces, and events, thus delivering full-stack visibility through a single access point. The Sematext platform helps businesses extract value from logs and metrics and turn it into real-time actionable insights.</p><p>Sematext also provides professional services for Elasticsearch, the ELK / Elastic Stack, and Apache Solr – consulting, training, and production support.</p>"
   },
   {
     "name": "humio",
