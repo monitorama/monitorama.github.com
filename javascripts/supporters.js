@@ -79,6 +79,13 @@ var sponsors = [
     "bio": "<p>Humio is a log aggregation and analysis tool for developers and DevOps teams. Supporting fast, ad-hoc, and real-time queries, Humio handles 1TB/day of raw logs ingest per day on a single node. With on demand dashboards, users can easily visualize and monitor the right metrics when it is most relevant. Available as an on-premise and hosted solution.</p>"
   },
   {
+    "name": "bigpanda",
+    "enabled": false,
+    "url": "http://bigpanda.io/",
+    "width": 225,
+    "bio": "<p>BigPanda is the next generation in Intelligent Incident Management for IT, NOC and DevOps teams. BigPanda's data science platform brings order to the alert chaos that plagues IT Operations in complex cloud and on-premise operating environments.  BigPanda aggregates, consolidates, and correlates massive amounts of IT alerts, deployments and communications, thus turning them into actionable insights. For more information, visit: <a href=\"http://www.bigpanda.io\">http://www.bigpanda.io</a>.</p>"
+  },
+  {
     "name": "elastic",
     "enabled": true,
     "url": "https://www.elastic.co/",
