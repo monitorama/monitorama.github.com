@@ -47,7 +47,7 @@ var sponsors = [
   },
   {
     "name": "opsview",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.opsview.com/",
     "bio": "<p>Monitoring should be easy, modern and future-ready. First released in 2004, Opsview Monitor has evolved into a cloud-scale platform that connects the status of what you monitor with its impact on your business services. We provide true insight into the performance of your IT operations, enabling faster and more informed decision-making that delivers improved service levels and greater team efficiency.</p><p>However complex your IT environment, you can rapidly deploy Opsview Monitor and integrate it with your existing business systems with help from our world-class customer success team. More than any other IT monitoring company, we put you first.</p><p>So, if you’re looking for automation from your monitoring solution; to reduce the high costs and potentially poor service of legacy tools; and need a single, unified view of your entire IT infrastructure and apps <a href=\"https://www.opsview.com/products/downloads\">get started with our Free Trial today<a/>.</p>"
   },
