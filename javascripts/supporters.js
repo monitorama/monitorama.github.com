@@ -96,7 +96,7 @@ var sponsors = [
     "enabled": false,
     "url": "https://grafana.com/",
     "width": 250,
-    "bio": "<p>Grafana Labs is the company behind Grafana, the defacto standard for visualizing time series data. We also run <a href=\"http://grafana.net/\">GRAFANA.NET</a>: an OpenSaaS platform that helps you get the most out of your Grafana, and get the most out of your open source monitoring stack.</p>"
+    "bio": "<p>Grafana Labs is the company behind Grafana, the de facto standard for visualizing time series data. We've also launched GrafanaCloud: a fully-managed, OpenSaaS platform that makes it easy to set up, operate, and scale a complete Grafana stack in the cloud. Get the most out of your Grafana, and get the most out of your open source monitoring stack.</p>"
   },
   {
     "name": "covermymeds",
