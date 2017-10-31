@@ -73,7 +73,7 @@ var sponsors = [
   },
   {
     "name": "humio",
-    "enabled": false,
+    "enabled": true,
     "url": "http://humio.com/",
     "width": 150,
     "bio": "<p>Humio is a log aggregation and analysis tool for developers and DevOps teams. Supporting fast, ad-hoc, and real-time queries, Humio handles 1TB/day of raw logs ingest per day on a single node. With on demand dashboards, users can easily visualize and monitor the right metrics when it is most relevant. Available as an on-premise and hosted solution.</p>"
@@ -93,7 +93,7 @@ var sponsors = [
   },
   {
     "name": "grafanalabs",
-    "enabled": false,
+    "enabled": true,
     "url": "https://grafana.com/",
     "width": 250,
     "bio": "<p>Grafana Labs is the company behind Grafana, the de facto standard for visualizing time series data. We've also launched GrafanaCloud: a fully-managed, OpenSaaS platform that makes it easy to set up, operate, and scale a complete Grafana stack in the cloud. Get the most out of your Grafana, and get the most out of your open source monitoring stack.</p>"
