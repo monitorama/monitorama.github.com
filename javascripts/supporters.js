@@ -53,9 +53,9 @@ var sponsors = [
   },
   {
     "name": "squarespace",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.squarespace.com/",
-    "width": 225,
+    "width": 250,
     "bio": "<p>Squarespace makes beautiful products to help people with creative ideas succeed. Our platform empowers millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories and create an impactful, stylish, and easy-to-manage online presence. We’re looking for people to join the team who are as excited as we are to help build the platform that empowers the future generation of creators to be successful online. Our competitive benefits package includes premium health care coverage, daily gourmet lunches, unlimited vacation, tuition reimbursement, retirement and donation matching, rich parental leave benefits, and so many snacks. Please check out our <a href=\"https://www.squarespace.com/about/careers/\">Careers page</a> to see all our current openings.</p>"
   },
   {
