@@ -88,10 +88,10 @@ var rawSpeakers = [
     "hash": "6f8b01a43eb907d6b473b37724bfc492",
   },
   {
-    "name": "Katherine Daniels",
+    "name": "Ryn Daniels",
     "github": "kdaniels",
     "twitter": "beerops",
-    "bio": "Katherine Daniels is a senior operations engineer at Etsy who got her start in programming with TI-80 calculators back when Geocities was still cool, and these days has opinions on things like ‘the cloud’ and ‘devops’. Before escaping to the world of operations, she spent a few years doing R&D and systems engineering in the corporate world. She lives in Brooklyn with a perfectly reasonable number of cats, and in her spare time can often be found rock-climbing or hand crafting knitted server koozies for the data center. She is co-author of O’Reilly Media’s Effective DevOps.",
+    "bio": "Ryn Daniels is a senior operations engineer at Etsy who got her start in programming with TI-80 calculators back when Geocities was still cool, and these days has opinions on things like ‘the cloud’ and ‘devops’. Before escaping to the world of operations, she spent a few years doing R&D and systems engineering in the corporate world. She lives in Brooklyn with a perfectly reasonable number of cats, and in her spare time can often be found rock-climbing or hand crafting knitted server koozies for the data center. She is co-author of O’Reilly Media’s Effective DevOps.",
     "title": "How to Teach an Old Monitoring System New Tricks",
     "abstract": "Nagios is old, but you don't have to keep using it the same way you did when it came out of the box in 1999. At Etsy, we've been using Nagios for the better part of a decade to monitor our growing infrastructure, and over that time have found quite a few ways to help it grow beyond what it could do originally. In this talk, I'll share improvements that we've made to our Nagios instances in terms of scaling, deployment, and alerting, and talk about lessons we learned along the way that will be useful (or at least entertaining) to anyone else who hasn't yet switched over to the most bleeding-edge monitoring.",
     "video": "173607641",

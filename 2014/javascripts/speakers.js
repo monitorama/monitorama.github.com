@@ -81,10 +81,10 @@ var speakers = [
     "hash": "70bd372389add5e121b7a9a929b2d887"
   },
   {
-    "name": "Katherine Daniels",
+    "name": "Ryn Daniels",
     "github": "kdaniels",
     "twitter": "beerops",
-    "bio": "Katherine is an operations engineer at GameChanger.io, where she focuses on automation and monitoring while occasionally dabbling in beer-driven development. Before escaping to the world of operations at NYC-based startups, she spent a few years doing QA and systems engineering in the corporate world. She lives in Brooklyn with a perfectly reasonable number of cats, and in her spare time can often be found rock climbing or making hot sauce.",
+    "bio": "Ryn is an operations engineer at GameChanger.io, where she focuses on automation and monitoring while occasionally dabbling in beer-driven development. Before escaping to the world of operations at NYC-based startups, she spent a few years doing QA and systems engineering in the corporate world. She lives in Brooklyn with a perfectly reasonable number of cats, and in her spare time can often be found rock climbing or making hot sauce.",
     "abstract": "The Care and Feeding of Monitoring",
     "videos": [],
     "slides": [],
