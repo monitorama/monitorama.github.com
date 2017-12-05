@@ -93,10 +93,11 @@ var sponsors = [
     "bio": "<p>Catchpoint is a leading digital experience intelligence company that provides unparalleled insight into customer-critical services to help businesses consistently deliver amazing digital experiences. Catchpoint is the only performance digital experience monitoring platform that provides integrated synthetic and real user monitoring, comprehensive test types, real-time analytics, and a diverse node network to help you continuously preempt performance issues and optimize service delivery. More than 350 customers in over 30 countries trust Catchpoint to strengthen their brands and grow their businesses.</p>"
   },
   {
-    "name": "craigslist",
+    "name": "netsil",
     "enabled": false,
-    "url": "https://www.craigslist.org/",
-    "bio": "<p>craigslist is a hub for the wired community and one of the ten most visited web sites, in 300 cities and more than 50 countries across the globe. craigslist is community-moderated and largely free.</p>"
+    "url": "http://netsil.com/",
+    "width": 130,
+    "bio": "<p>Netsil is a universal observability and monitoring platform for Kubernetes applications. With Netsil's Application Operations Center (AOC), DevOps teams gain complete visibility into all the namespaces, pods, services and their dependencies with absolutely no code changes required.</p><p>The AOC generates maps which automatically discover every Docker container, Kubernetes pod, host and service endpoint, along with all the interactions among them. The maps also capture key service health metrics of latency, throughput and error rates for API calls, database queries, DNS lookups and several other service interactions.</p><p>As a result, DevOps teams are able to reduce downtime, ensure safer deployments and meet their service level objectives (SLOs). Learn more at <a href=\"https://netsil.com/\">https://netsil.com/</a> or follow us on <a href=\"https://twitter.com/Netsil_HQ\">Twitter</a>.</p>"
   },
   {
     "name": "elastic",
