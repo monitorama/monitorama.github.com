@@ -19,6 +19,12 @@ var sponsors = [
     "bio": "<p>SolarWinds is a leading provider of powerful and affordable IT management software to customers worldwide. SolarWinds® Monitoring Cloud is the next evolution of the company’s Software as a Service (SaaS) portfolio for monitoring cloud infrastructure and applications. Combined, Pingdom®, Librato™, Papertrail™, TraceView™ offer a full stack performance monitoring solution to manage, optimize, and troubleshoot at every layer, from the infrastructure to the end user experience. Nearly 1 million users now rely on SolarWinds Monitoring Cloud solutions for intuitive and affordable tools.</p>"
   },
   {
+    "name": "logicmonitor",
+    "enabled": false,
+    "url": "https://www.logicmonitor.com/",
+    "bio": ""
+  },
+  {
     "name": "datadog",
     "enabled": true,
     "url": "http://www.datadoghq.com/",
@@ -59,13 +65,6 @@ var sponsors = [
     "bio": "<p>Squarespace makes beautiful products to help people with creative ideas succeed. Our platform empowers millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories and create an impactful, stylish, and easy-to-manage online presence. We’re looking for people to join the team who are as excited as we are to help build the platform that empowers the future generation of creators to be successful online. Our competitive benefits package includes premium health care coverage, daily gourmet lunches, unlimited vacation, tuition reimbursement, retirement and donation matching, rich parental leave benefits, and so many snacks. Please check out our <a href=\"https://www.squarespace.com/about/careers/\">Careers page</a> to see all our current openings.</p>"
   },
   {
-    "name": "serverdensity",
-    "enabled": false,
-    "url": "https://www.serverdensity.com/",
-    "width": 250,
-    "bio": "<p>Server Density is a SaaS tool which helps you run your infrastructure. It syncs with the major cloud providers and and allows you to monitor your websites and servers from a single console, API and mobile app so you can diagnose problems, maintain uptime and maximise performance.</p>"
-  },
-  {
     "name": "sematext",
     "enabled": true,
     "url": "https://sematext.com/",
@@ -100,6 +99,18 @@ var sponsors = [
     "bio": "<p>Netsil is a universal observability and monitoring platform for Kubernetes applications. With Netsil's Application Operations Center (AOC), DevOps teams gain complete visibility into all the namespaces, pods, services and their dependencies with absolutely no code changes required.</p><p>The AOC generates maps which automatically discover every Docker container, Kubernetes pod, host and service endpoint, along with all the interactions among them. The maps also capture key service health metrics of latency, throughput and error rates for API calls, database queries, DNS lookups and several other service interactions.</p><p>As a result, DevOps teams are able to reduce downtime, ensure safer deployments and meet their service level objectives (SLOs). Learn more at <a href=\"https://netsil.com/\">https://netsil.com/</a> or follow us on <a href=\"https://twitter.com/Netsil_HQ\">Twitter</a>.</p>"
   },
   {
+    "name": "scalyr",
+    "enabled": false,
+    "url": "https://www.scalyr.com/",
+    "bio": ""
+  },
+  {
+    "name": "signalfx",
+    "enabled": false,
+    "url": "https://signalfx.com/",
+    "bio": "<p>SignalFx is the most advanced monitoring solution for modern infrastructure. Our mission is to help teams building and operating services on platforms like AWS, Kafka, Elasticsearch, Zookeeper, Cassandra and more drive high levels of availability.</p><p>SignalFx provides development and operations self-service access to creating, exploring, monitoring, and alerting on real-time infrastructure and application metrics. Using SignalFlow, anyone can easily create analytics pipelines on to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- to reduce the noise, at any scale.</p>"
+  },
+  {
     "name": "elastic",
     "enabled": true,
     "url": "https://www.elastic.co/",
@@ -116,7 +127,14 @@ var sponsors = [
     "name": "covermymeds",
     "enabled": true,
     "url": "https://www.covermymeds.com/",
-    "width": "225",
+    "width": 225,
     "bio": "<p>CoverMyMeds is one of the fastest growing healthcare technology companies in the US.  We help prescribers and pharmacies submit Prior Authorization requests for any drug and nearly all health plans - 100% free - to get millions of patients on their medications every single year.  Our team of highly-productive healthcare enthusiasts, startup junkies and everything in between is the best thing about working here.  On-site chef, flexible hours and paid benefits? Yeah, we have those too.  But don’t take our word for it.  We’ve been named to Glassdoor's top 50 places to work in the nation, Inc. 500’s list three times, were awarded one of the top places to work by Modern Healthcare and three times won best places to work in Columbus, Ohio.</p>"
+  },
+  {
+    "name": "moogsoft",
+    "enabled": false,
+    "url": "https://www.moogsoft.com/",
+    "width": 175,
+    "bio": "<p>moogsoft develops AIOps technology that helps enterprise ITOps and DevOps teams become faster, smarter and more effective. Moogsoft AIOps’ real-time machine learning algorithms reduce operational noise and allow operators to proactively detect and remediate issues that impact their customers’ experience.</p>"
   },
 ]
