@@ -8,9 +8,9 @@ var sponsors = [
   } */
   {
     "name": "wavefront",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.wavefront.com/",
-    "bio": "<p>Wavefront is analytics-driven, metrics monitoring, alerting and anomaly detection platform for cloud-native, microservices environments. Metrics go far beyond log-based approaches as the most powerful way to understand and manage an overall system’s function. At massive scale and reliability, Wavefront processes metrics from all corners of your cloud estate and enables every engineer and developer in your organization to self-service alerts, dashboards and drill-down visualizations &#8212; also with a complete API. This includes sub-second metrics and aggregated percentiles. SaaS leaders like Workday, Box, Lyft, Okta, Intuit, Groupon, and Yammer depend on Wavefront every day.</p> "
+    "bio": "<p>Wavefront™ by VMware® is a SaaS-based metrics monitoring and analytics platform that handles the high-scale requirements of modern cloud-native applications. Wavefront’s speed, scale and flexibility allows DevOps and developer teams instant insight into the performance of their highly-distributed cloud-native services. Wavefront’s analytics, query-driven alerts, interactive visualizations, open API, and integrations, all powered by massively scalable time-series database delivers “the first pane of glass” visibility helping DevOps teams detect performance anomalies while ensuring high availability of key cloud services.</p><p>Developers can self-serve and adapt Wavefront analytics to unique needs of their code while gaining visibility into its production behavior.</p>",
   },
   {
     "name": "solarwinds",
