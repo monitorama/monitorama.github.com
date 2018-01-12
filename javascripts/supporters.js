@@ -106,7 +106,7 @@ var sponsors = [
   },
   {
     "name": "signalfx",
-    "enabled": false,
+    "enabled": true,
     "url": "https://signalfx.com/",
     "bio": "<p>SignalFx is the most advanced monitoring solution for modern infrastructure. Our mission is to help teams building and operating services on platforms like AWS, Kafka, Elasticsearch, Zookeeper, Cassandra and more drive high levels of availability.</p><p>SignalFx provides development and operations self-service access to creating, exploring, monitoring, and alerting on real-time infrastructure and application metrics. Using SignalFlow, anyone can easily create analytics pipelines on to create meaningful aggregations -- such as percentiles, moving averages and growth rates -- to reduce the noise, at any scale.</p>"
   },
