@@ -135,6 +135,6 @@ var sponsors = [
     "enabled": false,
     "url": "https://www.moogsoft.com/",
     "width": 175,
-    "bio": "<p>moogsoft develops AIOps technology that helps enterprise ITOps and DevOps teams become faster, smarter and more effective. Moogsoft AIOps’ real-time machine learning algorithms reduce operational noise and allow operators to proactively detect and remediate issues that impact their customers’ experience.</p>"
+    "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
   },
 ]
