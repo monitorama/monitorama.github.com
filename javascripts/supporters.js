@@ -100,9 +100,9 @@ var sponsors = [
   },
   {
     "name": "scalyr",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.scalyr.com/",
-    "bio": ""
+    "bio": "<p>Scalyr offers a cloud-based platform for high-speed log management and server monitoring. Founded by one of the creators of Google Docs, Scalyr brings the speed and ease of use normally found in consumer apps to an incredibly powerful server monitoring tool. 95% of all queries complete in under a second, and there's no need to learn a complex query language. Notable customers include OkCupid, Zalando, Grab, CareerBuilder and Wistia.</p>"
   },
   {
     "name": "signalfx",
