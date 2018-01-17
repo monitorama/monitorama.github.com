@@ -93,7 +93,7 @@ var sponsors = [
   },
   {
     "name": "netsil",
-    "enabled": false,
+    "enabled": true,
     "url": "http://netsil.com/",
     "width": 130,
     "bio": "<p>Netsil is a universal observability and monitoring platform for Kubernetes applications. With Netsil's Application Operations Center (AOC), DevOps teams gain complete visibility into all the namespaces, pods, services and their dependencies with absolutely no code changes required.</p><p>The AOC generates maps which automatically discover every Docker container, Kubernetes pod, host and service endpoint, along with all the interactions among them. The maps also capture key service health metrics of latency, throughput and error rates for API calls, database queries, DNS lookups and several other service interactions.</p><p>As a result, DevOps teams are able to reduce downtime, ensure safer deployments and meet their service level objectives (SLOs). Learn more at <a href=\"https://netsil.com/\">https://netsil.com/</a> or follow us on <a href=\"https://twitter.com/Netsil_HQ\">Twitter</a>.</p>"
