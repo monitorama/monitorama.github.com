@@ -137,4 +137,10 @@ var sponsors = [
     "width": 175,
     "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
   },
+  {
+    "name": "statusio",
+    "enabled": true,
+    "url": "https://status.io/",
+    "bio": "<p><a href=\"https://status.io/\">Status.io</a> is a hosted status page platform, providing companies a simple way to track incidents, schedule planned maintenances, and broadcast notifications to keep everyone in the loop during downtime. Our status pages are fully customizable to match your brand and integrate with your existing monitoring and metrics tools.</p><p>Hundreds of companies are using Status.io to be more transparent with their customers. By tracking incidents and sending status notifications, everyone is updated with any changes, decreasing support requests and increasing trust in your brand or product.</p><p>Status.io uses highly available infrastructure to ensure that your status page is online and healthy even when your system is not. Create your status page today at <a href=\"https://status.io/\">https://status.io</a>.</p>",
+  },
 ]
