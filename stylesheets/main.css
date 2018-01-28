@@ -383,6 +383,11 @@ section.welcome {
   margin-bottom: 1em;
 }
 
+.cfp .countdown {
+  display: inline-block;
+  width: auto;
+}
+
 .speakers ul {
   list-style-type: none;
   line-height: 1.3em;
