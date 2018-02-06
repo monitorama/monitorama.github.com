@@ -132,7 +132,7 @@ var sponsors = [
   },
   {
     "name": "moogsoft",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.moogsoft.com/",
     "width": 175,
     "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
