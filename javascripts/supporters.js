@@ -19,9 +19,9 @@ var sponsors = [
     "bio": "<p>SolarWinds is a leading provider of powerful and affordable IT management software to customers worldwide. SolarWinds® Monitoring Cloud is the next evolution of the company’s Software as a Service (SaaS) portfolio for monitoring cloud infrastructure and applications. Combined, Pingdom®, Librato™, Papertrail™, TraceView™ offer a full stack performance monitoring solution to manage, optimize, and troubleshoot at every layer, from the infrastructure to the end user experience. Nearly 1 million users now rely on SolarWinds Monitoring Cloud solutions for intuitive and affordable tools.</p>"
   },
   {
-    "name": "logicmonitor",
+    "name": "google",
     "enabled": false,
-    "url": "https://www.logicmonitor.com/",
+    "url": "https://cloud.google.com/stackdriver/",
     "bio": ""
   },
   {
@@ -111,6 +111,12 @@ var sponsors = [
     "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
   },
   {
+    "name": "logz",
+    "enabled": false,
+    "url": "https://logz.io/",
+    "bio": ""
+  },
+  {
     "name": "elastic",
     "enabled": true,
     "url": "https://www.elastic.co/",
@@ -138,9 +144,21 @@ var sponsors = [
     "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
   },
   {
+    "name": "newrelic",
+    "enabled": false,
+    "url": "https://newrelic.com/",
+    "bio": ""
+  },
+  {
     "name": "statusio",
     "enabled": true,
     "url": "https://status.io/",
     "bio": "<p><a href=\"https://status.io/\">Status.io</a> is a hosted status page platform, providing companies a simple way to track incidents, schedule planned maintenances, and broadcast notifications to keep everyone in the loop during downtime. Our status pages are fully customizable to match your brand and integrate with your existing monitoring and metrics tools.</p><p>Hundreds of companies are using Status.io to be more transparent with their customers. By tracking incidents and sending status notifications, everyone is updated with any changes, decreasing support requests and increasing trust in your brand or product.</p><p>Status.io uses highly available infrastructure to ensure that your status page is online and healthy even when your system is not. Create your status page today at <a href=\"https://status.io/\">https://status.io</a>.</p>",
+  },
+  {
+    "name": "op5",
+    "enabled": false,
+    "url": "https://www.op5.com/",
+    "bio": ""
   },
 ]
