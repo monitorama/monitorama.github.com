@@ -161,4 +161,17 @@ var sponsors = [
     "url": "https://www.op5.com/",
     "bio": ""
   },
+  {
+    "name": "gremlin",
+    "enabled": true,
+    "url": "https://www.gremlin.com/",
+    "width": 150,
+    "bio": "<p>Downtime is expensive. It hurts customer trust. And existing solutions are reactive. Gremlin’s proactive failure testing finds weaknesses in your system before they cause problems. Think of it as vaccinating your network. In a safe, secure, and controlled manner, our software injects failures like packet loss or CPU memory maximization, allowing you to find possible weak spots, resolve them, and make your network stronger. For nearly a decade, we’ve been doing this type of failure testing at companies like Amazon and Netflix. We bring this expertise to your network and harden your systems.</p>"
+  },
+  {
+    "name": "lightstep",
+    "enabled": false,
+    "url": "https://lightstep.com/",
+    "bio": ""
+  },
 ]
