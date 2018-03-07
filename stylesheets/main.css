@@ -540,51 +540,7 @@ section.welcome {
 }
 /* END SCHEDULE */
 
-/* START TITO HACKS */
-.tito-tickets-unavailable p {
-  text-align: center;
-  font-size: initial;
-  margin-bottom: auto;
-}
-
-.tito-tickets-unavailable p strong {
-  font-weight: initial;
-}
-
-li.tito-ticket {
-  text-align: initial;
-}
-
-.tito-ticket label {
-  font-size: initial;
-  font-weight: inherit;
-}
-
-.tito-ticket-price span {
-  font-size: initial;
-  margin-bottom: auto;
-}
-
-div.tito-wrapper {
-  margin-bottom: 50px;
-}
-
-.tito-button button {
-  width: 100%;
-  background-color: #1e5c7f;
-  border: 1px solid black;
-  padding: 15px;
-  margin: 15px 0 50px;
-  color: #fff;
-}
-/* END TITO HACKS */
-
-.hackday p strong {
-  font-size: 1.2em;
-  color: rgb(34, 141, 14);
-  margin-right: 10px;
-}
-
+/* START SPONSORS */
 div.sponsors {
   border-bottom: 1px solid #ebebeb;
 }
@@ -652,11 +608,15 @@ div.prospectus {
 .prospectus strike {
   color: #cacaca;
 }
+/* END SPONSORS */
 
+/* START VENUE */
 .venue img#mcs_nerd {
   width: 300px;
 }
+/* END VENUE */
 
+/* START TRAVEL */
 .travel ul {
   list-style: none;
 }
@@ -674,7 +634,9 @@ div.prospectus {
   font-size: 1.0em;
   color: red;
 }
+/* END TRAVEL */
 
+/* START SPONSOR MARQUEE */
 div.marquee {
   text-align: center;
   margin: 0 10%;
@@ -686,7 +648,9 @@ div.marquee {
   max-width: 125px;
   margin: 0 15px 25px;
 }
+/* END SPONSOR MARQUEE */
 
+/* START FOOTER */
 footer {
   background: #333;
   padding: 50px;
@@ -735,6 +699,7 @@ footer #copyright img:hover {
   filter: grayscale(0);
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
 }
+/* END FOOTER */
 
 .signup span.required {
   line-height: inherit;
