@@ -82,7 +82,7 @@ var sponsors = [
     "enabled": true,
     "url": "http://bigpanda.io/",
     "width": 225,
-    "bio": "<p>BigPanda is the next generation in Intelligent Incident Management for IT, NOC and DevOps teams. BigPanda's data science platform brings order to the alert chaos that plagues IT Operations in complex cloud and on-premise operating environments.  BigPanda aggregates, consolidates, and correlates massive amounts of IT alerts, deployments and communications, thus turning them into actionable insights. For more information, visit: <a href=\"http://www.bigpanda.io\">http://www.bigpanda.io</a>.</p>"
+    "bio": "<p>BigPanda Inc. enables Enterprise IT to intelligently automate Service Operations and scale to meet the complex demands of the modern datacenter. The company provides Algorithmic Service Operations solutions that leverage best of breed monitoring tools and silence alert noise. Large enterprises with complex IT Operations such as Autodesk, Intel, Workday and Cisco rely on BigPanda’s open cloud platform and its algorithmic alert correlation capabilities. Its solution provides best-in-class interoperability and configurability, enabling enterprises to achieve rapid time-to-value. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield and Battery Ventures. Visit <a href=\"https://bigpanda.io/\">www.bigpanda.io</a> for more information.</p>",
   },
   {
     "name": "catchpoint",
