@@ -355,6 +355,7 @@ section.welcome {
   font-size: 1.3em;
 }
 
+/* START CFP */
 .cfp span.special {
   font-size: inherit;
   font-style: italic;
@@ -387,15 +388,20 @@ section.welcome {
   display: inline-block;
   width: auto;
 }
+/* END CFP */
 
+/* START SPEAKERS */
 .speakers ul {
   list-style-type: none;
   line-height: 1.3em;
+  text-align: left;
 }
 
 .speakers li {
-  text-align: left;
+  display: inline-block;
+  margin-top: 1em;
   margin-bottom: 0;
+  width: 100%;
 }
 
 .speakers li img {
@@ -457,6 +463,7 @@ section.welcome {
   padding-top: 10px;
   font-size: 0.9em;
 }
+/* END SPEAKERS */
 
 /* START SCHEDULE */
 .schedule div.video-stream {
