@@ -65,7 +65,7 @@ var rawSpeakers = [
     "slides": "",
     "hash": "adb063dfbaf7cdd6f3a5a868a4e8fc8c",
   },
-  {
+  /* {
     "name": "Angelo Licastro",
     "github": "angelolicastro",
     "twitter": "",
@@ -75,7 +75,7 @@ var rawSpeakers = [
     "video": "",
     "slides": "",
     "hash": "",
-  },
+  }, */
   {
     "name": "Ian Bennett",
     "github": "enbnt",
