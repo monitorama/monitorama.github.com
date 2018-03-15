@@ -65,17 +65,17 @@ var rawSpeakers = [
     "slides": "",
     "hash": "adb063dfbaf7cdd6f3a5a868a4e8fc8c",
   },
-  /* {
+  {
     "name": "Angelo Licastro",
     "github": "angelolicastro",
     "twitter": "",
-    "bio": "",
+    "bio": "Angelo Licastro is an engineer on Yelp's Metrics team, which provides the instrumentation, monitoring, and alerting platforms for Yelp’s Engineering and Operations teams. At Yelp, he's evolved incident standardization to support on-call happiness. These days, Angelo's focused on building an infinitely scalable data lake and making engineers' lives better. He has a habit of Dockerizing things that don't want to be Dockerized.",
     "title": "Mentoring Metrics Engineers: How to Grow and Empower Your Own Monitoring Experts",
     "abstract": "",
     "video": "",
     "slides": "",
     "hash": "",
-  }, */
+  },
   {
     "name": "Ian Bennett",
     "github": "enbnt",
@@ -212,7 +212,7 @@ var rawSpeakers = [
     "name": "George Luong",
     "github": "georgeluong",
     "twitter": "georgeluong",
-    "bio": "",
+    "bio": "George is an operations engineer on Slack’s Visibility Infrastructure team, where he helps build and maintain Slack’s metrics and logging infrastructures. He has a degree in human biology from UC San Diego, but stumbled into tech shortly after. On a recent trip to Australia, he honed his steel slinging and earned a lifetime membership at a darts hall. Unfortunately, this is his proudest accomplishment.",
     "title": "Slack in the Age of Prometheus",
     "abstract": "",
     "video": "",
