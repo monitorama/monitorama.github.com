@@ -43,17 +43,6 @@ var rawSpeakers = [
     "slides": "",
     "hash": "b2c291877cd5ae2f2c3e6ed35a595df7",
   },
-  /* {
-    "name": "John Allspaw",
-    "github": "jallspaw",
-    "twitter": "allspaw",
-    "bio": "",
-    "title": "",
-    "abstract": "",
-    "video": "",
-    "slides": "",
-    "hash": "d203c4b40e3a19c1213a9b9994b11556"
-  }, */
   {
     "name": "Zach Musgrave",
     "github": "zachm",
