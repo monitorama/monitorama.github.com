@@ -263,4 +263,15 @@ var rawSpeakers = [
     "slides": "",
     "hash": "2eef5c2b2706aa8146daaef9a837bb91",
   },
+  {
+    "name": "Morgan McLean",
+    "github": "mtwo",
+    "twitter": "",
+    "bio": "Morgan is the product manager for APM tools at Google, including distributed tracing, profiling, debugging, and open source initiatives like OpenCensus. He's based in Seattle and loves visiting Portland!",
+    "title": "Achieving Google-levels of Observability into your Application with OpenCensus",
+    "abstract": "",
+    "video": "",
+    "slides": "",
+    "hash": "2e021494039e2b83beab421124f5c963",
+  }
 ]
