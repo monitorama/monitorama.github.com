@@ -168,7 +168,7 @@ var rawSpeakers = [
     "name": "Tapasweni Pathak",
     "github": "tapasweni-pathak",
     "twitter": "tapaswenipathak",
-    "bio": "",
+    "bio": "<a href=\"https://tapasweni-pathak.github.io/\">Tapasweni</a> as an engineer at Mapbox focuses on making Mapbox’s technology infrastructure performant globally so that the products are seamlessly available worldwide. She likes keeping herself involved with open source projects and communities. Previously, she has worked with SAP, Qualcomm in their engineering team.",
     "title": "Sparky the fire dog: incident response as code",
     "abstract": "",
     "video": "",
