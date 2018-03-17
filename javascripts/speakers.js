@@ -256,7 +256,7 @@ var rawSpeakers = [
     "name": "Jamie Wilkinson",
     "github": "jaqx0r",
     "twitter": "jaqx0r",
-    "bio": "Jamie works as a Site Reliability Engineer in Google's storage infrastructure group, primarily on automation and monitoring to improve the lives of his team-mates when oncall.",
+    "bio": "Jamie Wilkinson is a Site Reliability Engineer at Google. Contributing author to the &quot;SRE Book&quot;, he has presented on contemporary topics at prominent conferences such as linux.conf.au, Monitorama, PuppetConf, Velocity, and SRECon. His interests began in monitoring and automation of small installations, but continues with human factors in automation and systems maintenance on large systems. Despite over 15 years in the industry, he is still trying to automate himself out of a job.",
     "title": "Principia SLOdica - A Treatise on the Metrology of Service Level Objectives",
     "abstract": "",
     "video": "",
