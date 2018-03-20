@@ -63,7 +63,7 @@ var rawSpeakers = [
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
+    "hash": "12ff27d566dcaccd067f5c833ce67dda",
   },
   {
     "name": "Ian Bennett",
