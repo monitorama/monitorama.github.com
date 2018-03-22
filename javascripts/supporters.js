@@ -112,10 +112,11 @@ var sponsors = [
     "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
   },
   {
-    "name": "logz",
-    "enabled": false,
-    "url": "https://logz.io/",
-    "bio": ""
+    "name": "ca",
+    "enabled": true,
+    "url": "https://www.ca.com/",
+    "width": 175,
+    "bio": "<p>CA Technologies (NASDAQ:CA) creates software that fuels transformation for companies and enables them to seize the opportunities of the application economy. Software is at the heart of every business in every industry. From planning, to development, to management and security, CA is working with companies worldwide to change the way we live, transact, and communicate – across mobile, private and public cloud, distributed and mainframe environments. Learn more at <a href=\"http://www.ca.com/\">www.ca.com</a>.</p>"
   },
   {
     "name": "elastic",
