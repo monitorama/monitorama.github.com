@@ -177,4 +177,10 @@ var sponsors = [
     "url": "https://lightstep.com/",
     "bio": ""
   },
+  {
+    "name": "pagerduty",
+    "enabled": false,
+    "url": "https://www.pagerduty.com/",
+    "bio": ""
+  },
 ]
