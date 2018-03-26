@@ -241,17 +241,17 @@ var rawSpeakers = [
     "slides": "",
     "hash": "1c188a0876dfc8a6fd75494d88ac07ec",
   },
-  /* {
+  {
     "name": "Allan Espinosa",
-    "github": "",
-    "twitter": "",
-    "bio": "",
+    "github": "aespinosa",
+    "twitter": "allanespinosa",
+    "bio": "Throughout his career, Allan has worked on large distributed systems containing hundreds to thousands of servers in production. He has built scalable applications on various platforms ranging from large supercomputing centers to production clusters in the enterprise. He is currently managing distributed systems at scale for Bloomberg, where he oversees the company's Hadoop infrastructure.",
     "title": "Autoscaling Containers... with Math",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
-  }, */
+    "hash": "53b51ad632589eb8e6939d9bf4702cd0",
+  },
   {
     "name": "Jamie Wilkinson",
     "github": "jaqx0r",
