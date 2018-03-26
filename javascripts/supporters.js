@@ -159,9 +159,9 @@ var sponsors = [
   },
   {
     "name": "op5",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.op5.com/",
-    "width": 175,
+    "width": 150,
     "bio": "<p>OP5 is an Enterprise Class Monitoring Solution that enables IT professionals to gain control over their operations delivering effective IT Services for better business.</p>"
   },
   {
