@@ -44,6 +44,17 @@ var rawSpeakers = [
     "hash": "b2c291877cd5ae2f2c3e6ed35a595df7",
   },
   {
+    "name": "Pam Selle",
+    "github": "pselle",
+    "twitter": "pamasaur",
+    "bio": "Pam Selle is software engineering lead at IOpipe, building analytics and metrics tooling for applications to enable &quot;serverless devops&quot; and residing in Philadelphia. Pam is a Google Developer Expert, published author, and frequent public speaker. In the past, she founded Philadelphia’s premier JavaScript conference, LibertyJS, ran the largest Philadelphia JavaScript meetup (with over 1k members) for three years, and recorded the Turing-Incomplete podcast. She currently enjoys spending time at the local dance studio and riding her bike long-ish distances.",
+    "title": "",
+    "abstract": "",
+    "video": "",
+    "slides": "",
+    "hash": "b072cdfc93ec87322edae780946a2c9e",
+  },
+  {
     "name": "Zach Musgrave",
     "github": "zachm",
     "twitter": "zachtm",
