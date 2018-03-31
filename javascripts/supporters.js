@@ -179,8 +179,9 @@ var sponsors = [
   },
   {
     "name": "pagerduty",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.pagerduty.com/",
+    "width": 175,
     "bio": "<p>PagerDuty is the leading digital operations management platform for organizations. Over 10,000 enterprises and small to mid-size organizations globally trust PagerDuty to improve digital operations, drive revenue, mitigate threats, protect assets, and delight customers. To learn more and try PagerDuty for free, visit <a href=\"https://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
   },
 ]
