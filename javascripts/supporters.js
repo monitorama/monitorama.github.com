@@ -114,9 +114,9 @@ var sponsors = [
   {
     "name": "ca",
     "enabled": true,
-    "url": "https://www.ca.com/",
+    "url": "https://www.ca.com/dxi",
     "width": 175,
-    "bio": "<p>CA Technologies (NASDAQ:CA) creates software that fuels transformation for companies and enables them to seize the opportunities of the application economy. Software is at the heart of every business in every industry. From planning, to development, to management and security, CA is working with companies worldwide to change the way we live, transact, and communicate – across mobile, private and public cloud, distributed and mainframe environments. Learn more at <a href=\"http://www.ca.com/\">www.ca.com</a>.</p>"
+    "bio": "<p>CA Technologies (NASDAQ:CA) creates software that fuels transformation for companies and enables them to seize the opportunities of the application economy. Software is at the heart of every business in every industry. From planning, to development, to management and security, CA is working with companies worldwide to change the way we live, transact, and communicate – across mobile, private and public cloud, distributed and mainframe environments. Learn more at <a href=\"http://www.ca.com/dxi\">www.ca.com</a>.</p>"
   },
   {
     "name": "elastic",
