@@ -91,7 +91,7 @@ var rawSpeakers = [
     "name": "Aditya Mukerjee",
     "github": "chimeracoder",
     "twitter": "chimeracoder",
-    "bio": "Aditya is an entrepreneur, investor, and engineer based in New York City. He studied statistics at Columbia and computer science at Cornell, and works on the Risk team at Stripe. When not defending users against online fraudsters, he spends his free time playing German-style board games and listening to embarrassing music.",
+    "bio": "Aditya is an entrepreneur, investor, and engineer based in New York City. He studied statistics at Columbia and computer science at Cornell, and works on the Observability team at Stripe. When not tinkering with servers, he spends his free time playing German-style board games and listening to embarrassing music.",
     "title": "Warning: This Talk Contains Content Known to the State of California to Reduce Alert Fatigue",
     "abstract": "",
     "video": "",
