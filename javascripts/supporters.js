@@ -147,9 +147,9 @@ var sponsors = [
   },
   {
     "name": "newrelic",
-    "enabled": false,
+    "enabled": true,
     "url": "https://newrelic.com/",
-    "bio": ""
+    "bio": "<p>New Relic is a leading digital intelligence company, delivering full-stack visibility and analytics with more than 14,000 paid business accounts. The New Relic Digital Intelligence Platform provides actionable insights to drive digital business results. Companies of all sizes trust New Relic to monitor application and infrastructure performance so they can quickly resolve issues, and improve digital customer experiences.</p>"
   },
   {
     "name": "statusio",
