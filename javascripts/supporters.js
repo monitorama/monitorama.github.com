@@ -149,7 +149,7 @@ var sponsors = [
     "name": "newrelic",
     "enabled": true,
     "url": "https://newrelic.com/",
-    "bio": "<p>New Relic is a leading digital intelligence company, delivering full-stack visibility and analytics with more than 14,000 paid business accounts. The New Relic Digital Intelligence Platform provides actionable insights to drive digital business results. Companies of all sizes trust New Relic to monitor application and infrastructure performance so they can quickly resolve issues, and improve digital customer experiences.</p>"
+    "bio": "<p>New Relic provides the real-time insights that software-driven businesses need to innovate faster. New Relic’s cloud platform makes every aspect of modern software and infrastructure observable, so companies can find and fix problems faster, build high-performing DevOps teams, and speed up transformation projects. Learn why more than 50% of the Fortune 100 trust New Relic at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>",
   },
   {
     "name": "statusio",
