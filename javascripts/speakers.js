@@ -48,7 +48,7 @@ var rawSpeakers = [
     "github": "pselle",
     "twitter": "pamasaur",
     "bio": "Pam Selle is software engineering lead at IOpipe, building analytics and metrics tooling for applications to enable &quot;serverless devops&quot; and residing in Philadelphia. Pam is a Google Developer Expert, published author, and frequent public speaker. In the past, she founded Philadelphia’s premier JavaScript conference, LibertyJS, ran the largest Philadelphia JavaScript meetup (with over 1k members) for three years, and recorded the Turing-Incomplete podcast. She currently enjoys spending time at the local dance studio and riding her bike long-ish distances.",
-    "title": "",
+    "title": "Serverless and CatOps: Balancing trade-offs in operations and instrumentation",
     "abstract": "",
     "video": "",
     "slides": "",
