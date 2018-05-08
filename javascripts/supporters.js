@@ -113,7 +113,7 @@ var sponsors = [
   },
   {
     "name": "braintree",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.braintreepayments.com/",
     "bio": "<p>Braintree provides the easiest way to pay and get paid across any device. With one integration, merchants can start accepting credit and debit cards, PayPal, Apple Pay, Android Pay, Venmo, and whatever comes next. Thousands of online and mobile companies including Uber, Airbnb, and GithHub use Braintree in more than 45 countries. To learn more, visit <a href=\"https://www.braintreepayments.com/\">www.braintreepayments.com</a> or <a href=\"https://twitter.com/braintree\">@braintree</a>.</p>"
   },
