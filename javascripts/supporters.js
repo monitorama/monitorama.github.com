@@ -191,4 +191,11 @@ var sponsors = [
     "width": 175,
     "bio": "<p>PagerDuty is the leading digital operations management platform for organizations. Over 10,000 enterprises and small to mid-size organizations globally trust PagerDuty to improve digital operations, drive revenue, mitigate threats, protect assets, and delight customers. To learn more and try PagerDuty for free, visit <a href=\"https://www.pagerduty.com/\">www.pagerduty.com</a>.</p>"
   },
+  {
+    "name": "sensu",
+    "enabled": true,
+    "url": "https://sensu.io/",
+    "width": 175,
+    "bio": "<p>Total visibility, from the server closet to the serverless cloud future. Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.</p>"
+  },
 ]
