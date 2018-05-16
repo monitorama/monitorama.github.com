@@ -22,6 +22,7 @@ var sponsors = [
     "name": "google",
     "enabled": true,
     "url": "https://cloud.google.com/stackdriver/",
+    "width": 175,
     "bio": "<p>Companies come to Google Cloud to transform their businesses. Our comprehensive portfolio — from infrastructure to apps to devices — helps enterprises innovate faster, scale smarter, stay secure, and do more with data than ever before.</p>"
   },
   {
