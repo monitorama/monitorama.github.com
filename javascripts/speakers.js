@@ -37,7 +37,7 @@ var rawSpeakers = [
     "github": "pbailis",
     "twitter": "pbailis",
     "bio": "Peter Bailis is an assistant professor of computer science at Stanford, where he is a member of the Stanford DAWN Project and Future Data Systems group. He studies the design and implementation of data-intensive systems.",
-    "title": "",
+    "title": "Next-Generation Observability for Next-Generation Data: Video, Sensors, Telemetry",
     "abstract": "",
     "video": "",
     "slides": "",
