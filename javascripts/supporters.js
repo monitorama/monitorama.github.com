@@ -26,6 +26,13 @@ var sponsors = [
     "bio": "<p>Companies come to Google Cloud to transform their businesses. Our comprehensive portfolio — from infrastructure to apps to devices — helps enterprises innovate faster, scale smarter, stay secure, and do more with data than ever before.</p>"
   },
   {
+    "name": "signalfx",
+    "enabled": true,
+    "url": "https://signalfx.com/",
+    "width": 175,
+    "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
+  },
+  {
     "name": "datadog",
     "enabled": true,
     "url": "http://www.datadoghq.com/",
@@ -104,13 +111,6 @@ var sponsors = [
     "enabled": true,
     "url": "https://www.scalyr.com/",
     "bio": "<p>Scalyr offers a cloud-based platform for high-speed log management and server monitoring. Founded by one of the creators of Google Docs, Scalyr brings the speed and ease of use normally found in consumer apps to an incredibly powerful server monitoring tool. 95% of all queries complete in under a second, and there's no need to learn a complex query language. Notable customers include OkCupid, Zalando, Grab, CareerBuilder and Wistia.</p>"
-  },
-  {
-    "name": "signalfx",
-    "enabled": true,
-    "url": "https://signalfx.com/",
-    "width": 175,
-    "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
   },
   {
     "name": "braintree",
