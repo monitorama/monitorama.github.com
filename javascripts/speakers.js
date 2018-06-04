@@ -235,7 +235,7 @@ var rawSpeakers = [
     "github": "megankanne",
     "twitter": "megankanne",
     "bio": "Megan Kanne is a software engineer on the User Service team at Twitter, where she and her colleagues provide fast, highly-available, high-throughput service abstractions for Twitter user and relationship data. This has allowed her to develop her interests in distributed systems and monitoring. In her free time, she climbs rocks, cooks, and attends dance performances.",
-    "title": "Reclaiming your Time: Automating Canary Analysis",
+    "title": "Reclaim your Time: Automating Canary Analysis",
     "abstract": "",
     "video": "",
     "slides": "",
