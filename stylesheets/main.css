@@ -168,7 +168,8 @@ div.banner {
 .location {
   //background-color: rgb(14, 100, 169);
   ///background-color: rgb(123, 169, 0);
-  background-color: rgb(0, 136, 158);
+  //background-color: rgb(0, 136, 158);
+  background-color: rgb(0, 184, 137);
   border-radius: 8px;
   padding: 2px 0 10px 0;
 }
@@ -198,10 +199,10 @@ div.banner {
 }
 
 .location span.circle {
-  vertical-align: middle;
+  vertical-align: 0.15em;
   font-family: "MotivaSans-ExtraBold";
   font-size: 0.7em;
-  color: rgb(229, 198, 255);
+  color: rgb(0, 133, 98);
   margin: 0 15px;
 }
 
@@ -293,7 +294,7 @@ section {
 section h4 {
   font-family: "MotivaSans-Medium";
   font-size: 2.4em;
-  color: rgb(0, 136, 158);
+  color: rgb(0, 173, 129);
   margin: 40px 0 30px;
 }
 
@@ -313,7 +314,7 @@ section p, section span {
 }
 
 section p a, section p a:hover {
-  color: rgb(0, 136, 158);
+  color: rgb(0, 173, 129);
 }
 
 section p em, section span em {
@@ -668,7 +669,7 @@ footer * {
 }
 
 footer h5 {
-  color: rgb(0, 136, 158);
+  color: rgb(0, 173, 129);
 }
 
 footer ul {
