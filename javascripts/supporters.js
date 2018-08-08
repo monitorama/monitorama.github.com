@@ -8,7 +8,7 @@ var sponsors = [
   } */
   {
     "name": "microsoft",
-    "enabled": false,
+    "enabled": true,
     "url": "https://azure.microsoft.com/en-us/?v=18.27",
     "width": 250,
     "bio": "<p>Cloud for all.</p><p>Microsoft Azure believes that all individuals and groups should be empowered with the full freedom and power of the cloud. The cloud should not be available to only an elite few. Azure offers the trust, transparency, and humanity that all companies need to navigate, thrive, and endure in this increasingly cloud-powered world of business.</p>"
