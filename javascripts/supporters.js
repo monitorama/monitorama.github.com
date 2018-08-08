@@ -7,18 +7,18 @@ var sponsors = [
     "bio": "<p></p>"
   } */
   {
-    "name": "microsoft",
-    "enabled": true,
-    "url": "https://azure.microsoft.com/en-us/?v=18.27",
-    "width": 250,
-    "bio": "<p>Cloud for all.</p><p>Microsoft Azure believes that all individuals and groups should be empowered with the full freedom and power of the cloud. The cloud should not be available to only an elite few. Azure offers the trust, transparency, and humanity that all companies need to navigate, thrive, and endure in this increasingly cloud-powered world of business.</p>"
-  },
-  {
     "name": "signalfx",
     "enabled": false,
     "url": "https://signalfx.com/",
     "width": 175,
     "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
+  },
+  {
+    "name": "microsoft",
+    "enabled": true,
+    "url": "https://azure.microsoft.com/en-us/?v=18.27",
+    "width": 250,
+    "bio": "<p>Cloud for all.</p><p>Microsoft Azure believes that all individuals and groups should be empowered with the full freedom and power of the cloud. The cloud should not be available to only an elite few. Azure offers the trust, transparency, and humanity that all companies need to navigate, thrive, and endure in this increasingly cloud-powered world of business.</p>"
   },
   {
     "name": "wavefront",
