@@ -29,7 +29,7 @@ var rawSpeakers = [
     "title": "Building Monitoring tools when you don't own applications or infrastructure",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/MercedesCoyle/building-open-source-monitoring-tools",
     "hash": "59a803935c97fc2b4261178372e7a9a2",
   },
   {
@@ -51,7 +51,7 @@ var rawSpeakers = [
     "title": "Serverless and CatOps: Balancing trade-offs in operations and instrumentation",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://thewebivore.com/serverless-and-catops-slides/",
     "hash": "b072cdfc93ec87322edae780946a2c9e",
   },
   {
@@ -62,7 +62,7 @@ var rawSpeakers = [
     "title": "Mentoring Metrics Engineers: How to Grow and Empower Your Own Monitoring Experts",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1fj1Ligdttg8jwJMaQKKdKiXQ8rAfb6zJew2vkO4yX3E/edit?ts=5b11c5e1#slide=id.g3b03d11c88_2_0",
     "hash": "adb063dfbaf7cdd6f3a5a868a4e8fc8c",
   },
   {
@@ -73,7 +73,7 @@ var rawSpeakers = [
     "title": "Mentoring Metrics Engineers: How to Grow and Empower Your Own Monitoring Experts",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://docs.google.com/presentation/d/1fj1Ligdttg8jwJMaQKKdKiXQ8rAfb6zJew2vkO4yX3E/edit?ts=5b11c5e1#slide=id.g3b03d11c88_2_0",
     "hash": "12ff27d566dcaccd067f5c833ce67dda",
   },
   {
@@ -84,7 +84,7 @@ var rawSpeakers = [
     "title": "Monitory Report: I Have Seen Your Observability Future. You Can Choose a Better One.",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/enbnt/monitory-report-monitorama-2018-ian-bennett",
     "hash": "b54979a5a0ffb12a86a18679522e1db6",
   },
   {
@@ -95,7 +95,7 @@ var rawSpeakers = [
     "title": "Warning: This Talk Contains Content Known to the State of California to Reduce Alert Fatigue",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://speakerdeck.com/chimeracoder/warning-this-talk-contains-content-known-to-the-state-of-california-to-reduce-alert-fatigue",
     "hash": "cf710d8f33271730d805cde8064686fa",
   },
   {
@@ -106,7 +106,7 @@ var rawSpeakers = [
     "title": "On-call Simulator! - Building an interactive game for teaching incident response",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://franka.tech/talks/oncall-simulator/#1",
     "hash": "15584aae2a9eb3cc03ecfd1bb2245ce7",
   },
   {
@@ -117,7 +117,7 @@ var rawSpeakers = [
     "title": "Putting billions of timeseries to work at Uber with autonomous monitoring",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "http://bit.ly/m3db-monitorama2018",
     "hash": "6bc2bcd7a17e61a1ccb2af7f79192908",
   },
   {
@@ -128,7 +128,7 @@ var rawSpeakers = [
     "title": "Observability: the Hard Parts",
     "abstract": "Designing an observability architecture with all the latest tools is fun -- and easy. The hard parts come later. How will you adapt all your existing, brownfield software to the new world? How will you manage the politics that follow migration work and end-of-life notifications? And, most importantly, how will you educate an engineering team to re-instrument their services without making them mad? </br></br>This talk collects war stories from the latest observability initiative at Fastly, from technical to social and everywhere in between. I'll combine the lessons I learned here with similar work I've done at other companies, in the open-source observability space, and in my capacity as a consultant. Attendees will get a much more complete picture of the true costs and efforts required to successfully execute an observability push in a technical organization.",
     "video": "",
-    "slides": "",
+    "slides": "https://peter.bourgon.org/observability-the-hard-parts/",
     "hash": "3bde32049d85e5a3903332cd4e031572",
   },
   {
@@ -150,7 +150,7 @@ var rawSpeakers = [
     "title": "The Power of Storytelling",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/dparzych/power-of-storytelling-100674338",
     "hash": "807542068aec0308726467862f88083e",
   },
   {
@@ -161,7 +161,7 @@ var rawSpeakers = [
     "title": "The present and future of Serverless observability",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/theburningmonk/the-present-and-future-of-serverless-observability-100983842",
     "hash": "0bbaed5a18c131ba152cf566e1becaf8",
   },
   {
@@ -216,7 +216,7 @@ var rawSpeakers = [
     "title": "Slack in the Age of Prometheus",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.slideshare.net/GeorgeLuong/slack-in-the-age-of-prometheus-101189937",
     "hash": "8c88f7095f16292ae8f7a3ecc8a02278",
   },
   {
@@ -238,7 +238,7 @@ var rawSpeakers = [
     "title": "Reclaim your Time: Automating Canary Analysis",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "http://bit.ly/autocanary",
     "hash": "bd7faa0afa74f65533784141394adb89",
   },
   {
@@ -260,7 +260,7 @@ var rawSpeakers = [
     "title": "Autoscaling Containers... with Math",
     "abstract": "",
     "video": "",
-    "slides": "",
+    "slides": "https://www.techatbloomberg.com/events/monitorama-2018-pdx/",
     "hash": "53b51ad632589eb8e6939d9bf4702cd0",
   },
   {
