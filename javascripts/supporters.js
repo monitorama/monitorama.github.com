@@ -8,7 +8,7 @@ var sponsors = [
   } */
   {
     "name": "signalfx",
-    "enabled": false,
+    "enabled": true,
     "url": "https://signalfx.com/",
     "width": 175,
     "bio": "<p>SignalFx is a leader in real-time operational intelligence for data-driven DevOps. The service discovers and collects metrics across every component in the cloud, replacing traditional point tools and providing real-time visibility into today’s dynamic environments. Leveraging the massively scalable SignalFx platform, the SaaS service is optimized for container and microservices based architectures and provides powerful visualization, proactive alerting, and collaborative triage capabilities across organizations of all sizes. SignalFx is used by Fortune 500 enterprises across financial services, apparel, industrials, telecommunications, media, and by web-scale players like Yelp, Hubspot, Acquia, and Kayak.</p>",
