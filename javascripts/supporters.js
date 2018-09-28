@@ -65,4 +65,23 @@ var sponsors = [
     "width": 150,
     "bio": "<p>Downtime is expensive. It hurts customer trust. And existing solutions are reactive. Gremlin’s proactive failure testing finds weaknesses in your system before they cause problems. Think of it as vaccinating your network. In a safe, secure, and controlled manner, our software injects failures like packet loss or CPU memory maximization, allowing you to find possible weak spots, resolve them, and make your network stronger. For nearly a decade, we’ve been doing this type of failure testing at companies like Amazon and Netflix. We bring this expertise to your network and harden your systems.</p>"
   },
+  {
+    "name": "reactiveops",
+    "enabled": false,
+    "url": "https://www.reactiveops.com/",
+    "bio": "<p></p>",
+  },
+  {
+    "name": "moogsoft",
+    "enabled": false,
+    "url": "https://www.moogsoft.com/",
+    "width": 175,
+    "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
+  },
+  {
+    "name": "elastic",
+    "enabled": true,
+    "url": "https://www.elastic.co/",
+    "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
+  },
 ]
