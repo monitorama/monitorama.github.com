@@ -47,7 +47,7 @@ var sponsors = [
   },
   {
     "name": "catchpoint",
-    "enabled": false,
+    "enabled": true,
     "url": "http://catchpoint.com/",
     "width": 240,
     "bio": "<p>Catchpoint is a leading digital experience intelligence company that provides unparalleled insight into customer-critical services to help businesses consistently deliver amazing digital experiences. Catchpoint is the only performance digital experience monitoring platform that provides integrated synthetic and real user monitoring, comprehensive test types, real-time analytics, and a diverse node network to help you continuously preempt performance issues and optimize service delivery. More than 400 customers in over 30 countries trust Catchpoint to strengthen their brands and grow their businesses.</p>"
