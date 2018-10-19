@@ -67,9 +67,9 @@ var sponsors = [
   },
   {
     "name": "reactiveops",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.reactiveops.com/",
-    "bio": "<p></p>",
+    "bio": "<p>ReactiveOps provides DevOps expertise and best practices to help companies implement world-class, Kubernetes-based Infrastructure on AWS/GCP — then we maintain it. We instill confidence in a company’s application so that their engineers can focus on innovation that matters.</p>",
   },
   {
     "name": "moogsoft",
