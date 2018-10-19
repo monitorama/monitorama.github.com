@@ -73,10 +73,10 @@ var sponsors = [
   },
   {
     "name": "moogsoft",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.moogsoft.com/",
     "width": 175,
-    "bio": "<p>Moogsoft AIOps helps Dev and Ops teams become smarter, faster, and more effective. By using AI to automate mundane operational work we free up human operators to do what they do best — innovate.</p>",
+    "bio": "<p>Moogsoft is a pioneer and leading provider of <a href=\"https://www.moogsoft.com/product/\">AIOps solutions</a> that help IT teams work faster and smarter. With patented AI analyzing billions of events daily across the world’s most complex IT environments, the Moogsoft AIOps platform helps the world’s top enterprises avoid outages, automate service assurance, and accelerate digital transformation initiatives.</p>",
   },
   {
     "name": "elastic",
