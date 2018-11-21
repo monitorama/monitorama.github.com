@@ -28,7 +28,7 @@ var sponsors = [
   },
   {
     "name": "newrelic",
-    "enabled": false,
+    "enabled": true,
     "url": "https://newrelic.com/",
     "bio": "<p>New Relic provides the real-time insights that software-driven businesses need to innovate faster. New Relic’s cloud platform makes every aspect of modern software and infrastructure observable, so companies can find and fix problems faster, build high-performing DevOps teams, and speed up transformation projects. Learn why more than 50% of the Fortune 100 trust New Relic at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>",
   },
