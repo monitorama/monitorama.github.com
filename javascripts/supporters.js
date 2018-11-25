@@ -43,7 +43,7 @@ var sponsors = [
     "enabled": true,
     "url": "http://www.datadoghq.com/",
     "width": 150,
-    "bio": "<p>Datadog is a monitoring and analytics platform for large-scale application infrastructure. Combining metrics from servers, databases, and applications, Datadog delivers sophisticated, actionable alerts, and provides real-time visibility of your entire infrastructure. Datadog includes 120+ vendor-supported, prebuilt integrations and monitors hundreds of thousands of hosts.</p>"
+    "bio": "<p>Datadog is a SaaS-based monitoring and analytics platform for large-scale applications and infrastructure. Combining real-time metrics from servers, containers, databases, and applications with end-to-end tracing and log management, Datadog delivers actionable alerts and powerful visualizations to provide full-stack observability. Datadog includes over 250 vendor-supported integrations and APM libraries for several languages.</p>"
   },
   {
     "name": "catchpoint",
