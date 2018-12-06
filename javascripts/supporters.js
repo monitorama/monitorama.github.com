@@ -60,6 +60,12 @@ var sponsors = [
     "bio": "<p>Downtime is expensive. It hurts customer trust. And existing solutions are reactive. Gremlin’s proactive failure testing finds weaknesses in your system before they cause problems. Think of it as vaccinating your network. In a safe, secure, and controlled manner, our software injects failures like packet loss or CPU memory maximization, allowing you to find possible weak spots, resolve them, and make your network stronger. For nearly a decade, we’ve been doing this type of failure testing at companies like Amazon and Netflix. We bring this expertise to your network and harden your systems.</p>"
   },
   {
+    "name": "thousandeyes",
+    "enabled": false,
+    "url": "https://www.thousandeyes.com/",
+    "bio": "<p>ThousandEyes empowers businesses to see, understand and improve connected experiences everywhere. The ThousandEyes cloud platform offers unmatched vantage points throughout the global Internet and provides immediate visibility into experience for every user and application over any network, so companies can deliver superior digital experiences, modernize their enterprise WAN, and successfully migrate to the cloud. ThousandEyes is central to the global operations of the world’s largest and fastest growing brands, including Comcast, eBay, HP, 100+ of the Global 2000, 60+ of the Fortune 500, 5 of the 6 top US banks, and 20 of the 25 top SaaS companies. For more information, visit <a href=\"https://www.thousandeyes.com/\">www.ThousandEyes.com</a> and follow us on Twitter <a href=\"https://twitter.com/thousandeyes\">@ThousandEyes</a>.</p>",
+  },
+  {
     "name": "manageengine",
     "enabled": false,
     "url": "https://www.manageengine.com/",
