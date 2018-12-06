@@ -63,7 +63,7 @@ var sponsors = [
     "name": "manageengine",
     "enabled": false,
     "url": "https://www.manageengine.com/",
-    "bio": "<p>As the IT management division of Zoho Corporation, ManageEngine prioritizes flexible solutions that work for all businesses, regardless of size or budget.</p><p>ManageEngine crafts comprehensive IT management software with a focus on making your job easier. With our 90+ products and free tools cover everything your IT needs, you can take complete control of your IT infrastructure and services—both on-premises and in the cloud.</p><p>For more information, visit <a href=\"https://www.manageengine.com/\">https://www.manageengine.co.nl/</a></p>"
+    "bio": "<p>As the IT management division of Zoho Corporation, ManageEngine prioritizes flexible solutions that work for all businesses, regardless of size or budget.</p><p>ManageEngine crafts comprehensive IT management software with a focus on making your job easier. With our 90+ products and free tools cover everything your IT needs, you can take complete control of your IT infrastructure and services—both on-premises and in the cloud.</p><p>For more information, visit <a href=\"https://www.manageengine.com/\">https://www.manageengine.com/</a></p>"
   },
   {
     "name": "reactiveops",
