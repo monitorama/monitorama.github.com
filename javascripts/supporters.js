@@ -63,7 +63,7 @@ var sponsors = [
     "name": "thousandeyes",
     "enabled": false,
     "url": "https://www.thousandeyes.com/",
-    "bio": "<p>ThousandEyes empowers businesses to see, understand and improve connected experiences everywhere. The ThousandEyes cloud platform offers unmatched vantage points throughout the global Internet and provides immediate visibility into experience for every user and application over any network, so companies can deliver superior digital experiences, modernize their enterprise WAN, and successfully migrate to the cloud. ThousandEyes is central to the global operations of the world’s largest and fastest growing brands, including Comcast, eBay, HP, 100+ of the Global 2000, 60+ of the Fortune 500, 5 of the 6 top US banks, and 20 of the 25 top SaaS companies. For more information, visit <a href=\"https://www.thousandeyes.com/\">www.ThousandEyes.com</a> and follow us on Twitter <a href=\"https://twitter.com/thousandeyes\">@ThousandEyes</a>.</p>",
+    "bio": "<p>ThousandEyes delivers Network Intelligence—visibility into experience for every user and application over any network. An algorithmically enhanced data set from smart monitoring agents deployed across the Internet, within your organization and on endpoint devices, plus collective data from other Internet-centric organizations, provides the most complete understanding of app delivery, topology dependencies and network behavior. Quickly solve DNS, DDoS, routing, provider or device issues, then share insights with customers and providers. Deliver superior digital experiences, modernize your enterprise WAN, and successfully migrate to the cloud.</p>"
   },
   {
     "name": "manageengine",
@@ -101,5 +101,12 @@ var sponsors = [
     "enabled": true,
     "url": "https://www.flowmill.com/",
     "bio": "<p>Flowmill is a cloud observability tool designed to accelerate fault resolution in production and provide a complete picture of distributed applications by continuously monitoring every service to service interaction as well as the cloud infrastructure and 3rd party APIs. With sub-second measurements and an extremely low latency processing pipeline, Flowmill automatically identifies failing components in real time and generates actionable alerts. Flowmill monitoring has negligible overhead, no sampling, no per-service configuration or code changes, and can be deployed across your entire application with minutes.</p>"
+  },
+  {
+    "name": "sensu",
+    "enabled": false,
+    "url": "https://sensu.io/",
+    "width": 175,
+    "bio": "<p>Total visibility, from the server closet to the serverless cloud future. Sensu’s platform is the solution to the monitoring problems you’re facing today, and the right foundation for your organization tomorrow. From bare metal to Kubernetes—get complete visibility across every system, every protocol, every time.</p>"
   },
 ]
