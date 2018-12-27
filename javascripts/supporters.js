@@ -96,4 +96,10 @@ var sponsors = [
     "url": "https://www.elastic.co/",
     "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
   },
+  {
+    "name": "flowmill",
+    "enabled": true,
+    "url": "https://www.flowmill.com/",
+    "bio": "<p>Flowmill is a cloud observability tool designed to accelerate fault resolution in production and provide a complete picture of distributed applications by continuously monitoring every service to service interaction as well as the cloud infrastructure and 3rd party APIs. With sub-second measurements and an extremely low latency processing pipeline, Flowmill automatically identifies failing components in real time and generates actionable alerts. Flowmill monitoring has negligible overhead, no sampling, no per-service configuration or code changes, and can be deployed across your entire application with minutes.</p>"
+  },
 ]
