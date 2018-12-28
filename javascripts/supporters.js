@@ -78,6 +78,13 @@ var sponsors = [
     "bio": "<p><a href=\"https://www.influxdata.com/\">InfluxData</a>, the creators of InfluxDB, delivers a modern open source platform built from the ground up for metrics and events (time series data). Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and SolarCity. Visit <a href=\"https://www.influxdata.com/\">influxdata.com</a>. Twitter: <a href=\"https://twitter.com/influxdb\">@influxdb</a>.</p>",
   },
   {
+    "name": "bigpanda",
+    "enabled": true,
+    "url": "http://bigpanda.io/",
+    "width": 225,
+    "bio": "<p>BigPanda Inc. enables large enterprises to automate and scale IT Operations to meet the complex demands of digital transformation. The company is the first provider of an Autonomous Digital Operations platform that intelligently automates IT incident management. Customers such as Intel, TiVo, Turner Broadcasting, and Workday rely on BigPanda to minimize operating costs, improve service availability, and reduce IT risk. The BigPanda Platform delivers superior time-to-value by correlating operational data, automating the incident management lifecycle, and streamlining manual processes. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit <a href=\"https://app.salesforceiq.com/r?target=5b06e39cc9e77c0079c46d85&t=AFwhZf1sDdIV3acZ8wiWIyduU8PDA_qyYpgagHo5gq9sWqCq94tYD5_b7_bQo5TeEveVdRjObdRhQkQfmZTl1cQkgJ2fqBs_R8ZhOk7e707zFz-RWy-zY6B_hsHQn-GT_nTJOLwpQQAa\">www.bigpanda.io</a> for more information.</p>",
+  },
+  {
     "name": "reactiveops",
     "enabled": true,
     "url": "https://www.reactiveops.com/",
