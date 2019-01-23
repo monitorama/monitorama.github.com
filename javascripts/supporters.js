@@ -22,7 +22,7 @@ var sponsors = [
   },
   {
     "name": "wavefront",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.wavefront.com/",
     "bio": "<p>Wavefront™ by VMware® is a SaaS-based metrics monitoring and analytics platform that handles the high-scale requirements of modern cloud-native applications. Wavefront’s speed, scale and flexibility allows DevOps and developer teams instant insight into the performance of their highly-distributed cloud-native services. Wavefront’s analytics, query-driven alerts, interactive visualizations, open API, and integrations, all powered by massively scalable time-series database delivers “the first pane of glass” visibility helping DevOps teams detect performance anomalies while ensuring high availability of key cloud services.</p><p>Developers can self-serve and adapt Wavefront analytics to unique needs of their code while gaining visibility into its production behavior.</p>",
   },
@@ -61,7 +61,7 @@ var sponsors = [
   },
   {
     "name": "thousandeyes",
-    "enabled": false,
+    "enabled": true,
     "url": "https://www.thousandeyes.com/",
     "bio": "<p>ThousandEyes delivers Network Intelligence—visibility into experience for every user and application over any network. An algorithmically enhanced data set from smart monitoring agents deployed across the Internet, within your organization and on endpoint devices, plus collective data from other Internet-centric organizations, provides the most complete understanding of app delivery, topology dependencies and network behavior. Quickly solve DNS, DDoS, routing, provider or device issues, then share insights with customers and providers. Deliver superior digital experiences, modernize your enterprise WAN, and successfully migrate to the cloud.</p>"
   },
