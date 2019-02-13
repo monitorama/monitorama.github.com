@@ -118,7 +118,7 @@ var sponsors = [
   },
   {
     "name": "sensu",
-    "enabled": false,
+    "enabled": true,
     "url": "https://sensu.io/",
     "width": 175,
     "bio": "<p>Sensu Inc. is the creator and maintainer of Sensu, the open source monitoring event pipeline. Founded in 2017, Sensu empowers businesses to automate their monitoring workflow and gain deep visibility into their Kubernetes, hybrid cloud, and bare metal infrastructure. Backed by one of the largest open source communities in monitoring, companies like Sony, Box.com, and Activision rely on Sensu to help them deliver value to their customers faster, at larger scale. Sensu maintains the free and open source Sensu Core framework as well as the commercially supported Sensu Enterprise, which offers enhanced features to simplify operations and governance, with multi-cloud support for monitoring at scale.</p><p>Headquartered in Portland, Oregon, Sensu currently operates as a fully distributed team, with employees located throughout the United States and Canada. For more information, follow <a href=\"https://twitter.com/sensu\">@sensu</a> on Twitter or visit <a href=\"https://sensu.io/\">https://sensu.io</a>.</p>"
