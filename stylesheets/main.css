@@ -647,8 +647,8 @@ div.prospectus {
 /* START SPONSOR MARQUEE */
 div.marquee {
   text-align: center;
-  margin: 0 10%;
-  padding-top: 25px;
+  margin: 0 15%;
+  padding: 25px 0;
 }
 
 .marquee img {
