@@ -92,6 +92,12 @@ var sponsors = [
     "bio": "<p>AppDynamics empowers the enterprise with a solution for real-time application and business performance. Together with Cisco, we’re helping companies make mission critical and strategic decisions that improve customer experience and accelerate business in a multi-cloud world.</p>"
   },
   {
+    "name": "logicmonitor",
+    "enabled": false,
+    "url": "https://www.reactiveops.com/",
+    "bio": "<p><a href=\"https://www.logicmonitor.com/?utm_source=monitorama\">LogicMonitor®</a> is the leading cloud-based performance monitoring platform for enterprise IT. With coverage for thousands of technologies out of the box, LogicMonitor provides granular visibility into resources, services and applications across infrastructure on-premises and in the cloud. IT and DevOps teams benefit from a unified view of hybrid environments to prevent outages, shrink the time needed to resolve issues, and optimize cloud spend. LogicMonitor’s automated device and resource discovery, preconfigured alert thresholds and customizable dashboards come together to give IT teams the speed, flexibility and actionable insights required to innovate in today’s competitive markets.</p>"
+  },
+  {
     "name": "reactiveops",
     "enabled": true,
     "url": "https://www.reactiveops.com/",
