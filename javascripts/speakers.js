@@ -104,7 +104,7 @@ var rawSpeakers = [
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "6c32cb06ca35b6212873a6f5b7d600b2",
+    "hash": "5ef6ff454a561e34bebfcaa3ef12a738",
   },
   {
     "name": "Nida Farrukh",
