@@ -15,7 +15,7 @@ var rawSpeakers = [
     "github": "jallspaw",
     "gitlab": "",
     "twitter": "allspaw",
-    "bio": "",
+    "bio": "John Allspaw has worked in software systems engineering and operations for over twenty years in many different environments. John’s publications include the books The Art of Capacity Planning (2009) and Web Operations (2010) as well as the forward to \"The DevOps Handbook.\" His 2009 Velocity talk with Paul Hammond, \"10+ Deploys Per Day: Dev and Ops Cooperation\" helped start the DevOps movement. John served as CTO at Etsy, and holds an MSc in Human Factors and Systems Safety from Lund University.",
     "title": "",
     "abstract": "",
     "video": "",
@@ -68,7 +68,7 @@ var rawSpeakers = [
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
+    "hash": "88a87471099c04e7be3f8e568a41537a",
   },
   {
     "name": "Ross Delinger",
@@ -111,19 +111,19 @@ var rawSpeakers = [
     "github": "",
     "gitlab": "",
     "twitter": "",
-    "bio": "",
+    "bio": "Nida is a Software Engineer with over 9 years of experience at Google in Switzerland. She has extensive experience working with and being on-call for large-scale systems designed to serve hundreds of thousands of user requests per second. Concretely, she has expertise in monitoring and load-testing, and has spearheaded efforts in these areas to make related tools and processes as simple, automatic, and widely-applicable as possible. Nida has a track record of safely executing invasive changes to complex, long-standing systems without compromising service availability.",
     "title": "",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
+    "hash": "c59a0850e6a3134342cc1db31308f82a",
   },
   {
     "name": "Sergey Fedorov",
     "github": "syfedorov",
     "gitlab": "",
     "twitter": "Serginio89",
-    "bio": "Sergey is a software engineer at Netflix where he is working on monitoring and data analysis tools for Open Connect CDN, helping to make sure you keep binge watching that TV show. Prior to joining Netflix, Sergey worked at Microsoft on Bing infrastructure and monitoring platforms. Recently he's been obsessed with metrics, python, rich javascript applications and REST APIs. When not around the laptop Sergey can be seen hiking, homebrewing or playing hockey.",
+    "bio": "Sergey is an early member of the Open Connect CDN team at Netflix, which has become one of the biggest providers of content on the Internet. Sergey helped build infrastructure to monitor Netflix's streaming experience. Lately, he has switched focus to client-AWS interactions - making Netflix API requests faster, more reliable, and easier to manage. He keeps learning new things about the impact of network conditions on user experience, request performance, and system architecture. Sergey is also an author and maintainer of FAST.com - one of the most popular Internet speed tests.</br></br>Finding actionable signals in loosely controlled environments is what keeps Sergey awake, much better than caffeine. This might also explain why outside of work Sergey can be seen playing ice hockey, brewing beer, or exploring exotic travel destinations.",
     "title": "What can network teach you about your service?",
     "abstract": "",
     "video": "",
@@ -183,12 +183,12 @@ var rawSpeakers = [
     "github": "",
     "gitlab": "",
     "twitter": "nora_js",
-    "bio": "Nora Jones is a Senior Chaos Engineer at Netflix. She is passionate about delivering high-quality software, improving processes, and promoting efficiency within architecture. Occasionally, she pokes holes in distributed systems to make them more resilient.",
+    "bio": "Nora is a Senior Software Engineer at Netflix and a student of Human Factors and Systems Safety at Lund University. She is passionate about resilient software, people, and the intersection of those two worlds.</br></br>She co-wrote the book on Chaos Engineering with her teammates at Netflix and keynoted AWS re:Invent in 2017 to an audience of over 40,000 people about the technical benefits and business case behind implementing Chaos Engineering.",
     "title": "",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
+    "hash": "134967b8b202a412320747801eacf92f",
   },
   {
     "name": "Dave Josephsen",
@@ -202,7 +202,7 @@ var rawSpeakers = [
     "slides": "",
     "hash": "544b820dca6b1b9450e57882cf600c75",
   },
-  {
+  /*{
     "name": "Prasad Konduri",
     "github": "",
     "gitlab": "",
@@ -213,7 +213,7 @@ var rawSpeakers = [
     "video": "",
     "slides": "",
     "hash": "",
-  },
+  },*/
   {
     "name": "Ryan Lopopolo",
     "github": "lopopolo",
@@ -238,7 +238,7 @@ var rawSpeakers = [
     "slides": "",
     "hash": "7c7a381ba85beaf98bbce326195f2bc2",
   },
-  {
+  /*{
     "name": "Andrew Newdigate",
     "github": "",
     "gitlab": "andrewn",
@@ -249,7 +249,7 @@ var rawSpeakers = [
     "video": "",
     "slides": "",
     "hash": "30a84ee7025f084bba4102cdc8a24b59",
-  },
+  },*/
   {
     "name": "Joe Ross",
     "github": "",
