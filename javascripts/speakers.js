@@ -32,7 +32,7 @@ var rawSpeakers = [
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "8b9eab4b464b091b65578f026a4f8161",
+    "hash": "fccb008ca5383fd91f2af2cd729b5f7e",
   },
   {
     "name": "Dave Cadwallader",
