@@ -421,6 +421,7 @@ section.welcome {
 }
 
 .speakers li span.github,
+.speakers li span.gitlab,
 .speakers li span.twitter,
 .speakers li span.video,
 .speakers li span.slides {
@@ -429,11 +430,12 @@ section.welcome {
 }
 
 .speakers li span.github a i,
+.speakers li span.gitlab a i,
 .speakers li span.twitter a i,
 .speakers li span.video a i,
 .speakers li span.slides a i {
   text-decoration: none;
-  color: #C0BFBF;
+  color: #c0bfbf;
 }
 
 .speakers li span.twitter,
@@ -443,7 +445,11 @@ section.welcome {
 }
 
 .speakers li span.github a:hover i {
-  color: #000;
+  color: #24292e;
+}
+
+.speakers li span.gitlab a:hover i {
+  color: rgb(255,165,0);
 }
 
 .speakers li span.twitter a:hover i {
