@@ -99,7 +99,7 @@ var rawSpeakers = [
     "github": "rakyll",
     "gitlab": "",
     "twitter": "rakyll",
-    "bio": "Jaana B. Dogan is a software engineer at Google, where she works on observability of Go production services. She has a decade of experience building developer platforms and tools.",
+    "bio": "Jaana B. Dogan is working on latency analysis projects at Google. Previously, she worked on the Go project. She has a decade-long experience in building developer platforms and tools.",
     "title": "",
     "abstract": "",
     "video": "",
