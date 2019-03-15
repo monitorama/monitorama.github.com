@@ -202,18 +202,18 @@ var rawSpeakers = [
     "slides": "",
     "hash": "544b820dca6b1b9450e57882cf600c75",
   },
-  /*{
+  {
     "name": "Prasad Konduri",
     "github": "",
     "gitlab": "",
     "twitter": "",
-    "bio": "",
+    "bio": "Prasad has been with Capital One for over 2 1/2 years and a leader in Enterprise Observability group at Capital One. His responsibilities include Monitoring Governance effort, building the Governance framework, mobilizing all monitoring data to Data Lake for various consumption purposes (Machine Learning, Visualization, Governance etc.) and managing the Infrastructure Monitoring Platforms.",
     "title": "How Capital One used a Data Driven approach and Governance to improve their observability in the Cloud",
     "abstract": "",
     "video": "",
     "slides": "",
-    "hash": "",
-  },*/
+    "hash": "bfb01caa13143772b4895a4f31729b0f",
+  },
   {
     "name": "Ryan Lopopolo",
     "github": "lopopolo",
