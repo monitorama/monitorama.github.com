@@ -92,6 +92,12 @@ var sponsors = [
     "bio": "<p>AppDynamics empowers the enterprise with a solution for real-time application and business performance. Together with Cisco, we’re helping companies make mission critical and strategic decisions that improve customer experience and accelerate business in a multi-cloud world.</p>"
   },
   {
+    "name": "logzio",
+    "enabled": true,
+    "url": "https://logz.io/",
+    "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
+  },
+  {
     "name": "logicmonitor",
     "enabled": true,
     "url": "https://www.logicmonitor.com/?utm_source=monitorama",
