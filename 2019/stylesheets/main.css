@@ -79,15 +79,8 @@
 
 /* start Monitorama logo and mark */
 .navbar-ttc {
-  //background-color: #000;
+  background-color: #000;
   margin-bottom: 0;
-  background: #ed7c12; /* Old browsers */
-  //background: -moz-linear-gradient(left, #ed7c12 0%, #16188c 100%, #1e5799 100%); /* FF3.6-15 */
-  background: -moz-linear-gradient(left, #23004a 0%,#16188c 100%,#261e99 100%)
-  //background: -webkit-linear-gradient(left, #ed7c12 0%,#16188c 100%,#1e5799 100%); /* Chrome10-25,Safari5.1-6 */
-  background: -webkit-linear-gradient(left, #23004a 0%,#16188c 100%,#261e99 100%)
-  //background: linear-gradient(to right, #ed7c12 0%,#16188c 100%,#1e5799 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  background: linear-gradient(to right, #23004a 0%,#16188c 100%,#261e99 100%)
 }
 
 .navbar div.wrapper {
@@ -127,7 +120,7 @@
 
 /* start Portland banner image */
 div.banner {
-  height: 15px;
+  height: 250px;
   width: 100%;
   background: rgb(239, 239, 239) url('../images/portland-lg.png');
   background-size: cover;
@@ -182,6 +175,10 @@ div.banner {
   padding: 2px 0 10px 0;
 }
 
+.location.baltimore {
+  background-color: rgb(33, 82, 132);
+}
+
 .location h2 {
   font-family: "MotivaSans-Regular";
   font-size: x-large;
@@ -212,6 +209,10 @@ div.banner {
   font-size: 0.7em;
   color: rgb(0, 133, 98);
   margin: 0 15px;
+}
+
+.location.baltimore span.circle {
+  color: #fff;
 }
 
 .location span.mini {
@@ -306,6 +307,10 @@ section h4 {
   margin: 40px 0 30px;
 }
 
+.baltimore section h4 {
+  color: rgb(75, 130, 185);
+}
+
 section h5 {
   font-family: "MotivaSans-Medium";
   font-size: 1.6em;
@@ -323,6 +328,10 @@ section p, section span {
 
 section p a, section p a:hover {
   color: rgb(0, 173, 129);
+}
+
+.baltimore section p a, .baltimore section p a:hover {
+  color: rgb(75, 130, 185);
 }
 
 section p em, section span em {
