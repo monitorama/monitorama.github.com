@@ -131,8 +131,8 @@ div.banner.portland {
 
 div.banner.baltimore {
   background: rgb(239, 239, 239) url('../images/baltimore-lg.png');
-  //background-position: 0 -280px;
-  //background-size: cover;
+  background-size: cover;
+  background-position: bottom;
   filter: grayscale(0.3);
 }
 
