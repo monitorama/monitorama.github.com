@@ -81,9 +81,9 @@
 .navbar-ttc {
   margin-bottom: 0;
   background: #ed7c12; /* Old browsers */
-  background: -moz-linear-gradient(left, #23004a 0%,#16188c 100%,#261e99 100%);
-  background: -webkit-linear-gradient(left, #0f001f 0%,#16188c 100%,#5c589b 100%);
-  background: linear-gradient(to right, #0f001f 0%,#16188c 100%,#5c589b 100%);
+  background: -moz-linear-gradient(left, #23004a 0%,#646598 100%,#261e99 100%);
+  background: -webkit-linear-gradient(left, #0f001f 0%,#646598 100%,#5c589b 100%);
+  background: linear-gradient(to right, #0f001f 0%,#646598 100%,#5c589b 100%);
 }
 
 .navbar div.wrapper {
@@ -114,28 +114,54 @@
 }
 
 .navbar .tagline {
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-style: italic;
   color: #b9b9b9;
   margin-top: 6px;
 }
 /* end Monitorama logo and mark */
 
-.events div.row {
+div.container {
   min-height: 100px;
 }
 
-div.portland {
-  background-image: url('../images/portland.png');
-  background-size: 90px;
+.events div.overlay {
+  background-color: #000;
 }
 
-div.baltimore {
-  background-image: url('../images/baltimore.jpg');
+.events .overlay span {
+  position: absolute;
+  top: 280px;
+  left: 40px;
+  visibility: hidden;
+  font-family: 'Pacifico', cursive;
+  font-size: 3em;
+  color: #ffc800;
 }
 
-div.amsterdam {
-  background-image: url('../images/amsterdam.jpg');
+.events img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.events .portland:hover img, .events .baltimore:hover img, .events .amsterdam:hover img {
+  opacity: 0.2;
+  filter: grayscale(1);
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
+.events .portland:hover .overlay span, .events .baltimore:hover .overlay span, .events .amsterdam:hover .overlay span {
+  visibility: visible;
+}
+
+.events p {
+  padding: 2em 0.5em;
+  font-size: large;
+  font-family: monospace;
+}
+
+.events .links a {
+  margin-right: 5px;
 }
 
 /* START FOOTER */
@@ -164,11 +190,13 @@ footer ul li a:hover {
   color: #fff;
 }
 
-footer #copyright {
-  margin-top: 40px;
+.copyright {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background: #424242;
 }
 
-footer #copyright img {
+.copyright img {
   -webkit-filter: grayscale(1);
   -moz-filter: grayscale(1);
   -ms-filter: grayscale(1);
@@ -179,7 +207,7 @@ footer #copyright img {
   margin-bottom: 20px;
 }
 
-footer #copyright img:hover {
+.copyright img:hover {
   -webkit-filter: grayscale(0);
   -moz-filter: grayscale(0);
   -ms-filter: grayscale(0);
@@ -187,6 +215,11 @@ footer #copyright img:hover {
   filter: grayscale(0);
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
 }
+
+.copyright p {
+  color: #ccc;
+}
+
 /* END FOOTER */
 
 .signup span.required {

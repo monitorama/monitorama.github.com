@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
-    <link rel="stylesheet" href="stylesheets/main.css?v=3" />
+    <link rel="stylesheet" href="stylesheets/main.css?v=4" />
     <link rel="stylesheet" href="https://css.tito.io/v1" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.css" />
@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <div class="banner">
+    <div class="banner baltimore">
     </div>
 
     <div class="location wrapper">
@@ -42,7 +42,6 @@
         <div class="navbar-header navbar-header-ttc">
           <ul>
             <li class="internal"><a id="welcome" class="active" href="#">Welcome</a></li>
-            <!--li class="internal"><a id="info" href="#">Info</a></li-->
             <li class="internal"><a id="cfp" href="#">CFP</a></li>
             <!--li class="internal"><a id="outage" href="#">Outage</a></li-->
             <!--li class="internal"><a id="watch" href="#">Watch</a></li-->
@@ -51,7 +50,6 @@
             <li class="internal"><a id="tickets" href="#">Tickets</a></li>
             <li class="internal"><a id="sponsors" href="#">Sponsors</a></li>
             <li class="internal"><a id="venue" href="#">Venue</a></li>
-            <!--li class="internal"><a id="hike" href="#">Hike</a></li-->
             <li class="internal"><a id="travel" href="#">Travel</a></li>
             <li class="internal"><a id="conduct" href="#">Conduct</a></li>
             <li><a href="https://blog.monitorama.com/" target="_blank">Blog</a></li>
@@ -66,23 +64,66 @@
           <section class="welcome">
             <h4>Welcome to Baltimore!</h4>
 
+            <p>We're very excited to bring Monitorama back to the east coast for a new event in the great city of Baltimore. Many of you were with us for our original Boston event back in 2013, and have been asking us ever since to bring it back east again. It took a while, but we've finally found a venue in Baltimore Center Stage that we know you'll love as much as we do.</p>
+
+            <p>Baltimore is a beautiful city with a rich history and a thriving seaport. It's no coincidence that &quot;Charm City&quot; has a lot in common with our other favorite host city, Portland Oregon. Join us this October for another fun event and to experience Baltimore for yourself.</p>
+
+            <h4>Tickets</h4>
+
             <p class="text-center">Go <a href="https://ti.to/monitorama/bmore2019" target="_blank">get your ticket</a> while they last!</p>
           </section>
 
-          <section class="info">
-            <h4>Get the Skinny</h4>
-
-            <p><a href="https://ti.to/monitorama/bmore2019">Subscribe here</a> for updates on our next event. We will only use your personal contact details to inform you of new information regarding Monitorama events. Your details will not be used for any other purposes. More specifically, it <strong>will not be sold or shared with any third parties</strong>.</p>
-          </section>
-
           <section class="cfp">
-            <h4>CFP is Closed</h4>
+            <h4>Call for Participation</h4>
 
-            <p>Thank you to everyone who submitted. We had a tremendous response to this call for participation. We'll be reviewing all of the proposals and notifying all applicants no later than Feb 22, 2019. If your proposal isn't accepted this time around, we encourage you to try again for our next event.</p>
+            <p>Our call for participation is officially open. We're accepting proposals for 30-minute sessions to participate in our three-day, single-track agenda. As usual we'd love to hear about your failures and successes in production, new tools, or new takes on ways to use existing ones. We will consider all topics but we have some themes of particular interest this year:</p>
+
+            <ul class="text-left">
+              <li><strong>Open Source tooling</strong> - what we're using and why it matters</li>
+              <li><strong>Distributed tracing for normies</strong> - does it make sense for the rest of us?</li>
+              <li><strong>Tales from the dark side</strong> - scary stories from production environments</li>
+              <li><strong>Solving real problems with fake math</strong> - or as we like to call it, statistics</li>
+              <li><strong>Observability Product Management</strong> - (internal) customer-driven tooling</li>
+            </ul>
+
+            <p>You may submit as many proposals as you'd like. We're accepting submissions until <strong>00:00 UTC July 1, 2019</strong>. Proposals will be selected by July 15, 2019 and submitters will be notified immediately thereafter. Speakers of <strong>30-minute session</strong> talks will receive free registration to the event.</p>
+
+            <!--div class="text-center">
+              <div class="countdown"></div>
+            </div-->
+
+            <div class="text-left signup">
+              <p>All fields with an (<span class="required">&#42;</span>) asterisk are required.</p>
+
+              <form role="form">
+                <div class="form-group">
+                  <label for="full_name"><span class="required">&#42;</span> Name:</label>
+                  <input type="text" class="form-control form-input" name="full_name" placeholder="Jane Doe">
+                </div>
+                <div class="form-group">
+                  <label for="email"><span class="required">&#42;</span> Email (one address only):</label>
+                  <input type="email" class="form-control form-input" name="email" placeholder="jane@doe.com">
+                </div>
+                <div class="form-group">
+                  <label for="twitter">Twitter (&#64;handle):</label>
+                  <input type="text" class="form-control form-input" name="twitter" placeholder="@twitter">
+                </div>
+                <div class="form-group">
+                  <label for="title"><span class="required">&#42;</span> Title:</label>
+                  <input type="text" class="form-control form-input" name="title" placeholder="Our Exciting Monitoring Story">
+                </div>
+                <div class="form-group">
+                  <label for="body"><span class="required">&#42;</span> Abstract:</label>
+                  <textarea class="form-control form-input" name="body" rows="10" placeholder="A paragraph or two explaining your proposed talk. We'll be in touch if we have questions."></textarea>
+                </div>
+                <input type="hidden" class="form-input" name="type" value="session">
+                <a class="btn btn-primary" href="#">Submit</a>
+              </form>
+            </div>
           </section>
 
           <section class="outage">
-            <h4>Portland 2019 - Event Status</h4>
+            <h4>Baltimore 2019 - Event Status</h4>
 
             <h5>All systems are operational.</h5>
           </section>
@@ -114,7 +155,6 @@
 
                   <Day 1 https://youtu.be/QZf60dYMxKY>
                   <Day 2 https://youtu.be/1YITF2_Yba8>
-                  <Day 3 https://youtu.be/M0CLU4Onko4>
 
                 <p class="text-center">
                   Watch our live stream <a href="https://youtu.be/P8dc-rLnLr0">here</a>!
@@ -122,7 +162,7 @@
               </div>
             </div-->
 
-            <p>Monitorama takes place June 3-5, 2019 in the Gerding Theater at The Armory in Portland, Oregon. Our program consists of three days of single-track sessions and lightning talks designed to educate and inspire.</p>
+            <p>Monitorama takes place October 21-22, 2019 in the Pearlstone Theater of Baltimore Center Stage in Baltimore, MD. Our program consists of two days of single-track sessions and lightning talks designed to educate and inspire.</p>
 
             <div class="row">
               <div class="col-md-4 day">
@@ -166,35 +206,16 @@
                   <li><div class="wrap special party">Sponsor Parties</div></li>
                 </ul>
               </div>
-              <div class="col-md-4 day">
-                <ul>
-                  <li><div class="wrap header">Wednesday <span class="date">June 5</span></div></li>
-                  <li><div class="wrap special">Registration <span class="time">0800</span></div></li>
-                  <li><div class="wrap special">Welcome <span class="time">0915</span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap special">Break <span class="time">1030 - 1100</span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap special">Lunch <span class="time">1215 - 1400</span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap special">Break <span class="time">1515 - 1545</span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap talk"><h5>Presentation</h5><span class="speaker"></span></div></li>
-                  <li><div class="wrap special">Closing <span class="time">1645</span></div></li>
-                </ul>
-              </div>
             </div>
           </section>
 
           <section class="tickets">
-            <h4>Registration is Sold Out!</h4>
+            <h4>Registration is Open!</h4>
 
-            <p>General Admission tickets are sold out, but you can <a href="https://ti.to/monitorama/bmore2019">join our waiting list</a>. We will release additional tickets to the waiting list as they become available.</p>
+            <p><a href="https://ti.to/monitorama/bmore2019" target="_blank">Early Bird tickets</a> are now available. If you have any problems with your registration, please contact us <a href="mailto:info@monitorama.com">by email</a> or <a href="https://twitter.com/monitorama">Twitter</a>.</p>
 
             <h4>Refunds</h4>
-            <p>Need to cancel? We'll haz a sad but we understand. Contact us by <a href="mailto:info@monitorama.com">email</a> no later than May 20, 2019 for a full refund or if you'd like to transfer your ticket to someone slightly more attractive and significantly more intelligent than you. Just kidding, you're fabulous -- please don't ever change.</p>
+            <p>Need to cancel? No problem. Contact us by <a href="mailto:info@monitorama.com">email</a> no later than October 7, 2019 for a full refund or if you'd like to transfer your ticket to another recipient.</p>
           </section>
 
           <section class="sponsors">
@@ -208,7 +229,7 @@
 
               <p>Monitorama offers a unique experience for both sponsors and attendees alike. We provide a low-pressure environment for networking with the audience, delivering your product messaging, and increasing the visibility of your brand. Year after year, sponsors and attendees return to Monitorama to learn about the newest innovations in both the commercial and open source communities.</p>
 
-              <p>Download our <strong><a href="images/Monitorama_Baltimore_2019_Prospectus.pdf">Prospectus</a></strong> to learn more about our sponsorship offerings.</p>
+              <p>Download our <strong><a href="images/Monitorama_BAL2019_Prospectus.pdf">Prospectus</a></strong> to learn more about our sponsorship offerings.</p>
 
               <p>For sponsorship opportunities, or to inquire about custom packages, please <a href="mailto:info@monitorama.com">email us</a> and we'll be happy to assist you.</p>
             </div>
@@ -217,11 +238,14 @@
           <section class="venue">
             <h4>Where It All Happens.</h4>
 
-            <div class="row">
-              <p>Monitorama Baltimore will be held in the Pearlstone Theater at Baltimore Center Stage (<a href="https://goo.gl/maps/6qznW5uorVr" target="_new">map</a>), in the Mount Vernon neighborhood of Baltimore, Maryland. Designated the State Theater of Maryland in 1978, Baltimore Center Stage provides the highest quality theater and programming for youth, families, and members of the local community. The venue is a beautiful space, and also happens to be one of the greenest buildings in America. It's the first theater in the U.S. and the first building on the National Register of Historic Places to achieve a LEED Platinum rating. The venue address is 128 NW 11th Ave Portland, OR 97209.</p>
-            </div>
-            <div class="row">
-              <img id="bcsImg" src="images/bcs.jpg" />
+            <div>
+              <p>Monitorama Baltimore will be held in the Pearlstone Theater at Baltimore Center Stage (<a href="https://goo.gl/maps/6qznW5uorVr" target="_new">map</a>), in the Mount Vernon neighborhood of Baltimore, Maryland. Designated the State Theater of Maryland in 1978, Baltimore Center Stage provides the highest quality theater and programming for youth, families, and members of the local community. A massive renovation of the facility was completed in 2017, resulting in a modern and accessible venue perfect for events such as Monitorama. The venue address is 700 North Calvert St. Baltimore, MD 21202.</p>
+
+              <div>
+                <a href="https://www.centerstage.org/about/press-room/media-kits/2016-17-media-kit/media-kit/201617-BCS-Reopening-media-kit" target="_blank">
+                  <img id="baltimore" src="images/bcs.jpg" />
+                </a>
+              </div>
             </div>
           </section>
 
@@ -229,6 +253,16 @@
             <h4>Looking for a Hotel?</h4>
 
             <!--p>We generally recommend <a href="http://www.markspencer.com/" target="_blank">The Mark Spencer Hotel</a>, the <a href="http://www.sentinelhotel.com/" target="_blank">Sentinel Hotel</a>, or the <a href="https://www.acehotel.com/portland" target="_blank">Ace Hotel Portland</a>. They're all walking distance from The Armory and have good reviews.</p-->
+
+            <p>We are currently reaching out to a number of local hotels for discount rates and will update this page with details as they become available. Here are a few hotels which come highly recommended and are within walking distance of the venue.</p>
+
+            <p>
+              <ul>
+                <li><a href="https://www.jdvhotels.com/hotels/maryland/baltimore/hotel-revival-baltimore" target="_blank">Hotel Revival</a></li>
+                <li><a href="https://www.ihg.com/hotelindigo/hotels/us/en/baltimore/balhn/hoteldetail" target="_blank">Hotel Indigo</a></li>
+                <li><a href="https://www.monaco-baltimore.com/" target="_blank">Kimpton Hotel Monaco Baltimore</a></li>
+              </ul>
+            </p>
 
             <h5>From Baltimore-Washington International (BWI) Airport</h5>
             <p>
@@ -322,21 +356,20 @@
             </ul>
           </div>
         </div>
-        <div class="row" id="copyright">
-          <div class="col-md-4 col-md-offset-4">
-            <a id="welcome" href="#"><img src="images/monitorama-logo-clear.png" /></a>
-            <p>&copy; Copyright 2013-2019 Monitorama LLC</p>
-          </div>
-        </div>
       </div>
     </footer>
+
+    <div class="text-center container-fluid copyright">
+      <a id="welcome" href="#"><img src="images/monitorama-logo-clear.png" /></a>
+      <p>&copy; Copyright 2019 Monitorama LLC</p>
+    </div>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js"></script>
     <script type="text/javascript" src="javascripts/bootstrap.min.js"></script>
     <script type="text/javascript" src="javascripts/speakers.js?v=5"></script>
     <script type="text/javascript" src="javascripts/supporters.js?v=25"></script>
-    <script type="text/javascript" src="javascripts/main.js?v=3"></script>
+    <script type="text/javascript" src="javascripts/main.js?v=4"></script>
     <script type="text/javascript" src="https://js.tito.io/v1" async></script>
     <script type="text/javascript">
       var currentDate = new Date();

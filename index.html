@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
-    <link rel="stylesheet" href="stylesheets/main.css?v=3" />
+    <link rel="stylesheet" href="stylesheets/main.css?v=4" />
     <link rel="stylesheet" href="https://css.tito.io/v1" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     <link rel="shortcut icon" href="images/favicon.ico" />
     <title>Monitorama Conference</title>
   </head>
@@ -24,27 +25,61 @@
       </div>
     </div>
 
+    <div class="container center-block">
+    </div>
+
     <div class="container center-block events">
       <div class="row">
-        <div class="portland col-md-4 text-center">
-          <h4>Portland</h4>
+        <div class="portland col-md-4">
+          <div class="overlay">
+            <a href="2019/pdx.html">
+              <span>Portland 2019</span>
+              <img src="images/portland_square.png" />
+            </a>
+          </div>
+          <p>Portland in June is one of the most amazing cities in the world. Besides being a fantastic tech city, Portland, OR has some of the best food, coffee, and culture around. June 3-5, 2019 at Portland Center Stage in downtown Portland.</p>
         </div>
-        <div class="baltimore col-md-4 text-center">
-          <h4>Baltimore</h4>
+        <div class="baltimore col-md-4">
+          <div class="overlay">
+            <a href="2019/baltimore.html">
+              <span>Baltimore 2019</span>
+              <img src="images/baltimore_square.png" />
+            </a>
+          </div>
+          <p>Baltimore is our newest destination city to hear about the newest developments in Monitoring &amp; Observability. Meet up with us in Charm City to enjoy the beautiful fall weather, October 21-22 at Baltimore Center Stage.</p>
         </div>
-        <div class="amsterdam col-md-4 text-center">
-          <h4>Amsterdam</h4>
+        <div class="amsterdam col-md-4">
+          <div class="overlay">
+            <a href="http://monitorama.eu/">
+              <span>Amsterdam 2018</span>
+              <img src="images/amsterdam_square.png" />
+            </a>
+          </div>
+          <p>We had an amazing time in Amsterdam last year! Click here to learn more about our most recent European event and to watch videos from this fantastic event.</p>
         </div>
       </div>
       <div class="row">
-        <div class="text-center col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
+        <div class="portland links col-md-4">
+          <a type="button" class="btn btn-primary" href="2019/pdx.html">More Info</a>
+          <a type="button" class="btn btn-danger" href="https://ti.to/monitorama/pdx2019">Waiting List</a>
+        </div>
+        <div class="baltimore links col-md-4">
+          <a type="button" class="btn btn-primary" href="2019/baltimore.html">More Info</a>
+          <a type="button" class="btn btn-success" href="https://ti.to/monitorama/bmore2019">Tickets</a>
+        </div>
+        <div class="amsterdam links col-md-4">
+          <a type="button" class="btn btn-primary" href="http://monitorama.eu/">More Info</a>
+        </div>
       </div>
+    </div>
+
+    <div class="container center-block">
     </div>
 
     <footer>
       <div class="text-center container">
         <div class="row">
-          <div class="col-md-2 col-md-offset-4">
+          <div class="col-md-2 col-md-offset-3">
             <h5>Media</h5>
             <ul>
               <li><a href="https://blog.monitorama.com/">Blog</a></li>
@@ -55,34 +90,36 @@
             </ul>
           </div>
           <div class="col-md-2">
-            <h5>Events</h5>
+            <h5>Past US Events</h5>
             <ul>
-              <li><a href="/2019/baltimore.html">Baltimore 2019</a></li>
-              <li><a href="/2019/pdx.html">PDX 2019</a></li>
-              <li><a href="http://monitorama.eu/">Amsterdam 2018</a></li>
               <li><a href="/2018/pdx.html">PDX 2018</a></li>
               <li><a href="/2017/pdx.html">PDX 2017</a></li>
               <li><a href="/2016/pdx.html">PDX 2016</a></li>
               <li><a href="/2015/pdx.html">PDX 2015</a></li>
               <li><a href="/2014/pdx.html">PDX 2014</a></li>
-              <li><a href="http://monitorama.eu/2013/berlin.html">Berlin 2013</a></li>
               <li><a href="/2013/boston.html">Boston 2013</a></li>
             </ul>
           </div>
-        </div>
-        <div class="row" id="copyright">
-          <div class="col-md-4 col-md-offset-4">
-            <a id="welcome" href="#"><img src="images/monitorama-logo-clear.png" /></a>
-            <p>&copy; Copyright 2013-2019 Monitorama LLC</p>
+          <div class="col-md-2">
+            <h5>Past EU Events</h5>
+            <ul>
+              <li><a href="http://monitorama.eu/">Amsterdam 2018</a></li>
+              <li><a href="http://monitorama.eu/2013/berlin.html">Berlin 2013</a></li>
+            </ul>
           </div>
         </div>
       </div>
     </footer>
 
+    <div class="text-center container-fluid copyright">
+      <a id="welcome" href="#"><img src="images/monitorama-logo-clear.png" /></a>
+      <p>&copy; Copyright 2019 Monitorama LLC</p>
+    </div>
+
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js"></script>
     <script type="text/javascript" src="javascripts/bootstrap.min.js"></script>
-    <script type="text/javascript" src="javascripts/main.js?v=4"></script>
+    <script type="text/javascript" src="javascripts/main.js?v=5"></script>
     <script type="text/javascript" src="https://js.tito.io/v1" async></script>
     <script type="text/javascript">
       var currentDate = new Date();

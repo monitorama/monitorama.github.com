@@ -111,25 +111,38 @@
 }
 
 .navbar .tagline {
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-style: italic;
   color: #b9b9b9;
   margin-top: 6px;
 }
 /* end Monitorama logo and mark */
 
-/* start Portland banner image */
+/* start location banner image */
 div.banner {
   height: 250px;
   width: 100%;
-  background: rgb(239, 239, 239) url('../images/portland-lg.png');
   background-size: cover;
 }
 
+div.banner.portland {
+  background: rgb(239, 239, 239) url('../images/portland-lg.png');
+}
+
+div.banner.baltimore {
+  background: rgb(239, 239, 239) url('../images/baltimore-lg.png');
+  //background-position: 0 -280px;
+  //background-size: cover;
+  filter: grayscale(0.3);
+}
+
 @media only screen and (max-width: 1465px) {
-  div.banner {
+  div.banner.portland {
     background: rgb(239, 239, 239) url('../images/portland.png');
   }
+  /* div.banner.baltimore {
+    background: rgb(239, 239, 239) url('../images/baltimore.png');
+  } */
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
@@ -167,12 +180,12 @@ div.banner {
 }
 
 .location {
-  //background-color: rgb(14, 100, 169);
-  ///background-color: rgb(123, 169, 0);
-  //background-color: rgb(0, 136, 158);
-  background-color: rgb(0, 184, 137);
   border-radius: 8px;
   padding: 2px 0 10px 0;
+}
+
+.location.portland {
+  background-color: rgb(0, 184, 137);
 }
 
 .location.baltimore {
@@ -645,11 +658,15 @@ div.prospectus {
 .venue img#mcs_nerd {
   width: 300px;
 }
+
+.venue img#baltimore {
+  max-width: 100%;
+}
 /* END VENUE */
 
 /* START TRAVEL */
 .travel ul {
-  list-style: none;
+  list-style-position: inside;
 }
 
 .travel li {
@@ -707,11 +724,13 @@ footer ul li a:hover {
   color: #fff;
 }
 
-footer #copyright {
-  margin-top: 40px;
+.copyright {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background: #424242;
 }
 
-footer #copyright img {
+.copyright img {
   -webkit-filter: grayscale(1);
   -moz-filter: grayscale(1);
   -ms-filter: grayscale(1);
@@ -722,13 +741,17 @@ footer #copyright img {
   margin-bottom: 20px;
 }
 
-footer #copyright img:hover {
+.copyright img:hover {
   -webkit-filter: grayscale(0);
   -moz-filter: grayscale(0);
   -ms-filter: grayscale(0);
   -o-filter: grayscale(0);
   filter: grayscale(0);
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+}
+
+.copyright p {
+  color: #ccc;
 }
 /* END FOOTER */
 
