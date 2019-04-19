@@ -122,11 +122,11 @@
 div.banner {
   height: 250px;
   width: 100%;
-  background-size: cover;
 }
 
 div.banner.portland {
   background: rgb(239, 239, 239) url('../images/portland-lg.png');
+  background-size: cover;
 }
 
 div.banner.baltimore {
