@@ -92,21 +92,27 @@
   width: 15%;
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+@media only screen and (min-width : 1024px) and (max-width : 1600px) {
   .navbar .logo img {
-    width: 50%;
+    width: 20%;
   }
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
   .navbar .logo img {
-    width: 65%;
+    width: 25%;
   }
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+@media only screen and (min-width : 568px) and (max-width : 768px) {
   .navbar .logo img {
-    width: 75%;
+    width: 35%;
+  }
+}
+
+@media only screen and (min-width : 320px) and (max-width : 568px) {
+  .navbar .logo img {
+    width: 45%;
   }
 }
 
@@ -115,6 +121,8 @@
   font-style: italic;
   color: #b9b9b9;
   margin-top: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 /* end Monitorama logo and mark */
 
