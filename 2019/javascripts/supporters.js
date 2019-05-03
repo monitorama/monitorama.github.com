@@ -1,6 +1,12 @@
 var sponsors = {
   "pdx": [
     {
+      "name": "lightstep",
+      "enabled": true,
+      "url": "https://lightstep.com/",
+      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
+    },
+    {
       "name": "signalfx",
       "enabled": true,
       "url": "https://signalfx.com/",
@@ -25,12 +31,6 @@ var sponsors = {
       "enabled": true,
       "url": "https://newrelic.com/",
       "bio": "<p>New Relic provides the real-time insights that software-driven businesses need to innovate faster. New Relic’s cloud platform makes every aspect of modern software and infrastructure observable, so companies can find and fix problems faster, build high-performing DevOps teams, and speed up transformation projects. Learn why more than 50% of the Fortune 100 trust New Relic at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>",
-    },
-    {
-      "name": "lightstep",
-      "enabled": true,
-      "url": "https://lightstep.com/",
-      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
     },
     {
       "name": "datadog",
@@ -90,6 +90,12 @@ var sponsors = {
       "enabled": true,
       "url": "https://logz.io/",
       "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
+    },
+    {
+      "name": "splunk",
+      "enabled": true,
+      "url": "https://www.splunk.com",
+      "bio": "<p>Splunk Inc. (NASDAQ: SPLK) provides the leading software platform for real-time Operational Intelligence. Splunk® software and cloud services enable organizations to search, monitor, analyze and visualize machine-generated big data coming from websites, applications, servers, networks, sensors and mobile devices. More than 10,000 enterprises, government agencies, universities and service providers in over 100 countries use Splunk software to deepen business and customer understanding, mitigate cybersecurity risk, prevent fraud, improve service performance and reduce costs. Splunk products include Splunk® Enterprise, Splunk Cloud™, Hunk®, Splunk Light and premium Splunk Apps. To learn more, please visit <a href=\"http://www.splunk.com/company\">http://www.splunk.com/company</a>.</p>"
     },
     {
       "name": "logicmonitor",
