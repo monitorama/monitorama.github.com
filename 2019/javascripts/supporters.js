@@ -92,10 +92,10 @@ var sponsors = {
       "bio": "<p><a href=\"http://logz.io/\">Logz.io</a> provides the world's most popular open-source log analysis platform, ELK (Elasticsearch, Logstash and Kibana), as a simple, secure, and scalable service on the cloud. Logz.io also provides advanced enterprise-grade enhancements and features on top of the ELK Stack such as alerting, user control, archiving and pre-made Kibana visualizations tailored for specific log types. Extremely easy to set up, Logz.io allows you to ship as many logs as you like while securing the data and providing high-availability and accessibility.</p>"
     },
     {
-      "name": "splunk",
+      "name": "splunk_victorops",
       "enabled": true,
-      "url": "https://www.splunk.com",
-      "bio": "<p>Splunk Inc. (NASDAQ: SPLK) provides the leading software platform for real-time Operational Intelligence. Splunk® software and cloud services enable organizations to search, monitor, analyze and visualize machine-generated big data coming from websites, applications, servers, networks, sensors and mobile devices. More than 10,000 enterprises, government agencies, universities and service providers in over 100 countries use Splunk software to deepen business and customer understanding, mitigate cybersecurity risk, prevent fraud, improve service performance and reduce costs. Splunk products include Splunk® Enterprise, Splunk Cloud™, Hunk®, Splunk Light and premium Splunk Apps. To learn more, please visit <a href=\"http://www.splunk.com/company\">http://www.splunk.com/company</a>.</p>"
+      "url": "https://victorops.com/",
+      "bio": "<p>With VictorOps, &quot;on-call&quot; isn’t a four-letter word. Our incident management software aligns log management, monitoring, chat tools, and more, for a single-pane-of-glass into system health.</p><p>Using this IT and DevOps system data, we support automated alerting, centralized information, and essential documentation.</p><p>Teams receive context-rich notifications and collaborate cross-functionally to empower fast, efficient incident resolution—and reduced downtime.</p>"
     },
     {
       "name": "logicmonitor",
