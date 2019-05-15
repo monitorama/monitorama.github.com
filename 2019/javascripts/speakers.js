@@ -30,7 +30,7 @@ var rawSpeakers = {
       "gitlab": "",
       "twitter": "geek_dave",
       "bio": "Dave is a Site Reliability Architect at DNAnexus, where on a daily basis, he enjoys geeking out at the intersection of bioinformatics and cloud computing. Dave lives in Colorado with his wife and two kids, and enjoys hiking and playing the drums.",
-      "title": "Explain it Like I’m Five - What I Learned Teaching Observability to My Son",
+      "title": "Explain it Like I’m Five - What I Learned Teaching Observability to My Kids",
       "abstract": "",
       "video": "",
       "slides": "",
