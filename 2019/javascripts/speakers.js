@@ -294,7 +294,7 @@ var rawSpeakers = {
       "gitlab": "",
       "twitter": "cyen",
       "bio": "Christine Yen is the cofounder of Honeycomb, a startup with a new approach to observability and debugging systems with data. Christine has built systems and products at companies large and small and likes to have her fingers in as many pies as possible. Previously, she built Parse’s analytics product (and leveraged Facebook’s data systems to expand it) and wrote software at a few now-defunct startups.",
-      "title": "",
+      "title": "Observability: Superpowers for Developers",
       "abstract": "",
       "video": "",
       "slides": "",
