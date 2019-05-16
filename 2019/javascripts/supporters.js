@@ -4,7 +4,15 @@ var sponsors = {
       "name": "lightstep",
       "enabled": true,
       "url": "https://lightstep.com/",
+      "width": 250,
       "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
+    },
+    {
+      "name": "zoho_manageengine",
+      "enabled": true,
+      "url": "https://www.manageengine.com/",
+      "width": 250,
+      "bio": "<p>ManageEngine delivers real-time management tools for every aspect of IT. Worldwide, established and emerging enterprises—including more than 60% of the Fortune 500—rely on ManageEngine to ensure optimal performance of their critical IT infrastructure, including networks, servers, applications, desktops, and more.</p><p>ManageEngine is a division of Zoho Corporation.</p>"
     },
     {
       "name": "signalfx",
