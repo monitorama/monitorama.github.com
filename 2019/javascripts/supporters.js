@@ -116,7 +116,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.salesforce.com/",
       "width": 150,
-      "bio": "<p>Salesforce.com is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>"
+      "bio": "<p>Salesforce is a trusted cloud platform that helps companies connect with their customers. We run 24x7 systems at massive scale, and give our customers innovative new capabilities with social, mobile and data science apps.</p>"
     },
     {
       "name": "reactiveops",
