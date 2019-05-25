@@ -53,7 +53,7 @@ var rawSpeakers = {
       "github": "velvia",
       "gitlab": "",
       "twitter": "Evanfchan",
-      "bio": "Evan loves to design, build, and improve bleeding edge distributed data and backend systems using the latest in open source technologies. He is the creator of the FiloDB open-source distributed time-series database, as well as the Spark Job Server. He has led the design and implementation of multiple big data platforms based on Storm, Spark, Kafka, Cassandra, and Scala/Akka, including a columnar real-time distributed query engine. He has been an active contributor to the Apache Spark project, and a two-time Datastax Cassandra MVP. He has built Spark applications since Spark 0.8, Cassandra since 0.6. He is a big believer in GitHub, open source, and meetups, and have given talks at various conferences including Strata, Spark Summit, Cassandra Summit, FOSS4G, and Scala Days. He has a Bachelors and Masters of Electrical Engineering, with distinction, from Stanford University. In his spare time he is a family man, photographer, foodie, avid Oakland Athletics fan, and committed follower of Jesus.",
+      "bio": "Evan has been a distributed systems / data / software engineer for twenty years. His current passion is time series and data systems that can process millions of records per second PER NODE and simultaneously answer a large number of concurrent queries per second. He has led the design and implementation of multiple big data platforms based on Apache Storm, Spark, Kafka, Cassandra, and Scala/Akka. He has been an active contributor to the Apache Spark project, and a two-time Datastax Cassandra MVP. Open source, conferences, Matthew 25:40.",
       "title": "Rich Histograms at Scale: A New Hope",
       "abstract": "",
       "video": "",
