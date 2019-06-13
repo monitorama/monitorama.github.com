@@ -237,7 +237,7 @@ var rawSpeakers = {
       "title": "Practical Anomaly Detection using Prometheus",
       "abstract": "",
       "video": "https://vimeo.com/341141334",
-      "slides": "",
+      "slides": "https://speakerdeck.com/suprememoocow/anomaly-detection-using-prometheus",
       "hash": "30a84ee7025f084bba4102cdc8a24b59",
     },
     {
@@ -297,7 +297,7 @@ var rawSpeakers = {
       "title": "Observability: Superpowers for Developers",
       "abstract": "",
       "video": "https://vimeo.com/341142053",
-      "slides": "",
+      "slides": "https://speakerdeck.com/christineyen/observability-superpowers-for-developers",
       "hash": "c3c49a4d98ec763dc0f3e559bd4baacd",
     },
   ],
