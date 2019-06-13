@@ -33,7 +33,7 @@ var rawSpeakers = {
       "title": "Explain it Like I’m Five - What I Learned Teaching Observability to My Kids",
       "abstract": "",
       "video": "https://vimeo.com/341142428",
-      "slides": "",
+      "slides": "https://speakerdeck.com/geekdave/eli5-what-i-learned-teaching-observability-to-my-kids",
       "hash": "0293ac60b3127ed135d1a98619fc5669",
     },
     {
