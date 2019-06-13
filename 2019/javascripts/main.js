@@ -111,7 +111,7 @@ for (var i in speakers) {
   var video = '';
   if (speakers[i].video.length > 0) {
     video = '<span class="video"><a href="' +
-      speakers[i].video + '" target="_new"><i class="fab fa-video-camera"></i></a></span>';
+      speakers[i].video + '" target="_new"><i class="fas fa-video"></i></a></span>';
   }
   var slides = '';
   if (speakers[i].slides.length > 0) {
