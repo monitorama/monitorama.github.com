@@ -157,5 +157,73 @@ var sponsors = {
       "bio": "<p>Braintree provides the easiest way to pay and get paid across any device. With one integration, merchants can start accepting credit and debit cards, PayPal, Apple Pay, Android Pay, Venmo, and whatever comes next. Thousands of online and mobile companies including Uber, Airbnb, and GithHub use Braintree in more than 45 countries. To learn more, visit <a href=\"https://www.braintreepayments.com/\">www.braintreepayments.com</a> or <a href=\"https://twitter.com/braintree\">@braintree</a>.</p>"
     },
   ],
-  "baltimore": []
+  "baltimore": [
+    {
+      "name": "bigpanda",
+      "enabled": false,
+      "url": "http://bigpanda.io/",
+      "width": 225,
+      "bio": "<p>BigPanda Autonomous Operations platform intelligently automates IT incident management. Customers such as Intel, TiVo, Turner Broadcasting, and Workday rely on BigPanda to minimize operating costs, improve service availability, and reduce IT risk. The BigPanda Platform delivers superior time-to-value by correlating operational data, automating the incident management lifecycle, and streamlining manual processes. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit <a href=\"http://www.bigpanda.io/\">www.bigpanda.io</a> for more information.</p>"
+    },
+    {
+      "name": "signalfx",
+      "enabled": true,
+      "url": "https://signalfx.com/",
+      "width": 175,
+      "bio": "<p>SignalFx is the only real-time cloud monitoring platform for infrastructure, microservices, and applications. The platform collects metrics and traces across every component in your cloud environment, replacing traditional point tools with a single integrated solution that works across the stack. SignalFx is built on a massively scalable streaming architecture that applies advanced predictive analytics for real-time problem detection. With its NoSample™ distributed tracing capabilities, SignalFx reliably monitors all transactions across microservices, accurately identifying all anomalies. And through data-science-powered directed troubleshooting SignalFx guides the operator to find the root cause of issues in seconds. SignalFx is used by leading enterprises across high tech, financial services, consumer products, retail, communications, media, entertainment, and web-scale players like Yelp, HubSpot, Acquia, and Kayak. SignalFx is venture-funded by Andreessen Horowitz, Charles River Ventures, and General Catalyst.</p>"
+    },
+    {
+      "name": "catchpoint",
+      "enabled": true,
+      "url": "http://catchpoint.com/",
+      "width": 240,
+      "bio": "<p>At Catchpoint we believe that every experience matters. Everyone is a customer, and every customer expects a seamless experience with the applications they use. Catchpoint’s Digital Experience Monitoring Platform helps industry leaders ensure that every experience they deliver across the globe is monitored and optimized. The Catchpoint DEM Platform combines synthetic and real user monitoring to provide complete visibility into every layer of the modern application delivery chain, including networks, application code, CDN, DNS, services, APIs, and more. Catchpoint also offers the world’s largest, most geographically-dispersed monitoring network, utilizing over 700 backbone, broadband, cloud and wireless vantage points. Customer Experience Leaders like Google, L'Oréal, Verizon, Oracle, LinkedIn, Honeywell, and Priceline trust Catchpoint to provide real-time intelligence into applications and services to detect, repair, and optimize digital applications faster. See how Catchpoint can reduce your Mean Time to Detect at <a href=\"http://www.catchpoint.com/trial\">www.catchpoint.com/trial</a>.</p>"
+    },
+    {
+      "name": "zoho_manageengine",
+      "enabled": true,
+      "url": "https://www.manageengine.com/",
+      "width": 250,
+      "bio": "<p>ManageEngine delivers real-time management tools for every aspect of IT. Worldwide, established and emerging enterprises—including more than 60% of the Fortune 500—rely on ManageEngine to ensure optimal performance of their critical IT infrastructure, including networks, servers, applications, desktops, and more.</p><p>ManageEngine is a division of Zoho Corporation.</p>"
+    },
+    {
+      "name": "newrelic",
+      "enabled": true,
+      "url": "https://newrelic.com/",
+      "bio": "<p>New Relic provides the real-time insights that software-driven businesses need to innovate faster. New Relic’s cloud platform makes every aspect of modern software and infrastructure observable, so companies can find and fix problems faster, build high-performing DevOps teams, and speed up transformation projects. Learn why more than 50% of the Fortune 100 trust New Relic at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>",
+    },
+    {
+      "name": "elastic",
+      "enabled": false,
+      "url": "https://www.elastic.co/",
+      "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
+    },
+    {
+      "name": "google",
+      "enabled": false,
+      "url": "https://cloud.google.com/stackdriver/",
+      "width": 175,
+      "bio": "<p>Companies come to Google Cloud to transform their businesses. Our comprehensive portfolio — from infrastructure to apps to devices — helps enterprises innovate faster, scale smarter, stay secure, and do more with data than ever before.</p>"
+    },
+    {
+      "name": "wavefront",
+      "enabled": false,
+      "url": "https://www.wavefront.com/",
+      "bio": "<p>Wavefront™ by VMware® is a SaaS-based metrics monitoring and analytics platform that handles the high-scale requirements of modern cloud-native applications. Wavefront’s speed, scale and flexibility allows DevOps and developer teams instant insight into the performance of their highly-distributed cloud-native services. Wavefront’s analytics, query-driven alerts, interactive visualizations, open API, and integrations, all powered by massively scalable time-series database delivers “the first pane of glass” visibility helping DevOps teams detect performance anomalies while ensuring high availability of key cloud services.</p><p>Developers can self-serve and adapt Wavefront analytics to unique needs of their code while gaining visibility into its production behavior.</p>",
+    },
+    {
+      "name": "lightstep",
+      "enabled": false,
+      "url": "https://lightstep.com/",
+      "width": 250,
+      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
+    },
+    {
+      "name": "logdna",
+      "enabled": true,
+      "url": "https://logdna.com/",
+      "width": 175,
+      "bio": "<p>As cloud computing, machine generated data, and infrastructures grow in complexity, LogDNA empowers organizations with a fast, scalable, secure way to centralize machine data, gain real-time insights, and pinpoint issues. With frustration-free setup, user-intuitive dashboards, and flexible deployment across cloud, multi-cloud, on-prem, and bare metal, LogDNA provides the exact logging tools your team needs, so they can focus on what they do best - build great products.</p>"
+    }
+  ]
 }
