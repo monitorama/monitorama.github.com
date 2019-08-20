@@ -180,11 +180,11 @@ var sponsors = {
       "bio": "<p>At Catchpoint we believe that every experience matters. Everyone is a customer, and every customer expects a seamless experience with the applications they use. Catchpoint’s Digital Experience Monitoring Platform helps industry leaders ensure that every experience they deliver across the globe is monitored and optimized. The Catchpoint DEM Platform combines synthetic and real user monitoring to provide complete visibility into every layer of the modern application delivery chain, including networks, application code, CDN, DNS, services, APIs, and more. Catchpoint also offers the world’s largest, most geographically-dispersed monitoring network, utilizing over 700 backbone, broadband, cloud and wireless vantage points. Customer Experience Leaders like Google, L'Oréal, Verizon, Oracle, LinkedIn, Honeywell, and Priceline trust Catchpoint to provide real-time intelligence into applications and services to detect, repair, and optimize digital applications faster. See how Catchpoint can reduce your Mean Time to Detect at <a href=\"http://www.catchpoint.com/trial\">www.catchpoint.com/trial</a>.</p>"
     },
     {
-      "name": "zoho_manageengine",
+      "name": "zoho_site24x7",
       "enabled": true,
-      "url": "https://www.manageengine.com/",
-      "width": 250,
-      "bio": "<p>ManageEngine delivers real-time management tools for every aspect of IT. Worldwide, established and emerging enterprises—including more than 60% of the Fortune 500—rely on ManageEngine to ensure optimal performance of their critical IT infrastructure, including networks, servers, applications, desktops, and more.</p><p>ManageEngine is a division of Zoho Corporation.</p>"
+      "url": "https://www.site24x7.com/",
+      "width": 150,
+      "bio": "<p>Site24x7 offers SaaS based server monitoring, website monitoring and application performance monitoring. With Site24x7 you can monitor the performance and availability of websites from multiple locations globally and be alerted on its downtime instantaneously. With web app monitoring you can monitor the up-time and performance of your business critical e-commerce or banking applications from 50+ monitoring locations across the globe. Using web page analyzer you can receive in-depth visibility on how your webpage is loading for your customers. Application performance monitoring provides in-depth visibility on how your webpage is loading for your customers where ever they are.</p>"
     },
     {
       "name": "newrelic",
