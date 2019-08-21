@@ -183,7 +183,7 @@ var sponsors = {
       "name": "zoho_site24x7",
       "enabled": true,
       "url": "https://www.site24x7.com/",
-      "width": 150,
+      "width": 175,
       "bio": "<p><a href=\"https://www.site24x7.com/\">Site24x7</a> offers SaaS based server monitoring, website monitoring and application performance monitoring. With Site24x7 you can monitor the performance and availability of websites from multiple locations globally and be alerted on its downtime instantaneously. With web app monitoring you can monitor the up-time and performance of your business critical e-commerce or banking applications from 50+ monitoring locations across the globe. Using web page analyzer you can receive in-depth visibility on how your webpage is loading for your customers. Application performance monitoring provides in-depth visibility on how your webpage is loading for your customers where ever they are.</p>"
     },
     {
