@@ -223,7 +223,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://logdna.com/",
       "width": 175,
-      "bio": "<p>As cloud computing, machine generated data, and infrastructures grow in complexity, LogDNA empowers organizations with a fast, scalable, secure way to centralize machine data, gain real-time insights, and pinpoint issues. With frustration-free setup, user-intuitive dashboards, and flexible deployment across cloud, multi-cloud, on-prem, and bare metal, LogDNA provides the exact logging tools your team needs, so they can focus on what they do best - build great products.</p>"
+      "bio": "<p>LogDNA provides fast and secure analysis logs from all cloud servers, apps, sources, and platforms into a single pane with a responsive, real-time interface. It deploys on multiple clouds, hybrid or on-premise. With two lines of code, users are up-and-running with live analytics on Kubernetes. The intuitive nature of LogDNA means engineering and DevOps professionals can easily and quickly gather all systems and application logs into one platform to get back to building great products.</p>"
     }
   ]
 }
