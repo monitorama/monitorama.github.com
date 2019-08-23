@@ -446,7 +446,7 @@ var rawSpeakers = {
       "slides": "",
       "hash": "6ab94fc1e6b808300f2c30d04826d6b6",
     },
-    /* {
+    {
       "name": "Theo Schlossnagle",
       "github": "postwait",
       "gitlab": "",
@@ -457,7 +457,7 @@ var rawSpeakers = {
       "video": "",
       "slides": "",
       "hash": "f3dcfc96a43a4038d259c4440a83f6a7",
-    }, */
+    },
     {
       "name": "Patrick Vinograd",
       "github": "patrickvinograd",
@@ -494,17 +494,17 @@ var rawSpeakers = {
       "slides": "",
       "hash": "71cf2895e28fd3a575e0b9cdfd4346ea",
     },
-    /* {
+    {
       "name": "Peter Zaitsev",
       "github": "",
       "gitlab": "",
-      "twitter": "",
-      "bio": "",
+      "twitter": "PeterZaitsev",
+      "bio": "Peter co-founded Percona in 2006, assuming the role of CEO. Percona helps companies of all sizes maximize their success with MySQL. Percona was named to the Inc. 5000 in 2013. Peter was an early employee at MySQL AB, eventually leading the company's High Performance Group. A serial entrepreneur, Peter co-founded his first startup while attending Moscow State University where he majored in Computer Science. As CEO of Percona, Peter enjoys mixing business leadership with hands on technical expertise. Peter is the co-author of High Performance MySQL published by O'Reilly, one of the most popular books on MySQL performance. Peter blogs regularly on MySQLPerformanceBlog.com and speaks frequently at conferences. Peter lives in North Carolina with his wife and two children. In his spare time, Peter enjoys travel and spending time outdoors.",
       "title": "Using eBPF for Linux Performance Analyses",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "",
-    }, */
+      "hash": "46832d562e0f336f33abba2c583427b8",
+    },
   ]
 }
