@@ -114,7 +114,7 @@ for (var i in speakers) {
       speakers[i].slides + '" target="_new"><i class="fab fa-slideshare"></i></a></span>';
   }
 
-  var bio = '<p class="bio">' + speakers[i].bio + '</p>';
+  var bio = '<p class="bio">' + (speakers[i].bio || 'Coming Soon') + '</p>';
 
   $('section.speakers ul').append('<li class="speaker">' + image + name + slides + video + twitter + github + gitlab + bio + '</li>');
 
