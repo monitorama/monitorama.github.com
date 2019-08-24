@@ -355,7 +355,7 @@ var rawSpeakers = {
       "github": "RyanFrantz",
       "gitlab": "",
       "twitter": "ryan_frantz",
-      "bio": "",
+      "bio": "A breaksmith and storyteller, Ryan feels the social endeavor that is software engineering. He is excited about the possibilities available to software developers as we absorb experiences and research from adjacent domains, such as human factors and cognitive science, and incorporate new practices into our nascent discipline.",
       "title": "Designing Alerts to Direct Attention",
       "abstract": "",
       "video": "",
