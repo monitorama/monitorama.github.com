@@ -463,7 +463,7 @@ var rawSpeakers = {
       "github": "patrickvinograd",
       "gitlab": "",
       "twitter": "vinocorp",
-      "bio": "Patrick has over a decade of experience building messaging and virtualization infrastructure. He spends his time making computers talk to each other, and making computers not talk to each other.",
+      "bio": "Patrick is a Principal Software Engineer at Ad Hoc, where he helps build digital services that promote the general welfare. He has over a decade of experience building identity systems, messaging platforms, and virtualization infrastructure. He spends his time making computers talk to each other, and making computers not talk to each other.",
       "title": "I have a dumb theory but I can’t find any counter example",
       "abstract": "",
       "video": "",
