@@ -547,6 +547,10 @@ section.welcome {
   background-color: rgb(0, 184, 137);
 }
 
+.baltimore .schedule ul li div.wrap.header {
+  background-color: rgb(33, 82, 132);
+}
+
 .schedule ul li div.wrap.header span {
   color: #fff;
 }
@@ -557,7 +561,7 @@ section.welcome {
 }
 
 .schedule ul li div.wrap.special.party {
-  background-color: #570068;
+  background-color: #7f0098;
 }
 
 .schedule ul li div.wrap.talk {
