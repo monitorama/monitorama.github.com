@@ -595,6 +595,10 @@ section.welcome {
   font-size: 0.7em;
 }
 
+.modal-body p#speakerAbstract ul {
+  padding: 0 3em;
+}
+
 .modal-content {
   border-radius: 0;
 }
