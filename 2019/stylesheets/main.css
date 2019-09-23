@@ -594,6 +594,15 @@ section.welcome {
 .schedule ul li span.speaker {
   font-size: 0.7em;
 }
+
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-title, .modal-content {
+  font-family: "MotivaSans-Medium";
+}
+
 /* END SCHEDULE */
 
 /* START SPONSORS */
