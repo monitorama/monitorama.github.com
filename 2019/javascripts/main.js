@@ -135,6 +135,7 @@ for (var i in speakers) {
           var speaker = results[0]
           $("#speakerModal #speakerTitle").html(speaker.title);
           $("#speakerModal #speakerAbstract").html(speaker.abstract);
+          $("#speakerModal #speakerName").html(speaker.name);
           $("#speakerModal").modal()
         }
     });
