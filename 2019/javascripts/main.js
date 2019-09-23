@@ -120,7 +120,24 @@ for (var i in speakers) {
 
   // populate titles for schedule
   if (speakers[i].title.length > 0) {
-    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].title);
+    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5')
+      .html(speakers[i].title)
+      .css('cursor', 'pointer')
+      .attr('data-hash', speakers[i].hash)
+      .on('click', function (e) {
+        var hash = e.target.getAttribute('data-hash');
+        // When clicking on this title, show a modal with information about the speaker's talk
+        var results = $.grep(speakers, function(speaker) {
+          return speaker.hash === hash
+        });
+
+        if (results[0]) {
+          var speaker = results[0]
+          $("#speakerModal #speakerTitle").html(speaker.title);
+          $("#speakerModal #speakerAbstract").html(speaker.abstract);
+          $("#speakerModal").modal()
+        }
+    });
   }
 
   // populate abstracts for schedule
