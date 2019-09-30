@@ -184,7 +184,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.site24x7.com/",
       "width": 175,
-      "bio": "<p><a href=\"https://www.site24x7.com/\">Site24x7</a> offers SaaS based server monitoring, website monitoring and application performance monitoring. With Site24x7 you can monitor the performance and availability of websites from multiple locations globally and be alerted on its downtime instantaneously. With web app monitoring you can monitor the up-time and performance of your business critical e-commerce or banking applications from 50+ monitoring locations across the globe. Using web page analyzer you can receive in-depth visibility on how your webpage is loading for your customers. Application performance monitoring provides in-depth visibility on how your webpage is loading for your customers where ever they are.</p>"
+      "bio": "<p><a href=\"https://www.site24x7.com/\">Site24x7</a> empowers IT operations and DevOps with AI-powered performance monitoring and cloud spend optimization. Its broad capabilities help quickly troubleshoot problems with end-user experience, applications, servers, public clouds, and network infrastructure. Site24x7 is a cloud offering from Zoho Corporation, which has offices worldwide, including the United States, Netherlands, India, Singapore, Japan, and China.</p><p>For more information, visit <a href=\"https://www.site24x7.com/\">https://www.site24x7.com</a>.</p>"
     },
     {
       "name": "newrelic",
@@ -216,7 +216,7 @@ var sponsors = {
       "enabled": false,
       "url": "https://lightstep.com/",
       "width": 250,
-      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
+      "bio": "<p>LightStep’s mission is to deliver confidence at scale for those who develop, operate and rely on today’s powerful software applications. Its products leverage distributed tracing technology – initially developed by a LightStep co-founder at Google – to offer best-of-breed observability to organizations adopting microservices or serverless at scale. LightStep is backed by Redpoint, Sequoia, Altimeter Capital, Cowboy Ventures and Harrison Metal and is headquartered in San Francisco, CA. For more information, visit <a href=\"https://lightstep.com/\">https://lightstep.com</a> or follow <a href=\"http://twitter.com/lightstephq\">@LightStepHQ</a>.</p>"
     },
     {
       "name": "logdna",
