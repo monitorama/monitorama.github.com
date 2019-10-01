@@ -213,7 +213,7 @@ var sponsors = {
     },
     {
       "name": "lightstep",
-      "enabled": false,
+      "enabled": true,
       "url": "https://lightstep.com/",
       "width": 250,
       "bio": "<p>LightStep’s mission is to deliver confidence at scale for those who develop, operate and rely on today’s powerful software applications. Its products leverage distributed tracing technology – initially developed by a LightStep co-founder at Google – to offer best-of-breed observability to organizations adopting microservices or serverless at scale. LightStep is backed by Redpoint, Sequoia, Altimeter Capital, Cowboy Ventures and Harrison Metal and is headquartered in San Francisco, CA. For more information, visit <a href=\"https://lightstep.com/\">https://lightstep.com</a> or follow <a href=\"http://twitter.com/lightstephq\">@LightStepHQ</a>.</p>"
