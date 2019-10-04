@@ -219,6 +219,13 @@ var sponsors = {
       "bio": "<p>LightStep’s mission is to deliver confidence at scale for those who develop, operate and rely on today’s powerful software applications. Its products leverage distributed tracing technology – initially developed by a LightStep co-founder at Google – to offer best-of-breed observability to organizations adopting microservices or serverless at scale. LightStep is backed by Redpoint, Sequoia, Altimeter Capital, Cowboy Ventures and Harrison Metal and is headquartered in San Francisco, CA. For more information, visit <a href=\"https://lightstep.com/\">https://lightstep.com</a> or follow <a href=\"http://twitter.com/lightstephq\">@LightStepHQ</a>.</p>"
     },
     {
+      "name": "honeycomb",
+      "enabled": true,
+      "url": "https://www.honeycomb.io/",
+      "width": 225,
+      "bio": "<p>Honeycomb is built for modern dev teams to better understand and debug production systems. With tracing, team collaboration, the ability to bubble up outliers, and state-of-the-art visualization all in one place, dev teams achieve system observability and find unknown problems in a fraction of the time that it takes with other approaches and tools. Developers love it, operations relies on it, and business can’t live without it.</p>"
+    },
+    {
       "name": "logdna",
       "enabled": true,
       "url": "https://logdna.com/",
