@@ -332,7 +332,7 @@ var rawSpeakers = {
       "gitlab": "",
       "twitter": "petecheslock",
       "bio": "Pete currently is the VP, Products at CHAOSSEARCH. In his spare time, he cooks food, smokes meats, and tweets the successes.",
-      "title": "",
+      "title": "Have we finally reached #monitoringlove?",
       "abstract": "",
       "video": "",
       "slides": "https://pete.wtf/decks/MonitoramaBaltimore2019.pdf",
@@ -443,7 +443,7 @@ var rawSpeakers = {
       "title": "You can’t spell \"monitoring\" without \"monoid\"",
       "abstract": "<p>Well, technically you can, but if you do you’re probably lying to yourself with the data you’re collecting.</p><p>If you care about aggregating your monitoring data over time or across dimensions like hosts or container instances, you care about monoids; you just might not know it! In this talk, I’ll explain what a monoid is (it’s not scary, I promise!) and why they form the basis for scalable telemetry data types. We’ll see how naive approaches to metrics can end up giving you the wrong answers to important questions and how a more mathematically well-founded approach can fix those problems.</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://www.slideshare.net/kscaldef/you-cant-spell-monitoring-without-monoid",
       "hash": "6ab94fc1e6b808300f2c30d04826d6b6",
     },
     {
