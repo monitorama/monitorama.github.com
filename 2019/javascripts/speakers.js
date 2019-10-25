@@ -311,7 +311,7 @@ var rawSpeakers = {
       "title": "What’s Your Service’s Batting Average?",
       "abstract": "<p>This talk will go into the details of how to construct these knowledge graphs, dubbed Observability Graphs, to reflect the innate structure (but also the uncertainty) in today’s dynamic infrastructure. Then we will show how the knowledge graphs can be used to power automated alerting, alert clustering, and automated root-cause analysis.</p><p>This talk will cover the creation and ongoing evolution of that system, including:</p><p><ul><li>Open source trace collection (Elastic APM)</li><li>Kafka as a centralized data pipeline for performance and trace data</li><li>Custom trace processing software running on k8s that synthesizes metrics from trace data and makes filtering decisions about which traces to persist using Jaeger</li><li>Log correlation from distributed trace data in Jaeger to Elastic Search</li><li>Visualization and alert generation using Terraform</li><li>Automatic SLO + error budget curation with minimal input from teams</li><li>And the lessons learned along the way</li></ul></p>",
       "video": "",
-      "slides": "",
+      "slides": "https://docs.google.com/presentation/d/1PcClb_SNNa9PviLHjOAKC92r3KLMLu2-nu_0larStP0/edit?usp=sharing",
       "hash": "64ea38019d0ab54249b9c1d7fa429db1",
     },
     {
@@ -323,7 +323,7 @@ var rawSpeakers = {
       "title": "Cost-Effective, Realtime Operational Insights Into Production Systems Producing Trillions of Events Per Day",
       "abstract": "<p>At Netflix, we've experienced an unprecedented global increase in membership over the last several years. Not only are we seeing more members globally, more members are consuming more Netflix. This means that production outages today have far greater impact in much less time than it did compared to years before.</p><p>In order to continue providing great experiences for our members, we have to make sure the sophistication of our systems out-pace the growth and engagement of our members. Concretely, our MTTD and MTTR needs to decrease much quicker than Netflix membership and consumption increases. Our approach to accomplishing this is by having access to highly-granular, realtime operational insights into our streaming and studio systems.</p><p>However, while having this level of visibility into our production systems is great, it could quickly become cost-prohibitive. It's equally important that these systems don't end up costing more than our actual streaming and studio systems. To this end, we've built and open sourced Mantis to fulfill all of these needs – a platform that makes it easy for developers to build real-time, cost-effective, operations-focused applications.</p><p>Mantis has been live in production for several years and has given us tremendous value in operating Tier-1 critical systems. It processes trillions of events and petabytes worth of data every day which enables us to derive meaningful operational insights from our streaming and studio systems which ultimately reduce production impact on our members.</p><p>With Mantis, we're able to economically ask and answer new questions in realtime about our systems without having to add new instrumentation. We can answer questions like &quot;Which members are seeing playback issues for Stranger Things, season 3, episode 1 on iPhone in Canada?&quot; without incurring heavy costs to our infrastructure bill.</p><p>In this talk, we'll cover more technical details about Mantis and go through some examples of how we use Mantis to operate our production systems more effectively.</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://speakerdeck.com/jeffchao/cost-effective-realtime-operational-insights-into-production-systems-producing-trillions-of-events-per-day",
       "hash": "36c8c39eff09b1cc7d66ee416938441e",
     },
     {
@@ -347,7 +347,7 @@ var rawSpeakers = {
       "title": "Coalescing systems data without losing fidelity",
       "abstract": "<p>It is not feasible to run an observability infrastructure that is the same size as your production infrastructure. Past a certain scale, the cost to collect, process, and save every log entry, every event, and every trace that your systems generate dramatically outweighs the benefits. If your SLO is 99.95%, then you'll be naively collecting 2,000 times as much data about requests that satisfied your SLI than those that burnt error budget. The question is, how to scale back the flood of data without losing the crucial information your engineering team needs to troubleshoot and understand your system's production behaviors?</p>Statistics can come to our rescue, enabling us to gather accurate, specific, and error-bounded data on our services' top-level performance and inner workings. This talk advocates a three-R approach to data retention: Reducing junk data, statistically Reusing data points as samples, and Recycling data into counters. We can keep the context of the anomalous data flows and cases in our supported services while not allowing the volume of ordinary data to drown it out.</p><p>This talk discusses 4 tactics for coalescing your data to a manageable size: fixed-rate, adaptive rate, and key-based sampling approaches, and counter-based metrics that include exemplars.</p>",
       "video": "",
-      "slides": "",
+      "slides": "http://hny.co/liz",
       "hash": "3a97f9de48279f72c0422724024d57b8",
     },
     {
@@ -359,7 +359,7 @@ var rawSpeakers = {
       "title": "Designing Alerts to Direct Attention",
       "abstract": "<p>Automated monitoring and alerting has undoubtedly made _some_ things better for on-call engineers. Still, poorly designed alerts wake them up in the middle of the night when they could benefit from a mental jumpstart. We dream of computers as intelligent agents, possibly as team members within a Joint Cognitive System (JCS) but that is far from reality. Our alerts are primitive capture events, lacking useful context that can help quickly and accurately orient focus and direct the attention of engineers when every minute counts. Given this, how can we better position computers to work with us?</p><p>In this talk we will describe how human attention works, review the properties of better human-computer teaming through a Joint Cognitive System's approach and explore examples of what computer-aided redirecting of attention may look like. The goal is to challenge the audience to think deeply and differently about the tooling that becomes a pivotal part of the on-call experience.</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://ryanfrantz.com/talks/designing-alerts-direct-attention/",
       "hash": "e8b2e636d253d9c444e30708f014c225",
     },
     {
@@ -407,7 +407,7 @@ var rawSpeakers = {
       "title": "ElasticSearch Data Exploration in Your Terminal",
       "abstract": "<p>You've seen the pretty graphs. Visuals are great for signaling there is a problem somewhere in your system. How do you, a command line guru, go from pretty graphs to root cause analysis? Most likely you'll be reaching for paradigms from the command line: composability and a flexible, compact syntax to ask your questions. I'd like to talk more about integrating ElasticSearch-based dashboards back to the command line workflows I love.</p><p>This talk is an overview of a tool I developed while working at Booking.com to drastically reduce the time and complexity of performing incident reponse against rich, structured data in ElasticSearch. It was developed with the help of the security and fraud teams to perform adhoc queries critical for incident response. The tool served the team well and it's been under active development ever since. It continues to grow in capabilities aimed to make adhoc analysis simple, easy, and accessible to hardened command line jockeys and command line newbies.</p><p>Join me to learn how to bring the logging data you love back to your terminal!</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://speakerdeck.com/reyjrar/elasticsearch-data-exploration-in-your-terminal  ",
       "hash": "8d96f5c273062cb617255e630fe0705c",
     },
     {
@@ -455,7 +455,7 @@ var rawSpeakers = {
       "title": "What’s Your Service’s Batting Average?",
       "abstract": "<p>This talk will go into the details of how to construct these knowledge graphs, dubbed Observability Graphs, to reflect the innate structure (but also the uncertainty) in today’s dynamic infrastructure. Then we will show how the knowledge graphs can be used to power automated alerting, alert clustering, and automated root-cause analysis.</p><p>This talk will cover the creation and ongoing evolution of that system, including:</p><p><ul><li>Open source trace collection (Elastic APM)</li><li>Kafka as a centralized data pipeline for performance and trace data</li><li>Custom trace processing software running on k8s that synthesizes metrics from trace data and makes filtering decisions about which traces to persist using Jaeger</li><li>Log correlation from distributed trace data in Jaeger to Elastic Search</li><li>Visualization and alert generation using Terraform</li><li>Automatic SLO + error budget curation with minimal input from teams</li><li>And the lessons learned along the way</li></ul></p>",
       "video": "",
-      "slides": "",
+      "slides": "https://docs.google.com/presentation/d/1PcClb_SNNa9PviLHjOAKC92r3KLMLu2-nu_0larStP0/edit?usp=sharing",
       "hash": "f3dcfc96a43a4038d259c4440a83f6a7",
     },
     {
@@ -491,7 +491,7 @@ var rawSpeakers = {
       "title": "Dashboard Renaissance: How dashboards work and how to improve them",
       "abstract": "<p>There are lots of rad tools for monitoring and observability. The humble dashboard facilitates drawing insights from these tools. To that end, we need to think hard about how they are designed! When was the last time you looked at _your_ dashboards with a critical eye to improvement?</p><p>I set out to research the venerable dashboard and, using techniques from the likes of Edward Tufte and Stephen Few, I’ve learned how to make the best dashboards! We’ll talk design, choice of metrics, how to choose visualizations, ways to improve comprehension, and how to get that last mile into *why* a chart looks the way it does. In the end, you’ll have a bunch of great ways to improve your own dashboards at home!</p><p>It’s time for a dashboard renaissance!</p>",
       "video": "",
-      "slides": "",
+      "slides": "http://onemogin.com/assets/talks/Dashboard-Renaissance.pdf",
       "hash": "71cf2895e28fd3a575e0b9cdfd4346ea",
     },
     {
