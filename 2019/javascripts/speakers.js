@@ -335,7 +335,7 @@ var rawSpeakers = {
       "title": "",
       "abstract": "",
       "video": "",
-      "slides": "",
+      "slides": "https://pete.wtf/decks/MonitoramaBaltimore2019.pdf",
       "hash": "6f8b01a43eb907d6b473b37724bfc492",
     },
     {
@@ -479,7 +479,7 @@ var rawSpeakers = {
       "title": "What's Fitness Function-Driven Development for Operability?",
       "abstract": "<p>Too often, we leave observability and operability as the last to-do before deploying to production. This results in technical debt, lack of visibility into our system, or too few or many alerts or logs. Instead, how can we use fitness functions to drive the implementation of observability to suit our operational needs?</p><p>Fitness functions in evolutionary architecture allow us to optimize systems to fit our current capabilities. In this talk, we'll start with a basic introduction to the concept of evolutionary architecture and explain the idea of fitness functions. Then, we'll demonstrate an example of how we can use these fitness functions to drive an initial set of logs, alerts, dashboards, and metrics. Finally, we will do some refinement of each fitness function, accounting for alert fatigue and additional operational needs.</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://speakerdeck.com/joatmon08/whats-fitness-function-driven-development-for-operability",
       "hash": "92a509aa93ba27fcdefe312b473b90d2",
     },
     {
