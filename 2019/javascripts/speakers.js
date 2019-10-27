@@ -383,7 +383,7 @@ var rawSpeakers = {
       "title": "Before, During, and After Chaos: Creating Foresight through a Cyclic Approach",
       "abstract": "<p>There are key components of chaos engineering beyond building platforms for testing resilience and running game days, which can't be detected by your code. Nora Jones shares three phases to focus individualized attention and forethought on when considering chaos experiments, with a special focus on the time before and after the experiment.</p>",
       "video": "",
-      "slides": "",
+      "slides": "https://github.com/norajones/Presentations/blob/master/Before%2C%20During%2C%20and%20After%20Chaos.pdf",
       "hash": "134967b8b202a412320747801eacf92f",
     },
     {
