@@ -467,7 +467,7 @@ var rawSpeakers = {
       "title": "I have a dumb theory but I can’t find any counter example",
       "abstract": "<p>A post-mortem/fishing story about diagnosing and resolving a major site latency issue in the days leading up to a major relaunch of VA.gov, the home page for the Department of Veterans’ Affairs. Aside from recounting the process of isolating and resolving the issue, the major theme is the virtuous cycle between automation and monitoring - monitoring giving you the insight to know what to change, and automation giving you the confidence to make changes, even on a live production site right before a high-profile launch.</p>",
       "video": "https://vimeo.com/369631615",
-      "slides": "",
+      "slides": "https://speakerdeck.com/patrickvinograd/i-have-a-dumb-theory-but-i-cant-find-any-counter-example",
       "hash": "f2e68862e6c151dc1525257ca8ccdd36",
     },
     {
