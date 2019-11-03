@@ -395,7 +395,7 @@ var rawSpeakers = {
       "title": "The Observability Graph: Knowledge Graphs for Automated Infrastructure Observability",
       "abstract": "<p>The complexity and dynamism of distributed systems reflect both the teams that develop them and the products they support. Our observability tools need to be dynamic enough to keep up with our changing infrastructure, flexible enough to take in observability data of all types, yet understand that data well enough to show us only what we care about.</p><p>Knowledge graphs have become an increasingly popular method for storing data as they can explicitly but also flexibly encode the relationships between entities. Using both domain knowledge and user interaction data we can train models to encode the vast amounts of data produced by observability tools into a knowledge graph, discover how they are interlinked, and imbue them with meaning.</p><p>This talk will go into the details of how to construct these knowledge graphs, dubbed Observability Graphs, to reflect the innate structure (but also the uncertainty) in today’s dynamic infrastructure. Then we will show how the knowledge graphs can be used to power automated alerting, alert clustering, and automated root-cause analysis.</p>",
       "video": "https://vimeo.com/369632039",
-      "slides": "",
+      "slides": "https://www.slideshare.net/HominLee7/the-observability-graph-knowledge-graphs-for-automated-infrastructure-observability",
       "hash": "3bb8fe8799a1273f5b07ca2c5b3b126a",
     },
     {
