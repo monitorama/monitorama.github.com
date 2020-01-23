@@ -1,12 +1,11 @@
 var sponsors = {
   "pdx": [
-    /* {
-      "name": "lightstep",
+    {
+      "name": "hydrolix",
       "enabled": true,
-      "url": "https://lightstep.com/",
-      "width": 250,
-      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
-    }, */
+      "url": "https://www.hydrolix.net/",
+      "bio": "<p>Hydrolix is a well-funded, early-stage startup with big ambitions to change the economics of high density data.</p>"
+    }
   ],
   "baltimore": [
     /* {
