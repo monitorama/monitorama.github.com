@@ -1,6 +1,97 @@
 var sponsors = {
   "pdx": [
     {
+      "name": "wavefront",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "bigpanda",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "influxdata",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "catchpoint",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "flowmill",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "appdynamics",
+      "enabled": true,
+      "url": "https://www.appdynamics.com/",
+      "width": 185,
+      "bio": "<p>AppDynamics empowers the enterprise with a solution for real-time application and business performance. Together with Cisco, we’re helping companies make mission critical and strategic decisions that improve customer experience and accelerate business in a multi-cloud world.</p>"
+    },
+    {
+      "name": "timescale",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "stackstate",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "lightstep",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "instana",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "overops",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "pagerduty",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "gitlab",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "honeycomb",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "moogsoft",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
       "name": "hydrolix",
       "enabled": true,
       "url": "https://www.hydrolix.net/",
