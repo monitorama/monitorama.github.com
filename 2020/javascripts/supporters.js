@@ -26,9 +26,9 @@ var sponsors = {
     },
     {
       "name": "flowmill",
-      "enabled": false,
-      "url": "",
-      "bio": ""
+      "enabled": true,
+      "url": "https://www.flowmill.com/",
+      "bio": "<p>Flowmill is a cloud observability tool designed to accelerate fault resolution in production and provide a complete picture of distributed applications by continuously monitoring every service to service interaction as well as the cloud infrastructure and 3rd party APIs. With sub-second measurements and an extremely low latency processing pipeline, Flowmill automatically identifies failing components in real time and generates actionable alerts. Flowmill monitoring has negligible overhead, no sampling, no per-service configuration or code changes, and can be deployed across your entire application with minutes.</p>"
     },
     {
       "name": "appdynamics",
@@ -82,8 +82,9 @@ var sponsors = {
     {
       "name": "honeycomb",
       "enabled": false,
-      "url": "",
-      "bio": ""
+      "url": "https://www.honeycomb.io/",
+      "width": 225,
+      "bio": "<p>Honeycomb provides full stack observability &mdash; designed for high cardinality data and collaborative problem solving, enabling engineers to deeply understand and debug production software together. Founded on the experience of debugging problems at the scale of millions of apps serving tens of millions of users, we empower every engineer to instrument and query the behavior of their system.</p>"
     },
     {
       "name": "moogsoft",
