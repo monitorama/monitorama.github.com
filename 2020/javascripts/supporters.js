@@ -28,6 +28,7 @@ var sponsors = {
       "name": "flowmill",
       "enabled": true,
       "url": "https://www.flowmill.com/",
+      "width": 250,
       "bio": "<p>Flowmill is a cloud observability tool designed to accelerate fault resolution in production and provide a complete picture of distributed applications by continuously monitoring every service to service interaction as well as the cloud infrastructure and 3rd party APIs. With sub-second measurements and an extremely low latency processing pipeline, Flowmill automatically identifies failing components in real time and generates actionable alerts. Flowmill monitoring has negligible overhead, no sampling, no per-service configuration or code changes, and can be deployed across your entire application with minutes.</p>"
     },
     {
