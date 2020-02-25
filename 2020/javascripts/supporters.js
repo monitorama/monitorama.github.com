@@ -16,7 +16,7 @@ var sponsors = {
       "name": "influxdata",
       "enabled": true,
       "url": "https://www.influxdata.com/",
-      "bio": "<p><a href=\"https://www.influxdata.com/\">InfluxData</a>, the creators of InfluxDB, delivers a modern open source platform built from the ground up for metrics and events (time series data). Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and SolarCity. Visit <a href=\"https://www.influxdata.com/\">influxdata.com</a>. Twitter: <a href=\"https://twitter.com/influxdb\">@influxdb</a>.</p>",
+      "bio": "<p><a href=\"https://www.influxdata.com/\">InfluxData</a>, creator of the open source time series database InfluxDB, empowers developers and organizations to build transformative monitoring, analytics and IoT applications quicker and to scale. Our purpose-built platform handles the massive volumes of time-stamped data produced by IoT devices, applications, networks, containers and computers. <a href=\"https://www.influxdata.com/\">www.influxdata.com</a> │ <a href=\"https://twitter.com/influxdb\">@InfluxDB</a>.</p>",
     },
     {
       "name": "catchpoint",
