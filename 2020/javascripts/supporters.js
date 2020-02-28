@@ -43,8 +43,8 @@ var sponsors = {
     {
       "name": "timescale",
       "enabled": false,
-      "url": "",
-      "bio": ""
+      "url": "https://www.timescale.com/",
+      "bio": "<p>Timescale develops TimescaleDB, the easiest, fastest, and most reliable place to store and analyze time-series data. TimescaleDB is the first open-source time-series database that is optimized for fast ingest and complex queries while natively supporting full SQL. TimescaleDB is deployed in production all around the world in a variety of industries including IoT, Telecom, Oil & Gas, Utilities, Manufacturing, Logistics, Retail, Media & Entertainment, and more. Based in New York, TimescaleDB is backed by Benchmark Capital, New Enterprise Associates, Icon Ventures, Two Sigma Ventures, and other leading investors. For more information, visit <a href=\"https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.timescale.com&esheet=52001157&newsitemid=20190618005302&lan=en-US&anchor=www.timescale.com&index=11&md5=285041bfd493fe4dca507929c8ea612d\">www.timescale.com</a> or follow <a href=\"https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Ftwitter.com%2FTimescaleDB&esheet=52001157&newsitemid=20190618005302&lan=en-US&anchor=%40TimescaleDB&index=12&md5=673c00f4bcd0cdfcce76db1ad12ae5ca\">@TimescaleDB</a>.</p>"
     },
     {
       "name": "stackstate",
@@ -90,10 +90,17 @@ var sponsors = {
       "bio": "<p>Honeycomb provides full stack observability &mdash; designed for high cardinality data and collaborative problem solving, enabling engineers to deeply understand and debug production software together. Founded on the experience of debugging problems at the scale of millions of apps serving tens of millions of users, we empower every engineer to instrument and query the behavior of their system.</p>"
     },
     {
-      "name": "moogsoft",
+      "name": "duckbillgroup",
       "enabled": false,
-      "url": "",
+      "url": "https://www.duckbillgroup.com/",
       "bio": ""
+    },
+    {
+      "name": "moogsoft",
+      "enabled": true,
+      "url": "https://www.moogsoft.com/",
+      "width": 175,
+      "bio": "<p>Moogsoft is a pioneer and leading provider of <a href=\"https://www.moogsoft.com/product/\">AIOps solutions</a> that help IT teams work faster and smarter. With patented AI analyzing billions of events daily across the world’s most complex IT environments, the Moogsoft AIOps platform helps the world’s top enterprises avoid outages, automate service assurance, and accelerate digital transformation initiatives.</p>",
     },
     {
       "name": "hydrolix",
