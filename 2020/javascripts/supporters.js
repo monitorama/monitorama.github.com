@@ -72,9 +72,9 @@ var sponsors = {
     },
     {
       "name": "pagerduty",
-      "enabled": false,
-      "url": "",
-      "bio": ""
+      "enabled": true,
+      "url": "https://www.pagerduty.com/",
+      "bio": "<p>PagerDuty is a leader in digital operations management. PagerDuty empowers organizations of all sizes with real-time and data-driven insights to drive better business results. DevOps, ITOps, and SecOps teams use PagerDuty’s award-winning platform for real-time operations to improve operations, deliver exceptional customer experiences, and accelerate innovation. Today, over 10,500 organizations across all industries have deployed PagerDuty. Notable customers include IBM, GE, Box, and American Eagle Outfitters. To learn more and try PagerDuty for free, visit <a href=\"http://www.pagerduty.com./\">www.pagerduty.com</a>.</p>"
     },
     {
       "name": "gitlab",
