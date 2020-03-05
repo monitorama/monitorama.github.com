@@ -99,7 +99,7 @@ var sponsors = {
       "name": "moogsoft",
       "enabled": true,
       "url": "https://www.moogsoft.com/",
-      "width": 175,
+      "width": 240,
       "bio": "<p>Moogsoft is a pioneer and leading provider of AIOps solutions that help IT teams work faster and smarter. With patented AI analyzing billions of events daily across the world’s most complex IT environments, the Moogsoft AIOps platform helps the world’s top enterprises avoid outages, automate service assurance, and accelerate digital transformation initiatives. Founded in 2011, Moogsoft has more than 120 customers worldwide including SAP SuccessFactors, American Airlines, Fannie Mae, Yahoo!, and HCL Technologies. It has established strategic partnerships with leading managed service providers and outsourcing organizations including AWS, Cisco, HCL Technologies, TCS and Wipro.</p>"
     },
     {
