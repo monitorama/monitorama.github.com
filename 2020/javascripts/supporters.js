@@ -93,9 +93,10 @@ var sponsors = {
     },
     {
       "name": "duckbillgroup",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.duckbillgroup.com/",
-      "bio": ""
+      "width": 240,
+      "bio": "<p>The Duckbill Group helps fix your horrifying AWS bills by making them both smaller and easier to understand. Unlike SaaS cost management solutions, we put human expertise on the problem and provide unique-to-you advice rather than a laundry list of one-size-fits-no-one recommendations.</p><p>Whether you're looking for help in cost reduction, forecasting your spend, or AWS contract negotiation, our expert team of engineers and financial analysts can get the job done. The Duckbill Group specializes in working with large, complex AWS environments ranging from $5mm per year to tens of millions per year</p><p>Fix your horrifying AWS bill today at <a href=\"https://www.duckbillgroup.com/\">https://www.duckbillgroup.com</a>.</p>"
     },
     {
       "name": "moogsoft",
