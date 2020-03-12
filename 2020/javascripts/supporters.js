@@ -58,7 +58,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://lightstep.com/",
       "width": 250,
-      "bio": "<p>LightStep's mission is to cut through the scale and complexity of today's software to help organizations stay in control of their systems. Its first product, LightStep [x]PM, provides an accurate, detailed snapshot of the entire software system at any point in time, enabling organizations to identify bottlenecks and resolve incidents rapidly.</p>"
+      "bio": "<p>LightStep provides simple observability for deep, multi-layered systems. Built on the world’s most sophisticated distributed tracing engine, LightStep’s unique architecture offers teams unparalleled end-to-end visibility, even at scale. Resolve performance mysteries, prevent outages, and deploy confidently, with observability that reaches across mobile, microservices, and monoliths.</p>"
     },
     {
       "name": "instana",
