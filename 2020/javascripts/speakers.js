@@ -157,18 +157,6 @@ var rawSpeakers = {
       "hash": ""
     },
     {
-      "name": "Nina Stawski",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "",
-      "title": "",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": ""
-    },
-    {
       "name": "Alex Hidalgo",
       "github": "",
       "gitlab": "",
@@ -266,18 +254,6 @@ var rawSpeakers = {
     },
     {
       "name": "Sarah Waldner",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "",
-      "title": "",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": ""
-    },
-    {
-      "name": "David Norton",
       "github": "",
       "gitlab": "",
       "twitter": "",
