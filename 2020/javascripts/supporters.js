@@ -86,6 +86,12 @@ var sponsors = {
       "bio": "<p>Honeycomb provides full stack observability &mdash; designed for high cardinality data and collaborative problem solving, enabling engineers to deeply understand and debug production software together. Founded on the experience of debugging problems at the scale of millions of apps serving tens of millions of users, we empower every engineer to instrument and query the behavior of their system.</p>"
     },
     {
+      "name": "elastic",
+      "enabled": true,
+      "url": "https://www.elastic.co/",
+      "bio": "<p>Elastic believes getting immediate, actionable insight from data matters. As the company behind the four open source projects — Elasticsearch, Logstash, Kibana, and Beats (the Elastic stack) — designed to take data from any source and search, analyze, and visualize it in real time, Elastic is helping people make sense of data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots.</p>"
+    },
+    {
       "name": "duckbillgroup",
       "enabled": true,
       "url": "https://www.duckbillgroup.com/",
