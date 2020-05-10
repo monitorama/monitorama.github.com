@@ -1,6 +1,13 @@
 var sponsors = {
   "pdx": [
     {
+      "name": "wavefront",
+      "enabled": true,
+      "url": "http://tanzu.vmware.com/",
+      "width": 260,
+      "bio": "<p>VMware Tanzu is a family of products and services for modernizing your applications and infrastructure with a common goal: deliver better software to production, continuously.</p>"
+    },
+    {
       "name": "bigpanda",
       "enabled": true,
       "url": "http://bigpanda.io/",
