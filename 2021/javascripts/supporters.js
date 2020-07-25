@@ -117,6 +117,12 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.hydrolix.net/",
       "bio": "<p>Hydrolix is a well-funded, early-stage startup with big ambitions to change the economics of high density data.</p>"
+    },
+    {
+      "name": "rookout",
+      "enabled": true,
+      "url": "https://www.rookout.com/",
+      "bio": "<p>When running code in production you are constantly trying to figure out what your code is actually doing and why. Even though it’s your code, running on your servers, there’s no easy way to see what’s going on. You have to write more code, test it, approve it, deploy it, and only then do you get a new sliver of data. We’re here to change that.</p>"
     }
   ],
   "baltimore": [
