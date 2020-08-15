@@ -87,7 +87,7 @@ var sponsors = {
     },
     {
       "name": "honeycomb",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.honeycomb.io/",
       "width": 225,
       "bio": "<p>Honeycomb provides full stack observability &mdash; designed for high cardinality data and collaborative problem solving, enabling engineers to deeply understand and debug production software together. Founded on the experience of debugging problems at the scale of millions of apps serving tens of millions of users, we empower every engineer to instrument and query the behavior of their system.</p>"
