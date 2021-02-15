@@ -49,9 +49,9 @@ var sponsors = {
     },
     {
       "name": "stackstate",
-      "enabled": false,
-      "url": "",
-      "bio": ""
+      "enabled": true,
+      "url": "https://www.stackstate.com/",
+      "bio": "<p>StackState delivers Relationship-Based Observability. StackState integrates with APM tools, infrastructure monitoring tools, virtualization and cloud platforms, Kubernetes and incident management systems to add the certainty and richness of relationships, configuration changes and AI-based diagnostics to the existing incident management process. This uniquely leads to Deterministic Root Cause, which helps IT teams prevent and solve problems more quickly and efficiently.</p>"
     },
     {
       "name": "lightstep",
