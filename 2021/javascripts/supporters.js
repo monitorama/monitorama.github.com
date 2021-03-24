@@ -8,6 +8,13 @@ var sponsors = {
       "bio": "<p>VMware Tanzu is a family of products and services for modernizing your applications and infrastructure with a common goal: deliver better software to production, continuously.</p>"
     },
     {
+      "name": "firehydrant",
+      "enabled": true,
+      "url": "http://firehydrant.io/",
+      "width": 225,
+      "bio": "<p>FireHydrant is the only comprehensive incident management platform that allows you to create consistency for the entire incident response lifecycle to focus on fighting fires faster. From alert to retrospective, tracking, communicating, and reporting on results: FireHydrant will automate the process so you can focus on resolution. Visit <a href=\"http://firehydrant.io/\">firehydrant.io</a> to learn how you can manage the mayhem.</p>"
+    },
+    {
       "name": "bigpanda",
       "enabled": true,
       "url": "http://bigpanda.io/",
