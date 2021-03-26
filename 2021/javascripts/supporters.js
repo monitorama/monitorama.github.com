@@ -55,12 +55,6 @@ var sponsors = {
       "bio": "<p>Timescale develops TimescaleDB, the easiest, fastest, and most reliable place to store and analyze time-series data. TimescaleDB is the first open-source time-series database that is optimized for fast ingest and complex queries while natively supporting full SQL. TimescaleDB is deployed in production all around the world in a variety of industries including IoT, Telecom, Oil & Gas, Utilities, Manufacturing, Logistics, Retail, Media & Entertainment, and more. Based in New York, TimescaleDB is backed by Benchmark Capital, New Enterprise Associates, Icon Ventures, Two Sigma Ventures, and other leading investors. For more information, visit <a href=\"https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.timescale.com&esheet=52001157&newsitemid=20190618005302&lan=en-US&anchor=www.timescale.com&index=11&md5=285041bfd493fe4dca507929c8ea612d\">www.timescale.com</a> or follow <a href=\"https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Ftwitter.com%2FTimescaleDB&esheet=52001157&newsitemid=20190618005302&lan=en-US&anchor=%40TimescaleDB&index=12&md5=673c00f4bcd0cdfcce76db1ad12ae5ca\">@TimescaleDB</a>.</p>"
     },
     {
-      "name": "stackstate",
-      "enabled": true,
-      "url": "https://www.stackstate.com/",
-      "bio": "<p>StackState delivers Relationship-Based Observability. StackState integrates with APM tools, infrastructure monitoring tools, virtualization and cloud platforms, Kubernetes and incident management systems to add the certainty and richness of relationships, configuration changes and AI-based diagnostics to the existing incident management process. This uniquely leads to Deterministic Root Cause, which helps IT teams prevent and solve problems more quickly and efficiently.</p>"
-    },
-    {
       "name": "lightstep",
       "enabled": true,
       "url": "https://lightstep.com/",
