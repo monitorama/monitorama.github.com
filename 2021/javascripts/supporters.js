@@ -117,7 +117,7 @@ var sponsors = {
       "name": "rookout",
       "enabled": true,
       "url": "https://www.rookout.com/",
-      "bio": "<p>When running code in production you are constantly trying to figure out what your code is actually doing and why. Even though it’s your code, running on your servers, there’s no easy way to see what’s going on. You have to write more code, test it, approve it, deploy it, and only then do you get a new sliver of data. We’re here to change that.</p>"
+      "bio": "<p>Rookout is a data extraction and pipelining platform, which provides an unparalleled capability to collect any piece of data, from the deepest levels of live code, on demand. Using non-breaking breakpoints, Rookout empowers engineers to find the information they need and deliver it anywhere, in order to understand and advance their software. Save hours of work and reduce debugging and logging time by 80% - with zero friction, overhead, or risk. For more information, visit <a href=\"http://www.rookout.com/\">www.rookout.com</a>.</p>"
     }
   ],
   "baltimore": [
