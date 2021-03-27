@@ -69,12 +69,6 @@ var sponsors = {
       "bio": "<p>Instana provides the only APM solution that automatically discovers services, deploys agents and monitors component health for microservice and containerized applications.</p>"
     },
     {
-      "name": "overops",
-      "enabled": false,
-      "url": "",
-      "bio": ""
-    },
-    {
       "name": "pagerduty",
       "enabled": true,
       "url": "https://www.pagerduty.com/",
