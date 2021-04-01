@@ -338,6 +338,12 @@ section h5 {
   margin-bottom: 25px;
 }
 
+section h6 {
+  font-family: "MotivaSans-Medium";
+  font-size: 1.4em;
+  margin-bottom: 25px;
+}
+
 section p, section span {
   text-align: left;
   font-family: "MotivaSans-Light";
@@ -705,6 +711,21 @@ div.marquee {
   margin: 0 15px 25px;
 }
 /* END SPONSOR MARQUEE */
+
+/* START PRIVACY POLICY */
+.privacy * {
+  text-align: initial;
+}
+
+.privacy h4 {
+  text-align: center;
+}
+
+.privacy ul {
+  padding-left: revert;
+  margin: 2em 0;
+}
+/* END PRIVACY POLICY */
 
 /* START FOOTER */
 footer {
