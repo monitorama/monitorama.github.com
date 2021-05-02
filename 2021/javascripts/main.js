@@ -77,11 +77,6 @@ function compare(a,b) {
 // grab event from pathname
 var eventCity = window.location.pathname.split('/').pop().split('.')[0]
 
-// submit CFP form
-if (eventCity == 'pdx') {
-  $('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2021.herokuapp.com/abstracts/new'));  
-}
-
 // sort speakers
 speakers = rawSpeakers[eventCity].sort(compare)
 
