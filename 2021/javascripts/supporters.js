@@ -88,6 +88,18 @@ var sponsors = {
       "bio": "<p>Elastic is a search company that powers enterprise search, observability, and security solutions built on one technology stack that can be deployed anywhere. From finding documents to monitoring infrastructure to hunting for threats, Elastic makes data usable in real time and at scale. Thousands of organizations worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems. Founded in 2012, Elastic is a distributed company with Elasticians around the globe. Learn more at <a href=\"http://elastic.co/\">elastic.co</a>.</p>"
     },
     {
+      "name": "stackpulse",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
+      "name": "bugsnag",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
       "name": "cribl",
       "enabled": true,
       "url": "https://cribl.io/",
