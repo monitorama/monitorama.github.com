@@ -75,12 +75,6 @@ var sponsors = {
       "bio": "<p>PagerDuty is a leader in digital operations management. PagerDuty empowers organizations of all sizes with real-time and data-driven insights to drive better business results. DevOps, ITOps, and SecOps teams use PagerDuty’s award-winning platform for real-time operations to improve operations, deliver exceptional customer experiences, and accelerate innovation. Today, over 10,500 organizations across all industries have deployed PagerDuty. Notable customers include IBM, GE, Box, and American Eagle Outfitters. To learn more and try PagerDuty for free, visit <a href=\"http://www.pagerduty.com./\">www.pagerduty.com</a>.</p>"
     },
     {
-      "name": "gitlab",
-      "enabled": false,
-      "url": "",
-      "bio": ""
-    },
-    {
       "name": "honeycomb",
       "enabled": true,
       "url": "https://www.honeycomb.io/",
@@ -92,6 +86,13 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.elastic.co/",
       "bio": "<p>Elastic is a search company that powers enterprise search, observability, and security solutions built on one technology stack that can be deployed anywhere. From finding documents to monitoring infrastructure to hunting for threats, Elastic makes data usable in real time and at scale. Thousands of organizations worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems. Founded in 2012, Elastic is a distributed company with Elasticians around the globe. Learn more at <a href=\"http://elastic.co/\">elastic.co</a>.</p>"
+    },
+    {
+      "name": "cribl",
+      "enabled": true,
+      "url": "https://cribl.io/",
+      "width": 180,
+      "bio": "<p>Cribl is a company built to solve customer data challenges and enable choice. Our solutions deliver customizable controls to route observability data where it has the most value. Our solutions help slash costs, improve performance, and get the right data, to the right destinations, in the right formats. Cribl helps you instrument everywhere, analyze more and pay less. Join the dozens of industry leaders, including Intuit and Autodesk, to take control and shape your data. Founded in 2017, Cribl is headquartered in San Francisco, CA. For more information, visit <a href=\"https://cribl.io/\">www.cribl.io</a> or our LinkedIn, Twitter, or Slack community.</p>"
     },
     {
       "name": "duckbillgroup",
