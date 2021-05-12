@@ -134,9 +134,10 @@ var sponsors = {
     },
     {
       "name": "alertops",
-      "enabled": false,
+      "enabled": true,
       "url": "https://alertops.com/",
-      "bio": "<p></p>"
+      "width": 180,
+      "bio": "<p>AlertOps is a SaaS based incident response platform that helps resolve IT incidents faster. It alerts the right people at the right time during major incidents that impact business critical “revenue-impacting” services.</p><p>AlertOps’ Open API allows it to interact with virtual any tool with an existing API. For systems without an API, AlertOps features an e-mail integration with flexible parsing.</p><p>Bi-directional integrations with ITSM, AIOps, and ChatOps tools allow for AlertOps teams to modify and update records, notify stakeholders, and relay messaging to ensure all individuals have the information they need.</p><p>Flexible group configuration offers the ability to nest groups in order to mirror the exact team layout for responders within an enterprises. In addition, AlertOps features a shift-based scheduling calendar view to offer visibility into individuals across teams and time zones that are responsible for response procedures.</p>"
     },
     {
       "name": "datadog",
