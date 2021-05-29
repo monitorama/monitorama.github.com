@@ -18,7 +18,7 @@ var sponsors = {
       "name": "bigpanda",
       "enabled": true,
       "url": "http://bigpanda.io/",
-      "width": 225,
+      "width": 200,
       "bio": "<p>BigPanda helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents and outages, faster and more easily than ever before.</p><p>Powered by Open Box Machine Learning, BigPanda captures alerts, changes and topology data from all your disparate tools and uses machine learning to reduce IT noise, detect incidents and outages, and surface their probable root cause, in real time. Customers such as Intel, TiVO, Warner Media and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives.</p><p>Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, Battery Ventures, Greenfield Partners and Insight Partners. Visit <a href=\"http://www.bigpanda.io/\">www.bigpanda.io</a> for more information.</p>"
     },
     {
