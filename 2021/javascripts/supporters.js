@@ -94,12 +94,6 @@ var sponsors = {
       "bio": ""
     },
     {
-      "name": "bugsnag",
-      "enabled": false,
-      "url": "",
-      "bio": ""
-    },
-    {
       "name": "cribl",
       "enabled": true,
       "url": "https://cribl.io/",
@@ -107,11 +101,23 @@ var sponsors = {
       "bio": "<p>Cribl is a company built to solve customer data challenges and enable choice. Our solutions deliver customizable controls to route observability data where it has the most value. Our solutions help slash costs, improve performance, and get the right data, to the right destinations, in the right formats. Cribl helps you instrument everywhere, analyze more and pay less. Join the dozens of industry leaders, including Intuit and Autodesk, to take control and shape your data. Founded in 2017, Cribl is headquartered in San Francisco, CA. For more information, visit <a href=\"https://cribl.io/\">www.cribl.io</a> or our LinkedIn, Twitter, or Slack community.</p>"
     },
     {
+      "name": "kentik",
+      "enabled": false,
+      "url": "",
+      "bio": ""
+    },
+    {
       "name": "duckbillgroup",
       "enabled": true,
       "url": "https://www.duckbillgroup.com/",
       "width": 240,
       "bio": "<p>The Duckbill Group helps fix your horrifying AWS bills by making them both smaller and easier to understand. Unlike SaaS cost management solutions, we put human expertise on the problem and provide unique-to-you advice rather than a laundry list of one-size-fits-no-one recommendations.</p><p>Whether you're looking for help in cost reduction, forecasting your spend, or AWS contract negotiation, our expert team of engineers and financial analysts can get the job done. The Duckbill Group specializes in working with large, complex AWS environments ranging from $5mm per year to tens of millions per year</p><p>Fix your horrifying AWS bill today at <a href=\"https://www.duckbillgroup.com/\">https://www.duckbillgroup.com</a>.</p>"
+    },
+    {
+      "name": "sysdig",
+      "enabled": false,
+      "url": "",
+      "bio": "<p></p>"
     },
     {
       "name": "moogsoft",
@@ -141,6 +147,24 @@ var sponsors = {
     },
     {
       "name": "datadog",
+      "enabled": false,
+      "url": "https://www.datadoghq.com/",
+      "bio": "<p>Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.</p>"
+    },
+    {
+      "name": "opsramp",
+      "enabled": false,
+      "url": "",
+      "bio": "<p></p>"
+    },
+    {
+      "name": "lightrun",
+      "enabled": false,
+      "url": "",
+      "bio": "<p></p>"
+    },
+    {
+      "name": "newrelic",
       "enabled": false,
       "url": "",
       "bio": "<p></p>"
