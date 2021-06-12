@@ -136,7 +136,7 @@ var sponsors = {
       "name": "rookout",
       "enabled": true,
       "url": "https://www.rookout.com/",
-      "bio": "<p>Rookout is a data extraction and pipelining platform, which provides an unparalleled capability to collect any piece of data, from the deepest levels of live code, on demand. Using non-breaking breakpoints, Rookout empowers engineers to find the information they need and deliver it anywhere, in order to understand and advance their software. Save hours of work and reduce debugging and logging time by 80% - with zero friction, overhead, or risk. For more information, visit <a href=\"http://www.rookout.com/\">www.rookout.com</a>.</p>"
+      "bio": "<p>Rookout empowers engineers to solve customer issues 5x faster, by making debugging easy and accessible in any environment; from Cloud Native to on-prem and from dev to production. With its live data collection and debugging platform, Rookout allows software engineers to handle the complexity of modern applications by seeing into their code in real-time, as it's running. Using Non-Breaking Breakpoints, software engineers get the data they need instantly, without additional coding, restarts, or redeployment of their application required. See what Rookout can do for you at <a href=\"https://www.rookout.com/\">https://www.rookout.com</a>.</p>"
     },
     {
       "name": "alertops",
