@@ -35,11 +35,11 @@ var sponsors = {
       "bio": "<p>Catchpoint, the global leader in Digital Experience Monitoring (DEM), empowers business and IT leaders to protect and advance the experience of their customers and employees. In a digital economy, enabled by cloud, SaaS and IoT, applications and users are everywhere. Catchpoint offers the largest and most geographically distributed monitoring network in the industry  it’s the only DEM platform that can scale and support today’s customer and employee location diversity and application distribution. It helps enterprises proactively detect, identify and validate user and application reachability, availability, performance and reliability, across an increasingly complex digital delivery chain. Industry leaders like Google, L'Oréal, Verizon, Oracle, LinkedIn, Honeywell, and Priceline trust Catchpoint’s out-of-the box monitoring platform, to proactively detect, repair, and optimize customer and employee experiences. Learn more at <a href=\"http://www.catchpoint.com/\">www.catchpoint.com/</a>.</p>"
     },
     {
-      "name": "flowmill",
+      "name": "splunk",
       "enabled": true,
-      "url": "https://www.flowmill.com/",
-      "width": 240,
-      "bio": "<p>Flowmill is a cloud observability tool designed to accelerate fault resolution in production and provide a complete picture of distributed applications by continuously monitoring every service to service interaction as well as the cloud infrastructure and 3rd party APIs. With sub-second measurements and an extremely low latency processing pipeline, Flowmill automatically identifies failing components in real time and generates actionable alerts. Flowmill monitoring has negligible overhead, no sampling, no per-service configuration or code changes, and can be deployed across your entire application with minutes.</p>"
+      "url": "https://www.splunk.com/",
+      "width": 190,
+      "bio": "<p>Splunk Inc. (NASDAQ: SPLK) turns data into doing with the Data-to-Everything Platform. Splunk technology is designed to investigate, monitor, analyze and act on data at any scale, from any source over any time period. The Data-to-Everything platform removes the barriers between data and action, so our customers -- regardless of size or business -- have the freedom to deliver meaningful outcomes across their entire organization. Our unique approach to data has empowered companies to improve service levels, reduce operations costs, mitigate risk, enhance DevOps collaboration and create new product and service offerings.</p>"
     },
     {
       "name": "appdynamics",
