@@ -83,11 +83,11 @@ speakers = rawSpeakers[eventCity].sort(compare)
 // iterate through speakers
 for (var i in speakers) {
   var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
-  var name = '<span class="name">' + speakers[i].name;
+  var full_name = '<span class="name">' + speakers[i].name;
   if (speakers[i].keynote == true) {
-    name += ' - Keynote';
+    full_name += ' - Keynote';
   }
-  name += '</span>';
+  full_name += '</span>';
   var github = '';
   if (speakers[i].github.length > 0) {
     github = '<span class="github"><a href="https://github.com/' +
@@ -114,9 +114,9 @@ for (var i in speakers) {
       speakers[i].slides + '" target="_new"><i class="fab fa-slideshare"></i></a></span>';
   }
 
-  var bio = '<p class="bio">' + (speakers[i].bio || 'Coming Soon') + '</p>';
+  var bio = '<p class="bio">' + (speakers[i].bio || 'Bio coming soon') + '</p>';
 
-  $('section.speakers ul').append('<li class="speaker">' + image + name + slides + video + twitter + github + gitlab + bio + '</li>');
+  $('section.speakers ul').append('<li class="speaker">' + image + full_name + slides + video + twitter + github + gitlab + bio + '</li>');
 
   // populate titles for schedule
   if (speakers[i].title.length > 0) {
