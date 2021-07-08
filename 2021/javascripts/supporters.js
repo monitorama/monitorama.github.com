@@ -59,7 +59,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://lightstep.com/",
       "width": 250,
-      "bio": "<p>LightStep provides simple observability for deep, multi-layered systems. Built on the world’s most sophisticated distributed tracing engine, LightStep’s unique architecture offers teams unparalleled end-to-end visibility, even at scale. Resolve performance mysteries, prevent outages, and deploy confidently, with observability that reaches across mobile, microservices, and monoliths.</p>"
+      "bio": "<p>Lightstep’s observability platform is the easiest way for developers and SREs to monitor health and respond to changes in cloud-native applications. Powered by cutting-edge distributed tracing and a groundbreaking metrics database, and built by the team that launched observability at Google, Lightstep’s Change Intelligence provides actionable insights to help teams answer the question &quot;What caused that change?&quot;</p>"
     },
     {
       "name": "instana",
