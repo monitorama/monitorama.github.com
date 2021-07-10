@@ -15,6 +15,12 @@ var sponsors = {
       "bio": "<p>FireHydrant is the only comprehensive incident management platform that allows you to create consistency for the entire incident response lifecycle to focus on fighting fires faster. From alert to retrospective, tracking, communicating, and reporting on results: FireHydrant will automate the process so you can focus on resolution. Visit <a href=\"http://firehydrant.io/\">firehydrant.io</a> to learn how you can manage the mayhem.</p>"
     },
     {
+      "name": "newrelic",
+      "enabled": false,
+      "url": "",
+      "bio": "<p></p>"
+    },
+    {
       "name": "bigpanda",
       "enabled": true,
       "url": "http://bigpanda.io/",
@@ -101,7 +107,7 @@ var sponsors = {
       "bio": "<p>Cribl is a company built to solve customer data challenges and enable choice. Our solutions deliver customizable controls to route observability data where it has the most value. Our solutions help slash costs, improve performance, and get the right data, to the right destinations, in the right formats. Cribl helps you instrument everywhere, analyze more and pay less. Join the dozens of industry leaders, including Intuit and Autodesk, to take control and shape your data. Founded in 2017, Cribl is headquartered in San Francisco, CA. For more information, visit <a href=\"https://cribl.io/\">www.cribl.io</a> or our LinkedIn, Twitter, or Slack community.</p>"
     },
     {
-      "name": "kentik",
+      "name": "sumologic",
       "enabled": false,
       "url": "",
       "bio": ""
@@ -154,17 +160,11 @@ var sponsors = {
     {
       "name": "opsramp",
       "enabled": false,
-      "url": "",
+      "url": "https://www.opsramp.com/",
       "bio": "<p></p>"
     },
     {
       "name": "lightrun",
-      "enabled": false,
-      "url": "",
-      "bio": "<p></p>"
-    },
-    {
-      "name": "newrelic",
       "enabled": false,
       "url": "",
       "bio": "<p></p>"
