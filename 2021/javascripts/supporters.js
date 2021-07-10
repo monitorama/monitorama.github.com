@@ -15,6 +15,12 @@ var sponsors = {
       "bio": "<p>FireHydrant is the only comprehensive incident management platform that allows you to create consistency for the entire incident response lifecycle to focus on fighting fires faster. From alert to retrospective, tracking, communicating, and reporting on results: FireHydrant will automate the process so you can focus on resolution. Visit <a href=\"http://firehydrant.io/\">firehydrant.io</a> to learn how you can manage the mayhem.</p>"
     },
     {
+      "name": "newrelic",
+      "enabled": false,
+      "url": "",
+      "bio": "<p></p>"
+    },
+    {
       "name": "bigpanda",
       "enabled": true,
       "url": "http://bigpanda.io/",
@@ -59,7 +65,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://lightstep.com/",
       "width": 250,
-      "bio": "<p>LightStep provides simple observability for deep, multi-layered systems. Built on the world’s most sophisticated distributed tracing engine, LightStep’s unique architecture offers teams unparalleled end-to-end visibility, even at scale. Resolve performance mysteries, prevent outages, and deploy confidently, with observability that reaches across mobile, microservices, and monoliths.</p>"
+      "bio": "<p>Lightstep’s observability platform is the easiest way for developers and SREs to monitor health and respond to changes in cloud-native applications. Powered by cutting-edge distributed tracing and a groundbreaking metrics database, and built by the team that launched observability at Google, Lightstep’s Change Intelligence provides actionable insights to help teams answer the question &quot;What caused that change?&quot;</p>"
     },
     {
       "name": "instana",
@@ -101,7 +107,7 @@ var sponsors = {
       "bio": "<p>Cribl is a company built to solve customer data challenges and enable choice. Our solutions deliver customizable controls to route observability data where it has the most value. Our solutions help slash costs, improve performance, and get the right data, to the right destinations, in the right formats. Cribl helps you instrument everywhere, analyze more and pay less. Join the dozens of industry leaders, including Intuit and Autodesk, to take control and shape your data. Founded in 2017, Cribl is headquartered in San Francisco, CA. For more information, visit <a href=\"https://cribl.io/\">www.cribl.io</a> or our LinkedIn, Twitter, or Slack community.</p>"
     },
     {
-      "name": "kentik",
+      "name": "sumologic",
       "enabled": false,
       "url": "",
       "bio": ""
@@ -115,9 +121,9 @@ var sponsors = {
     },
     {
       "name": "sysdig",
-      "enabled": false,
-      "url": "",
-      "bio": "<p></p>"
+      "enabled": true,
+      "url": "https://sysdig.com/",
+      "bio": "<p>Sysdig is driving the secure DevOps movement, empowering organizations to confidently secure containers, Kubernetes and cloud. As a unified SaaS platform, Sysdig delivers robust security, radically simplified monitoring, compliance and detailed forensics for container, cloud and Kubernetes environments.</p><p>Our Sysdig Monitor solution offers Kubernetes monitoring, troubleshooting, and a managed Prometheus service. It also provides deep, process-level visibility into dynamic, distributed environments. We make it easy to capture, correlate, and visualize metrics, simplify PromQL queries, and view insights with out-of-the-box dashboards and alerts. This allows our users to maximize performance, troubleshoot issues quickly down to root cause, and simplify Prometheus deployment and usage.</p><p>We are built on an open source stack that includes Falco and sysdig OSS, the open standards for runtime threat detection, response, and troubleshooting.</p>"
     },
     {
       "name": "moogsoft",
@@ -147,24 +153,18 @@ var sponsors = {
     },
     {
       "name": "datadog",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.datadoghq.com/",
       "bio": "<p>Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.</p>"
     },
     {
       "name": "opsramp",
       "enabled": false,
-      "url": "",
+      "url": "https://www.opsramp.com/",
       "bio": "<p></p>"
     },
     {
       "name": "lightrun",
-      "enabled": false,
-      "url": "",
-      "bio": "<p></p>"
-    },
-    {
-      "name": "newrelic",
       "enabled": false,
       "url": "",
       "bio": "<p></p>"
