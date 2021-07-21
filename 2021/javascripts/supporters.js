@@ -129,13 +129,14 @@ var sponsors = {
       "name": "moogsoft",
       "enabled": true,
       "url": "https://www.moogsoft.com/",
-      "width": 240,
+      "width": 220,
       "bio": "<p>Moogsoft is a pioneer and leading provider of AIOps solutions that help IT teams work faster and smarter. With patented AI analyzing billions of events daily across the world’s most complex IT environments, the Moogsoft AIOps platform helps the world’s top enterprises avoid outages, automate service assurance, and accelerate digital transformation initiatives. Founded in 2011, Moogsoft has more than 120 customers worldwide including SAP SuccessFactors, American Airlines, Fannie Mae, Yahoo!, and HCL Technologies. It has established strategic partnerships with leading managed service providers and outsourcing organizations including AWS, Cisco, HCL Technologies, TCS and Wipro.</p>"
     },
     {
       "name": "hydrolix",
       "enabled": true,
       "url": "https://www.hydrolix.net/",
+      "width": 180,
       "bio": "<p>Hydrolix is a well-funded, early-stage startup with big ambitions to change the economics of high density data.</p>"
     },
     {
@@ -148,7 +149,7 @@ var sponsors = {
       "name": "alertops",
       "enabled": true,
       "url": "https://alertops.com/",
-      "width": 180,
+      "width": 190,
       "bio": "<p>AlertOps is a SaaS based incident response platform that helps resolve IT incidents faster. It alerts the right people at the right time during major incidents that impact business critical “revenue-impacting” services.</p><p>AlertOps’ Open API allows it to interact with virtual any tool with an existing API. For systems without an API, AlertOps features an e-mail integration with flexible parsing.</p><p>Bi-directional integrations with ITSM, AIOps, and ChatOps tools allow for AlertOps teams to modify and update records, notify stakeholders, and relay messaging to ensure all individuals have the information they need.</p><p>Flexible group configuration offers the ability to nest groups in order to mirror the exact team layout for responders within an enterprises. In addition, AlertOps features a shift-based scheduling calendar view to offer visibility into individuals across teams and time zones that are responsible for response procedures.</p>"
     },
     {
@@ -159,9 +160,10 @@ var sponsors = {
     },
     {
       "name": "opsramp",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.opsramp.com/",
-      "bio": "<p></p>"
+      "width": 180,
+      "bio": "<p>OpsRamp is the digital operations management platform for hybrid, multi-cloud, and cloud native infrastructures. Built on SaaS and used by the world’s biggest enterprises, OpsRamp unifies the monitoring of public cloud, cloud native, and data center infrastructure along with website monitoring. The platform also harnesses the power of AIOps for proactive event management and delivers automation for rapid incident remediation on a multi-tenant platform. OpsRamp is the answer to the chaos of modern digital transformation. And it’s the only place IT operations and DevOps teams can go to get the visibility and control they need.</p><p>Want to try it yourself? <a href=\"https://info.opsramp.com/opsramp-free-trial-0721\">Sign up for your free two-week trial</a>, or visit <a href=\"https://www.opsramp.com/\">opsramp.com</a> to learn more.</p>"
     },
     {
       "name": "lightrun",
