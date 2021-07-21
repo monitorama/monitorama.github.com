@@ -180,7 +180,7 @@ var rawSpeakers = {
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": ""
+      "hash": "c1ec9daa13994d6178b7fc041168f5dd"
     },
     {
       "name": "David Wilemski",
