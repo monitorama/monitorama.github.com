@@ -27,32 +27,6 @@ var rawSpeakers = {
       "hash": "e03c6cfb518abdee5a59561a94b1d34a"
     },
     {
-      "name": "Alaina Valenzuela",
-      "pronouns": "she/her",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Alaina is a software engineer at Honeycomb who has dabbled across the stack enough to know that CSS is way scarier than Ops. Before making the transition into tech, she was a marine biologist studying pinnipeds and birds. When she's not coding she volunteers for the SF Latino Film Festival.",
-      "title": "",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "b6eede100d121e20d25ebb73d5176994"
-    },
-    {
-      "name": "Alyson van Hardenberg",
-      "pronouns": "she/her",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Alyson is a software engineer at Honeycomb with enthusiasm for charts and data visualizations. In her previous work, she has been everything from a registered nurse, to a customs officer, to working with kids with special needs. If you can think of a job, she's probably done it. She can often be found chasing her two little boys around, baking sourdough, or playing board games.",
-      "title": "",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "5e8e982c69cb6203f161aa9b5f50309c"
-    },
-    {
       "name": "Joy Scharmen",
       "pronouns": "she/her",
       "github": "",
@@ -279,7 +253,7 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "",
+      "bio": "Matt is a technical leader, developer, and cloud engineer working as Director of Platform Engineering at AvidXchange. He is a DevOps geek, and obsessed with enjoyable developer experiences. In his free time Matt enjoys playing beer league hockey, music, and gaming with his wife and 3 boys.",
       "title": "AvidXchange's DevOps Journey: Improving customer experience and delivery acceleration with Observability",
       "abstract": "",
       "video": "",
