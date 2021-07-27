@@ -94,12 +94,6 @@ var sponsors = {
       "bio": "<p>Elastic is a search company that powers enterprise search, observability, and security solutions built on one technology stack that can be deployed anywhere. From finding documents to monitoring infrastructure to hunting for threats, Elastic makes data usable in real time and at scale. Thousands of organizations worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems. Founded in 2012, Elastic is a distributed company with Elasticians around the globe. Learn more at <a href=\"http://elastic.co/\">elastic.co</a>.</p>"
     },
     {
-      "name": "stackpulse",
-      "enabled": false,
-      "url": "",
-      "bio": ""
-    },
-    {
       "name": "cribl",
       "enabled": true,
       "url": "https://cribl.io/",
@@ -109,8 +103,9 @@ var sponsors = {
     {
       "name": "sumologic",
       "enabled": false,
-      "url": "",
-      "bio": ""
+      "url": "https://sensu.io/",
+      "width": 180,
+      "bio": "<p>Sensu by Sumo Logic, a leader in open source monitoring provides DevOps & SRE teams an Observability Pipeline that delivers monitoring as code on any cloud, backed with real-time data analytics for continuous intelligence. Our cloud-native, SaaS platform delivers an easy way to build open and adaptive observability into modern applications and infrastructure. We unify and analyze logs, metrics and traces to fill gaps in observability so teams can operate secure, reliable and efficient systems.</p>"
     },
     {
       "name": "duckbillgroup",
