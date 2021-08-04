@@ -102,8 +102,8 @@ var sponsors = {
     },
     {
       "name": "sumologic",
-      "enabled": false,
-      "url": "https://sensu.io/",
+      "enabled": true,
+      "url": "https://www.sumologic.com/",
       "width": 180,
       "bio": "<p>Sensu by Sumo Logic, a leader in open source monitoring provides DevOps & SRE teams an Observability Pipeline that delivers monitoring as code on any cloud, backed with real-time data analytics for continuous intelligence. Our cloud-native, SaaS platform delivers an easy way to build open and adaptive observability into modern applications and infrastructure. We unify and analyze logs, metrics and traces to fill gaps in observability so teams can operate secure, reliable and efficient systems.</p>"
     },
