@@ -163,9 +163,10 @@ var sponsors = {
     },
     {
       "name": "lightrun",
-      "enabled": false,
-      "url": "",
-      "bio": "<p></p>"
+      "enabled": true,
+      "url": "https://lightrun.com/",
+      "width": 175,
+      "bio": "<p>Lightrun is the market-leading IDE-native observability and debugging platform that helps R&D teams cut on debugging hours while fixing issues faster in production, by enabling developers to securely add logs, metrics and traces to production and staging environments in real time, on demand. No hotfixes, redeployments or restarts required.</p><p>Developers use Lightrun for multiple code-level observability needs, including: Code-level alerts, Feature verification, and Testing / debugging in production.</p><p>Lightrun is on a mission to transform developer experience; we’re bridging the gap between the developers and their live application by making production environments transparent and accessible.</p>"
     }
   ],
   "baltimore": [
