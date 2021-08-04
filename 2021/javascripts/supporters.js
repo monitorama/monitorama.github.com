@@ -16,9 +16,10 @@ var sponsors = {
     },
     {
       "name": "newrelic",
-      "enabled": false,
-      "url": "",
-      "bio": "<p></p>"
+      "enabled": true,
+      "url": "https://newrelic.com/",
+      "width": 150,
+      "bio": "<p>The world’s best engineering teams rely on New Relic to visualize, analyze, and troubleshoot their software. New Relic One is the most powerful cloud-based observability platform built to help organizations create more perfect software. Learn why developers trust New Relic for improved uptime and performance, greater scale and efficiency, and accelerated time to market at <a href=\"https://newrelic.com/\">newrelic.com</a>.</p>"
     },
     {
       "name": "bigpanda",
