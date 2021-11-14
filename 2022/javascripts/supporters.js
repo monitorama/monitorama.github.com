@@ -122,6 +122,13 @@ var sponsors = {
       "bio": "<p>Sysdig is driving the secure DevOps movement, empowering organizations to confidently secure containers, Kubernetes and cloud. As a unified SaaS platform, Sysdig delivers robust security, radically simplified monitoring, compliance and detailed forensics for container, cloud and Kubernetes environments.</p><p>Our Sysdig Monitor solution offers Kubernetes monitoring, troubleshooting, and a managed Prometheus service. It also provides deep, process-level visibility into dynamic, distributed environments. We make it easy to capture, correlate, and visualize metrics, simplify PromQL queries, and view insights with out-of-the-box dashboards and alerts. This allows our users to maximize performance, troubleshoot issues quickly down to root cause, and simplify Prometheus deployment and usage.</p><p>We are built on an open source stack that includes Falco and sysdig OSS, the open standards for runtime threat detection, response, and troubleshooting.</p>"
     },
     {
+      "name": "erasoftware",
+      "enabled": false,
+      "url": "https://era.co/",
+      "width": 220,
+      "bio": "<p><a href=\"https://era.co/\">Era Software</a> empowers enterprises to ingest, store and analyze massive amounts of data to get actionable insights in seconds. With the company’s observability and analytics platform, EraSearch, modern IT teams eliminate complexity and manage all their log data in real-time at up to 90% lower cost than alternatives. As data volumes continue to grow exponentially, enterprises can scale and trust their data to drive critical business and technical insights. Era Software enables IT teams to collaborate and innovate faster with unified access to <em>all</em> data. Find out more at <a href=\"https://era.co/\">www.era.co</a>. Follow us on <a href=\"https://twitter.com/era\">Twitter</a> and <a href=\"https://www.linkedin.com/company/erasoftware/\">LinkedIn</a>.</p>"
+    },
+    {
       "name": "moogsoft",
       "enabled": true,
       "url": "https://www.moogsoft.com/",
