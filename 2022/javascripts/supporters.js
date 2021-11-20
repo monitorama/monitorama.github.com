@@ -109,6 +109,12 @@ var sponsors = {
       "bio": "<p>Sensu by Sumo Logic, a leader in open source monitoring provides DevOps & SRE teams an Observability Pipeline that delivers monitoring as code on any cloud, backed with real-time data analytics for continuous intelligence. Our cloud-native, SaaS platform delivers an easy way to build open and adaptive observability into modern applications and infrastructure. We unify and analyze logs, metrics and traces to fill gaps in observability so teams can operate secure, reliable and efficient systems.</p>"
     },
     {
+      "name": "datadog",
+      "enabled": true,
+      "url": "https://www.datadoghq.com/",
+      "bio": "<p>Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.</p>"
+    },
+    {
       "name": "duckbillgroup",
       "enabled": true,
       "url": "https://www.duckbillgroup.com/",
@@ -154,12 +160,6 @@ var sponsors = {
       "url": "https://alertops.com/",
       "width": 190,
       "bio": "<p>AlertOps is a SaaS based incident response platform that helps resolve IT incidents faster. It alerts the right people at the right time during major incidents that impact business critical “revenue-impacting” services.</p><p>AlertOps’ Open API allows it to interact with virtual any tool with an existing API. For systems without an API, AlertOps features an e-mail integration with flexible parsing.</p><p>Bi-directional integrations with ITSM, AIOps, and ChatOps tools allow for AlertOps teams to modify and update records, notify stakeholders, and relay messaging to ensure all individuals have the information they need.</p><p>Flexible group configuration offers the ability to nest groups in order to mirror the exact team layout for responders within an enterprises. In addition, AlertOps features a shift-based scheduling calendar view to offer visibility into individuals across teams and time zones that are responsible for response procedures.</p>"
-    },
-    {
-      "name": "datadog",
-      "enabled": true,
-      "url": "https://www.datadoghq.com/",
-      "bio": "<p>Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.</p>"
     },
     {
       "name": "opsramp",
