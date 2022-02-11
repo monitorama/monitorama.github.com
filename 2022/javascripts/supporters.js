@@ -135,6 +135,13 @@ var sponsors = {
       "bio": "<p><a href=\"https://era.co/\">Era Software</a> empowers enterprises to ingest, store and analyze massive amounts of data to get actionable insights in seconds. With the company’s observability and analytics platform, EraSearch, modern IT teams eliminate complexity and manage all their log data in real-time at up to 90% lower cost than alternatives. As data volumes continue to grow exponentially, enterprises can scale and trust their data to drive critical business and technical insights. Era Software enables IT teams to collaborate and innovate faster with unified access to <em>all</em> data. Find out more at <a href=\"https://era.co/\">www.era.co</a>. Follow us on <a href=\"https://twitter.com/era\">Twitter</a> and <a href=\"https://www.linkedin.com/company/erasoftware/\">LinkedIn</a>.</p>"
     },
     {
+      "name": "centreon",
+      "enabled": false,
+      "url": "",
+      "width": 220,
+      "bio": "<p></p>"
+    },
+    {
       "name": "moogsoft",
       "enabled": true,
       "url": "https://www.moogsoft.com/",
@@ -174,6 +181,24 @@ var sponsors = {
       "url": "https://lightrun.com/",
       "width": 175,
       "bio": "<p>Lightrun is the market-leading IDE-native observability and debugging platform that helps R&D teams cut on debugging hours while fixing issues faster in production, by enabling developers to securely add logs, metrics and traces to production and staging environments in real time, on demand. No hotfixes, redeployments or restarts required.</p><p>Developers use Lightrun for multiple code-level observability needs, including: Code-level alerts, Feature verification, and Testing / debugging in production.</p><p>Lightrun is on a mission to transform developer experience; we’re bridging the gap between the developers and their live application by making production environments transparent and accessible.</p>"
+    },
+    {
+      "name": "edgedelta",
+      "enabled": false,
+      "url": "https://www.edgedelta.com/",
+      "bio": "<p></p>"
+    },
+    {
+      "name": "chaossearch",
+      "enabled": false,
+      "url": "https://www.chaossearch.io/",
+      "bio": "<p></p>"
+    },
+    {
+      "name": "zohosite24x7",
+      "enabled": false,
+      "url": "https://www.site24x7.com/",
+      "bio": "<p></p>"
     }
   ],
   "baltimore": [
