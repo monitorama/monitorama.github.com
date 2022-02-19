@@ -32,7 +32,7 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Joy fell into a computer career 20+ years ago, and still loves to learn, tinker, and build things. She particularly enjoys building infrastructure focused teams and working across organizations to spread knowledge and understanding. Right now she's in startup life at High Fidelity and is having fun making new things work!",
+      "bio": "Joy fell into a computer career 20+ years ago, and still loves to learn, tinker, and build things. She particularly enjoys building infrastructure focused teams and working across organizations to spread knowledge and understanding. Right now she's in startup life at StrongDM and is having fun making new things work!",
       "title": "",
       "abstract": "",
       "video": "",
