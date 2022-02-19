@@ -190,9 +190,10 @@ var sponsors = {
     },
     {
       "name": "chaossearch",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.chaossearch.io/",
-      "bio": "<p></p>"
+      "width": 225,
+      "bio": "<p>ChaosSearch helps modern organizations Know Better™ by activating the data lake for analytics. The ChaosSearch Data Lake Platform indexes customers’ cloud data, rendering it fully searchable and enabling analytics at scale with massive reductions of time, cost and complexity.  ChaosSearch was purpose-built for cost-effective, highly scalable analytics encompassing full text search, SQL and machine learning capabilities in one unified offering. The patented ChaosSearch technology instantly transforms your cloud object storage (Amazon S3, Google Cloud Storage) into a hot, analytical data lake.</p>"
     },
     {
       "name": "zohosite24x7",
