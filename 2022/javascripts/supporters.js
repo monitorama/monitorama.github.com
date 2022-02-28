@@ -197,9 +197,10 @@ var sponsors = {
     },
     {
       "name": "zohosite24x7",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.site24x7.com/",
-      "bio": "<p></p>"
+      "width": 250,
+      "bio": "<p>Site24x7 is the AI-powered performance monitoring solution from Zoho Corporation. The cloud-based offering empowers IT operations and DevOps with its broad capabilities to quickly troubleshoot problems with end-user experience, applications, servers, public clouds, and network infrastructure all from a single dashboard. Site24x7 is hosted on <a href=\"https://www.zohocorp.com/index.html\">Zoho Corporation's</a> datacenters (both primary & secondary) in the USA, Europe, India, Australia and China. For more information about Site24x7, please visit <a href=\"https://www.site24x7.com/\">www.site24x7.com</a>.</p>"
     }
   ],
   "baltimore": [
