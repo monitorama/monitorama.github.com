@@ -184,9 +184,10 @@ var sponsors = {
     },
     {
       "name": "edgedelta",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.edgedelta.com/",
-      "bio": "<p></p>"
+      "width": 215,
+      "bio": "<p>Start observability at the source. Gain complete visibility into datasets – ranging from terabytes to petabytes – without paying a premium, and surface insights and anomalies without defining regex or running queries. Edge Delta automatically analyzes telemetry when and where it’s created, optimizing your raw data into insights, statistics, and aggregates. These outputs are streamed to your centralized observability platform – as well as raw data when you need it – providing a clear picture of system performance and health. Edge Delta makes all data sources observable, while dramatically lowering ingest and index volumes.</p>"
     },
     {
       "name": "chaossearch",
