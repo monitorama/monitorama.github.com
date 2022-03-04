@@ -32,6 +32,7 @@ var sponsors = {
       "name": "influxdata",
       "enabled": true,
       "url": "https://www.influxdata.com/",
+      "width": 225,
       "bio": "<p><a href=\"https://www.influxdata.com/\">InfluxData</a>, creator of the open source time series database InfluxDB, empowers developers and organizations to build transformative monitoring, analytics and IoT applications quicker and to scale. Our purpose-built platform handles the massive volumes of time-stamped data produced by IoT devices, applications, networks, containers and computers. <a href=\"https://www.influxdata.com/\">www.influxdata.com</a> │ <a href=\"https://twitter.com/influxdb\">@InfluxDB</a>.</p>",
     },
     {
