@@ -14,19 +14,6 @@ var rawSpeakers = {
       "hash": "8215ce26449737a78a426be0738236e6"
     },
     {
-      "name": "Amy Nguyen",
-      "pronouns": "she/her",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Amy Nguyen is a software engineer working at Stripe and living in Singapore. Today, she works on a core product team building the next generation of payments APIs. Before that, she worked on the observability teams at both Stripe and Pinterest, and spoke at Monitorama 2017 about the user experience of metrics visualization tools. When she's not evangelizing the importance of applying the product mindset to infrastructure engineering, she can be found studying foreign languages, doing yoga, traveling around Southeast Asia, or, most likely of all, drafting jokes for Twitter.",
-      "title": "",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "e03c6cfb518abdee5a59561a94b1d34a"
-    },
-    {
       "name": "Joy Scharmen",
       "pronouns": "she/her",
       "github": "",
@@ -53,30 +40,17 @@ var rawSpeakers = {
       "hash": "6a10a31456d47638485a415243938c5e"
     },
     {
-      "name": "Liran Haimovitch",
-      "pronouns": "he/him",
+      "name": "Dudi Cohen",
+      "pronouns": "",
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Liran is the Co-Founder and CTO of Rookout. He’s an advocate of modern software methodologies like agile, lean and devops. Liran’s passion is to understand how software actually works. When he’s not thinking of code, he’s usually diving or hiking.",
+      "bio": "",
       "title": "Tracing is dead: How to maximize results with logging and metrics",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "dcc2960eb69a643c9a861e3b82a8c4e6"
-    },
-    {
-      "name": "Edward Welch",
-      "pronouns": "he/him",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Edward has worked a varied history of software development including robotic control systems, vehicle fleet tracking, and telecom middleware. He has worked in both startups and large enterprises, and now finds himself at Grafana Labs where he leads the Loki project, an open source logs aggregation system inspired by Prometheus.",
-      "title": "Using Cortex and Grafana To Improve My Driving Efficiency",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "51fc6152ed93ee0c081860bebfb0738d"
+      "hash": ""
     },
     {
       "name": "Alex Hidalgo",
@@ -92,7 +66,7 @@ var rawSpeakers = {
       "hash": "12a5229a997c3322335ce53f2ba6f02d"
     },
     {
-      "name": "Uttam Thakore",
+      "name": "Arda Icmez",
       "pronouns": "",
       "github": "",
       "gitlab": "",
@@ -131,19 +105,6 @@ var rawSpeakers = {
       "hash": "229e52b0b90630b14f7beb24f4b756d2"
     },
     {
-      "name": "Cory Watson",
-      "pronouns": "he/him",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Cory Watson is a Senior Principal Engineer at Splunk, leading high impact, customer-focused projects around observability and monitoring. Cory started his journey to observability as an SRE at Twitter, and continued on to found the observability team at Stripe. He is a strong voice in the observability community, through OSS, Twitter, blog posts and speaking engagements.</br></br>Cory has over 20 years of software engineering experience, and an active founder / contributor of several successful Open Source projects. Before finding his passion in observability, he worked in several industries such as e-commerce, consulting, healthcare, and fintech.",
-      "title": "You Do Not Want A Culture of Observability",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "cdb8eadd2f62e3eac4db9ea31a4224e3"
-    },
-    {
       "name": "Hakan Koklu",
       "pronouns": "he/him",
       "github": "",
@@ -157,32 +118,6 @@ var rawSpeakers = {
       "hash": "c1ec9daa13994d6178b7fc041168f5dd"
     },
     {
-      "name": "David Wilemski",
-      "pronouns": "he/him",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "David is a software engineer with over five years of experience developing and operating infrastructure and backend services. He works at Strava on services related to storage and analysis of activities that athletes upload to their Strava profiles. He also helped implement Strava's current monitoring stack. David is interested in distributed systems, infrastructure tools, and how those tools can be improved to make developers more productive. Apart from work, David likes to spend time outside running, camping, and hiking. He's also always up to enjoy a pot of tea with friends.",
-      "title": "Long term time series aggregation in a containerized environment",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "d9a24b8fbdb631547adbc78663e144fa"
-    },
-    {
-      "name": "Amber Vaidya",
-      "pronouns": "he/him",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "I am a Principal Product Manager in the Platform Engineering organization at eBay. We build platforms and services that are used by various other teams at eBay to build experiences for our customers.</br></br>In my current role, I manage the products within the Observability domain. These include products that are used to monitor the health of various layers in our infrastructure ranging from the datacenter and networks all the way to the user-facing experiences.",
-      "title": "Observability platform for eBay's massive network",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "6fb2b7c7103a6457bc95a11761d6598a"
-    },
-    {
       "name": "Joe Ross",
       "pronouns": "he/him",
       "github": "",
@@ -194,32 +129,6 @@ var rawSpeakers = {
       "video": "",
       "slides": "",
       "hash": "2c45622ba5e0df7c693b15107d1ef3f5"
-    },
-    {
-      "name": "Anaïs Urlichs",
-      "pronouns": "she/her",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Anaïs is a Site Reliability Engineer at Civo, a cloud computing company based on Kubernetes. When she is not advocating DevOps best practices, she runs her own YouTube Channel centered around cloud native technologies. Before transitioning to the cloud native ecosystem, Anaïs helped blockchain projects scale and find adoption. As CNCF ambassador, her passion lies in making tools and platforms more accessible to developers and community members.",
-      "title": "Metrics Shows API Slowness, But What’s Next? 🔥 Exemplars to the Rescue!",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "b41e4a33f571fb27346e2e6a2ca6b7c1"
-    },
-    {
-      "name": "Bartek Płotka",
-      "pronouns": "",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "Bartek Plotka is a Principal Software Engineer at Red Hat with a background in SRE, currently working on Observability. As the co-author of the CNCF Thanos project and core maintainer of various open-source projects including Prometheus, he enjoys building OSS communities and maintainable, reliable distributed systems, ideally in Go. On top of that, he is active in the CNCF SIG Observability as the technical lead. He writes a book with O'Reilly.",
-      "title": "Metrics Shows API Slowness, But What’s Next? 🔥 Exemplars to the Rescue!",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "6d4ebe173fb46263709fc34d4b6eaebc"
     },
     {
       "name": "Adrian Cockcroft",
@@ -285,19 +194,6 @@ var rawSpeakers = {
       "video": "",
       "slides": "",
       "hash": "e3d83cc09d8705a0ac89d2298d7c925e"
-    },
-    {
-      "name": "Joe Elliott",
-      "pronouns": "he/him",
-      "github": "",
-      "gitlab": "",
-      "twitter": "",
-      "bio": "With degrees in both Electrical Engineering and Theater Management, Connie-Lynne brings 30 years of System Engineering experience to the table, as well as a keen understanding of how to handle drama in the workplace. In addition to founding and managing Fastly's incident management team, Connie-Lynne has worked at Linden Lab, Change.org, and Groupon, but admits that her favorite position was serving as a board member for the Grilled Cheese Invitational, an annual food festival celebrating all things cheesy.",
-      "title": "Sampling Strategies in Distributed Tracing",
-      "abstract": "",
-      "video": "",
-      "slides": "",
-      "hash": "e04596bcf57f75a82d4c2a2103a0e811"
     },
     {
       "name": "Pete Cheslock",
