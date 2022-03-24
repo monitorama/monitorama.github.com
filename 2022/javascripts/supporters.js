@@ -140,7 +140,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.centreon.com/",
       "width": 220,
-      "bio": "<p>Centreon is a global provider of business-aware IT monitoring for always-on operations and performance excellence. The company’s AIOps-ready, business-aware IT monitoring platform is renowned for its unique ability to monitor today’s complex and converging infrastructures, from Cloud-to-Edge. Privately held, Centreon was founded in 2005 with roots in Open Source software. The company continues to steward a dynamic Open Source framework and a growing, vibrant global community of 200,000. Today, Centreon is trusted by organizations of all sizes across a wide range of public and private sectors. Its head offices are located in Paris and Toronto, with sales offices in Geneva, Luxembourg and Toulouse.</p>"
+      "bio": "<p>Centreon is a trusted global provider of <a href=\"https://www.centreon.com/en/blog/glossary/business-aware-it-monitoring/\">business-aware IT monitoring</a> for always-on operations and performance excellence. The company cuts cost and complexity out of IT operations, empowering innovation and competitive advantage for organizations reaching for their full potential in today’s digital economy. Today, Centreon has grown into a leader in business-aware IT monitoring, its platform is used by enterprise customers around the world to eliminate costly downtime and align their IT operations with their business goals.</p>"
     },
     {
       "name": "moogsoft",
