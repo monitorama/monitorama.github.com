@@ -53,8 +53,8 @@ var sponsors = {
       "name": "appdynamics",
       "enabled": true,
       "url": "https://www.appdynamics.com/",
-      "width": 185,
-      "bio": "<p>AppDynamics empowers the enterprise with a solution for real-time application and business performance. Together with Cisco, we’re helping companies make mission critical and strategic decisions that improve customer experience and accelerate business in a multi-cloud world.</p>"
+      "width": 225,
+      "bio": "<p><a href=\"https://www.appdynamics.com/\">AppDynamics</a>, a part of Cisco, helps customers including enterprise and government agencies proactively manage and optimize their application performance in real time and provide full-stack observability with business context to advance critical business and mission objectives.</p><p>Consistently recognized by Gartner as an industry leader in application performance monitoring, AppDynamics monitors the end-to-end performance of even the most complex, distributed applications in real time and delivers application mapping, dynamic baselining, and code-level diagnostics. <a href=\"http://www.appdynamics.com/\">www.appdynamics.com</a> | <a href=\"https://twitter.com/AppDynamics\">@AppDynamics</a></p>"
     },
     {
       "name": "timescale",
