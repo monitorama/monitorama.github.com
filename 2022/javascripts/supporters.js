@@ -173,8 +173,8 @@ var sponsors = {
       "name": "opsramp",
       "enabled": true,
       "url": "https://www.opsramp.com/",
-      "width": 180,
-      "bio": "<p>OpsRamp is the digital operations management platform for hybrid, multi-cloud, and cloud native infrastructures. Built on SaaS and used by the world’s biggest enterprises, OpsRamp unifies the monitoring of public cloud, cloud native, and data center infrastructure along with website monitoring. The platform also harnesses the power of AIOps for proactive event management and delivers automation for rapid incident remediation on a multi-tenant platform. OpsRamp is the answer to the chaos of modern digital transformation. And it’s the only place IT operations and DevOps teams can go to get the visibility and control they need.</p><p>Want to try it yourself? <a href=\"https://info.opsramp.com/opsramp-free-trial-0721\">Sign up for your free two-week trial</a>, or visit <a href=\"https://www.opsramp.com/\">opsramp.com</a> to learn more.</p>"
+      "width": 175,
+      "bio": "<p>OpsRamp is the digital operations platform for hybrid, multi-cloud and cloud native infrastructure. Built on SaaS and used by the world’s largest organizations, OpsRamp handles the speed, scope and scale of modern IT operations. Tapping into the power of AIOps, IT teams can reduce alert floods, determine root causes and use automation to take action on business-critical alerts before they become incidents.</p><p>With OpsRamp, IT operations and DevOps teams can get the visibility, control and insights they need to maintain availability, drive application performance and keep digital experiences running smoothly. Chaos is a fact in modern IT, but it can be controlled, with OpsRamp’s hybrid monitoring, event and incident management, and process automation capabilities.</p><p>Want to try it yourself? Visit <a href=\"http://opsramp.com/\">opsramp.com</a> to learn more.</p>"
     },
     {
       "name": "lightrun",
