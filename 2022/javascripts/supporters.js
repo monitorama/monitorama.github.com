@@ -206,10 +206,10 @@ var sponsors = {
     },
     {
       "name": "chronosphere",
-      "enabled": false,
-      "url": "",
+      "enabled": true,
+      "url": "https://chronosphere.io/",
       "width": 225,
-      "bio": "<p></p>"
+      "bio": "<p>Chronosphere is the only observability platform that puts you back in control by taming rampant data growth and cloud-native complexity, delivering increased business confidence. Engineering organizations at startups to well-known global brands in the Fortune 500 around the world trust Chronosphere to help them operate scalable, highly available, and resilient applications.</p>"
     },
     {
       "name": "squaredup",
