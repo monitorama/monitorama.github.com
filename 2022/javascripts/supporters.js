@@ -213,10 +213,10 @@ var sponsors = {
     },
     {
       "name": "squaredup",
-      "enabled": false,
-      "url": "",
-      "width": 225,
-      "bio": "<p></p>"
+      "enabled": true,
+      "url": "https://squaredup.io/",
+      "width": 210,
+      "bio": "<p>We help modern enterprises build, run, and optimize complex digital services by surfacing data to make better decisions, faster.</p><p>Think of us as mission control for your IT operations.</p>"
     },
     {
       "name": "crowdstrike",
