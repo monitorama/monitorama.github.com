@@ -73,8 +73,8 @@ var sponsors = {
       "name": "instana",
       "enabled": true,
       "url": "https://www.instana.com/",
-      "width": 180,
-      "bio": "<p>Instana provides the only APM solution that automatically discovers services, deploys agents and monitors component health for microservice and containerized applications.</p>"
+      "width": 240,
+      "bio": "<p>Instana’s Enterprise Observability Platform, powered by Automated APM, automatically ingests observability metrics, traces every request and profiles all processes. Instana discovers, maps and monitors all services, infrastructure components and their inter-dependencies, providing the actionable information with full context needed by Dev+Ops to optimize pipelines and applications.</p>"
     },
     {
       "name": "pagerduty",
