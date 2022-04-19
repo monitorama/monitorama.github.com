@@ -39,7 +39,7 @@ var sponsors = {
       "name": "catchpoint",
       "enabled": true,
       "url": "http://catchpoint.com/",
-      "width": 240,
+      "width": 210,
       "bio": "<p>Catchpoint, the global leader in Digital Experience Monitoring (DEM), empowers business and IT leaders to protect and advance the experience of their customers and employees. In a digital economy, enabled by cloud, SaaS and IoT, applications and users are everywhere. Catchpoint offers the largest and most geographically distributed monitoring network in the industry  it’s the only DEM platform that can scale and support today’s customer and employee location diversity and application distribution. It helps enterprises proactively detect, identify and validate user and application reachability, availability, performance and reliability, across an increasingly complex digital delivery chain. Industry leaders like Google, L'Oréal, Verizon, Oracle, LinkedIn, Honeywell, and Priceline trust Catchpoint’s out-of-the box monitoring platform, to proactively detect, repair, and optimize customer and employee experiences. Learn more at <a href=\"http://www.catchpoint.com/\">www.catchpoint.com/</a>.</p>"
     },
     {
