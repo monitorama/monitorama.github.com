@@ -6,31 +6,31 @@ if (($.browser.msie) && ($.browser.version <= 8.0)) {
 }
 
 // render view according to hash
-var setSection = function(name) {
+var setSection = function (name) {
   $('section').css('display', 'none').css('height', '0')
   $('header ul li a').removeClass('active');
   $('section.' + name).css('display', 'block').css('height', 'auto')
   $('header ul li a#' + name).addClass('active');
   window.location.hash = name;
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
 }
 
 // load view by click from navbar
-$('header ul li.internal').on('click', 'a', function() {
+$('header ul li.internal').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
 });
 
 // load view by click from footer
-$('footer ul li.internal').on('click', 'a', function() {
+$('footer ul li.internal').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
 });
 
 // load view by click from ribbon
-$('.ribbon').on('click', 'a', function() {
+$('.ribbon').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
@@ -47,7 +47,7 @@ var formHandler = function (url) {
     var data = {};
     var parent = $(this).parent();
     var inputs = parent.find('.form-input');
-    for (var i=0; i<inputs.length; i++) {
+    for (var i = 0; i < inputs.length; i++) {
       data[inputs[i].name] = inputs[i].value;
     }
     var thanks = function (response) {
@@ -61,7 +61,7 @@ var formHandler = function (url) {
 }
 
 // function to sort speakers by surname
-function compare(a,b) {
+function compare(a, b) {
   nameA = a.name.split(' ')
   lastNameA = a.simple_last_name || nameA[nameA.length - 1]
   nameB = b.name.split(' ')
@@ -129,9 +129,9 @@ for (var i in speakers) {
   //}
 
   // display abstracts on hover
-  $('section.schedule').on('mouseenter', 'td.session', function() {
+  $('section.schedule').on('mouseenter', 'td.session', function () {
     $(this).children('span').removeClass('hidden');
-  }).on('mouseleave', 'td.session', function() {
+  }).on('mouseleave', 'td.session', function () {
     $(this).children('span').addClass('hidden');
   });
 }
@@ -154,8 +154,8 @@ for (var i in mySponsors) {
     var width = mySponsors[i].width || 200;
     $('section.sponsors div.sponsors').append(
       '<div class="sponsor">' +
-        '<a href="' + mySponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + mySponsors[i].name + '.png" width="' + width + '" /></a>' +
-        mySponsors[i].bio +
+      '<a href="' + mySponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + mySponsors[i].name + '.png" width="' + width + '" /></a>' +
+      mySponsors[i].bio +
       '</div>'
     );
 
