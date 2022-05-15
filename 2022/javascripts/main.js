@@ -82,7 +82,7 @@ speakers = rawSpeakers[eventCity].sort(compare)
 
 // iterate through speakers
 for (var i in speakers) {
-  var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
+  var image = '<img src="https://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
   var full_name = '<span class="name">' + speakers[i].name;
   if (speakers[i].keynote == true) {
     full_name += ' - Keynote';
