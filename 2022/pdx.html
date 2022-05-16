@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
-  <link rel="stylesheet" href="stylesheets/main.css?v=6" />
+  <link rel="stylesheet" href="stylesheets/main.css?v=7" />
   <link rel="stylesheet" href="https://css.tito.io/v1" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
     integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -46,10 +46,10 @@
         <ul>
           <li class="internal"><a id="welcome" class="active" href="#">Welcome</a></li>
           <!--li class="internal"><a id="info" href="#">Info</a></li-->
-          <li class="internal"><a id="cfp" href="#">CFP</a></li>
+          <!--li class="internal"><a id="cfp" href="#">CFP</a></li-->
           <!--li class="internal"><a id="outage" href="#">Outage</a></li-->
           <!--li class="internal"><a id="watch" href="#">Watch</a></li-->
-          <!--li class="internal"><a id="speakers" href="#">Speakers</a></li-->
+          <li class="internal"><a id="speakers" href="#">Speakers</a></li>
           <!--li class="internal"><a id="schedule" href="#">Schedule</a></li-->
           <li class="internal"><a id="tickets" href="#">Tickets</a></li>
           <li class="internal"><a id="sponsors" href="#">Sponsors</a></li>
@@ -132,8 +132,10 @@
           <!-- video iframe -->
           <!--p class="text-center"><iframe src="https://player.vimeo.com/video/173941466?portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p-->
 
-          <iframe width="720" height="405" src="https://www.youtube.com/embed/wzKl_XIb8KU?rel=0" frameborder="0"
-            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe width="720" height="405" src="https://www.youtube.com/embed/wzKl_XIb8KU" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
 
         </section>
 
@@ -563,7 +565,7 @@
           <h5>Event</h5>
           <ul>
             <li class="internal"><a id="cfp" href="#">CFP</a></li>
-            <!--li class="internal"><a id="speakers" href="#">Speakers</a></li-->
+            <li class="internal"><a id="speakers" href="#">Speakers</a></li>
             <!--li class="internal"><a id="schedule" href="#">Schedule</a></li-->
             <li class="internal"><a id="tickets" href="#">Tickets</a></li>
             <!-- li class="internal"><a id="hike" href="#">Hike</a></li-->
@@ -614,9 +616,9 @@
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flipclock/0.7.8/flipclock.min.js"></script>
   <script type="text/javascript" src="javascripts/bootstrap.min.js"></script>
-  <script type="text/javascript" src="javascripts/speakers.js?v=3"></script>
+  <script type="text/javascript" src="javascripts/speakers.js?v=4"></script>
   <script type="text/javascript" src="javascripts/supporters.js?v=20"></script>
-  <script type="text/javascript" src="javascripts/main.js?v=2"></script>
+  <script type="text/javascript" src="javascripts/main.js?v=3"></script>
   <script type="text/javascript" src="https://js.tito.io/v1" async></script>
   <script type="text/javascript">
     var currentDate = new Date();
@@ -634,19 +636,6 @@
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-  <script type="text/javascript">
-    var _gauges = _gauges || [];
-    (function () {
-      var t = document.createElement('script');
-      t.type = 'text/javascript';
-      t.async = true;
-      t.id = 'gauges-tracker';
-      t.setAttribute('data-site-id', '508019ae613f5d08ed000046');
-      t.src = 'https://secure.gaug.es/track.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(t, s);
     })();
   </script>
 </body>

@@ -6,31 +6,31 @@ if (($.browser.msie) && ($.browser.version <= 8.0)) {
 }
 
 // render view according to hash
-var setSection = function(name) {
+var setSection = function (name) {
   $('section').css('display', 'none').css('height', '0')
   $('header ul li a').removeClass('active');
   $('section.' + name).css('display', 'block').css('height', 'auto')
   $('header ul li a#' + name).addClass('active');
   window.location.hash = name;
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
 }
 
 // load view by click from navbar
-$('header ul li.internal').on('click', 'a', function() {
+$('header ul li.internal').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
 });
 
 // load view by click from footer
-$('footer ul li.internal').on('click', 'a', function() {
+$('footer ul li.internal').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
 });
 
 // load view by click from ribbon
-$('.ribbon').on('click', 'a', function() {
+$('.ribbon').on('click', 'a', function () {
   var sid = ($(this).attr('id'));
   setSection(sid);
   return false;
@@ -47,7 +47,7 @@ var formHandler = function (url) {
     var data = {};
     var parent = $(this).parent();
     var inputs = parent.find('.form-input');
-    for (var i=0; i<inputs.length; i++) {
+    for (var i = 0; i < inputs.length; i++) {
       data[inputs[i].name] = inputs[i].value;
     }
     var thanks = function (response) {
@@ -61,7 +61,7 @@ var formHandler = function (url) {
 }
 
 // function to sort speakers by surname
-function compare(a,b) {
+function compare(a, b) {
   nameA = a.name.split(' ')
   lastNameA = a.simple_last_name || nameA[nameA.length - 1]
   nameB = b.name.split(' ')
@@ -78,16 +78,29 @@ function compare(a,b) {
 var eventCity = window.location.pathname.split('/').pop().split('.')[0]
 
 // sort speakers
-speakers = rawSpeakers[eventCity].sort(compare)
+//speakers = rawSpeakers[eventCity].sort(compare)
+speakers = rawSpeakers[eventCity]
 
 // iterate through speakers
 for (var i in speakers) {
-  var image = '<img src="http://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
+  if (speakers[i].hide == 'true') { continue; }
+
+  if (speakers[i].hash.length == 0) {
+    speakers[i].hash = '0580d500edfdb2e5e80e4732ac8df1ea';
+  }
+
+  var image = '<img src="https://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
+
   var full_name = '<span class="name">' + speakers[i].name;
   if (speakers[i].keynote == true) {
     full_name += ' - Keynote';
   }
   full_name += '</span>';
+
+  if (speakers[i].pronouns.length > 0) {
+    full_name += '<span class="pronouns">(' + speakers[i].pronouns + ')</span>';
+  }
+
   var github = '';
   if (speakers[i].github.length > 0) {
     github = '<span class="github"><a href="https://github.com/' +
@@ -124,14 +137,14 @@ for (var i in speakers) {
   }
 
   // populate abstracts for schedule
-  //if (speakers[i].abstract.length > 0) {
-  //  $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
-  //}
+  if (speakers[i].abstract.length > 0) {
+    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
+  }
 
   // display abstracts on hover
-  $('section.schedule').on('mouseenter', 'td.session', function() {
+  $('section.schedule').on('mouseenter', 'td.session', function () {
     $(this).children('span').removeClass('hidden');
-  }).on('mouseleave', 'td.session', function() {
+  }).on('mouseleave', 'td.session', function () {
     $(this).children('span').addClass('hidden');
   });
 }
@@ -154,8 +167,8 @@ for (var i in mySponsors) {
     var width = mySponsors[i].width || 200;
     $('section.sponsors div.sponsors').append(
       '<div class="sponsor">' +
-        '<a href="' + mySponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + mySponsors[i].name + '.png" width="' + width + '" /></a>' +
-        mySponsors[i].bio +
+      '<a href="' + mySponsors[i].url + '" target="_blank">' + '<img src="images/logo_' + mySponsors[i].name + '.png" width="' + width + '" /></a>' +
+      mySponsors[i].bio +
       '</div>'
     );
 
