@@ -458,6 +458,11 @@ section.welcome {
   font-weight: bold;
 }
 
+.speakers li span.pronouns {
+  margin-left: 10px;
+  font-size: inherit;
+}
+
 .speakers li span.github,
 .speakers li span.gitlab,
 .speakers li span.twitter,
