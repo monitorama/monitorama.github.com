@@ -78,16 +78,29 @@ function compare(a, b) {
 var eventCity = window.location.pathname.split('/').pop().split('.')[0]
 
 // sort speakers
-speakers = rawSpeakers[eventCity].sort(compare)
+//speakers = rawSpeakers[eventCity].sort(compare)
+speakers = rawSpeakers[eventCity]
 
 // iterate through speakers
 for (var i in speakers) {
+  if (speakers[i].hide == 'true') { continue; }
+
+  if (speakers[i].hash.length == 0) {
+    speakers[i].hash = '0580d500edfdb2e5e80e4732ac8df1ea';
+  }
+
   var image = '<img src="https://www.gravatar.com/avatar/' + speakers[i].hash + '" />';
+
   var full_name = '<span class="name">' + speakers[i].name;
   if (speakers[i].keynote == true) {
     full_name += ' - Keynote';
   }
   full_name += '</span>';
+
+  if (speakers[i].pronouns.length > 0) {
+    full_name += '<span class="pronouns">(' + speakers[i].pronouns + ')</span>';
+  }
+
   var github = '';
   if (speakers[i].github.length > 0) {
     github = '<span class="github"><a href="https://github.com/' +
@@ -124,9 +137,9 @@ for (var i in speakers) {
   }
 
   // populate abstracts for schedule
-  //if (speakers[i].abstract.length > 0) {
-  //  $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
-  //}
+  if (speakers[i].abstract.length > 0) {
+    $('.schedule span.speaker:contains(' + speakers[i].name + ')').parent().find('h5').html(speakers[i].abstract);
+  }
 
   // display abstracts on hover
   $('section.schedule').on('mouseenter', 'td.session', function () {
