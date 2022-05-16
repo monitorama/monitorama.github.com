@@ -2,59 +2,64 @@
   font-family: 'MotivaSans-BoldItalic';
   src: url('../fonts/291F73_0_0.eot');
   src: url('../fonts/291F73_0_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_0_0.woff') format('woff'),
-       url('../fonts/291F73_0_0.ttf') format('truetype'),
-       url('../fonts/291F73_0_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_0_0.woff') format('woff'),
+    url('../fonts/291F73_0_0.ttf') format('truetype'),
+    url('../fonts/291F73_0_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'MotivaSans-LightItalic';
   src: url('../fonts/291F73_2_0.eot');
   src: url('../fonts/291F73_2_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_2_0.woff') format('woff'),
-       url('../fonts/291F73_2_0.ttf') format('truetype'),
-       url('../fonts/291F73_2_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_2_0.woff') format('woff'),
+    url('../fonts/291F73_2_0.ttf') format('truetype'),
+    url('../fonts/291F73_2_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'MotivaSans-ExtraBold';
   src: url('../fonts/291F73_3_0.eot');
   src: url('../fonts/291F73_3_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_3_0.woff') format('woff'),
-       url('../fonts/291F73_3_0.ttf') format('truetype'),
-       url('../fonts/291F73_3_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_3_0.woff') format('woff'),
+    url('../fonts/291F73_3_0.ttf') format('truetype'),
+    url('../fonts/291F73_3_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'MotivaSans-Medium';
   src: url('../fonts/291F73_4_0.eot');
   src: url('../fonts/291F73_4_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_4_0.woff') format('woff'),
-       url('../fonts/291F73_4_0.ttf') format('truetype'),
-       url('../fonts/291F73_4_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_4_0.woff') format('woff'),
+    url('../fonts/291F73_4_0.ttf') format('truetype'),
+    url('../fonts/291F73_4_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'MotivaSans-Light';
   src: url('../fonts/291F73_5_0.eot');
   src: url('../fonts/291F73_5_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_5_0.woff') format('woff'),
-       url('../fonts/291F73_5_0.ttf') format('truetype'),
-       url('../fonts/291F73_5_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_5_0.woff') format('woff'),
+    url('../fonts/291F73_5_0.ttf') format('truetype'),
+    url('../fonts/291F73_5_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'MotivaSans-Regular';
   src: url('../fonts/291F73_7_0.eot');
   src: url('../fonts/291F73_7_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_7_0.woff') format('woff'),
-       url('../fonts/291F73_7_0.ttf') format('truetype'),
-       url('../fonts/291F73_7_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_7_0.woff') format('woff'),
+    url('../fonts/291F73_7_0.ttf') format('truetype'),
+    url('../fonts/291F73_7_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -63,9 +68,9 @@
   font-family: 'MotivaSans-Bold';
   src: url('../fonts/291F73_D_0.eot');
   src: url('../fonts/291F73_D_0.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/291F73_D_0.woff') format('woff'),
-       url('../fonts/291F73_D_0.ttf') format('truetype'),
-       url('../fonts/291F73_D_0.svg#MotivaSans-Regular') format('svg');
+    url('../fonts/291F73_D_0.woff') format('woff'),
+    url('../fonts/291F73_D_0.ttf') format('truetype'),
+    url('../fonts/291F73_D_0.svg#MotivaSans-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -124,6 +129,7 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
 /* end Monitorama logo and mark */
 
 /* start location banner image */
@@ -148,6 +154,7 @@ div.banner.baltimore {
   div.banner.portland {
     background: rgb(239, 239, 239) url('../images/portland.png');
   }
+
   /* div.banner.baltimore {
     background: rgb(239, 239, 239) url('../images/baltimore.png');
   } */
@@ -176,6 +183,7 @@ div.banner.baltimore {
     height: 150px;
   }
 }
+
 /* end Portland banner image */
 
 /* start Location info */
@@ -183,7 +191,7 @@ div.banner.baltimore {
   background-color: rgb(239, 239, 239);
 }
 
-.location.wrapper .container  {
+.location.wrapper .container {
   margin-top: -40px;
 }
 
@@ -211,7 +219,7 @@ div.banner.baltimore {
     font-size: large;
   }
 }
-  
+
 @media only screen and (max-width: 750px) {
   .location h2 {
     font-size: medium;
@@ -242,6 +250,7 @@ div.banner.baltimore {
   font-size: 0.6em;
   color: #fff;
 }
+
 /* end Location info */
 
 /* start Navigation bar */
@@ -313,6 +322,7 @@ div.banner.baltimore {
 .navbar-header-ttc ul li a.eu {
   color: rgb(244, 67, 54);
 }
+
 /* end Navigation bar */
 
 section {
@@ -338,7 +348,8 @@ section h5 {
   margin-bottom: 25px;
 }
 
-section p, section span {
+section p,
+section span {
   text-align: left;
   font-family: "MotivaSans-Light";
   font-size: 1.3em;
@@ -347,15 +358,18 @@ section p, section span {
   margin-bottom: 40px;
 }
 
-section p a, section p a:hover {
+section p a,
+section p a:hover {
   color: rgb(234, 124, 57);
 }
 
-.baltimore section p a, .baltimore section p a:hover {
+.baltimore section p a,
+.baltimore section p a:hover {
   color: rgb(75, 130, 185);
 }
 
-section p em, section span em {
+section p em,
+section span em {
   font-family: "MotivaSans-BoldItalic";
   margin-right: 4px;
 }
@@ -427,6 +441,7 @@ section.welcome {
   display: inline-block;
   width: auto;
 }
+
 /* END CFP */
 
 /* START SPEAKERS */
@@ -492,7 +507,7 @@ section.welcome {
 }
 
 .speakers li span.gitlab a:hover i {
-  color: rgb(255,165,0);
+  color: rgb(255, 165, 0);
 }
 
 .speakers li span.twitter a:hover i {
@@ -513,6 +528,7 @@ section.welcome {
   padding-top: 10px;
   font-size: 0.9em;
 }
+
 /* END SPEAKERS */
 
 /* START SCHEDULE */
@@ -520,7 +536,8 @@ section.welcome {
   margin-bottom: 40px;
 }
 
-.schedule .video-stream p, .watch .video-stream p {
+.schedule .video-stream p,
+.watch .video-stream p {
   margin: 0;
 }
 
@@ -582,7 +599,8 @@ section.welcome {
   color: #fff;
 }
 
-.schedule ul li span.date, .schedule ul li span.time {
+.schedule ul li span.date,
+.schedule ul li span.time {
   font-size: 0.7em;
   margin-left: 5px;
 }
@@ -595,6 +613,7 @@ section.welcome {
 .schedule ul li span.speaker {
   font-size: 0.7em;
 }
+
 /* END SCHEDULE */
 
 /* START SPONSORS */
@@ -606,13 +625,15 @@ div.sponsor {
   margin-bottom: 50px;
 }
 
-.sponsor img, .venue img, .run img {
+.sponsor img,
+.venue img,
+.run img {
   margin: 20px 0 40px;
 }
 
 .sponsor p {
   margin-bottom: 20px;
-  //text-align: justify;
+  /* text-align: justify; */
 }
 
 .sponsor ul {
@@ -629,17 +650,12 @@ div.sponsor {
   padding: 6px 0;
 }
 
-div.prospectus {
-  /* border-top: 1px solid rgb(213, 213, 213);
-  padding-top: 50px;
-  margin-top: 75px; */
-}
-
 .prospectus p {
   margin-bottom: 40px;
 }
 
-.prospectus h5.soldout, .prospectus ul.soldout {
+.prospectus h5.soldout,
+.prospectus ul.soldout {
   opacity: 0.3;
   text-decoration: line-through;
 }
@@ -665,6 +681,7 @@ div.prospectus {
 .prospectus strike {
   color: #cacaca;
 }
+
 /* END SPONSORS */
 
 /* START VENUE */
@@ -675,6 +692,7 @@ div.prospectus {
 .venue img#baltimore {
   max-width: 100%;
 }
+
 /* END VENUE */
 
 /* START TRAVEL */
@@ -695,6 +713,7 @@ div.prospectus {
   font-size: 1.0em;
   color: red;
 }
+
 /* END TRAVEL */
 
 /* START SPONSOR MARQUEE */
@@ -709,6 +728,7 @@ div.marquee {
   max-width: 125px;
   margin: 0 15px 25px;
 }
+
 /* END SPONSOR MARQUEE */
 
 /* START FOOTER */
@@ -766,6 +786,7 @@ footer ul li a:hover {
 .copyright p {
   color: #ccc;
 }
+
 /* END FOOTER */
 
 .signup span.required {
