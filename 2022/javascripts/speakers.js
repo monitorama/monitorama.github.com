@@ -156,7 +156,7 @@ var rawSpeakers = {
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": ""
+      "hash": "22ce448f20449e45830e2d46ee66de2b"
     },
     {
       "name": "Joe Ross",
