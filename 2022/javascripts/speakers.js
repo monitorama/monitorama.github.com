@@ -177,7 +177,7 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Jonathan Perry was founder and CEO of Flowmill (now Splunk Network Performance Monitoring), an eBPF-based cloud network observability system. Network observability requires collecting, enriching, and analyzing massive amounts of telemetry; Jonathan takes joy in applying his research and expertise to solve practical day-to-day problems faced by infrastructure SREs - to help observe and address the impact of network communication on distributed services.",
+      "bio": "Jonathan founded and led Flowmill (now part of Splunk), which developed an eBPF-based Network Performance Monitoring (NPM) solution -- available as OpenTelemetry's NPM collector. Flowmill emerged from Jonathan's PhD research, prior to which he worked on government R&D in high performance computing and cyber-security. He's a bit of a foodie, and enjoys cycling, hiking, and designing systems that let users analyze a lot of data quickly without breaking the bank.",
       "title": "Practical eBPF: How to build service-aware network monitoring",
       "abstract": "",
       "video": "",
