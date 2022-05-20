@@ -5,7 +5,7 @@ var sponsors = {
       "enabled": true,
       "url": "https://tanzu.vmware.com/observability",
       "width": 215,
-      "bio": "<p>VMware Tanzu is a family of products and services for modernizing your applications and infrastructure with a common goal: delivering better software to production, continuously.</p><p>The portfolio simplifies multi-cloud operations, while freeing developers to move faster and access the right resources for building the best applications. VMware Tanzu helps development and operations teams better work together to deliver transformative business results.</p><p>VMware Tanzu helps you transform your applications and infrastructure in a way and pace that’s right for you. Build new, cloud native applications. Containerize existing workloads to run in the cloud for quick security and manageability gains. Rearchitect and rewrite existing, business-critical software to be continuously delivered and resilient. And run and manage your apps consistently on a secure, scalable infrastructure bolstered by a conformant Kubernetes runtime everywhere.</p><p>VMware Tanzu offers full-stack software modernization, brought to you by a pioneer of the software-defined datacenter.</p>"
+      "bio": "<p>VMware Tanzu Observability by Wavefront delivers enterprise observability for multi-cloud environments. Users can correlate data across applications, infrastructure, developer and DevOps tools of choice with packaged dashboards, metrics, and alerts. They gain instant visibility across all major public cloud platforms. Benefit from  exceptional SLAs and eliminate customer-impacting issues through flexible tracing and analytics using traces and metrics.</p>"
     },
     {
       "name": "firehydrant",
