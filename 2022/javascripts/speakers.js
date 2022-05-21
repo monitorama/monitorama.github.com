@@ -39,7 +39,7 @@ var rawSpeakers = {
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": ""
+      "hash": "240744aa3580b57222199a1cb72e20f5"
     },
     {
       "name": "Biju Chacko",
