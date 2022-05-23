@@ -125,7 +125,7 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Fred Moyer is an Observability Engineer for Zendesk, where he likes to apply math to large sets of data. Fred is a recovering Perl and C programmer, and these days likes to hack in Go and is Ruby. He is a 2018 Google dev award winner for his Istio adapter, a 2013 White Camel award winner, Apache Software Foundation member, and has worked in software engineering and reliability roles for the last 18 years. Fred has two young children and now only rides his bike on the trainer in the garage.",
+      "bio": "Fred Moyer is an Observability Engineer and likes to apply math to large sets of data. Fred is a recovering Perl and C programmer, and these days likes to hack in Go and is Ruby. He is a 2018 Google dev award winner for his Istio adapter, a 2013 White Camel award winner, Apache Software Foundation member, and has worked in software engineering and reliability roles for the last 18 years. Fred has two young children and now only rides his bike on the trainer in the garage.",
       "title": "SLIs, SLOs, and Error Budgets at Scale",
       "abstract": "",
       "video": "",
