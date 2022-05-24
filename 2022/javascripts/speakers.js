@@ -47,12 +47,12 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "",
+      "bio": "Biju Chacko spent the last 25-odd years bouncing around the tech industry playing every role from developer, sysadmin to support and sales. In the past 10 years, Biju has been focused on tech operations as a developer, SRE and engineering leader. An opensource advocate from the mid-90s, Biju played a key role in popularising Linux and OpenSource in India and was a core committer to the XFCE desktop project. Biju is currently leading the development of an incident management tool at Squadcast Inc.",
       "title": "SLOTracker: Tracking SLOs in the real world",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": ""
+      "hash": "976c940b1372c5763f05ca9c451969be"
     },
     {
       "name": "Chris Ward",
