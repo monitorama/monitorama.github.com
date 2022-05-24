@@ -138,7 +138,7 @@ var rawSpeakers = {
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Hakan is a Software Engineer in the observability team at Lyft. His main focus is building robust, high scale systems that help Lyft users to go where they need to be. He has worked on data problems as a data analyst, data engineer and software engineer at different companies in the last 6 years. Hakan has a PhD in Electrical Engineering from Boston University focused on optical microscopy and electromagnetic optics. In his spare time, he is trying to read fifty books a year and he fantasizes about learning to play a musical instrument.",
+      "bio": "Hakan is a Software Engineer in the infrastructure team at Lyft. His main focus is building robust, scalable systems that help Lyft users to go where they need to be and help Lyft developers to be as productive as possible. He has worked on data, product and infrastructure problems as a data analyst, data engineer and software engineer at different companies. He also has a PhD in Electrical Engineering from Boston University focused on optical microscopy and electromagnetic optics.",
       "title": "Building an In-House Alerting System",
       "abstract": "",
       "video": "",
