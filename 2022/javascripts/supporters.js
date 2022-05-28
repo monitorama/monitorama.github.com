@@ -4,7 +4,7 @@ var sponsors = {
       "name": "wavefront",
       "enabled": true,
       "url": "https://tanzu.vmware.com/observability",
-      "width": 215,
+      "width": 220,
       "bio": "<p>VMware Tanzu Observability by Wavefront delivers enterprise observability for multi-cloud environments. Users can correlate data across applications, infrastructure, developer and DevOps tools of choice with packaged dashboards, metrics, and alerts. They gain instant visibility across all major public cloud platforms. Benefit from  exceptional SLAs and eliminate customer-impacting issues through flexible tracing and analytics using traces and metrics.</p>"
     },
     {
@@ -18,7 +18,7 @@ var sponsors = {
       "name": "newrelic",
       "enabled": true,
       "url": "https://newrelic.com/",
-      "width": 150,
+      "width": 215,
       "bio": "<p>As a leader in observability, New Relic empowers engineers with data to plan, build, deploy and run great software. New Relic delivers the only unified data platform for all telemetry paired with powerful full-stack analysis tools to help engineers get past the <i>what</i> to uncover the <i>why</i>.</p>"
     },
     {
