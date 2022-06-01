@@ -222,6 +222,7 @@ var sponsors = {
       "name": "crowdstrike",
       "enabled": true,
       "url": "https://www.humio.com/",
+      "width": 185,
       "bio": "<p>Humio, a CrowdStrike company, offers an advanced, purpose-built log management platform that delivers the lowest total cost of ownership, industry-leading unlimited plans, minimal maintenance and training costs, and remarkably low compute and storage requirements. Humio is the only data platform that enables customers to log everything and answer anything in real time — at scale, with flexible hybrid deployment options. Humio’s modern, index-free architecture makes exploring and investigating all data flexible and blazing fast, even at scale. For more information, visit <a href=\"http://www.humio.com/\">www.humio.com</a> and follow <a href=\"https://twitter.com/meethumio\">@MeetHumio</a> on Twitter.</p>"
     }
   ],
