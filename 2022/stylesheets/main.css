@@ -614,6 +614,19 @@ section.welcome {
   font-size: 0.7em;
 }
 
+.modal-body p#speakerAbstract ul {
+  padding: 0 3em;
+}
+
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-title,
+.modal-content {
+  font-family: "MotivaSans-Medium";
+}
+
 /* END SCHEDULE */
 
 /* START SPONSORS */
