@@ -8,12 +8,10 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Adrian has been monitoring computers for a long time. In the 1990's he wrote the best selling Sun Performance and Tuning book, and contributed to Sun blueprint books on resource management and capacity planning. He recieved the Michelson Award for lifetime contributions from the Computer Measurement Group, and has keynoted and presented at Monitorama several times. He has advised startups including AppDynamics, Instana, NGINX, Docker, BigPanda, Gremlin, and OpsMX, and facilitated the deal between AWS and Grafana. For the last few years Adrian has been focused on sustainability, and has made a deep dive into measurements around carbon emissions and climate risk. He contributed to the Well Architected Guide to Sustainability, released by AWS in December 2021.",
       "title": "Monitoring Carbon",
-      "abstract": "An emerging concern is the measurement and optimization of infrastructure and workloads from a sustainability viewpoint. There are many challenges and some new concepts to consider as we think about energy use, and the embodied carbon of the manufacturing lifecycle of the equipment we use. This talk will introduce these new topics and challenges, as we look forward to monitoring tools adding carbon as a monitoring and optimization metric alongside throughput, latency, utilization, capacity and cost.",
+      "abstract": "<p>An emerging concern is the measurement and optimization of infrastructure and workloads from a sustainability viewpoint. There are many challenges and some new concepts to consider as we think about energy use, and the embodied carbon of the manufacturing lifecycle of the equipment we use. This talk will introduce these new topics and challenges, as we look forward to monitoring tools adding carbon as a monitoring and optimization metric alongside throughput, latency, utilization, capacity and cost.</p>",
       "video": "",
       "slides": "",
-      //"hash": "a9220dff7c6e48a125c747dd2eb74ffe"
-      "hide": "true",
-      "hash": ""
+      "hash": "a9220dff7c6e48a125c747dd2eb74ffe"
     },
     {
       "name": "Alex Hidalgo",
@@ -23,7 +21,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Alex Hidalgo is the Principal Reliability Advocate at Nobl9 and author of Implementing Service Level Objectives. During his career he has developed a deep love for sustainable operations, proper observability, and using SLO data to drive discussions and make decisions. Alex's previous jobs have included IT support, network security, restaurant work, t-shirt design, and hosting game shows at bars. When not sharing his passion for technology with others, you can find him scuba diving or watching college basketball. He lives in Brooklyn with his partner Jen and a rescue dog named Taco. Alex has a BA in philosophy from Virginia Commonwealth University.",
       "title": "Meaningful Measurements: Lessons from Outside of Tech",
-      "abstract": "You need to measure your computer services to know how they're operating. Logs, metrics, traces, SLOs, statistical analysis, probabilistic normalization --  within tech our approaches to understanding how things are going are more complex than ever. But it's not just software and hardware that needs to be monitored. Just about every discipline on the planet has some concept of how to monitor, measure, and account for detected failures. In this talk let's discuss some ways other disciplines measure their own output, and what we can learn from that when measuring our own.",
+      "abstract": "<p>You need to measure your computer services to know how they're operating. Logs, metrics, traces, SLOs, statistical analysis, probabilistic normalization --  within tech our approaches to understanding how things are going are more complex than ever. But it's not just software and hardware that needs to be monitored. Just about every discipline on the planet has some concept of how to monitor, measure, and account for detected failures. In this talk let's discuss some ways other disciplines measure their own output, and what we can learn from that when measuring our own.</p>",
       "video": "",
       "slides": "",
       "hash": "5eaeee295206dd5e5005a5c90603b1d4"
@@ -36,7 +34,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "I've been with Meta(formerly Facebook) for more than 3 years, actively working in Monitoring domain. I've received my Masters Degree from Duke University.",
       "title": "Detection & Alerting at FB: Improving signal to noise ratio at Scale",
-      "abstract": "",
+      "abstract": "<p>Monitoring metrics for any significant movements is key to detecting problems with systems and products. This talk provides an overview of our detection and alerting framework: the scale in the number of timeseries we monitor, the different detection algorithms we offer (rule-based and ML-based) and the ability to auto-slice data along multiple dimensions to identify deeper issues.</p><p>At our scale, it is crucial to derive signal without being inundated with noise. In this talk, we discuss (1) our tooling to drastically reduce notification volume and improve alert quality and (2) our increasing focus on automatic monitoring: proactively logging and monitoring the right metrics for different artifacts, proactively analyzing events to identify potential root causes.</p>",
       "video": "",
       "slides": "",
       "hash": "240744aa3580b57222199a1cb72e20f5"
@@ -49,7 +47,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Biju Chacko spent the last 25-odd years bouncing around the tech industry playing every role from developer, sysadmin to support and sales. In the past 10 years, Biju has been focused on tech operations as a developer, SRE and engineering leader. An opensource advocate from the mid-90s, Biju played a key role in popularising Linux and OpenSource in India and was a core committer to the XFCE desktop project. Biju is currently leading the development of an incident management tool at Squadcast Inc.",
       "title": "SLOTracker: Tracking SLOs in the real world",
-      "abstract": "",
+      "abstract": "<p>The tenet of a strong SRE culture lies in responsibly managing Error Budgets. However, you can only calculate error budgets after establishing the expected service SLOs in agreement with all the relevant stakeholders. After defining organization-wide SLOs, and the subsequent SLIs (to track SLAs), calculating Error Budgets is just a numbers game. In short, these metrics are the foundation to establish a strong SRE culture and I cannot stress enough how it promotes accountability, trust, and timely innovation.</p><p>As someone who painstakingly experienced the challenges with SLO monitoring, I built this open-source project &quot;SLO tracker&quot; (https://slotracker.com) - as a simplified means to track the defined SLOs, Error Budgets, and Error Budget burn rate with intuitive graphs and visualizations.</p><p>While this started off as a tool for internal use, I have now made it open-source for everyone to use, provide suggestions, code patches or contribute in any way that can make this a better tool. This talk is about my journey covering the what, why & how of SLO monitoring which inspired this project.</p>",
       "video": "",
       "slides": "",
       "hash": "976c940b1372c5763f05ca9c451969be"
@@ -61,7 +59,7 @@ var rawSpeakers = {
       "gitlab": "",
       "twitter": "",
       "bio": "Tech writer for Chronosphere. Podcaster, video maker, writer of interactive fiction & games.",
-      "title": "Using Grafana to Measure the Impact of Documentation",
+      "title": "Increasing Cloud-native sustainability with Observability",
       "abstract": "",
       "video": "",
       "slides": "",
@@ -75,7 +73,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Clint Sharp has been monitoring and observing systems and networks for over twenty years. For the last ten years, Clint has been making software for processing observability data for most recently as co-founder and CEO of Cribl and previously at Splunk. Prior to being a vendor, Clint ran operations teams responsible for running complex distributed systems at Cricket and AT&T. Running systems is a thankless job, and Clint is passionate about trying to improve operators lives, in some little way, by building great software.",
       "title": "Universal Observability Requires Universal Instrumentation",
-      "abstract": "",
+      "abstract": "<p>Observability means being able to ask and answer questions of your running systems by observing their outputs, but in today's world only a small fraction of applications are instrumented. Monitoring is ubiquitous, with basic infrastructure level visibility across every server, container, network device and more. AppScope is a new open source project which aims to make observability as ubiquitous as monitoring.</p><p>AppScope is a new form of black-box instrumentation that provides metrics and logs from any linux binary, regardless of the runtime, delivered in open formats to existing tools simply by prepending `scope` to the command. This talk will walk through AppScope, why it exists, how it works, and show with heavy amounts of live demo how AppScope can give application level visibility to every application.</p>",
       "video": "",
       "slides": "",
       "hash": "e3d83cc09d8705a0ac89d2298d7c925e"
@@ -114,7 +112,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Dudi is Rookout’s VP of R&D. He is passionate about technology, innovation and bringing ideas to life. He has vast experience in cybersecurity and low-level research and development. Out of the office, he tinkers with electronics and IoT devices, and on vacations, he tries to scuba dive as much as possible.",
       "title": "Tracing is dead: How to maximize results with logging and metrics",
-      "abstract": "",
+      "abstract": "<p>Tracing is one of the hottest topics in Observability and Monitoring. There are myriad open-source projects, new startups, and entire conferences dedicated to it. But here’s the truth: While everyone building and maintaining software has heard of Tracing, only a select few engineers in a company end up using it.</p><p>It’s a non-trivial engineering effort to implement tracing across your architecture, regardless of whether you are using a commercial offering or an open-source project. It’s going to end up an expensive project, due to either SaaS or compute costs, and you will find that most of your engineers are struggling to work with this complex data.</p><p>And here’s the kicker: in most documented tracing use cases, you would have been better off using logs and metrics for a fraction of the cost and effort.</p><p>In this talk, we are going to explore how day-to-day issues encountered by the majority of engineers can be solved using classic logs and metrics. We will look at real-world incidents and discuss why agility is the missing secret sauce of modern Observability.</p>",
       "video": "",
       "slides": "",
       "hash": "457d27199a3265cdde4a902b997a5932"
@@ -127,7 +125,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Fred Moyer is an Observability Engineer and likes to apply math to large sets of data. Fred is a recovering Perl and C programmer, and these days likes to hack in Go and is Ruby. He is a 2018 Google dev award winner for his Istio adapter, a 2013 White Camel award winner, Apache Software Foundation member, and has worked in software engineering and reliability roles for the last 18 years. Fred has two young children and now only rides his bike on the trainer in the garage.",
       "title": "SLIs, SLOs, and Error Budgets at Scale",
-      "abstract": "",
+      "abstract": "<p>How can one democratize the implementation of SLIs, SLOs, and Error Budgets to put them in the hands of a thousand engineers at once?</p><p>At Zendesk we developed simple algorithms and practical approaches for implementing SLIs, SLOs, and Error Budgets at scale using a number of observability tools. This talk will show the approaches developed and how we were able to manage observability instrumentation across dozens of teams quickly in a complex ecosystem (CDN, UI, middleware, backend, queues, dbs, queues, etc).</p><p>This talk is for engineers and operations folks who are putting SLIs, SLOs, and Error Budgets into practice. Attendees will come away with concrete examples of how to communicate and implement Error Budgets across multiple teams and diverse service architectures.</p>",
       "video": "",
       "slides": "",
       "hash": "6278837dcde59999e3dc77d0beb8a0d1"
@@ -140,7 +138,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Hakan is a Software Engineer in the infrastructure team at Lyft. His main focus is building robust, scalable systems that help Lyft users to go where they need to be and help Lyft developers to be as productive as possible. He has worked on data, product and infrastructure problems as a data analyst, data engineer and software engineer at different companies. He also has a PhD in Electrical Engineering from Boston University focused on optical microscopy and electromagnetic optics.",
       "title": "Building an In-House Alerting System",
-      "abstract": "",
+      "abstract": "<p>In this talk, we will focus on the new alerting system we are building at Lyft and how we are approaching the migration from our current system. We will talk about how we approached the design of the system based on Lyft’s needs and how we are conducting the migration as painless and effortless as possible to our engineers.</p><p>Lyft has 1000+ engineers and 1000+ services which are continuously growing. Lyft rideshare, bike and scooter rental products are used by millions of people everyday at all hours of the day for their transportation needs. Any downtime on Lyft services causes a big disruption to the users as transportation is a time critical need. Therefore, alerting engineers in a timely manner is crucial to resolve any unexpected issue before it impacts the users on the roads.</p><p>Lyft has 50K+ alerts on its services. At our scale, relying on a third party solution for metrics and alerting has both cost and reliability issues. This prompted us to start building an in-house alerting system to replace these third party solutions. Our new system allows engineers to be able to see all their alerts by team and by service in a web interface with all the details about the alert in addition to historical and current state of the alert. It displays the metric sources and the alert conditions in an easy to use UI. We also provide API access for mass alert modification and creation. This allows us to automatically create the necessary standardized alerts that the new services need thanks to the envoy backed network layer. The in-house alerting system also opens doors for many possibilities for new kinds of alerts and alert conditions. We can tailor check intervals based on alert definition for better alert management and to keep query load on data sources appropriate. We can add as many data sources as needed to get richer and more relevant alerts. This kind of capability opens up the alerting system beyond system monitoring and makes it useful for the whole company for business monitoring.</p><p>Migrations are always painful. We will talk about how we are planning to use automated tools to support both old and new systems at the same time during vetting the new alerting system. We will also talk about how to get to 100% parity with the old system and beyond while we are changing the mindset about how alerts are defined in the new system.</p>",
       "video": "",
       "slides": "",
       "hash": "c1ec9daa13994d6178b7fc041168f5dd"
@@ -153,7 +151,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Harish Dixit is a Release To Production Engineer at Meta. Harish and team work on reliability and performance evaluation for all of deployed Facebook fleet of servers. Harish leads the efforts to deal with silent data corruptions within Meta infrastructure along with a special focus on compute and memory reliability within the fleet.  Harish has over 20 patent filings across system architecture and communication domains. As part of this talk, Meta will be giving an overview of silent data corruptions, their prevalence in large scale infrastructure with a case study, and efforts to mitigate them at scale. These efforts are also published as “Silent Data Corruptions at Scale” and “Detecting silent data corruptions in the wild” for the curious reader.",
       "title": "Detecting silent errors in the wild",
-      "abstract": "",
+      "abstract": "<p>Silent data corruptions (SDCs), data errors that go undetected by the larger system, are a widespread problem for large-scale infrastructure systems. Left undetected, these types of corruptions can cause data loss and propagate across the stack and manifest as application-level problems.</p>Silent data corruptions (SDC) in hardware impact computational integrity for large-scale applications. Sources of corruptions include datapath dependencies, temperature variance, and age, among other silicon factors. These errors do not leave any record or trace in system logs. As a result, silent errors stay undetected within workloads and can propagate across several services. In this talk, we describe testing strategies to detect and mitigate silent data corruptions within a large-scale infrastructure. Given the challenging nature of the problem, we experimented with different methods for detection and mitigation. We compare and contrast two such approaches: 1) Fleetscanner (out-of-production testing) and 2) ripple (in-production testing). We evaluate the infrastructure trade-offs associated with the silicon testing funnel across 3+ years of production experience.</p>",
       "video": "",
       "slides": "",
       "hash": "22ce448f20449e45830e2d46ee66de2b"
@@ -166,7 +164,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Joe Ross holds a PhD in mathematics from Columbia University and was a researcher and instructor in pure mathematics. He has given more than 30 talks about his research at conferences and universities throughout the world, and has 12 peer-reviewed publications in mathematics/statistics. Joe has worked as a data scientist for eight years; in his current role at Splunk, he leads the applied research and machine learning efforts for observability.",
       "title": "Approaches to online quantile estimation",
-      "abstract": "",
+      "abstract": "<p>Quantiles (e.g., median, 99th percentile) are fundamental summary statistics of one-dimensional distributions. They are particularly important for SLA-type calculations and characterizing latency distributions, but unlike their simpler counterparts such as the mean and standard deviation, their computation is somewhat more expensive. The increasing importance of stream processing (in observability and other domains) and the impossibility of exact online quantile calculation together create the need for compact data structures for estimation of quantiles on streams. In this talk we will explore and compare several such data structures (e.g., moment-based, KLL sketch, t-digest) with an eye towards how they balance accuracy against resource efficiency, theoretical guarantees, and desirable properties such as mergeability. We will also discuss a recent variation of the t-digest which provides more flexibility in specifying how computational resources should be expended across the distribution. No prior knowledge of the subject is assumed.</p>",
       "video": "",
       "slides": "",
       "hash": "2c45622ba5e0df7c693b15107d1ef3f5"
@@ -179,7 +177,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Jonathan founded and led Flowmill (now part of Splunk), which developed an eBPF-based Network Performance Monitoring (NPM) solution -- available as OpenTelemetry's NPM collector. Flowmill emerged from Jonathan's PhD research, prior to which he worked on government R&D in high performance computing and cyber-security. He's a bit of a foodie, and enjoys cycling, hiking, and designing systems that let users analyze a lot of data quickly without breaking the bank.",
       "title": "Practical eBPF: How to build service-aware network monitoring",
-      "abstract": "",
+      "abstract": "<p>Over the past year, you may have heard about a new tool in the observability practitioners toolbox, eBPF. It’s an incredibly powerful, high performance, secure interface into the Linux kernel. You may have even tried out some CLI-based troubleshooting tools or simple programs that use it.</p><p>But what comes next? This talk will explain how to get beyond ad hoc queries and build a powerful network observability system on top of this technology. Specifically, we will explain how eBPF can be used to monitor the Linux network subsystem with remarkably low overhead and how this data should be processed and aggregated before being fed to other metrics tools or timeseries databases. We’ll also talk about some real world use cases such as tracking service dependencies, collecting service to service health and latency metrics, and identifying network infrastructure problems as well as some of the design considerations in building a similar system yourself.</p>",
       "video": "",
       "slides": "",
       "hash": "6a10a31456d47638485a415243938c5e"
@@ -205,7 +203,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "In my sordid career, I have been an actor, bug exterminator and wild-animal remover (nothing crazy like pumas or wildebeasts. Just skunks and raccoons.), electrician, carpenter, stage-combat instructor, American Sign Language interpreter, and Sunday school teacher. Oh, and I work with computers.</br></br>Since 1989 (when Windows 286 came on twelve 5¼” floppies for free with Excel 1.0) I've worked as a classroom instructor, courseware designer, desktop support tech, server support engineer, and software distribution expert.</br></br>Then about 20 years ago I got involved with monitoring. I've worked with a wide range of tools: Tivoli, Nagios, Patrol, ZenOss, OpenView, SiteScope, SolarWinds, and of course New Relic. I've designed solutions for companies that were modest (~10 systems), significant (5,000 systems), and ludicrous (250,000 systems). In that time, I've learned a lot about monitoring and observability in all it's many and splendid forms.",
       "title": "Technical Empathy",
-      "abstract": "",
+      "abstract": "<p>From software to sneakers to sofas, the best designs are executed from the point of view of the user, maintainer, or owner - NOT from the point of view of the designers themselves. The terms &quot;usuability&quot;, &quot;intuitive&quot;, and even &quot;innovation&quot; are (or should be) inextricably linked with the perspective of the recipient, not the creator.</p><p>As IT practitioners, we solve for this by taking time up-front to nail down the desired feature; by creating small incremental changes rather than sweeping monolithic updates; by collecting metrics on usage and flow; and by maintaining a &quot;fail fast&quot; mentality where we can pivot quickly. But all that might miss a key point: do we understand how the intended beneficiary of brilliance thinks? Do we know not only what they want, but why they want it? Or how they want it?</p><p>The ability to see things from this perspective is called &quot;technical empathy&quot;. In this talk, I'll define what technical empathy is; describe how having technical empathy enhances our design choices, smooths the road to execution, and leads to better outcomes; and provide ideas on how developers and engineers can build technical empathy in themselves and foster it within teams.</p>",
       "video": "",
       "slides": "",
       "hash": "56ee722af3a0241ea4b70e25aba35357"
@@ -218,7 +216,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Currently heading up the Observability Community within Contino, Matt has a history of helping organizations monitor and track anything from air quality and viticulture to systems with thousands of servers and instances running public cloud platforms.</br></br>Matt’s experience of working with both physical hardware, IoT devices, and cloud platforms has led him to a strange position in the world of Observabilty in which he has been able to monitor servers, serverless, and even farm animals using the same set of Open Source tools - tools that he continues to recommend to Contino's customers.",
       "title": "Automating Deployments to Grafana, Loki, and Prometheus",
-      "abstract": "",
+      "abstract": "<p>Infrastructure as code is everywhere, but how do we apply it to our Observability stack?</p><p>Join Matt Wallace as he takes you through automating the deployment of your monitoring stack, including the infrastructure, dashboards, and even the SLI's and SLO's that you need to ensure your SRE function is on target.</p><p>By the end of the session, you'll have seen how a combination of Terraform, Sloth.dev, and some other tools can provide you with a CI/CD pipeline for your entire Observability stack, allowing you to keep your dashboards and SLO information close to the code whilst ensuring repeatability across all your environments.</p>",
       "video": "",
       "slides": "",
       "hash": "8a3c26150c976bc664501c5befa66dfc"
@@ -231,7 +229,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Monika works as a Core SRE @Cloudflare. She is passionate about observability, k8s and databases. Outside of work, she tries to keep up to the energy of her toddler.",
       "title": "Building Scalable Logging Infrastructure using ClickHouse",
-      "abstract": "",
+      "abstract": "<p>At Cloudflare, we are using ELK stack for our logging infrastructure. We noticed that logs were increasing quite fast, more than 60% year by year. We use ClickHouse extensively in Cloudflare for analytics workload and have seen some amazing results. So we decided to do a Proof-of-concept (POC), and based on the POC results, migrate one of the major component of our logging infrastructure from Elasticsearch to ClickHouse.</p><p>We will talk about:</br><ul><li>Why elasticsearch isn't the most appropriate datastore for logs at scale</li><li>How we designed the evaluation criteria for ClickHouse POC</li><li>How we designed the production data pipeline for logs</li><li>How using clickhouse benefited us</li></ul></p>",
       "video": "",
       "slides": "",
       "hash": "999a3d269557e051f43962965cf76ca9"
@@ -244,7 +242,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Natalie Serrino is a Principal Engineer at New Relic working on the Pixie open source project. She focuses on Pixie’s data layer, more specifically, the PxL language, the PxL compiler, and Pixie’s edge query engine for analytics.",
       "title": "Observability is a Data Problem",
-      "abstract": "",
+      "abstract": "<p>Observability shares remarkable similarities to the data space. Sometimes it seems like machine learning, analytics, and fancy dashboards get all the glory. In reality, most of the work goes to the less glamorous tasks - such as actually collecting the data, piping it to the right places, transforming it into the right format. Like most data problems, observability gets harder at scale - both in scaling the volume of data, as well as scaling observability to a large number of engineering teams.</p><p>In this talk, we'll discuss observability scaling challenges of various stripes. Additionally, we'll look at how open source projects like Pixie and OpenTelemetry are helping the developer community address these problems. This session will be grounded in real world examples and demos. These include collecting new data sources in prod, ingesting and exporting diverse data sources via OpenTelemetry, and a deep dive into the math of the cost of long term data retention. All demos shown in the talk will be entirely open source and made available to attendees in advance to follow along.</p>",
       "video": "",
       "slides": "",
       "hash": "e912232d475fb42fa2bdccb223a9aee5"
@@ -257,7 +255,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Software engineer at Grafana Labs, working on Mimir squad.",
       "title": "Handling a billion of active series with Grafana Mimir",
-      "abstract": "",
+      "abstract": "<p>Grafana Mimir is a new open source distributed time series database for Prometheus. Grafana Mimir offers high availability, horizontal scalability, multi-tenancy, durable storage, and blazing fast query performance over long periods of time.</p><p>In this technical deep dive talk, we’ll discuss the challenges of scaling a Prometheus storage to 1 billion active series. We will share details on the scalability limits and the bottlenecks we’ve found, as well as some cutting edge features we’ve introduced to overcome the limitations.</p><p>The talk will explain how Grafana Mimir query sharding and the new two-stage compactor work together to accelerate query execution, sharding both metrics in memory and in the long term storage.</p><p>Finally, we’ll look at the future and how we plan to make Grafana Mimir a general purpose time series database, even easier to configure and run at any scale.</p>",
       "video": "",
       "slides": "",
       "hash": "7361e2e8e94b07fc47b579d0222ee5c5"
@@ -270,7 +268,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "As a late comer to software with an unorthodox background, I appreciate the hackers, startups, and those _just figuring it out_. Previously, I helped build the small DC startup, _Nutritionix_ and later infrastructure-as-code products at Fugue. These days I work at Grafana Labs on the logging database, Loki. This primarily means building the OSS project and running the Loki SaaS for thousands of tenants across many cloud provider/region pairs. You can recognize me online by my Bulbasaur avatar.",
       "title": "A Rose By Any Other Name: Translating PromQL To Scale",
-      "abstract": "",
+      "abstract": "<p>How do you scale Proemtheus? How do you aggregate and query data from different Promethei? Storage backends like Cortex and Thanos, both CNCF Sandbox projects, exist in part to solve these problems. However, ingesting metrics from multiple Promethei introduces a new set of scaling concerns. In this presentation, Owen Diehl will describe how certain queries can be disassembled and expanded in order to execute in a highly parallel fashion. This helps maintain low query latencies despite much larger datasets. While this work starts out in Cortex, it remains open to other backends like Thanos because it both consumes and produces the Prometheus API.</p><p>Translating PromQL has two main benefits. This functionality currently exists within a Cortex component called the query-frontend, which brokers queries to a Prometheus API. Because of this, it can be decoupled from a specific Prometheus compatible backend. This work is helpful because it extends what Prometheus does well by allowing it to transparently operate at a much higher scale. It can perform smaller aggregations in parallel and recombine them. This is the basis the query-frontend uses to transparently scale Prometheus queries across large datasets without the requester being any the wiser.</p>",
       "video": "",
       "slides": "",
       "hash": "229e52b0b90630b14f7beb24f4b756d2"
@@ -283,7 +281,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Pradeep is an SRE at Cloudflare where he currently works in Postgres Team. Originally from Nepal, he is now based in Singapore. In his free time, he enjoys travelling.",
       "title": "Building Scalable Logging Infrastructure using ClickHouse",
-      "abstract": "",
+      "abstract": "<p>At Cloudflare, we are using ELK stack for our logging infrastructure. We noticed that logs were increasing quite fast, more than 60% year by year. We use ClickHouse extensively in Cloudflare for analytics workload and have seen some amazing results. So we decided to do a Proof-of-concept (POC), and based on the POC results, migrate one of the major component of our logging infrastructure from Elasticsearch to ClickHouse.</p><p>We will talk about:</br><ul><li>Why elasticsearch isn't the most appropriate datastore for logs at scale</li><li>How we designed the evaluation criteria for ClickHouse POC</li><li>How we designed the production data pipeline for logs</li><li>How using clickhouse benefited us</li></ul></p>",
       "video": "",
       "slides": "",
       "hash": "dbfe6bba2752980bbd0e2371a549d9be"
@@ -296,7 +294,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Sophia Russell is a Staff Engineer at Betterment. After spending many sleepy mornings slinging pastry dough down south, she made her way to the big city and started slinging code. She cares deeply about code quality, naming things, and designing software with empathy. She has a young daughter, Greta, who loves crawling, eating corn on the cob, and yelling very loudly.",
       "title": "The little SLI that could",
-      "abstract": "",
+      "abstract": "<p>How can you convince an org to go from alerting on log lines to instrumenting their new features from the design phase? It’s not easy. Maturing the o11y scene at a company with 100+ engineers takes time, education, and a heck of a lot of persistence. I’d love to share my multi-year journey of persuasion, education, and tooling to help Betterment go from bespoke queries and alerts, to standardized telemetry and intentional service-level objectives. This journey starts with writing powerful but small helper methods for engineers to use to annotate their Java and Rails codebases. Once we had a base layer of SLIs for all our background jobs and controller actions, I dove into tooling to help the teams write SLOs with ease. And then I jumped in headfirst with education. Energized with a clear deadline ahead of me (I was in my final trimester of pregnancy!), I led a handful of workshops with different teams to educate and disambiguate SLIs from SLOs from SLAs, and worked with folks to write their first SLOs using the SLIs from the now-familiar code level annotations.</p><p>What I’ve learned most on this journey is that you can’t go at it alone. SLOs are not a project. Instrumenting your codebase from the start (or even after a feature has shipped) requires a different mindset. It's a philosophically different approach to engineering - much like TDD, ODD (observability driven development) requires you to step back and take the time to think about what you want your code to do and how you want it to succeed from a different perspective. And it can’t be enforced from the top. It requires widespread conviction throughout the org. Anyone can write an SLO and anyone can be an o11y advocate. For an org to mature requires buy-in from the engineers on the ground writing the code. And for you to get engineers to believe that this principled method of writing software really works, you need to reach engineers with the language they speak the most: code. Education and workshops were invaluable, but it was the tooling that really helped this transition succeed.</p>",
       "video": "",
       "slides": "",
       "hash": "9e26b25f745138e3e025182365437a34"
@@ -309,7 +307,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "As Engineering Executive at Splunk, Steve leads Observability “Getting Data In”: the top contributor to the CNCF OpenTelemetry project. Previously, he served as a founding member and Head of Product at Omnition; and Global Engineering Manager for log analytics at VMware. Steve’s background includes business strategy, software development, product management, user experience, and operations management. He uses data-driven decision-making, agile development processes, and teamwork to create innovative and sustainable solutions; and is distinctly passionate about open-source software and democratizing data.",
       "title": "OTel Me How to DIY Observability",
-      "abstract": "",
+      "abstract": "<p>Observing distributed, polyglot, microservice-based architectures is hard. To be successful, you need to be able to ask any question about your telemetry data. Collecting and querying telemetry data are two of the hardest problems to solve. If you are doing it yourself, what are the options, and how can you ensure you set yourself and your company up for success?</p><p>OpenTelemetry is an open-source and vendor-agnostic project in CNCF that is democratizing telemetry collection. In this talk, you will learn the basics of OpenTelemetry and how you can use it to plug into other open-source projects, including Jaeger and Prometheus. Regardless of the tooling you currently use or plan to introduce, OpenTelemetry provides an extensible, open-standards-based model that allows you to switch or add different back-ends depending on your needs easily.</p>",
       "video": "",
       "slides": "",
       "hash": "3f8db521ff879689c0a33a598ec9bb55"
@@ -322,7 +320,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Suman Karumuri is a Sr. Staff Software Engineer and the tech lead for Observability at Slack. Suman Karumuri is an expert in distributed tracing and was a tech lead of Zipkin and a co-author of OpenTracing standard, a Linux Foundation project via the CNCF.</br></br>Previously, Suman Karumuri has spent several years building and operating petabyte scale log search, distributed tracing and metrics systems at Pinterest, Twitter and Amazon. In his spare time, he enjoys board games, hiking and playing with his kids.",
       "title": "KalDB: A k8s native log search platform",
-      "abstract": "",
+      "abstract": "<p>Slack uses centralized log search to aggregate the logs across our services from our infrastructure. Our current ElasticSearch(ELK) based log search infrastructure is widely used for triaging, debugging, fixing errors, and eliminating performance issues at Slack. Currently, we face three large problems with our log search infrastructure.</p><p>First, our ingest volume can be spiky, sometimes varying as much as 10x. Normal operations like users coming online in the morning or a new release could causes a temporary increase in log messages. As a result, we often have delayed logs which limits our ability to understand what is happening in our systems in real time especially during an incident.</p><p>Secondly, our logs are semi-structured. ElasticSearch infers schemas automatically, keeps it consistent across the cluster, and enforces it on following logs. Incompatible field types cause type conflict error in ElasticSearch, which drops the offending logs. However, keeping the log types consistent across hundreds of applications tends to be quite challenging and it often leads to missing logs whose root cause needs to be manually triaged.</p><p>The final issue we face with our current infrastructure is that our ELK stack constitutes a high amount of operational and on-call overhead for the monitoring team due to cluster health issues. We run over 50 clusters and keeping the clusters healthy and compliant is not scalable.</p><p>We built KalDB, a new open source log search solution, to address the above issues with ElasticSearch. KalDB uses a novel ingestion mechanism to prioritize indexing fresh logs over older logs during log spikes to provide real time visibility into our systems. It also employs a new sharding algorithm to elastically scale indexing capacity while minimizing data movement during log spikes.</p>",
       "video": "",
       "slides": "",
       "hash": "3d50b5502ffd0346f3047bf2d246da72"
