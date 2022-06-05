@@ -190,7 +190,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Joy has been working with computer networks and systems engineering for 25+ years. She is currently working as the Director of Infrastructure Engineering at StrongDM and having a blast focusing on reliability and scaling. She loves technical leadership and finding human-friendly and human-focused solutions to technical problems.",
       "title": "Starting smart and planning for growth; what I wish I knew",
-      "abstract": "",
+      "abstract": "In this talk, I'm going to go through my thought process for building and maintaining a highly available system. It's not specific to any given technology, but it's the talk I wish I had when I started out. We have so many tools and services available to us now, and we can truly build a service that heals itself with minimal human intervention without the huge overhead that used to come along with this.",
       "video": "",
       "slides": "",
       "hash": "8cec5a7ca030ed6c622d44b7b468cd9b"
