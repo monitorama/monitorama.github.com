@@ -60,7 +60,7 @@ var rawSpeakers = {
       "twitter": "",
       "bio": "Tech writer for Chronosphere. Podcaster, video maker, writer of interactive fiction & games.",
       "title": "Increasing Cloud-native sustainability with Observability",
-      "abstract": "",
+      "abstract": "<p>Need some functionality in your code? Add some dependencies to help! Don't want to write a lot of boilerplate? Use a framework! While you're at it, add a database, a caching layer, a load balancer, a service mesh, an observability solution, and half a dozen other 3rd party services.</p><p>Easy! And don't worry, if your infrastructure can't cope, just spin up a few more cloud-hosted instances and all will be well!</p><p>Except… All these components into the modern application stack come with overheads. The include financial costs as well as the time and mental overhead of integrating and maintaining all of them.</p><p>But there's another cost that's all to easy to forget about. The environmental impact of everything that comprises your applications. In this presentation I look into the potential sustainability impact of decisions you make with application architectures, how to monitor them, and ideas for mitigating them.</p>",
       "video": "",
       "slides": "",
       "hash": "35a44b69ae5c2c1d250216f8ccc9d67c"
