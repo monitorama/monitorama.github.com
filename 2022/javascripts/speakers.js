@@ -274,6 +274,19 @@ var rawSpeakers = {
       "hash": "229e52b0b90630b14f7beb24f4b756d2"
     },
     {
+      "name": "Pete Cheslock",
+      "pronouns": "he/him",
+      "github": "",
+      "gitlab": "",
+      "twitter": "",
+      "bio": "Hello World",
+      "title": "An Industry Retrospective: Through the lens of Monitorama sponsor logos",
+      "abstract": "TBD",
+      "video": "",
+      "slides": "",
+      "hash": "6f8b01a43eb907d6b473b37724bfc492"
+    },
+    {
       "name": "Pradeep Chhetri",
       "pronouns": "he/him",
       "github": "",
