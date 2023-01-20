@@ -16,7 +16,7 @@ var sponsors = {
     },
     {
       "name": "chronosphere",
-      "enabled": false,
+      "enabled": true,
       "url": "https://chronosphere.io/",
       "width": 225,
       "bio": "<p>Chronosphere is the only cloud native observability platform that puts you back in control by taming rampant data growth and cloud native complexity while accelerating innovation. Teams at organizations of all sizes trust Chronosphere to help them drive competitive advantage and world-class customer experiences while reducing engineering burnout and eliminating lock-in.</p>"
