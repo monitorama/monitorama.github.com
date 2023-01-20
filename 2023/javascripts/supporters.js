@@ -1,9 +1,9 @@
 var sponsors = {
   "pdx": [
     {
-      "name": "bigpanda",
+      "name": "moogsoft",
       "enabled": false,
-      "url": "http://bigpanda.io/",
+      "url": "https://www.moogsoft.com/",
       "width": 225,
       "bio": "<p></p>"
     },
@@ -41,6 +41,20 @@ var sponsors = {
       "url": "https://squaredup.com/",
       "width": 215,
       "bio": "<p>SquaredUp helps modern enterprises build, run & optimize complex digital services. We plug into any data, wherever it lives, & surface it in one place to enable faster, better-informed decisions—think of us as mission control for your digital Ops.</p>"
+    },
+    {
+      "name": "shoreline",
+      "enabled": false,
+      "url": "https://www.shoreline.io/",
+      "width": 225,
+      "bio": "<p>.</p>"
+    },
+    {
+      "name": "groundcover",
+      "enabled": true,
+      "url": "https://www.groundcover.com/",
+      "width": 195,
+      "bio": "<p><p>groundcover is a Kubernetes application monitoring solution that reinvents the domain with eBPF. Built for modern production environments, it covers everything yet stores only what matters, allowing teams to scale away without worries. groundcover requires zero code changes and taps into all application logs, metrics, traces and Kubernetes events with one magical command and zero instrumentation.</p><p>Installation takes under a minute and covers 100% of your stack with mind-blowing granularity. Every application, legacy code, side car or 3rd party component. If you have it, we cover it. groundcover reduces high volumes of data intro metrics without the data being moved and stored. By transforming random sampling into smart capturing, we capture the 1% you care about - making it easier to troubleshoot at the speed of your scale.</p></p>"
     }
   ],
   "baltimore": [
