@@ -44,10 +44,10 @@ var sponsors = {
     },
     {
       "name": "shoreline",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.shoreline.io/",
       "width": 225,
-      "bio": "<p>.</p>"
+      "bio": "<p>Cloud leaders rely on Shoreline’s Cloud Reliability Platform to run:</p><ul><li>Self-healing infrastructure for repetitive issues</li><li>Runbook automation to reduce escalations</li><li>Real-time troubleshooting across 1,000s of nodes</li><li>Pre-built solutions that address common incidents</li></ul><p>Shoreline makes it easy for engineers to diagnose and repair incidents, and to quickly create automated remediations to fix them forever.</p>"
     },
     {
       "name": "groundcover",
