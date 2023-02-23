@@ -53,7 +53,7 @@ var sponsors = {
       "name": "shoreline",
       "enabled": true,
       "url": "https://www.shoreline.io/",
-      "width": 225,
+      "width": 190,
       "bio": "<p>Cloud leaders rely on Shoreline’s Cloud Reliability Platform to run:</p><ul><li>Self-healing infrastructure for repetitive issues</li><li>Runbook automation to reduce escalations</li><li>Real-time troubleshooting across 1,000s of nodes</li><li>Pre-built solutions that address common incidents</li></ul><p>Shoreline makes it easy for engineers to diagnose and repair incidents, and to quickly create automated remediations to fix them forever.</p>"
     },
     {
@@ -61,7 +61,14 @@ var sponsors = {
       "enabled": true,
       "url": "https://www.groundcover.com/",
       "width": 195,
-      "bio": "<p><p>groundcover is a Kubernetes application monitoring solution that reinvents the domain with eBPF. Built for modern production environments, it covers everything yet stores only what matters, allowing teams to scale away without worries. groundcover requires zero code changes and taps into all application logs, metrics, traces and Kubernetes events with one magical command and zero instrumentation.</p><p>Installation takes under a minute and covers 100% of your stack with mind-blowing granularity. Every application, legacy code, side car or 3rd party component. If you have it, we cover it. groundcover reduces high volumes of data intro metrics without the data being moved and stored. By transforming random sampling into smart capturing, we capture the 1% you care about - making it easier to troubleshoot at the speed of your scale.</p></p>"
+      "bio": "<p>groundcover is a Kubernetes application monitoring solution that reinvents the domain with eBPF. Built for modern production environments, it covers everything yet stores only what matters, allowing teams to scale away without worries. groundcover requires zero code changes and taps into all application logs, metrics, traces and Kubernetes events with one magical command and zero instrumentation.</p><p>Installation takes under a minute and covers 100% of your stack with mind-blowing granularity. Every application, legacy code, side car or 3rd party component. If you have it, we cover it. groundcover reduces high volumes of data intro metrics without the data being moved and stored. By transforming random sampling into smart capturing, we capture the 1% you care about - making it easier to troubleshoot at the speed of your scale.</p>"
+    },
+    {
+      "name": "sumologic",
+      "enabled": true,
+      "url": "https://www.sumologic.com/",
+      "width": 200,
+      "bio": "<p>Nearly every enterprise undergoing digital transformation is building cloud-native applications to deliver new, digital experiences. The Sumo Logic Continuous Intelligence Platform™ provides real-time analytics and insights to help practitioners and developers ensure application reliability, secure and protect against modern threats, and gain insights into their cloud infrastructures. By delivering a SaaS analytics platform for cloud-native application observability and security solutions, Sumo Logic is empowering the people who power modern, digital business so they, in turn, can deliver reliable and secure digital experiences.</p>"
     }
   ],
   "baltimore": [
