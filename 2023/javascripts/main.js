@@ -78,8 +78,8 @@ function compare(a, b) {
 var eventCity = window.location.pathname.split('/').pop().split('.')[0]
 
 // sort speakers
-//speakers = rawSpeakers[eventCity].sort(compare)
-speakers = rawSpeakers[eventCity]
+speakers = rawSpeakers[eventCity].sort(compare)
+//speakers = rawSpeakers[eventCity]
 
 // iterate through speakers
 for (var i in speakers) {
