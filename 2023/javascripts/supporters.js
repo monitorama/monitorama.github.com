@@ -64,6 +64,13 @@ var sponsors = {
       "bio": "<p>groundcover is a Kubernetes application monitoring solution that reinvents the domain with eBPF. Built for modern production environments, it covers everything yet stores only what matters, allowing teams to scale away without worries. groundcover requires zero code changes and taps into all application logs, metrics, traces and Kubernetes events with one magical command and zero instrumentation.</p><p>Installation takes under a minute and covers 100% of your stack with mind-blowing granularity. Every application, legacy code, side car or 3rd party component. If you have it, we cover it. groundcover reduces high volumes of data intro metrics without the data being moved and stored. By transforming random sampling into smart capturing, we capture the 1% you care about - making it easier to troubleshoot at the speed of your scale.</p>"
     },
     {
+      "name": "victoriametrics",
+      "enabled": true,
+      "url": "https://victoriametrics.com/",
+      "width": 225,
+      "bio": "<p>VictoriaMetrics is the company behind the open source time series database project of the same name. We are focused on helping individuals and organizations address their big data challenges through state-of-the-art monitoring and observability solutions. Founded in Kyiv, Ukraine, globally led and headquartered in the US, VictoriaMetrics is the scaleup leader in the category of open source time series database monitoring and our software now boasts 100M+ downloads. <a href=\"https://victoriametrics.com\">https://victoriametrics.com</a></p>"
+    },
+    {
       "name": "sumologic",
       "enabled": true,
       "url": "https://www.sumologic.com/",
