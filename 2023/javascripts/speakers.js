@@ -247,20 +247,20 @@ var rawSpeakers = {
       "slides": "",
       "hash": "5c1fd14ce6e455647e6a6a73f452c5b5",
     },
-    /* {
-      "name": "",
-      "pronouns": "",
+    {
+      "name": "Christian Kreibich",
+      "pronouns": "He/Him",
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "",
-      "title": "",
+      "bio": "Christian is the technical lead of the Zeek project. He works at Corelight, where he's a Principal Engineer and leads Open Source development. He previously spent 5 years heading the networking group at Lastline, and prior to that spent 5 years as a research scientist at the International Computer Science Institute in Berkeley. He has served on the advisory board of the Open Information Security Foundation, and holds a PhD from the University of Cambridge's Systems Research Group. He still rides skateboards, which recently earned him a busted rotator cuff.",
+      "title": "Meet Zeek, the extensible, scriptable network monitor",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "",
+      "hash": "41d4f1d6c03330175b0d35376945be05",
     },
-    {
+    /* {
       "name": "",
       "pronouns": "",
       "github": "",
