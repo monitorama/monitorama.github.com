@@ -299,19 +299,19 @@ var rawSpeakers = {
       "slides": "",
       "hash": "5eaeee295206dd5e5005a5c90603b1d4",
     },
-    /* {
-      "name": "",
-      "pronouns": "",
+    {
+      "name": "Rob Richardson",
+      "pronouns": "He/Him",
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "",
-      "title": "",
+      "bio": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on https://robrich.org/presentations and follow him on twitter at @rob_rich.",
+      "title": "The Science and Art of Building RunBooks",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "",
-    }, */
+      "hash": "f047343611694451fccb3fd03c779de7",
+    }
   ],
   "baltimore": [
     /* {
