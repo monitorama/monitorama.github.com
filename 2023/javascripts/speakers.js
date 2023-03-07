@@ -286,20 +286,20 @@ var rawSpeakers = {
       "slides": "",
       "hash": "0e816d453cc8f5b333da83a93ed1cc8c",
     },
-    /* {
-      "name": "",
-      "pronouns": "",
+    {
+      "name": "Alex Hidalgo",
+      "pronouns": "He/Him",
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "",
-      "title": "",
+      "bio": "Alex Hidalgo is the Principal Reliability Advocate at Nobl9 and author of &quot;Implementing Service Level Objectives&quot;. During his career he has developed a deep love for sustainable operations, proper observability, and using SLO data to drive discussions and make decisions. Alex's previous jobs have included IT support, network security, restaurant work, t-shirt design, and hosting game shows at bars. When not sharing his passion for technology with others, you can find him scuba diving or watching Premier League football. He lives in Brooklyn with his partner Jen and a rescue dog named Taco. Alex has a BA in philosophy from Virginia Commonwealth University.",
+      "title": "Logs Are Good, Actually",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "",
+      "hash": "5eaeee295206dd5e5005a5c90603b1d4",
     },
-    {
+    /* {
       "name": "",
       "pronouns": "",
       "github": "",
