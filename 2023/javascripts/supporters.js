@@ -16,10 +16,10 @@ var sponsors = {
     },
     {
       "name": "axiom",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.axiom.co/",
-      "width": 225,
-      "bio": "<p></p>"
+      "width": 175,
+      "bio": "<p>Axiom is a timeseries data platform that offers efficient event ingestion, storage, and querying at any scale without worrying about cost. It frees developers from concerns about ingest budgets, sampling, retention, and allows them to focus on providing the necessary data to gain visibility into their systems. Teams of all sizes choose Axiom to eliminate data concerns and use data more effectively for their organization.</p>"
     },
     {
       "name": "chronosphere",
