@@ -71,6 +71,13 @@ var sponsors = {
       "bio": "<p>VictoriaMetrics is the company behind the open source time series database project of the same name. We are focused on helping individuals and organizations address their big data challenges through state-of-the-art monitoring and observability solutions. Founded in Kyiv, Ukraine, globally led and headquartered in the US, VictoriaMetrics is the scaleup leader in the category of open source time series database monitoring and our software now boasts 100M+ downloads. <a href=\"https://victoriametrics.com\">https://victoriametrics.com</a></p>"
     },
     {
+      "name": "armory",
+      "enabled": true,
+      "url": "https://www.armory.io/",
+      "width": 200,
+      "bio": "<p>Armory enables developers to continuously improve and assure their customers’ experience through scalable, safe, reliable, secure, and continuous software deployments.</p><p>Software developers should be able to deploy their code effortlessly, without writing scripts, managing underlying tooling, or worrying about whether their customers are going to experience an outage. But, software deployment often is complex and full of manual processes that lead to customer outages and less time spent on innovation. The bottom line, it remains disruptive, time-consuming, and unreliable.</p><p>Armory makes continuous deployment achievable and effortless, at any scale, for all developers. By providing easy-to-use continuous deployment solutions that eliminate the need to migrate away from existing tools, minimizing disruption to an existing software delivery lifecycle; developers can easily and declaratively deploy new versions alongside live versions, incrementally scale up new versions, enable manual reviews prior to scaling up, effortlessly rollback to an old version, and, manage the deployment across multiple targets and environments; continuously improving and protecting their customer experience.</p>"
+    },
+    {
       "name": "sumologic",
       "enabled": true,
       "url": "https://www.sumologic.com/",
