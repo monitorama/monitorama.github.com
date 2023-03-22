@@ -280,7 +280,7 @@ var rawSpeakers = {
       "gitlab": "",
       "twitter": "",
       "bio": "Dominic Hamon is a Senior Engineering Manager and the Vice-President of Nivenly Foundation. Dominic’s 20+ years of experience have taken him from Theoretical Physics and Maths research, through AAA video game development with the likes of EA and Lucasarts, to large-scale distributed system development for Twitter and Google. He currently works as a Senior Engineering Manager on the Google Play Console platform team, and has also worked on YouTube, Chrome, and Apache Mesos.",
-      "title": "TBA - Raising Hachyderm",
+      "title": "Monitoring Mastodons",
       "abstract": "",
       "video": "",
       "slides": "",
