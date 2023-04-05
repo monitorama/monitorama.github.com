@@ -83,6 +83,27 @@ var sponsors = {
       "url": "https://www.sumologic.com/",
       "width": 200,
       "bio": "<p>Nearly every enterprise undergoing digital transformation is building cloud-native applications to deliver new, digital experiences. The Sumo Logic Continuous Intelligence Platform™ provides real-time analytics and insights to help practitioners and developers ensure application reliability, secure and protect against modern threats, and gain insights into their cloud infrastructures. By delivering a SaaS analytics platform for cloud-native application observability and security solutions, Sumo Logic is empowering the people who power modern, digital business so they, in turn, can deliver reliable and secure digital experiences.</p>"
+    },
+    {
+      "name": "grafana",
+      "enabled": false,
+      "url": "",
+      "width": 200,
+      "bio": "<p></p>"
+    },
+    {
+      "name": "site24x7",
+      "enabled": true,
+      "url": "https://www.site24x7.com/",
+      "width": 175,
+      "bio": "<p>Site24x7 is an AI-powered full stack monitoring platform from ManageEngine, a division of <a href=\"https://www.zohocorp.com/index.html\">Zoho Corporation</a>. The cloud-based offering empowers IT operations and DevOps with its broad capabilities to quickly troubleshoot problems with end-user experience, applications, servers, public clouds, and network infrastructure — all from a single dashboard. Site24x7 is hosted on Zoho Corporation's data centers (both primary & secondary) in the USA, Netherlands, India, Australia, Japan and China. For more information, please visit <a href=\"http://www.site24x7.com/\">www.site24x7.com/</a>.</p>"
+    },
+    {
+      "name": "lightstep",
+      "enabled": false,
+      "url": "",
+      "width": 200,
+      "bio": "<p></p>"
     }
   ],
   "baltimore": [
