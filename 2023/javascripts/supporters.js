@@ -86,10 +86,10 @@ var sponsors = {
     },
     {
       "name": "grafana",
-      "enabled": false,
-      "url": "",
+      "enabled": true,
+      "url": "https://grafana.com/",
       "width": 200,
-      "bio": "<p></p>"
+      "bio": "<p>Grafana Labs provides an open observability stack built around Grafana, the leading open source technology for dashboards. Grafana Labs helps companies manage observability strategies with the fully managed <a href=\"https://grafana.com/products/cloud/\">Grafana Cloud</a> offering or self-managed <a href=\"https://grafana.com/products/enterprise\">Grafana Enterprise Stack</a>, both featuring extensive enterprise data source plugins, dashboard management, metrics, logs, traces, and more. <a href=\"https://grafana.com/\">https://grafana.com/</a>.</p>"
     },
     {
       "name": "site24x7",
