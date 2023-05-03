@@ -2,10 +2,10 @@ var sponsors = {
   "pdx": [
     {
       "name": "moogsoft",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.moogsoft.com/",
       "width": 225,
-      "bio": "<p></p>"
+      "bio": "<p>Moogsoft, the pioneer of AIOps, helps ops teams collaborate, automate & remediate. Delivering one of the most advanced cloud-native platforms, Moogsoft is designed to aggregate your entire monitoring & observability stack & simplify your incident management lifecycle.</p>"
     },
     {
       "name": "newrelic",
