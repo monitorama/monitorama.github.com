@@ -99,7 +99,14 @@ var sponsors = {
       "bio": "<p>Site24x7 is an AI-powered full stack monitoring platform from ManageEngine, a division of <a href=\"https://www.zohocorp.com/index.html\">Zoho Corporation</a>. The cloud-based offering empowers IT operations and DevOps with its broad capabilities to quickly troubleshoot problems with end-user experience, applications, servers, public clouds, and network infrastructure — all from a single dashboard. Site24x7 is hosted on Zoho Corporation's data centers (both primary & secondary) in the USA, Netherlands, India, Australia, Japan and China. For more information, please visit <a href=\"http://www.site24x7.com/\">www.site24x7.com/</a>.</p>"
     },
     {
-      "name": "lightstep",
+      "name": "last9",
+      "enabled": true,
+      "url": "https://last9.io/",
+      "width": 170,
+      "bio": "<p><a href=\"https://last9.io/\">Last9</a> provides tools to improve Reliability in large-scale cloud-native environments. Our <a href=\"https://last9.io/open-standards\">open-standards-based</a> tools provide visibility into the Rube Goldberg of micro-services. We take away the toil of managing a time series database by dramatically reducing your costs and improving developer productivity.</p><p><a href=\"https://last9.io/levitate-tsdb\">Levitate</a> is our time series metrics & events warehouse designed for scale and <a href=\"https://last9.io/high-cardinality\">high cardinality</a>. Our warehousing capabilities provide necessary control levers to ensure cost-efficient <a href=\"https://last9.io/data-tiering\">data growth management</a>, surpassing traditional storage solutions.</p><p>Start your observability journey today with Levitate. <a href=\"https://last9.io/levitate-tsdb\">A Managed Time Series Data Warehouse</a> that SREs trust.</p>"
+    },
+    {
+      "name": "observiq",
       "enabled": false,
       "url": "",
       "width": 200,
