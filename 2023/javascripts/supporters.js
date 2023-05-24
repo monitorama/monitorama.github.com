@@ -1,6 +1,13 @@
 var sponsors = {
   "pdx": [
     {
+      "name": "clickhouse",
+      "enabled": true,
+      "url": "https://clickhouse.com/",
+      "width": 225,
+      "bio": "<p>ClickHouse is the world's fastest and most resource-efficient online analytical column-oriented database management system. Now offered as a secure and scalable serverless offering in the cloud, ClickHouse Cloud allows anyone to effortlessly take advantage of efficient real-time analytical processing.</p>"
+    },
+    {
       "name": "moogsoft",
       "enabled": true,
       "url": "https://www.moogsoft.com/",
