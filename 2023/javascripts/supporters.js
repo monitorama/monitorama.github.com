@@ -114,10 +114,10 @@ var sponsors = {
     },
     {
       "name": "observiq",
-      "enabled": false,
-      "url": "",
+      "enabled": true,
+      "url": "https://observiq.com/",
       "width": 200,
-      "bio": "<p></p>"
+      "bio": "<p>observIQ brings clarity and control to our customer's existing observability chaos. How? Through an observability pipeline: a fast, powerful and intuitive orchestration engine built for the modern observability team. Our product is designed to help teams significantly reduce cost, simplify collection, and standardize their observability data. Learn more at <a href=\"http://www.observiq.com/\">www.observiq.com</a>.</p>"
     }
   ],
   "baltimore": [
