@@ -300,17 +300,17 @@ var rawSpeakers = {
       "hash": "5eaeee295206dd5e5005a5c90603b1d4",
     },
     {
-      "name": "Rob Richardson",
+      "name": "Richard Benwell",
       "pronouns": "He/Him",
       "github": "",
       "gitlab": "",
       "twitter": "",
-      "bio": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on https://robrich.org/presentations and follow him on twitter at @rob_rich.",
-      "title": "The Science and Art of Building RunBooks",
+      "bio": "Richard is founder and CEO of SquaredUp, a data visualization and analytics platform for engineering teams. Richard is passionate about making sense of our data, particularly focusing on how we mere humans visualize and use the mountains of data our systems create. Bootstrapped to a hundred employees and hundreds of enterprise customers, SquaredUp is applying to become one of the first B-Corps in our industry, demonstrating its commitment to both people and planet. Richard is also co-founder of A Good Thing, a non-profit connecting businesses with local charities. He is a Brit currently enjoying life in Boston along with his wife and three children.",
+      "title": "Connecting the dots with OTel semantic conventions",
       "abstract": "",
       "video": "",
       "slides": "",
-      "hash": "f047343611694451fccb3fd03c779de7",
+      "hash": "fcdd6325862a3ca717d861b7125444fd52deaebebe852789de928780ee385b00",
     }
   ],
   "baltimore": [
