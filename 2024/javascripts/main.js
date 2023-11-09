@@ -79,7 +79,7 @@ var eventCity = window.location.pathname.split('/').pop().split('.')[0]
 
 // submit CFP form
 if (eventCity == 'pdx') {
-  $('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2024.herokuapp.com/abstracts/new'));
+  $('.cfp .signup form').on('click', 'a', formHandler('https://judy-pdx-2024-5e451453e3c1.herokuapp.com/abstracts/new'));
 }
 
 // sort speakers
