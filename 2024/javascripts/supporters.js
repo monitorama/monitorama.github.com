@@ -1,11 +1,11 @@
 var sponsors = {
   "pdx": [
     {
-      "name": "",
-      "enabled": false,
-      "url": "",
-      "width": 225,
-      "bio": "<p></p>"
+      "name": "axiom",
+      "enabled": true,
+      "url": "https://www.axiom.co/",
+      "width": 175,
+      "bio": "<p>100% of your data for every possible need: o11y, security, analytics, and new insights. —— Stop sampling, observe every event.</p>"
     }
   ],
   "baltimore": [
