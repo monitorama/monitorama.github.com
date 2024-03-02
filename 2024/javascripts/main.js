@@ -91,8 +91,8 @@ for (var i in speakers) {
     continue;
   }
 
-  /* if (speakers[i].hash.length == 0) {
-    speakers[i].hash = "0580d500edfdb2e5e80e4732ac8df1ea";
+  /* if (speakers[i].gravhash.length == 0) {
+    speakers[i].gravhash = "0580d500edfdb2e5e80e4732ac8df1ea";
   } */
 
   var gravatar_path = "";
