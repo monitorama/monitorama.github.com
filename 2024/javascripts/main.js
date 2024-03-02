@@ -161,13 +161,6 @@ for (var i in speakers) {
       "</li>"
   );
 
-  // needed because Gravatar changed their avatar URLs and we need to support either
-  function speakerHash(speaker) {
-    var parts = speaker.gravpath.split("/");
-    var combined = parts[1] + parts[2];
-    return speaker.gravhash || combined;
-  }
-
   // populate titles for schedule
   if (speakers[i].title.length > 0) {
     $(".schedule span.speaker:contains(" + speakers[i].name + ")")
@@ -175,12 +168,12 @@ for (var i in speakers) {
       .find("h5")
       .html(speakers[i].title)
       .css("cursor", "pointer")
-      .attr("data-hash", speakerHash(speakers[i]))
+      .attr("data-hash", speakers[i].gravhash)
       .on("click", function (e) {
         var hash = e.target.getAttribute("data-hash");
         // When clicking on this title, show a modal with information about the speaker's talk
         var results = $.grep(speakers, function (speaker) {
-          return speakerHash(speaker) === hash;
+          return speaker.gravhash === hash;
         });
 
         if (results[0]) {
