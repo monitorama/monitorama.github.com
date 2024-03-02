@@ -91,22 +91,14 @@ for (var i in speakers) {
     continue;
   }
 
-  /* if (speakers[i].gravhash.length == 0) {
+  if (speakers[i].gravhash.length == 0) {
     speakers[i].gravhash = "0580d500edfdb2e5e80e4732ac8df1ea";
-  } */
-
-  var gravatar_path = "";
-
-  if (speakers[i].gravhash.length > 0) {
-    gravatar_path = "https://www.gravatar.com/avatar/" + speakers[i].gravhash;
-  } else if (speakers[i].gravpath.length > 0) {
-    gravatar_path = "https://www.gravatar.com/" + speakers[i].gravpath;
-  } else {
-    gravatar_path =
-      "https://www.gravatar.com/avatar/0580d500edfdb2e5e80e4732ac8df1ea";
   }
 
-  var image = '<img src="' + gravatar_path + '" />';
+  var image =
+    '<img src="https://www.gravatar.com/avatar/' +
+    speakers[i].gravhash +
+    '" />';
 
   var full_name = '<span class="name">' + speakers[i].name;
   if (speakers[i].keynote == true) {
