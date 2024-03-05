@@ -356,13 +356,14 @@ var rawSpeakers = {
       github: "",
       gitlab: "",
       twitter: "",
-      bio: "",
+      bio: "Julia Thoreson is a Software Engineer at Bloomberg, where she works on the Bloomberg Second Measure infrastructure for Alternative Data. She also co-leads the San Francisco chapter of the Bloomberg Women in Tech (BWIT) community. When she’s not working, she has a &quot;high stakes hobby&quot; - volunteering as a Lieutenant with the Alameda County Search and Rescue!",
       title: "Incident Management: Lessons from Emergency Services",
       abstract:
         "<p>What do missing people, production outages, and natural disasters all have in common? They are all different types of incidents! Although these may seem like completely unique situations, similar principles and processes can be applied in all kinds of challenging circumstances. Drawing on my experience as both a software engineer at Bloomberg and a Lieutenant on the Alameda County Search and Rescue Team, we will discuss pre-planning, alerting, responding and debriefing for all sorts of incidents.</p>",
       video: "",
       slides: "",
-      gravhash: "0580d500edfdb2e5e80e4732ac8df1ea",
+      gravhash:
+        "8049827900339a18e12799ac0656bf6ea9b5e7806accd9b2a4cefb1daf9e2fd1",
     },
   ],
   baltimore: [
