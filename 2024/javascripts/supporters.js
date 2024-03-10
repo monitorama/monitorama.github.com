@@ -37,8 +37,8 @@ var sponsors = {
     },
     {
       name: "grafana",
-      enabled: false,
-      url: "",
+      enabled: true,
+      url: "https://grafana.com/",
       width: 175,
       bio: "<p></p>",
     },
