@@ -341,14 +341,15 @@ var rawSpeakers = {
       github: "",
       gitlab: "",
       twitter: "",
-      bio: "",
+      bio: "Suman Karumuri is a Principal Software Engineer and the tech lead for Observability at Airbnb. As an expert in distributed tracing, Suman has been a tech lead of Zipkin and a co-author of the OpenTracing standard, a Linux Foundation project under the CNCF. With extensive experience, Suman has spent years building and operating petabyte-scale log search, distributed tracing, and metrics systems at notable companies like Slack, Pinterest, Twitter, and Amazon. In his leisure time, Suman enjoys engaging in board games, exploring the outdoors through hiking, and spending quality time with his children.",
       title:
         "Things I wish I knew before we decided to migrate our metrics infrastructure in-house",
       abstract:
         "<p>In this talk, I will delve into the key considerations and valuable lessons learned from transitioning some use cases from a proprietary metrics system to an in-house metrics platform utilizing open-source components. The allure of open-source systems—characterized by their transparency, adaptability, community support, and cost-efficiency—prompted this significant shift. Although theoretically straightforward, the practical implementation of this migration proved to be immensely complex. We initially underestimated the multifaceted nature of the transition, which entailed several simultaneous changes: migrating from StatsD to OTel, mastering the operation of our own metrics store, transitioning from a vendor-specific UI to Grafana, and adopting a new query language, among other significant changes.</p><p>Beyond the technical hurdles, our team faced cultural and operational challenges. Running a large-scale metrics store was not within our initial expertise, so we had to quickly acquire the necessary operational knowledge. Open source solutions, though powerful, often required extensive tuning to ensure reliability. As our metrics workload grew, we adopted a multi-cluster strategy, which, while scaling our operations, introduced complexities for our developers. To address this, we implemented an additional layer of abstraction, providing multiple clusters as a single cluster to our customers, enhancing usability.</p><p>Moreover, we encountered challenges related to aggregation, deploying newer open source components, resolving circular dependencies in our in-house Kubernetes and service mesh infrastructure, migrating dashboards and alerts, and ensuring the correctness of tens of thousands of dashboards and hundreds of thousands of alerts. Additionally, it was a significant effort to retrain our engineers on a new query language, adapt to a new UI, and integrate with a new alerting infrastructure, all of which added complexity to our migration journey. Attendees of this talk will gain a deep understanding of the intricacies involved in such a migration, enabling them to better navigate their own journeys when faced with similar challenges.</p>",
       video: "",
       slides: "",
-      gravhash: "0580d500edfdb2e5e80e4732ac8df1ea",
+      gravhash:
+        "99df90ce810350f076cf8f0624fb79b07096215339300735c0e4cf7e338b4250",
     },
     {
       name: "Julia Thoreson",
