@@ -25,7 +25,7 @@ var sponsors = {
       name: "honeycomb",
       enabled: true,
       url: "https://www.honeycomb.io/",
-      width: 225,
+      width: 210,
       bio: "<p>Honeycomb provides full-stack observability, designed for high-cardinality data and collaborative problem-solving, enabling engineers to deeply understand and debug production software together. Founded on the experience of debugging problems at the scale of millions of apps serving tens of millions of users, Honeycomb empowers every engineer to instrument and query the behavior of their system.</p>",
     },
     {
@@ -44,10 +44,10 @@ var sponsors = {
     },
     {
       name: "elastic",
-      enabled: false,
-      url: "",
+      enabled: true,
+      url: "https://www.elastic.co/",
       width: 175,
-      bio: "<p></p>",
+      bio: "<p>Elastic is the leading search analytics company. We enable anyone to securely harness search powered AI to find the answers they need in real-time using all their data, at scale. The Elasticsearch platform helps unleash the potential of businesses and people. Elastic’s cloud-based solutions for search, security, and observability help businesses deliver on the promise of AI.</p>",
     },
     {
       name: "cribl",
