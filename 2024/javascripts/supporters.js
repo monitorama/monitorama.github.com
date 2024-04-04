@@ -46,7 +46,7 @@ var sponsors = {
       name: "elastic",
       enabled: true,
       url: "https://www.elastic.co/",
-      width: 175,
+      width: 185,
       bio: "<p>Elastic is the leading search analytics company. We enable anyone to securely harness search powered AI to find the answers they need in real-time using all their data, at scale. The Elasticsearch platform helps unleash the potential of businesses and people. Elastic’s cloud-based solutions for search, security, and observability help businesses deliver on the promise of AI.</p>",
     },
     {
@@ -58,10 +58,10 @@ var sponsors = {
     },
     {
       name: "mezmo",
-      enabled: false,
-      url: "",
-      width: 175,
-      bio: "<p></p>",
+      enabled: true,
+      url: "https://www.mezmo.com/",
+      width: 160,
+      bio: "<p>Mezmo is a leader in observability, helping organizations confidently harness value from telemetry data. Mezmo offers a telemetry pipeline platform to streamline data collection, profiling, transformation, routing, and analysis. Built for enterprise scale, Mezmo’s platform makes it easier to understand data, optimize data to control costs, and respond quickly to make data-driven decisions. Mezmo delivers productivity gains and cost advantage to modern observability, security, and platform engineering teams at hyper-growth startups and Fortune 500 companies.</p><p>Mezmo is the exclusive logging provider for IBM Cloud, driving innovation in observability at hyper-scale since 2018, and has been recognized as one of the fastest growing companies in the US by Inc 5000 and Deloitte Fast 500.</p>",
     },
   ],
   baltimore: [
