@@ -2,10 +2,10 @@ var sponsors = {
   pdx: [
     {
       name: "chronosphere",
-      enabled: false,
+      enabled: true,
       url: "https://chronosphere.io/",
-      width: 175,
-      bio: "<p></p>",
+      width: 225,
+      bio: "<p>Chronosphere is the only cloud native observability platform that puts you back in control by taming rampant data growth and cloud native complexity while accelerating innovation. Teams at organizations of all sizes trust Chronosphere to help them drive competitive advantage and world-class customer experiences while reducing engineering burnout and eliminating lock-in.</p>",
     },
     {
       name: "clickhouse",
@@ -52,7 +52,7 @@ var sponsors = {
     {
       name: "cribl",
       enabled: false,
-      url: "",
+      url: "https://cribl.io/",
       width: 175,
       bio: "<p></p>",
     },
@@ -62,6 +62,13 @@ var sponsors = {
       url: "https://www.mezmo.com/",
       width: 160,
       bio: "<p>Mezmo is a leader in observability, helping organizations confidently harness value from telemetry data. Mezmo offers a telemetry pipeline platform to streamline data collection, profiling, transformation, routing, and analysis. Built for enterprise scale, Mezmo’s platform makes it easier to understand data, optimize data to control costs, and respond quickly to make data-driven decisions. Mezmo delivers productivity gains and cost advantage to modern observability, security, and platform engineering teams at hyper-growth startups and Fortune 500 companies.</p><p>Mezmo is the exclusive logging provider for IBM Cloud, driving innovation in observability at hyper-scale since 2018, and has been recognized as one of the fastest growing companies in the US by Inc 5000 and Deloitte Fast 500.</p>",
+    },
+    {
+      name: "sentry",
+      enabled: false,
+      url: "https://sentry.io/",
+      width: 175,
+      bio: "<p>Sentry is the application monitoring platform for development teams to holistically monitor their code health from the frontend to the backend to see clearer, solve quicker, and learn continuously.</p>",
     },
   ],
   baltimore: [
