@@ -51,10 +51,10 @@ var sponsors = {
     },
     {
       name: "cribl",
-      enabled: false,
+      enabled: true,
       url: "https://cribl.io/",
       width: 175,
-      bio: "<p></p>",
+      bio: "<p>Cribl, the Data Engine for IT and Security, empowers organizations to transform their data strategy. Powered by a data processing engine purpose-built for IT and Security, Cribl’s product suite is a vendor-agnostic data management solution capable of collecting data from any source, processing billions of events per second, automatically routing data for optimized storage, and analyzing any data, at any time, in any location. With Cribl, IT and Security teams have the choice, control, and flexibility required to adapt to their ever-changing data needs. Cribl’s offerings–Stream, Edge, Search, and Lake–are available either as discrete products or as a holistic solution.</p>",
     },
     {
       name: "mezmo",
