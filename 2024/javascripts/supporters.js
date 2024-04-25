@@ -70,6 +70,13 @@ var sponsors = {
       width: 175,
       bio: "<p>Sentry is the application monitoring platform for development teams to holistically monitor their code health from the frontend to the backend to see clearer, solve quicker, and learn continuously.</p>",
     },
+    {
+      name: "observiq",
+      enabled: true,
+      url: "https://observiq.com/",
+      width: 190,
+      bio: "<p>observIQ builds tools for modern enterprises to take back control of their observability data. observIQ created the industry’s first Unified Telemetry Platform to make managing growing observability costs easier. BindPlane by observIQ includes a best-in-class observability pipeline, standardizes data around OpenTelemetry, and makes it simple to manage tens of thousands of agents in complex hybrid-cloud environments. By giving observability teams the tools they need to manage their growing demands, observIQ helps users reduce costs by at least 40% in the first 30 days.</p>",
+    },
   ],
   baltimore: [
     /* {
