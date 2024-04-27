@@ -214,19 +214,20 @@ var rawSpeakers = {
         "823c2ba1ed2c128d91b6c70079255ae75b60738f8f97005e8a6d9ed1b0018a7d",
     },
     {
-      name: "Akhil Malik",
+      name: "J. Kalyana Sundaram",
       pronouns: "He/Him",
       github: "",
       gitlab: "",
       twitter: "",
-      bio: "Akhil is currently a Sr Staff Engineer in Flipkart based out of Bangalore in India. He is usually found talking about Observability and SRE but also tends to obsess over Software Engineering practices, developer tooling and engineering excellence. He specialises in frankenstein projects and like to break and then fix things. In his spare time, he usually reads about economics and researches coffees - brewing methods, varieties and so on.",
-      title: "Open Standards for Engineering Agility",
+      bio: "Kalyan is a Principal Software Engineer at Microsoft working on building platforms/products to improve observability for customers. He co-chairs the W3C Distributed Tracing working group that drives the TraceContext and Baggage standards. He is also a member of the OpenTelemetry Sampling SIG. He believes in building platforms/products/services that customers find valuable (i.e., it solves a real problem for them) while enjoying the journey of building it together with others. In his spare time, he likes to walk, hike, write, sing, travel, and spend time with his family.",
+      title:
+        "Distributed Context Propagation: How you can use it to Improve Observability, Test in Production, and more...",
       abstract:
-        "<p>Emergence of Open Standards like Prometheus and OpenTelemetry was supposed to herald vendor agnostic observability in organizations. And while that came true, one of the less talked about effects these standards had was increased engineering agility and cost efficiencies.</p><p>We (Flipkart) want to talk about how open standards not only allowed us to build a massive scale, multi-tenanted and cost effective metrics and a general purpose event platform (for logs, traces and RUM) at extremely fast pace with a very lean team, but these standards allowed us to solve the problem of working with partner engineering teams. For example, Flipkart was able to build application instrumentation and the observability platform almost one year apart, trusting that open-standards will take care of meeting in the middle.</p><p>This will be a case study on replacing an aging monitoring platform by building an observability platform that relies on open-standards, is vendor agnostic, uses only open source, decouples multiple engineering teams to improve agility and alignment, costs a fraction of what observability companies charge, and is built for extreme multi-tenancy from Day 1.</p>",
+        "<p>One of the main challenges in a complex distributed system is: How do we get all the participants on the same page about the “shared context” of a logical request? How do we do that in a vendor neutral and interoperable way? Say hello to distributed context propagation, also known as Baggage.</p><p>In this session, Kalyan will cover the &quot;what&quot;, &quot;why&quot;, and &quot;how&quot; of distributed context propagation. Baggage enables a variety of use cases in two categories: 1) improving the observability of a system and 2) enabling better control of a system. You will learn about use cases such as labelling synthetic traffic, chaos engineering, and attributing infrastructure spend. Kalyan represents the work done by the W3C Distributed Tracing Working Group that is driving the standardization of this mechanism (W3C Baggage). He will build together with you in a bottom-up manner the building blocks for solving this problem, and then extend that solution to be open and interoperable. You will also see a live demo of this built using the OpenTelemetry Baggage APIs.</p>",
       video: "",
       slides: "",
       gravhash:
-        "ad6a2ff426c9b7ac18cc202de5ef4a5dc2c5e2fe899d65b2d1f73001412923bf",
+        "c54a32a67527054fa369b642f3c098a2999663c2f4eb0e5d80e39f75e86796f8",
     },
     {
       name: "Vijay Samuel",
