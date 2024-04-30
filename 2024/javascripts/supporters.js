@@ -65,9 +65,9 @@ var sponsors = {
     },
     {
       name: "sentry",
-      enabled: false,
+      enabled: true,
       url: "https://sentry.io/",
-      width: 175,
+      width: 200,
       bio: "<p>Sentry is the application monitoring platform for development teams to holistically monitor their code health from the frontend to the backend to see clearer, solve quicker, and learn continuously.</p>",
     },
     {
