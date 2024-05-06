@@ -3,9 +3,9 @@ var sponsors = {
     {
       name: "chronosphere",
       enabled: true,
-      url: "https://chronosphere.io/",
+      url: "https://go.chronosphere.io/monitorama-2024.html",
       width: 225,
-      bio: "<p>Chronosphere is the only cloud native observability platform that puts you back in control by taming rampant data growth and cloud native complexity while accelerating innovation. Teams at organizations of all sizes trust Chronosphere to help them drive competitive advantage and world-class customer experiences while reducing engineering burnout and eliminating lock-in.</p>",
+      bio: '<p>Chronosphere helps companies collect, control, and command data to quickly resolve incidents before they impact the customer experience. Chronosphere’s observability platform and telemetry pipeline solutions help teams rein in costs, improve developer productivity, and gain a competitive advantage. For more information, visit <a href="https://chronosphere.io/">https://chronosphere.io</a> or follow Chronosphere on <a href="https://www.linkedin.com/company/chronosphereio/">LinkedIn</a> and <a href="https://twitter.com/chronosphereio">X</a>.</p>',
     },
     {
       name: "clickhouse",
