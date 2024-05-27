@@ -245,21 +245,6 @@ var rawSpeakers = {
         "18b2dc93af65f8dc6bca05c8d9654fd14992438a2c4b072b6ac7e2971edf46a7",
     },
     {
-      name: "Krzysztof Kwapisiewicz",
-      pronouns: "He/Him",
-      github: "",
-      gitlab: "",
-      twitter: "",
-      bio: "I am a Software Engineer at CodiLime. During more than a decade in the IT industry, I've built different solutions circling around Kubernetes, security, cloud and other buzz-words. In the past 3 years I was responsible for creating a pipeline to ingest a lot of customers' data (logs and metrics mostly). To achieve that I've (ab)used a lot of OpenTelemetry collectors.",
-      title: "Unleashing Audio Processing with OpenTelemetry",
-      abstract:
-        "<p>Our session aims to showcase something that deviates from the conventional uses of OpenTelemetry, presenting an intriguing perspective on its application in the world of sound processing. The presentation will delve into the following key points:</p><p><ul><li>We will demonstrate how the OpenTelemetry collector serves as a powerful tool for the processing of sound.</li><li>We have developed a custom receiver and exporter for the processing *.WAV files, highlighting the flexibility of OpenTelemetry in adapting to unique use cases.</li><li>A discussion on the metrics we have implemented to measure processing efficiency. We will showcase how these metrics provide valuable insights, such as the effectiveness of noise removal in a track.</li><li>A custom processor we developed within OpenTelemetry, allowing for real-time modification of audio files. This capability opens up new avenues for creative audio processing.</li></ul></p><p>By participating in this session, attendees will gain valuable insights into the practical application of OpenTelemetry beyond traditional observability scenarios, particularly in the realm of audio processing.</p>",
-      video: "",
-      slides: "",
-      gravhash:
-        "4c99f08e3271427c6fb4c2cb0da58d26805581be023d39718f848908329ebfb9",
-    },
-    {
       name: "Ferris Ellis",
       pronouns: "He/Him",
       github: "",
@@ -274,6 +259,20 @@ var rawSpeakers = {
       slides: "",
       gravhash:
         "7a7c673ae7a9ff12a2b3840ce26a48346dd6bed05a2221dbe1673e73b3f4af03",
+    },
+    {
+      name: "Fred Moyer",
+      pronouns: "He/Him",
+      github: "",
+      gitlab: "",
+      twitter: "",
+      bio: "Fred Moyer is an Observability Engineer and likes to apply math to large sets of data. Fred is a recovering Perl and C programmer, and these days likes to hack in Go and is Ruby. He is a 2018 Google dev award winner for his Istio adapter, a 2013 White Camel award winner, Apache Software Foundation member, and has worked in software engineering and reliability roles for the last 18 years. Fred has two young children and now only rides his bike on the trainer in the garage.",
+      title: "Use counters to count things",
+      abstract:
+        "<p>eBPF, OTel, TSM, data lakes, observability. All this cool new stuff. But you know what's really cool? Counting things. Lots of things. One, two, three, 18,446,744,073,709,551,615. Can your system count that high? And how fast can it do that? Being able to count certain things in your business quickly and efficiently is important to establishing business goal and understanding where you stand from both a business and technical health perspective.</p><p>Counting lots of things is also genuinely interesting computer science problem. And in the monitoring realm, there are tools which use statistics to figure out how many distinct things are in a large pile (from a monitoring prospecting). One classic example is &quot;How many times did users hit this API endpoint?&quot; Inquiring product managers want to know.</p><p>There are easy ways to do this, and there are hard ways, and there are ways in between, all with different tradeoffs. This talk will look at the different ways this problem can be approached and what business requirements drive those technical approaches. Should you count up logs? Should you bump a StatsD artifact? Should you consult a staff data scientist? You shouldn't be using the same approach from startup to mega corp, so you'll get a walk through the tradeoffs from practical experience across all those ranges.</p>",
+      video: "",
+      slides: "",
+      gravhash: "6278837dcde59999e3dc77d0beb8a0d1",
     },
     {
       name: "David Gildeh",
