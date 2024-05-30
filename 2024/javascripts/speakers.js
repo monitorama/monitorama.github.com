@@ -266,13 +266,14 @@ var rawSpeakers = {
       github: "",
       gitlab: "",
       twitter: "",
-      bio: "Fred Moyer is an Observability Engineer and likes to apply math to large sets of data. Fred is a recovering Perl and C programmer, and these days likes to hack in Go and is Ruby. He is a 2018 Google dev award winner for his Istio adapter, a 2013 White Camel award winner, Apache Software Foundation member, and has worked in software engineering and reliability roles for the last 18 years. Fred has two young children and now only rides his bike on the trainer in the garage.",
+      bio: "Fred Moyer is an Observability/Monitoring SRE who likes to apply math to large sets of data. He has worked in engineering roles from startups to some of the largest public companies on the planet. Out of necessity, Fred found himself inventing the Zendesk Inverse Cumulative histogram several years ago which allows one to measure latency to a high degree of accuracy using commodity TSDBs. Fred has spoken about SLOs, histograms, and measuring latency at length across many software engineering industry events.",
       title: "Use counters to count things",
       abstract:
         "<p>eBPF, OTel, TSM, data lakes, observability. All this cool new stuff. But you know what's really cool? Counting things. Lots of things. One, two, three, 18,446,744,073,709,551,615. Can your system count that high? And how fast can it do that? Being able to count certain things in your business quickly and efficiently is important to establishing business goal and understanding where you stand from both a business and technical health perspective.</p><p>Counting lots of things is also genuinely interesting computer science problem. And in the monitoring realm, there are tools which use statistics to figure out how many distinct things are in a large pile (from a monitoring prospecting). One classic example is &quot;How many times did users hit this API endpoint?&quot; Inquiring product managers want to know.</p><p>There are easy ways to do this, and there are hard ways, and there are ways in between, all with different tradeoffs. This talk will look at the different ways this problem can be approached and what business requirements drive those technical approaches. Should you count up logs? Should you bump a StatsD artifact? Should you consult a staff data scientist? You shouldn't be using the same approach from startup to mega corp, so you'll get a walk through the tradeoffs from practical experience across all those ranges.</p>",
       video: "",
       slides: "",
-      gravhash: "6278837dcde59999e3dc77d0beb8a0d1",
+      gravhash:
+        "6e15a94ec9296b8fdd59c10b89f2b229aa90580887acd62ecc00ff866cc4526c",
     },
     {
       name: "David Gildeh",
