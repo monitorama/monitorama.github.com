@@ -322,19 +322,19 @@ var rawSpeakers = {
         "7add8b29096bd6a37e124aa93c7a0f87ab812b352a2b4dad1166beb74c6fd48f",
     },
     {
-      name: "Sophia Russell",
-      pronouns: "She/Her",
+      name: "Phillip Carter",
+      pronouns: "He/Him",
       github: "",
       gitlab: "",
       twitter: "",
-      bio: "Sophia Russell is a seasoned engineer with a passion for observability, coding excellence,  and balancing a life of computers with living in the Big Apple with a toddler. She has been most recently a Senior Staff Engineer at Betterment, and joined Datadog this spring as a Staff Engineer. After spending many sleepy mornings slinging pastry dough down south, she made her way to the big city and started slinging code. She cares deeply about code quality, naming things, and designing software with empathy. ",
-      title:
-        "The Future Sucks: Long live the future (Musings on AI and how it won’t solve your observability problem or help you cook dinner)",
+      bio: "Phillip Carter is a principal product manager at Honeycomb, focusing on AI and telemetry. He’s also a maintainer on the OpenTelemetry project, and every day he reads your PRs and sometimes submits some himsefl. In a past life, he worked on the C# and F# languages at Microsoft and helped bring the .NET stack into the modern cross-platform era.",
+      title: "The Hater's Guide to Dealing with Generative AI",
       abstract:
-        "<p>Hot take from a luddite: AI won’t solve your problem-solving problem. AI won’t solve your observability problem. And just like the internet as an external memory store has made all our memories worse, AI has the potential to destroy our ability to think and to reflect. Before you think I’m catastrophizing, hear me out: Outsourcing our thinking, outsourcing our memory, outsourcing our ability to analyze, diagnose and understand, will ultimately serve as a bigger impediment than anything else. And it’s already making us lazier.</p><p>From the perspective of an SRE and application developer intent on making the developer experience the best by automating and abstracting away as much as possible, I love code, I love automation, I love good healthy abstractions that reduce complexity. But if you’ve ever worked in a kitchen, professional or otherwise, you’ll realize that too many cooks working in a tight space can result in burnt broccoli, overcooked noodles, and wine with bits of cork in it. Observing AI is like enlisting four toddlers to help with dinner. Not only is it impossible to keep up with their swift and erratic actions, but when you ask them to do one simple thing like stir the noodles, they say “no” and dump the whole container of cayenne pepper into the pot.</p><p>Come to my talk to hear hot takes on the cultural shift that’s happened with the onset of AI-driven workflows, and how, no matter what happens with AI, you still actually have to care about what your code does and how it works in production. If AI’s code samples are any indicator, its hallucination of logic and language make a future of catastrophic code running in production almost guaranteed. While that works for poetry and occasionally even a good meal, it’s not very good for reliability.</p>",
+        "<p>Generative AI! LLMs! They're all the rage!</p><p>...and for good reason. Unlike crypto, this new phase of AI is a legitimate step change in capabilities, with companies in every economic sector finding places where it can add value. People are experimenting and C-levels are rewriting roadmaps to incorporate this tech. It's here, it'll probably stay, and we're gonna have to make it work.</p><p>So, how do you make this stuff work in the long run? You guessed, it Observability! LLMs are black boxes you can't debug in the traditional sense. The most effective way to improve them over time is to put them into production, gather good telemetry from real-world usage, and analyze that data to figure out how to improve answers. In this talk, you'll learn the basics of what you need to track, how you can track it, how you should consider monitoring health of an LLM over time, and how you can add value to your organization by feeding valuable data back into the development process.</p>",
       video: "",
       slides: "",
-      gravhash: "9e26b25f745138e3e025182365437a34",
+      gravhash:
+        "8f3d19ac10584aa4af7d1ce463736ee3b280a1bf017e4417facb68f37d1dc9ea",
     },
     {
       name: "Suman Karumuri",
