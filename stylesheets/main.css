@@ -133,6 +133,12 @@ div.container {
   min-height: 100px;
 }
 
+.notice {
+  background-color: #fde075;
+  text-align: center;
+  padding: 30px 15px;
+}
+
 .events div.overlay {
   background-color: #000;
 }
